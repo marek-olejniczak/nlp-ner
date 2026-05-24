@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Pacjet Krzysztof Zieliński wklatce na oddziale kardiologii. Zgłasza ból w klatce piersiowej i kaszel. Wstępne badania rtg wykazały zapalenie płuc. Zalecono amoxicillina p.o. i dalsze usg jamy brzusznej. Stan stabilny s.o.",
+    "entities": [
+      {
+        "entity": "Krzysztof",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Zieliński",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "zapalenie płuc",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "amoxicillina",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "oddziale kardiologii",
+        "label": "SZPITAL"
+      }
+    ]
+  },
+  {
+    "text": "Wypis szpitalny. Pacjentka Agnieszka Wójcik przyjęta do szpitala w dniu 2023-10-25 z powodu zapalenia stawów (reumatoidalne). W trakcie pobytu wykonano rtg i usg stawów biodrowych. B/z zgłaszane były bóle stawów i obrzęki. Diagnostycznie: reumatoidne zapalenie stawów. Zalecono leczenie farmakologiczne, w tym metotreksat (5 mg p.o.) i ibuprofen. Konieczne dalsze badania krwi (morfologia). Pacjentka jest w dobrym stanie. Należy monitorować stan ogólny.",
+    "entities": [
+      {
+        "entity": "Agnieszka",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Wójcik",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "zapalenie stawów",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "metotreksat",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "szpital",
+        "label": "SZPITAL"
+      }
+    ]
+  },
+  {
+    "text": "Pacjet Tomasz Kamiński wklatce na oddziale kardiologii w szpitalu św. Jerzego. Diagnosa: nadciśnienie tętnicze z powikłaniem. Wymagane jest dalsze badanie rtg klatki piersiowej i usg nerek. Wprowadzono leczenie farmakologiczne: ramipril 5mg p.o. i hydrochlorotiazyd 25mg p.o. Pacjent ma chorobę wieńcową. Zalecenia: ścisła kontrola parametrów b/z i konsultacje endokrynologiczne. Ocena stanu ogólnego: dobry.",
+    "entities": [
+      {
+        "entity": "Tomasz",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Kamiński",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "nadciśnienie tętnicze",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "ramipril",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg klatki piersiowej",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg nerek",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "szpital św. Jerzego",
+        "label": "SZPITAL"
+      }
+    ]
+  },
+  {
+    "text": "Pacjet Ewa Szymańska wklatce szpitalnej z powodu zapalenia płuc.Badania rtg wykazały powiększenie płuc.Wprowadzono leczenie antybiotykami (p.o. Amoksicylina).Wymagane jest dalsze usg jamy brzusznej i monitorowanie stanu b/z.",
+    "entities": [
+      {
+        "entity": "Ewa",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Szymańska",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "zapalenie płuc",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "Amoksicylina",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "szpital",
+        "label": "SZPITAL"
+      }
+    ]
+  },
+  {
+    "text": "Pacjet Marcin Dąbrowski przyjęty na oddział kardiologii w szpitalu św. Jerzego. Wstępna diagnoza to niewydolność serca (CHOROBA). Przeprowadzono rtg klatki piersiowej i usg serca (BADANIE). Wskazano rozpoczęcie terapii lekiem: po pacjencie leki. Wymagane dalsze monitorowanie b/z.",
+    "entities": [
+      {
+        "entity": "Marcin",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Dąbrowski",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "niewydolność serca",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "leki",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "szpital",
+        "label": "SZPITAL"
+      }
+    ]
+  },
+  {
+    "text": "Pacjentka Katarzyna Jankowska wklatce z oddziału kardiologicznego. Główna choroba to niewydolność serca (CHF). Wykonano rtg klatki piersiowej i usg mózgu. Wskazano leczenie farmakologiczne (ACEi, betablokery). Po wizycie u lekarza specjalisty na SZPITALIE zalecono dalsze monitorowanie. nt przyjęcia: stabilna, b/z istotne powikłania.",
+    "entities": [
+      {
+        "entity": "Katarzyna",
+        "label": "IMIE"
+      },
+      {
+        "entity": "Jankowska",
+        "label": "NAZWISKO"
+      },
+      {
+        "entity": "niewydolność serca",
+        "label": "CHOROBA"
+      },
+      {
+        "entity": "ACEi, betablokery",
+        "label": "LEK"
+      },
+      {
+        "entity": "rtg klatki piersiowej",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "usg mózgu",
+        "label": "BADANIE"
+      },
+      {
+        "entity": "SZPITALIE",
+        "label": "SZPITAL"
+      }
+    ]
+  }
+]
