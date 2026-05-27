@@ -23,32 +23,11 @@ PLACEHOLDER_PATTERN = re.compile(r"<(PERSON|HOSPITAL|DISEASE|DRUG|TEST)>")
 TOKEN_PATTERN = re.compile(r"\S+")
 
 DATA_FILES = {
-    "<PERSON>": ("persons.csv", ("imie", "nazwisko")),
     "<HOSPITAL>": ("hospitals.csv", "nazwa"),
     "<DISEASE>": ("diseases.csv", "nazwa"),
     "<DRUG>": ("drugs.csv", "nazwa"),
     "<TEST>": ("tests.csv", "nazwa"),
 }
-
-
-def load_persons(csv_path: Path) -> list[str]:
-    with open(csv_path, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames or []
-        required = {"imie", "nazwisko"}
-        if not required.issubset(fieldnames):
-            raise ValueError(
-                f"Brakuje kolumn {sorted(required)} w pliku {csv_path.name}"
-            )
-        persons = []
-        for row in reader:
-            imie = (row.get("imie") or "").strip()
-            nazwisko = (row.get("nazwisko") or "").strip()
-            if imie and nazwisko:
-                persons.append(f"{imie} {nazwisko}")
-    if not persons:
-        raise ValueError(f"Brak danych osob w pliku {csv_path.name}")
-    return persons
 
 
 def load_simple_list(csv_path: Path, column: str) -> list[str]:
@@ -69,20 +48,50 @@ def load_simple_list(csv_path: Path, column: str) -> list[str]:
     return values
 
 
-def load_pools(data_dir: Path) -> dict[str, list[str]]:
-    pools: dict[str, list[str]] = {}
+def load_weighted_list(csv_path: Path, name_col: str, weight_col: str) -> tuple[list[str], list[float]]:
+    names: list[str] = []
+    weights: list[float] = []
+    with open(csv_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            val = (row.get(name_col) or "").strip()
+            if not val:
+                continue
+            w = float(row.get(weight_col, 0) or 0)
+            names.append(val)
+            weights.append(w)
+    if not names:
+        raise ValueError(f"Brak danych w kolumnie {name_col} w pliku {csv_path.name}")
+    return names, weights
+
+
+def load_pools(data_dir: Path) -> dict[str, tuple[list[str], list[float] | None]]:
+    pools: dict[str, tuple[list[str], list[float] | None]] = {}
+
+    # Load weighted person pools
+    persons_csv = data_dir / "persons.csv"
+    variants_csv = data_dir / "persons_variants.csv"
+    if persons_csv.exists():
+        names, weights = load_weighted_list(persons_csv, "nazwa", "prawdopodobienstwo")
+        if variants_csv.exists():
+            vnames, vweights = load_weighted_list(variants_csv, "nazwa", "prawdopodobienstwo")
+            names += vnames
+            weights += vweights
+        pools["<PERSON>"] = (names, weights)
+
+    # Load remaining entity pools (uniform weight)
     for placeholder, (filename, column) in DATA_FILES.items():
         csv_path = data_dir / filename
         if not csv_path.exists():
-            raise FileNotFoundError(f"Brak pliku: {csv_path}")
-        if placeholder == "<PERSON>":
-            pools[placeholder] = load_persons(csv_path)
-        else:
-            pools[placeholder] = load_simple_list(csv_path, column)
+            print(f"  [info] Brak pliku {csv_path.name}, pomijam")
+            continue
+        values = load_simple_list(csv_path, column)
+        pools[placeholder] = (values, None)
+
     return pools
 
 
-def inject_placeholders(template: str, pools: dict[str, list[str]]):
+def inject_placeholders(template: str, pools: dict[str, tuple[list[str], list[float] | None]]):
     mapping: dict[str, str] = {}
     entities: list[dict] = []
     output_parts: list[str] = []
@@ -96,9 +105,13 @@ def inject_placeholders(template: str, pools: dict[str, list[str]]):
         placeholder = match.group(0)
         if placeholder not in pools:
             raise ValueError(f"Brak danych dla placeholdera {placeholder}")
+        values, weights = pools[placeholder]
         value = mapping.get(placeholder)
         if value is None:
-            value = random.choice(pools[placeholder])
+            if weights:
+                value = random.choices(values, weights=weights, k=1)[0]
+            else:
+                value = random.choice(values)
             mapping[placeholder] = value
 
         start = out_len
