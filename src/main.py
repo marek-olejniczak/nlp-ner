@@ -25,7 +25,6 @@ TOKEN_PATTERN = re.compile(r"\S+")
 DATA_FILES = {
     "<HOSPITAL>": ("hospitals.csv", "nazwa"),
     "<DISEASE>": ("diseases.csv", "nazwa"),
-    "<DRUG>": ("drugs.csv", "nazwa"),
     "<TEST>": ("tests.csv", "nazwa"),
 }
 
@@ -78,6 +77,12 @@ def load_pools(data_dir: Path) -> dict[str, tuple[list[str], list[float] | None]
             names += vnames
             weights += vweights
         pools["<PERSON>"] = (names, weights)
+
+    # Load weighted drug pool
+    drugs_csv = data_dir / "drugs_weighted.csv"
+    if drugs_csv.exists():
+        names, weights = load_weighted_list(drugs_csv, "nazwa", "prawdopodobienstwo")
+        pools["<DRUG>"] = (names, weights)
 
     # Load remaining entity pools (uniform weight)
     for placeholder, (filename, column) in DATA_FILES.items():
