@@ -64,6 +64,19 @@ def load_weighted_list(csv_path: Path, name_col: str, weight_col: str) -> tuple[
     return names, weights
 
 
+def _normalize_person_name(name: str) -> str:
+    parts = name.split()
+    result = []
+    for part in parts:
+        if len(part) == 2 and part[0].isalpha() and part[1] == '.':
+            result.append(part.upper())
+        elif part.lower() in ('pan', 'pani'):
+            result.append(part.lower())
+        else:
+            result.append(part.title())
+    return ' '.join(result)
+
+
 def load_unique_from_csvs(data_dir: Path, specs: list[tuple[str, str]]) -> list[str]:
     """Load values from multiple (filename, column) specs, deduplicated in order."""
     seen: set[str] = set()
@@ -83,10 +96,12 @@ def load_pools(data_dir: Path) -> dict[str, dict]:
     persons_csv = data_dir / "persons.csv"
     if persons_csv.exists():
         names, weights = load_weighted_list(persons_csv, "nazwa", "prawdopodobienstwo")
+        names = [_normalize_person_name(n) for n in names]
         common = None
         variants_csv = data_dir / "persons_variants.csv"
         if variants_csv.exists():
             vnames, vweights = load_weighted_list(variants_csv, "nazwa", "prawdopodobienstwo")
+            vnames = [_normalize_person_name(n) for n in vnames]
             common = {"values": vnames, "weights": vweights, "common_prob": 0.05}
         pools["<PERSON>"] = {
             "values": names,
@@ -263,9 +278,10 @@ def run(num_samples: int = 100, pause: float = 1.0, seed: int | None = None):
         sample = None
 
         for attempt in range(3):
-            template = generate_template()
-            if template is None:
+            result = generate_template()
+            if result is None:
                 continue
+            template, _ = result
 
             text, entities = inject_placeholders(template, pools)
             if PLACEHOLDER_PATTERN.search(text):

@@ -2,17 +2,26 @@ import random
 import re
 import time
 import ollama
-from .prompt import PROMPT_TEMPLATE, DOCUMENT_TYPES, TONES, PLACEHOLDERS
+from .prompt import PROMPT_TEMPLATE, SCENARIOS, SPECIALIZATIONS, TONES
 
 
 MODEL_NAME = "gemma4:e2b"
 PLACEHOLDER_ANY_PATTERN = re.compile(r"<[^>]+>")
 
 
-def build_prompt() -> str:
-    doc_type = random.choice(DOCUMENT_TYPES)
+def build_prompt() -> tuple[str, list[str]]:
+    scenario = random.choice(SCENARIOS)
+    specialization = random.choice(SPECIALIZATIONS)
     tone = random.choice(TONES)
-    return PROMPT_TEMPLATE.format(doc_type=doc_type, tone=tone)
+    required_tags = scenario["required_tags"]
+    tags_str = ", ".join(required_tags)
+    prompt = PROMPT_TEMPLATE.format(
+        specialization=specialization,
+        doc_type=scenario["doc_type"],
+        tone=tone,
+        required_tags=tags_str,
+    )
+    return prompt, required_tags
 
 
 def clean_template_text(result_text: str) -> str:
@@ -23,15 +32,15 @@ def clean_template_text(result_text: str) -> str:
     return cleaned
 
 
-def validate_template(template: str) -> bool:
+def validate_template(template: str, required_tags: list[str]) -> bool:
     found = set(PLACEHOLDER_ANY_PATTERN.findall(template))
-    required = set(PLACEHOLDERS)
+    required = set(required_tags)
     return required.issubset(found) and found.issubset(required)
 
 
-def generate_template(max_retries: int = 3) -> str | None:
+def generate_template(max_retries: int = 3) -> tuple[str, list[str]] | None:
     for attempt in range(max_retries):
-        prompt = build_prompt()
+        prompt, required_tags = build_prompt()
         try:
             response = ollama.chat(model=MODEL_NAME, messages=[
                 {"role": "user", "content": prompt}
@@ -39,11 +48,11 @@ def generate_template(max_retries: int = 3) -> str | None:
 
             result_text = response["message"]["content"]
             template = clean_template_text(result_text)
-            if not validate_template(template):
+            if not validate_template(template, required_tags):
                 print(f"  [proba {attempt + 1}] Brakuje placeholderow, powtarzam...")
                 time.sleep(1)
                 continue
-            return template
+            return template, required_tags
 
         except Exception as e:
             print(f"  [proba {attempt + 1}] Blad: {e}")
