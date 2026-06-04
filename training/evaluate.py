@@ -27,6 +27,13 @@ REPO_ROOT = Path(__file__).parent.parent
 DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset.jsonl"
 
 
+def _json_default(obj):
+    """seqeval zwraca numpy scalars (np.int64 w support) — json.dump ich nie zna."""
+    if hasattr(obj, "item"):
+        return obj.item()
+    raise TypeError(f"Nieserializowalny typ {type(obj)}")
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Ewaluacja NER na test splicie")
     parser.add_argument("--checkpoint", type=Path, required=True)
@@ -69,7 +76,7 @@ def main() -> None:
 
     out_path = args.report_out or args.checkpoint / f"eval_report_{args.split}.json"
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(report_dict, f, ensure_ascii=False, indent=2)
+        json.dump(report_dict, f, ensure_ascii=False, indent=2, default=_json_default)
     print(f"Raport zapisany w {out_path}")
 
 
