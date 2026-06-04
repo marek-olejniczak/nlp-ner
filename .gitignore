@@ -12,3 +12,7 @@ src/__pycache__/
 
 
 .opencode/
+
+# Training artifacts
+models/
+wandb/
