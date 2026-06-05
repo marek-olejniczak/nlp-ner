@@ -5,7 +5,7 @@ import ollama
 from .prompt import PROMPT_TEMPLATE, SCENARIOS, SPECIALIZATIONS, TONES
 
 
-MODEL_NAME = "gemma4:e2b"
+MODEL_NAME = "gemma4:e4b"
 PLACEHOLDER_ANY_PATTERN = re.compile(r"<[^>]+>")
 
 
@@ -50,12 +50,11 @@ def generate_template(max_retries: int = 3) -> tuple[str, list[str]] | None:
             template = clean_template_text(result_text)
             if not validate_template(template, required_tags):
                 print(f"  [proba {attempt + 1}] Brakuje placeholderow, powtarzam...")
-                time.sleep(1)
                 continue
             return template, required_tags
 
         except Exception as e:
             print(f"  [proba {attempt + 1}] Blad: {e}")
-            time.sleep(1)
+            time.sleep(0.2)
 
     return None

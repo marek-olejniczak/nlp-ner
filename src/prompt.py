@@ -10,31 +10,31 @@ SPECIALIZATIONS = [
 SCENARIOS = [
     {
         "doc_type": "wypis ze szpitala / epikryza",
-        "required_tags": ["<PERSON>", "<HOSPITAL>", "<DISEASE>", "<TEST>", "<DRUG>"],
+        "required_tags": ["<PERSON>", "<PESEL>", "<ADRES>", "<HOSPITAL>", "<DISEASE>", "<DRUG>"],
     },
     {
         "doc_type": "skierowanie na cito do szpitala",
-        "required_tags": ["<PERSON>", "<DISEASE>", "<TEST>", "<HOSPITAL>"],
+        "required_tags": ["<PERSON>", "<PESEL>", "<TELEFON>", "<DISEASE>", "<TEST>", "<HOSPITAL>"],
     },
     {
         "doc_type": "opis badania obrazowego (RTG/USG/MRI)",
-        "required_tags": ["<PERSON>", "<TEST>", "<DISEASE>"],
+        "required_tags": ["<PERSON>", "<DATA>", "<TEST>", "<DISEASE>"],
     },
     {
         "doc_type": "zalecenia po ambulatoryjne / e-recepta",
-        "required_tags": ["<PERSON>", "<DISEASE>", "<DRUG>"],
+        "required_tags": ["<PERSON>", "<PESEL>", "<DISEASE>", "<DRUG>"],
     },
     {
         "doc_type": "notatka z wizyty POZ",
-        "required_tags": ["<PERSON>", "<DISEASE>", "<DRUG>"],
+        "required_tags": ["<PERSON>", "<TELEFON>", "<DISEASE>", "<DRUG>"],
     },
     {
         "doc_type": "konsultacja specjalistyczna",
-        "required_tags": ["<PERSON>", "<DISEASE>", "<TEST>"],
+        "required_tags": ["<PERSON>", "<DATA>", "<ADRES>", "<DISEASE>", "<TEST>"],
     },
     {
         "doc_type": "krótki wywiad lekarski / badanie przedmiotowe",
-        "required_tags": ["<PERSON>", "<DISEASE>"],
+        "required_tags": ["<PERSON>", "<PESEL>", "<DISEASE>"],
     },
 ]
 

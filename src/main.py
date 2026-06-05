@@ -2,7 +2,8 @@ import csv
 import json
 import random
 import re
-import time
+import threading
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from pathlib import Path
 
 from .generator import generate_template
@@ -17,15 +18,94 @@ PLACEHOLDER_LABELS = {
     "<DISEASE>": "CHOROBA",
     "<DRUG>": "LEK",
     "<TEST>": "BADANIE",
+    "<PESEL>": "PESEL",
+    "<TELEFON>": "TELEFON",
+    "<ADRES>": "ADRES",
+    "<DATA>": "DATA",
 }
 
-PLACEHOLDER_PATTERN = re.compile(r"<(PERSON|HOSPITAL|DISEASE|DRUG|TEST)>")
+PLACEHOLDER_PATTERN = re.compile(
+    r"<(PERSON|HOSPITAL|DISEASE|DRUG|TEST|PESEL|TELEFON|ADRES|DATA)>"
+)
 TOKEN_PATTERN = re.compile(r"\S+")
 
 DATA_FILES = {
     "<HOSPITAL>": ("hospitals.csv", "nazwa"),
     "<DISEASE>": ("diseases.csv", "nazwa"),
     "<TEST>": ("tests.csv", "nazwa"),
+}
+
+# ---- Syntetyczne encje PII (generowane proceduralnie, bez pul CSV) ----
+
+_STREETS = [
+    "Kwiatowa", "Słoneczna", "Lipowa", "Polna", "Ogrodowa", "Krótka", "Leśna",
+    "Łąkowa", "Brzozowa", "Akacjowa", "Sienkiewicza", "Mickiewicza", "Kościuszki",
+    "Piłsudskiego", "Warszawska", "Krakowska", "Główna", "Szkolna", "Spacerowa",
+]
+_CITIES = [
+    "Warszawa", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin",
+    "Bydgoszcz", "Lublin", "Katowice", "Białystok", "Częstochowa", "Radom", "Toruń",
+]
+_MONTHS_PL = [
+    "stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca",
+    "sierpnia", "września", "października", "listopada", "grudnia",
+]
+
+
+def _gen_pesel() -> str:
+    """Generate a syntactically valid PESEL (correct date encoding + checksum)."""
+    year = random.randint(1940, 2010)
+    month = random.randint(1, 12)
+    day = random.randint(1, 28)
+    enc_month = month + 20 if year >= 2000 else month
+    serial = random.randint(0, 9999)
+    digits = [int(c) for c in f"{year % 100:02d}{enc_month:02d}{day:02d}{serial:04d}"]
+    weights = [1, 3, 7, 9, 1, 3, 7, 9, 1, 3]
+    check = (10 - sum(d * w for d, w in zip(digits, weights)) % 10) % 10
+    return "".join(map(str, digits)) + str(check)
+
+
+def _gen_phone() -> str:
+    digits = [str(random.randint(0, 9)) for _ in range(9)]
+    digits[0] = str(random.choice([5, 6, 7, 8]))
+    s = "".join(digits)
+    grouped = f"{s[:3]} {s[3:6]} {s[6:]}"
+    return random.choice([
+        grouped,
+        f"+48 {grouped}",
+        f"{s[:3]}-{s[3:6]}-{s[6:]}",
+        s,
+    ])
+
+
+def _gen_address() -> str:
+    prefix = random.choice(["ul.", "ul.", "al."])
+    street = random.choice(_STREETS)
+    number = str(random.randint(1, 200))
+    if random.random() < 0.3:
+        number += f"/{random.randint(1, 60)}"
+    postal = f"{random.randint(0, 99):02d}-{random.randint(0, 999):03d}"
+    city = random.choice(_CITIES)
+    return f"{prefix} {street} {number}, {postal} {city}"
+
+
+def _gen_date() -> str:
+    day = random.randint(1, 28)
+    month = random.randint(1, 12)
+    year = random.randint(2018, 2025)
+    return random.choice([
+        f"{day:02d}.{month:02d}.{year}",
+        f"{day:02d}.{month:02d}.{year} r.",
+        f"{year}-{month:02d}-{day:02d}",
+        f"{day} {_MONTHS_PL[month - 1]} {year} r.",
+    ])
+
+
+SYNTHETIC_GENERATORS = {
+    "<PESEL>": _gen_pesel,
+    "<TELEFON>": _gen_phone,
+    "<ADRES>": _gen_address,
+    "<DATA>": _gen_date,
 }
 
 
@@ -176,11 +256,21 @@ def load_pools(data_dir: Path) -> dict[str, dict]:
             "common_prob": 0.0,
         }
 
+    # ---- Syntetyczne encje (PESEL, telefon, adres, data) - bez CSV ----
+    for placeholder, generator in SYNTHETIC_GENERATORS.items():
+        pools[placeholder] = {"generator": generator}
+
     return pools
 
 
 def _pick_value(pool: dict) -> str:
-    """Pick from common pool with common_prob chance, otherwise from main pool."""
+    """Pick from common pool with common_prob chance, otherwise from main pool.
+
+    Synthetic pools carry a `generator` callable instead of value lists.
+    """
+    generator = pool.get("generator")
+    if generator is not None:
+        return generator()
     cv = pool.get("common_values")
     cp = pool.get("common_prob", 0.0)
     if cv and cp > 0.0 and random.random() < cp:
@@ -263,55 +353,92 @@ def build_biou_tags(text: str, entities: list[dict]) -> tuple[list[str], list[st
     return tokens, tags
 
 
-def run(num_samples: int = 100, pause: float = 1.0, seed: int | None = None):
+def generate_sample(pools: dict[str, dict]) -> dict | None:
+    """Generate a single validated sample, retrying the template up to 3 times."""
+    for attempt in range(3):
+        result = generate_template()
+        if result is None:
+            continue
+        template, _ = result
+
+        text, entities = inject_placeholders(template, pools)
+        if PLACEHOLDER_PATTERN.search(text):
+            print(f"  [proba {attempt + 1}] Pozostaly placeholdery, powtarzam...")
+            continue
+
+        tokens, tags = build_biou_tags(text, entities)
+        if not tokens or len(tokens) != len(tags):
+            print(f"  [proba {attempt + 1}] Bledna tokenizacja, powtarzam...")
+            continue
+
+        return {"text": text, "tokens": tokens, "tags": tags}
+
+    return None
+
+
+OUTPUT_FILE = OUTPUT_DIR / "ner_dataset.jsonl"
+
+
+def _count_lines(path: Path) -> int:
+    if not path.exists():
+        return 0
+    with open(path, encoding="utf-8") as f:
+        return sum(1 for _ in f)
+
+
+def run(num_samples: int | None = None, workers: int = 4, seed: int | None = None):
+    """Generate NER samples with `workers` concurrent Ollama requests, appending
+    each sample to a JSONL file as soon as it is ready (crash-safe progress).
+
+    num_samples=None runs forever until Ctrl+C; an int stops after about that many
+    new samples (may overshoot by up to `workers`, since in-flight requests finish).
+    With workers > 1 the order is non-deterministic, so `seed` only fixes
+    the entity sampling, not the exact dataset. Existing samples in the file are
+    kept and counted (the run resumes the numbering).
+    """
     if seed is not None:
         random.seed(seed)
 
     pools = load_pools(DATA_DIR)
     OUTPUT_DIR.mkdir(exist_ok=True)
 
-    dataset = []
-    total = num_samples
+    lock = threading.Lock()
+    saved = _count_lines(OUTPUT_FILE)
+    start_count = saved
+    if saved:
+        print(f"Wznawiam - w pliku jest juz {saved} probek")
 
-    for i in range(1, total + 1):
-        print(f"\n--- [{i}/{total}] ---")
-        sample = None
-
-        for attempt in range(3):
-            result = generate_template()
-            if result is None:
-                continue
-            template, _ = result
-
-            text, entities = inject_placeholders(template, pools)
-            if PLACEHOLDER_PATTERN.search(text):
-                print(f"  [proba {attempt + 1}] Pozostaly placeholdery, powtarzam...")
-                continue
-
-            tokens, tags = build_biou_tags(text, entities)
-            if not tokens or len(tokens) != len(tags):
-                print(f"  [proba {attempt + 1}] Bledna tokenizacja, powtarzam...")
-                continue
-
-            sample = {"text": text, "tokens": tokens, "tags": tags}
-            break
-
+    def work() -> bool:
+        nonlocal saved
+        sample = generate_sample(pools)
         if sample is None:
             print("  Pomijam - nie udalo sie wygenerowac po 3 probach")
-            continue
+            return False
+        with lock:
+            with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+                f.write(json.dumps(sample, ensure_ascii=False) + "\n")
+            saved += 1
+            print(f"[{saved}] zapisano ({len(sample['tokens'])} tokenow): {sample['text'][:60]}...")
+        return True
 
-        dataset.append(sample)
-        print(f"  Tekst: {sample['text'][:80]}...")
-        print(f"  Tokeny: {len(sample['tokens'])}")
+    def reached_target() -> bool:
+        return num_samples is not None and (saved - start_count) >= num_samples
 
-        if i < total:
-            time.sleep(pause)
+    limit_str = "w nieskonczonosc" if num_samples is None else f"{num_samples} nowych probek"
+    print(f"Generuje {limit_str} (workers={workers}). Zatrzymaj: Ctrl+C\n-> {OUTPUT_FILE}")
 
-    output_path = OUTPUT_DIR / "ner_dataset.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(dataset, f, ensure_ascii=False, indent=2)
+    try:
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {executor.submit(work) for _ in range(workers)}
+            while futures:
+                done, futures = wait(futures, return_when=FIRST_COMPLETED)
+                if not reached_target():
+                    for _ in done:
+                        futures.add(executor.submit(work))
+    except KeyboardInterrupt:
+        print("\nPrzerywam, czekam na biezace zadania...")
 
-    print(f"\nZakonczono! Wygenerowano {len(dataset)} probek -> {output_path}")
+    print(f"\nZakonczono. Lacznie w pliku: {saved} probek (+{saved - start_count} w tym uruchomieniu) -> {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
