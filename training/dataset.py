@@ -17,7 +17,17 @@ from pathlib import Path
 from datasets import Dataset
 from tqdm.auto import tqdm
 
-ENTITY_TYPES = ["BADANIE", "CHOROBA", "LEK", "PERSON", "SZPITAL"]
+ENTITY_TYPES = [
+    "ADRES",
+    "BADANIE",
+    "CHOROBA",
+    "DATA",
+    "LEK",
+    "PERSON",
+    "PESEL",
+    "SZPITAL",
+    "TELEFON",
+]
 LABELS = ["O"] + [f"{prefix}-{ent}" for ent in ENTITY_TYPES for prefix in ("B", "I")]
 LABEL2ID = {label: i for i, label in enumerate(LABELS)}
 ID2LABEL = {i: label for label, i in LABEL2ID.items()}

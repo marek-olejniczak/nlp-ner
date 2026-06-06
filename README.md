@@ -119,7 +119,8 @@ Tagowanie w notacji BIOU (`B-` początek, `I-` wewnątrz/koniec, `U-` jedno-toke
 ## Trening NER
 
 Fine-tuning polskiego encodera (domyślnie `allegro/herbert-base-cased`) na wygenerowanym
-datasecie. Dataset wejściowy: `output/ner_dataset.jsonl` (JSONL, format jak wyżej).
+datasecie. Dataset wejściowy: `output/ner_dataset_new.jsonl` (JSONL, format jak wyżej;
+9 typów encji — 5 medycznych + PII: ADRES, DATA, PESEL, TELEFON).
 
 ```bash
 # Środowisko
@@ -149,7 +150,7 @@ python -m training.evaluate --checkpoint models/herbert-base-cased/best
 
 | Krok | Plik | Opis |
 |---|---|---|
-| Konwersja tagów | `training/dataset.py` | BIOU → IOB2 (`U-X` → `B-X`), 11 klas |
+| Konwersja tagów | `training/dataset.py` | BIOU → IOB2 (`U-X` → `B-X`), 19 klas (9 typów encji) |
 | Split | `training/dataset.py` | 80/10/10 train/val/test, deterministyczny (seed 42) |
 | Label alignment | `training/dataset.py` | pierwszy subword niesie etykietę słowa, reszta `-100` |
 | Trening | `training/train.py` | lr 2e-5, warmup 10%, najlepszy checkpoint wg F1 na walidacji |

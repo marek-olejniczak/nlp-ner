@@ -24,7 +24,7 @@ from .dataset import build_datasets
 from .metrics import decode_predictions, full_report
 
 REPO_ROOT = Path(__file__).parent.parent
-DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset.jsonl"
+DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset_new.jsonl"
 
 
 def _json_default(obj):

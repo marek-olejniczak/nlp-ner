@@ -30,7 +30,7 @@ from .dataset import ID2LABEL, LABEL2ID, LABELS, build_datasets, load_jsonl, rep
 from .metrics import compute_metrics
 
 REPO_ROOT = Path(__file__).parent.parent
-DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset.jsonl"
+DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset_new.jsonl"
 DEFAULT_MODEL = "allegro/herbert-base-cased"
 
 
@@ -67,7 +67,10 @@ def main() -> None:
     model_short = args.model.split("/")[-1]
     output_dir = args.output_dir or REPO_ROOT / "models" / model_short
     effective_batch = args.batch_size * args.grad_accum
-    run_name = f"{model_short}-lr{args.lr}-bs{effective_batch}-ep{args.epochs}"
+    # nazwa datasetu w run name — runy na różnych przestrzeniach etykiet
+    # (5 vs 9 typów encji) muszą być rozróżnialne w W&B
+    run_name = (f"{model_short}-{args.data.stem}"
+                f"-lr{args.lr}-bs{effective_batch}-ep{args.epochs}")
 
     if args.no_wandb:
         report_to = "none"
