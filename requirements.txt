@@ -1,1 +1,11 @@
+# Generacja datasetu
 ollama
+
+# Trening NER (mamba create -n nlp-ner python=3.12 && pip install -r requirements.txt)
+torch
+transformers
+datasets
+seqeval
+accelerate
+wandb
+tqdm

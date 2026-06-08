@@ -108,10 +108,53 @@ python -c "from src.main import run; run(num_samples=50, pause=0.5, seed=42)"
 ]
 ```
 
-Tagowanie w notacji BIOUL (`B-` początek, `I-` wewnątrz, `L-` koniec, `U-` jedno-tokenowa, `O-` poza encją).
+Tagowanie w notacji BIOU (`B-` początek, `I-` wewnątrz/koniec, `U-` jedno-tokenowa, `O` poza encją). Uwaga: generator **nie** emituje tagów `L-` — przy treningu schemat jest konwertowany do IOB2 (`U-X` → `B-X`), zob. `training/dataset.py`.
 
 ## Konfiguracja
 
 - `src/prompt.py` — template promptu, lista placeholderów, typy dokumentów, tony wypowiedzi
 - `src/generator.py` — `MODEL_NAME` do zmiany modelu Ollama
 - `src/main.py` — `DATA_DIR`, `OUTPUT_DIR`, progi mieszanych pul
+
+## Trening NER
+
+Fine-tuning polskiego encodera (domyślnie `allegro/herbert-base-cased`) na wygenerowanym
+datasecie. Dataset wejściowy: `output/ner_dataset_new.jsonl` (JSONL, format jak wyżej;
+9 typów encji — 5 medycznych + PII: ADRES, DATA, PESEL, TELEFON).
+
+```bash
+# Środowisko
+mamba create -n nlp-ner python=3.12 -y
+mamba activate nlp-ner
+pip install -r requirements.txt
+
+# Logowanie eksperymentów (jednorazowo)
+wandb login
+
+# Pełny trening (HerBERT-base, 3 epoki, W&B project: nlp-ner)
+python -m training.train
+
+# Inny model do porównania
+python -m training.train --model sdadas/polish-roberta-base-v2
+
+# Pełne porównanie 4 modeli na GPU (Colab T4): notebooks/train_colab.ipynb
+
+# Smoke test bez W&B
+python -m training.train --limit 64 --max-steps 20 --no-wandb
+
+# Ewaluacja na odłożonym test splicie (10%, model go nigdy nie widział)
+python -m training.evaluate --checkpoint models/herbert-base-cased/best
+```
+
+### Pipeline treningu
+
+| Krok | Plik | Opis |
+|---|---|---|
+| Konwersja tagów | `training/dataset.py` | BIOU → IOB2 (`U-X` → `B-X`), 19 klas (9 typów encji) |
+| Split | `training/dataset.py` | 80/10/10 train/val/test, deterministyczny (seed 42) |
+| Label alignment | `training/dataset.py` | pierwszy subword niesie etykietę słowa, reszta `-100` |
+| Trening | `training/train.py` | lr 2e-5, warmup 10%, najlepszy checkpoint wg F1 na walidacji |
+| Metryki | `training/metrics.py` | entity-level P/R/F1 (seqeval, strict, IOB2), per typ encji |
+
+Artefakty: `models/<nazwa>/best` (model + tokenizer), raport JSON z ewaluacji obok checkpointu.
+Wyniki eksperymentów: [W&B project `nlp-ner`](https://wandb.ai).
