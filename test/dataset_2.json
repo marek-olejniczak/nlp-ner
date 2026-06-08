@@ -1,0 +1,337 @@
+[
+{"text":"SOR, dyż. nocny. <DATA>15.02.2025</DATA>. Pacjent <PERSON>Jan Kowalski</PERSON>, PESEL <PESEL>78051214321</PESEL>, zam. <ADRES>ul. Wiosenna 14/7, 01-234 Warszawa</ADRES>, tel. <TELEFON>601 234 567</TELEFON>. Od 3h ból zamostkowy + duszność. RR 170/95, HR 118/min. W <BADANIE>EKG</BADANIE> cechy <CHOROBA>migotania przedsionków</CHOROBA>, bez świeżych zmian ST-T. Podano p.o. <LEK>Acard</LEK>, i.v. <LEK>Metocard</LEK>. Pobrano <BADANIE>troponiny</BADANIE>, <BADANIE>morfologię</BADANIE>. Po konsult. przekazany do <SZPITAL>Szpitala Bielańskiego</SZPITAL>."},{"text":"POZ/e-recepta. <DATA>2025-01-08</DATA>. <PERSON>Anna Malinowska</PERSON>, PESEL <PESEL>65092408765</PESEL>, tel. <TELEFON>502765431</TELEFON>. Wywiad tel., nawrotowa <CHOROBA>nadciśnienie tętnicze</CHOROBA>, b/z bólów w kp. Kont. leczenia: <LEK>Ramipril</LEK> 10 mg 1x1, <LEK>Amlodypina</LEK> 5 mg 1x1. Do kontroli za 6 m-cy, wcześniej wyk. <BADANIE>jonogram</BADANIE> i <BADANIE>kreatyninę</BADANIE>."},{"text":"Epikryza. Hospitalizacja od <DATA>03.09.2024</DATA> do <DATA>12.09.2024</DATA> w <SZPITAL>Szpitalu Uniwersyteckim w Krakowie</SZPITAL>. Chora <PERSON>Maria Wójcik</PERSON>, PESEL <PESEL>54022811234</PESEL>. Przyjęta z powodu <CHOROBA>zapalenia płuc</CHOROBA>. Wykonano <BADANIE>TK klatki piersiowej</BADANIE>, potwierdzono nacieki segm. dolnego płata prawego. Leczona <LEK>Ceftriaksonem</LEK> oraz <LEK>Klarytromycyną</LEK>. Wypisana w stanie ogólnym dobrym, wydolna krąż.-oddech."},{"text":"Opis badania obrazowego. <BADANIE>USG jamy brzusznej</BADANIE>, <DATA>21 marca 2025 r.</DATA>. Pacjent <PERSON>Tomasz Lis</PERSON>. Wątroba niepow., jednorodna. Pęcherzyk żółciowy b/z złogów. Nerka lewa z torbielą korową. Cech <CHOROBA>kamicy nerkowej</CHOROBA> nie stwierdza się. Badanie wykonano ambulatoryjnie w <SZPITAL>Centrum Medycznym Medivita</SZPITAL>."},{"text":"Wywiad środowiskowy. Wizyta domowa <DATA>11.11.2024</DATA>. Pacjentka <PERSON>Zofia Kaczmarek</PERSON>, zam. <ADRES>al. Niepodległości 88/12, 81-805 Sopot</ADRES>, tel. <TELEFON>+48 694 221 773</TELEFON>. Samodzielna w ADL, mieszka sama. W wywiadzie <CHOROBA>choroba Alzheimera</CHOROBA>. Przyjmuje regularnie <LEK>Donepezil</LEK>. Zalecana kontrola w <SZPITAL>Przychodni Rejonowej Sopot Centrum</SZPITAL>."},{"text":"Konsultacja chirurgiczna. <DATA>07.07.2025</DATA>. Pacjent <PERSON>Piotr Grabowski</PERSON>, PESEL <PESEL>92070415678</PESEL>. Od 24h bóle PDB, nudności. Obj. Blumberga (+). W <BADANIE>USG wyrostka robaczkowego</BADANIE> obraz sugerujący <CHOROBA>ostre zapalenie wyrostka robaczkowego</CHOROBA>. Zakwalifikowany do <BADANIE>appendektomii laparoskopowej</BADANIE>. Kons. przez <PERSON>Karola Nowickiego</PERSON>."},{"text":"Poradnia onkologiczna. <DATA>18.04.2025</DATA>. Pacjentka <PERSON>Ewa Rutkowska</PERSON>, tel. <TELEFON>733118902</TELEFON>. Po leczeniu z powodu <CHOROBA>raka piersi</CHOROBA>. Aktualnie b/z cech wznowy. Ostatnie <BADANIE>PET-CT</BADANIE> bez ognisk patologicznego gromadzenia znacznika. Kontynuuje <LEK>Tamoksyfen</LEK>. Kontrola za 6 mies. w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."},{"text":"Karta wizyty diabetologicznej. <DATA>2024-12-02</DATA>. <PERSON>Marek Błaszczyk</PERSON>, PESEL <PESEL>71120309876</PESEL>, zam. <ADRES>ul. Jagodowa 5, 62-020 Swarzędz</ADRES>. Wieloletnia <CHOROBA>cukrzyca typu 2</CHOROBA>, HbA1c 8,4%. Zalecono intensyfikację leczenia: <LEK>Metformina</LEK> oraz <LEK>Jardiance</LEK>. Do wykonania <BADANIE>badanie dna oka</BADANIE> i <BADANIE>mikroalbuminuria</BADANIE>."},{"text":"Notatka z oddz. neurologii. Przyjęcie <DATA>30.06.2025</DATA>. Pacjent <PERSON>Andrzej Milewski</PERSON>, PESEL <PESEL>59010122334</PESEL>. Nagły niedowład prawostronny, afazja. W <BADANIE>TK głowy</BADANIE> obraz zgodny z <CHOROBA>udarem niedokrwiennym mózgu</CHOROBA>. Włączono <LEK>Actilyse</LEK> wg protokołu. Przekazany do <SZPITAL>Wojewódzkiego Szpitala Specjalistycznego we Wrocławiu</SZPITAL>."},{"text":"Konsultacja psychiatryczna. <DATA>05.05.2025</DATA>. Pacjentka <PERSON>Katarzyna Sikora</PERSON>, PESEL <PESEL>87050514567</PESEL>, tel. <TELEFON>517 902 441</TELEFON>. Od kilku mies. obniżony nastrój, anhedonia, zab. snu. Rozpoznano <CHOROBA>epizod depresyjny</CHOROBA>. Zalecono <LEK>Sertralinę</LEK>. Do kontroli po 4 tyg., wcześniej wykonać <BADANIE>TSH</BADANIE>. Adres koresp.: <ADRES>ul. Klonowa 21/3, 20-400 Lublin</ADRES>."},
+{"text":"Karta informacyjna izby przyjęć. <DATA>27.08.2025</DATA>. Pacjent <PERSON>Rafał Szymański</PERSON>, PESEL <PESEL>83082717456</PESEL>, zam. <ADRES>ul. Słoneczna 18/5, 15-222 Białystok</ADRES>. Zgłasza od 2 dni gorączkę do 39 st., kaszel produktywny. W <BADANIE>rtg klatki piersiowej</BADANIE> zagęszczenia w płacie środkowym, obraz odpowiada <CHOROBA>zapaleniu płuc</CHOROBA>. Włączono <LEK>Amotaks</LEK>. Kontrola w <SZPITAL>Uniwersyteckim Szpitalu Klinicznym w Białymstoku</SZPITAL>."},{"text":"Porada nefrologiczna. <DATA>14.01.2025</DATA>. Chora <PERSON>Barbara Domańska</PERSON>, tel. <TELEFON>604998321</TELEFON>. W wywiadzie <CHOROBA>przewlekła choroba nerek</CHOROBA> st. G3b. Wyniki <BADANIE>kreatyniny</BADANIE> oraz <BADANIE>eGFR</BADANIE> stabilne. Kontynuować <LEK>Forxiga</LEK>. Podała adres: <ADRES>ul. Leśna 44, 87-100 Toruń</ADRES>."},{"text":"Opis zabiegu. <DATA>09.04.2024</DATA>. Pacjent <PERSON>Grzegorz Michalak</PERSON>, PESEL <PESEL>75040913219</PESEL>. Wskazanie: <CHOROBA>zaćma oka prawego</CHOROBA>. Wykonano <BADANIE>fakoemulsyfikację zaćmy z implantacją soczewki</BADANIE> bez powikłań śródop. Zalecono <LEK>Dexafree</LEK>. Zabieg przeprowadzono w <SZPITAL>Szpitalu Okulistycznym Retina</SZPITAL>."},{"text":"NPL, godz. 22:45. <DATA>03.12.2025</DATA>. Pacjentka <PERSON>Natalia Kurek</PERSON>, PESEL <PESEL>99120316543</PESEL>, tel. <TELEFON>690 115 882</TELEFON>. Ból gardła, pow. węzły szyjne, temp. 38,2. Wykonano <BADANIE>test Strep A</BADANIE>, wynik dodatni. Rozpoznano <CHOROBA>anginę paciorkowcową</CHOROBA>. Zalecono <LEK>Ospen</LEK>."},{"text":"Oddz. kardiologii, nota obchodowa. <DATA>16 maja 2025 r.</DATA>. Pacjent <PERSON>Jerzy Adamski</PERSON>. Po przyjęciu z powodu <CHOROBA>niewydolności serca</CHOROBA>. W <BADANIE>echokardiografii</BADANIE> EF 30%. Zwiększono dawkę <LEK>Bisoprololu</LEK>, utrzymano <LEK>Torasemid</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Wojskowym w Krakowie</SZPITAL>."},{"text":"Poradnia reumatologiczna. <DATA>2025-06-11</DATA>. Pacjentka <PERSON>Monika Gajda</PERSON>, PESEL <PESEL>76061109854</PESEL>. Od lat <CHOROBA>reumatoidalne zapalenie stawów</CHOROBA>. W <BADANIE>OB</BADANIE> i <BADANIE>CRP</BADANIE> niewielka aktywność procesu zapalnego. Leczenie: <LEK>Metotreksat</LEK> 20 mg/tydz. Adres: <ADRES>ul. Krótka 2/8, 35-101 Rzeszów</ADRES>."},{"text":"Konsultacja laryngologiczna. <DATA>22.02.2025</DATA>. Pacjent <PERSON>Paweł Wilczyński</PERSON>, tel. <TELEFON>721443905</TELEFON>. Skarży się na pogorszenie słuchu ucha lewego. Wykonano <BADANIE>audiometrię tonalną</BADANIE>. Rozpoznano <CHOROBA>niedosłuch przewodzeniowy</CHOROBA>. Zalecono <LEK>Nasometin</LEK>. Do kontroli w <SZPITAL>Specjalistycznym Centrum Medycznym Audiofon</SZPITAL>."},{"text":"Wizyta patronażowa. <DATA>12.10.2024</DATA>. Niemowlę pod opieką matki <PERSON>Aleksandry Wróbel</PERSON>. Adres pobytu: <ADRES>ul. Topolowa 9, 58-200 Dzierżoniów</ADRES>. Dziecko po leczeniu z powodu <CHOROBA>żółtaczki noworodkowej</CHOROBA>. W dokumentacji wynik <BADANIE>bilirubiny całkowitej</BADANIE> prawidłowy. Zalecono suplementację <LEK>Vigantol</LEK>."},{"text":"SOR urazowy. <DATA>01.01.2025</DATA>. Pacjent <PERSON>Michał Sobczak</PERSON>, PESEL <PESEL>90010118765</PESEL>. Po upadku z wys. ok. 2 m. Ból nadgarstka lewego, obrzek. W <BADANIE>rtg nadgarstka</BADANIE> stwierdzono <CHOROBA>złamanie kości promieniowej</CHOROBA>. Założono opatrunek gipsowy, zalecono <LEK>Ketonal</LEK>. Skierowany do <SZPITAL>Mazowieckiego Szpitala Bródnowskiego</SZPITAL>."},{"text":"Porada gastroenterologiczna. <DATA>18.09.2025</DATA>. Pacjentka <PERSON>Elżbieta Pawlak</PERSON>, PESEL <PESEL>68091812458</PESEL>, tel. <TELEFON>512774390</TELEFON>. Dolegliwości dyspeptyczne od wielu mies. W <BADANIE>gastroskopii</BADANIE> cechy <CHOROBA>choroby wrzodowej żołądka</CHOROBA>. Włączono <LEK>Polprazol</LEK>. Kontrola za 8 tyg. w <SZPITAL>Szpitalu Miejskim im. J. Strusia</SZPITAL>."},
+{"text":"Karta konsultacji pulmonologicznej. <DATA>04.03.2025</DATA>. Pacjent <PERSON>Dariusz Król</PERSON>, PESEL <PESEL>69030411287</PESEL>, tel. <TELEFON>605331882</TELEFON>. Palacz ok. 30 paczkolat. Nasilenie duszności wysiłkowej. W <BADANIE>spirometrii</BADANIE> obturacja umiarkowanego stopnia. Rozpoznano <CHOROBA>przewlekłą obturacyjną chorobę płuc</CHOROBA>. Włączono <LEK>Spiolto Respimat</LEK>. Kontrola w <SZPITAL>Dolnośląskim Centrum Chorób Płuc</SZPITAL>."},{"text":"Notatka z dyżuru internistycznego. <DATA>17.11.2024</DATA>. Pacjentka <PERSON>Halina Kaczor</PERSON>, PESEL <PESEL>51111709876</PESEL>. Przyjęta z osłabieniem, wielomoczem, wzmożonym pragnieniem. W <BADANIE>glikemii przygodnej</BADANIE> 428 mg/dl. Rozpoznano <CHOROBA>cukrzycę typu 2</CHOROBA> de novo. Włączono <LEK>Metforminę</LEK>, edukacja diabetologiczna. Zam. <ADRES>ul. Szkolna 12, 48-300 Nysa</ADRES>."},{"text":"Poradnia dermatologiczna. <DATA>2025-07-29</DATA>. Pacjent <PERSON>Łukasz Borkowski</PERSON>, tel. <TELEFON>696 442 118</TELEFON>. Zmiany rumieniowo-złuszczające na łokciach i kolanach. Obraz kliniczny typowy dla <CHOROBA>łuszczycy zwyczajnej</CHOROBA>. Zalecono <LEK>Daivobet</LEK>. Do monitorowania skuteczności leczenia wykonano dokumentację foto oraz <BADANIE>dermatoskopię</BADANIE>."},{"text":"Oddz. ginekologiczny, wypis. <DATA>08.02.2025</DATA>. Pacjentka <PERSON>Sylwia Marciniak</PERSON>, PESEL <PESEL>85020814562</PESEL>. Przyjęta z powodu <CHOROBA>mięśniaków macicy</CHOROBA>. Wykonano <BADANIE>histerektomię całkowitą</BADANIE> bez powikłań. W kontrolnym <BADANIE>USG przezpochwowym</BADANIE> bez odchyleń. Leczenie p/bólowe: <LEK>Paracetamol</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Specjalistycznym św. Zofii</SZPITAL>."},{"text":"Wizyta domowa lekarza POZ. <DATA>20 czerwca 2025 r.</DATA>. Pacjent <PERSON>Stanisław Chmiel</PERSON>, lat 91. Zam. <ADRES>ul. Parkowa 3, 22-400 Zamość</ADRES>. Leżący, kontakt ograniczony. W wywiadzie <CHOROBA>choroba Parkinsona</CHOROBA>. Kontynuować <LEK>Madopar</LEK>. Rodzina proszona o wykonanie <BADANIE>morfologii</BADANIE> przy najbliższej wizycie pielęgniarki."},{"text":"Izba przyjęć neurologiczna. <DATA>13.09.2025</DATA>. Pacjentka <PERSON>Beata Olszewska</PERSON>, PESEL <PESEL>70091312457</PESEL>. Zawroty głowy, oczopląs, nudności. Wykonano <BADANIE>rezonans magnetyczny głowy</BADANIE>. Rozpoznano <CHOROBA>stwardnienie rozsiane</CHOROBA> w fazie rzutu. Podano i.v. <LEK>Metyloprednizolon</LEK>. Przekazana do <SZPITAL>Szpitala Klinicznego im. Heliodora Święcickiego</SZPITAL>."},{"text":"Konsultacja ortopedyczna. <DATA>05.01.2024</DATA>. Pacjent <PERSON>Norbert Kubiak</PERSON>, PESEL <PESEL>95010516789</PESEL>, tel. <TELEFON>508663214</TELEFON>. Ból kolana prawego po urazie sportowym. W <BADANIE>MR stawu kolanowego</BADANIE> uszkodzenie ACL. Rozpoznanie: <CHOROBA>zerwanie więzadła krzyżowego przedniego</CHOROBA>. Doraźnie <LEK>Naproxen</LEK>, kwalifikacja do rekonstrukcji."},{"text":"Poradnia hematologiczna. <DATA>30.10.2025</DATA>. Pacjentka <PERSON>Joanna Czerwińska</PERSON>, PESEL <PESEL>74103014329</PESEL>. Od kilku mies. osłabienie, potliwość nocna. W <BADANIE>biopsji szpiku</BADANIE> potwierdzono <CHOROBA>przewlekłą białaczkę limfocytową</CHOROBA>. Rozpoczęto leczenie <LEK>Imbruvica</LEK>. Kontrola w <SZPITAL>Instytucie Hematologii i Transfuzjologii</SZPITAL>."},{"text":"Nocna pomoc lekarska. <DATA>24.12.2024</DATA>. Pacjent <PERSON>Krzysztof Wieczorek</PERSON>, tel. <TELEFON>731225904</TELEFON>. Silny ból okolicy lędźwiowej promieniujący do pachwiny. Wykonano <BADANIE>badanie ogólne moczu</BADANIE>. Podejrzenie <CHOROBA>kolki nerkowej</CHOROBA>. Zastosowano <LEK>No-Spa</LEK> oraz <LEK>Ketonal</LEK>. Zalecono pilne <BADANIE>USG układu moczowego</BADANIE>."},{"text":"Poradnia alergologiczna. <DATA>2025-04-16</DATA>. Pacjentka <PERSON>Weronika Dudek</PERSON>, PESEL <PESEL>02041612348</PESEL>, zam. <ADRES>ul. Miodowa 27/14, 31-055 Kraków</ADRES>. Nawracający katar, świąd spojówek sezonowo. W <BADANIE>testach skórnych punktowych</BADANIE> dodatnia reakcja na pyłki traw. Rozpoznano <CHOROBA>alergiczny nieżyt nosa</CHOROBA>. Włączono <LEK>Hitaxa</LEK>."},
+{"text":"SOR, trauma. <DATA>02.06.2025</DATA>. Pacjent <PERSON>Kamil Mazur</PERSON>, PESEL <PESEL>93060211845</PESEL>, tel. <TELEFON>600 118 992</TELEFON>. Po MVA, ból klp i biodra prawego. W <BADANIE>TK całego ciała</BADANIE> bez świeżych krwawień. Rozpoznano <CHOROBA>stłuczenie klatki piersiowej</CHOROBA>. Zalecono <LEK>Tramadol</LEK>, obserwacja. Przekazany do <SZPITAL>Wojewódzkiego Szpitala Zespolonego w Kielcach</SZPITAL>."},{"text":"Oddz. intensywnej terapii. <DATA>11.01.2025</DATA>. Pacjent <PERSON>Ryszard Wrona</PERSON>, PESEL <PESEL>58110122390</PESEL>. Po resuscytacji krążeniowo-oddechowej. W <BADANIE>gazometrii krwi</BADANIE> kwasica metaboliczna. Rozpoznanie: <CHOROBA>zatrzymanie krążenia</CHOROBA> po incydencie sercowym. Leczenie: <LEK>Adrenalina</LEK>, <LEK>Noradrenalina</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Klinicznym Dzieciątka Jezus</SZPITAL>."},{"text":"Poradnia pediatryczna. <DATA>18.03.2025</DATA>. Pacjent <PERSON>Oliwier Baran</PERSON>, PESEL <PESEL>15031809876</PESEL>. Gorączka, wysypka plamisto-grudkowa. W <BADANIE>morfologii</BADANIE> leukocytoza. Rozpoznano <CHOROBA>ospę wietrzną</CHOROBA>. Zalecono <LEK>Aciklovir</LEK>, leczenie objawowe. Adres: <ADRES>ul. Brzozowa 6, 26-600 Radom</ADRES>."},{"text":"Konsultacja okulistyczna. <DATA>27.09.2024</DATA>. Pacjentka <PERSON>Magdalena Piotrowska</PERSON>, tel. <TELEFON>512 334 901</TELEFON>. Pogorszenie widzenia centralnego. W <BADANIE>OCT plamki</BADANIE> cechy <CHOROBA>AMD suche</CHOROBA>. Zalecono suplementację <LEK>PreserVision</LEK>. Kontrola w <SZPITAL>Uniwersyteckim Centrum Klinicznym w Gdańsku</SZPITAL>."},{"text":"Oddz. chorób zakaźnych. <DATA>09.08.2025</DATA>. Pacjent <PERSON>Mateusz Głowacki</PERSON>, PESEL <PESEL>87080913422</PESEL>. Gorączka, bóle mięśni, podróż do Azji. W <BADANIE>testach PCR</BADANIE> potwierdzono <CHOROBA>zakażenie SARS-CoV-2</CHOROBA>. Zastosowano <LEK>Remdesivir</LEK>. Izolacja w <SZPITAL>Wojewódzkim Szpitalu Specjalistycznym w Olsztynie</SZPITAL>."},{"text":"Poradnia kardiologiczna. <DATA>14.05.2025</DATA>. Pacjent <PERSON>Henryk Zalewski</PERSON>, PESEL <PESEL>45051411238</PESEL>, tel. <TELEFON>601 902 334</TELEFON>. Kołatania serca, zasłabnięcia. W <BADANIE>Holter EKG</BADANIE> napady częstoskurczu SVT. Rozpoznano <CHOROBA>tachyarytmię nadkomorową</CHOROBA>. Włączono <LEK>Bisoprolol</LEK>. Kontrola w <SZPITAL>Instytucie Kardiologii w Aninie</SZPITAL>."},{"text":"Oddz. chirurgii ogólnej. <DATA>22.02.2025</DATA>. Pacjentka <PERSON>Justyna Pawlak</PERSON>, PESEL <PESEL>79022214567</PESEL>. Ból w prawym podbrzuszu, nudności. W <BADANIE>USG jamy brzusznej</BADANIE> obraz <CHOROBA>ostrego zapalenia pęcherzyka żółciowego</CHOROBA>. Wykonano <BADANIE>cholecystektomię laparoskopową</BADANIE>. Leczenie: <LEK>Cefuroksym</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Powiatowym w Piasecznie</SZPITAL>."},{"text":"Poradnia psychiatryczna. <DATA>03.04.2025</DATA>. Pacjent <PERSON>Adrian Cieślak</PERSON>, PESEL <PESEL>96040311874</PESEL>, tel. <TELEFON>788 221 990</TELEFON>. Nasilony lęk uogólniony, napady paniki. Rozpoznano <CHOROBA>zaburzenia lękowe uogólnione</CHOROBA>. Włączono <LEK>Escitalopram</LEK>. Zalecono psychoterapię CBT. Adres: <ADRES>ul. Sosnowa 10/2, 43-300 Bielsko-Biała</ADRES>."},{"text":"Rehabilitacja neurologiczna. <DATA>19.10.2024</DATA>. Pacjent <PERSON>Lucyna Barczak</PERSON>, PESEL <PESEL>62091908754</PESEL>. Po udarze niedokrwiennym. Niedowład połowiczy prawostronny. W <BADANIE>skali Barthel</BADANIE> 55 pkt. Rozpoznano <CHOROBA>stan poudarowy</CHOROBA>. Prowadzono <BADANIE>rehabilitację ruchową</BADANIE>, <LEK>Baclofen</LEK> na spastyczność. Ośrodek: <SZPITAL>Centrum Rehabilitacji w Konstancinie</SZPITAL>."},{"text":"Poradnia onkologii ginekologicznej. <DATA>12.12.2025</DATA>. Pacjentka <PERSON>Iwona Krajewska</PERSON>, PESEL <PESEL>70021214588</PESEL>, tel. <TELEFON>534 112 778</TELEFON>. Po leczeniu <CHOROBA>raka szyjki macicy</CHOROBA>. W <BADANIE>cytologii</BADANIE> brak cech nawrotu. Kontynuacja <LEK>Cisplatyna</LEK> w schemacie uzupełniającym. Kontrola w <SZPITAL>Narodowym Instytucie Onkologii w Warszawie</SZPITAL>. "},
+{"text":"SOR internistyczny. <DATA>06.01.2026</DATA>. Pacjent <PERSON>Marcin Krawczyk</PERSON>, PESEL <PESEL>88010612345</PESEL>, tel. <TELEFON>601 772 991</TELEFON>. Osłabienie, spadki RR. W <BADANIE>EKG</BADANIE> bez ostrego zespołu wieńcowego. W <BADANIE>morfologii</BADANIE> Hb 8.1. Rozpoznano <CHOROBA>niedokrwistość</CHOROBA> o niejasnej etiologii. Podano <LEK>Venofer</LEK> i.v. Konsultacja w <SZPITAL>Szpitalu Bródnowskim w Warszawie</SZPITAL>."},{"text":"POZ, teleporada. <DATA>2025-11-18</DATA>. Pacjentka <PERSON>Grażyna Sikorska</PERSON>, PESEL <PESEL>64011809876</PESEL>. Przewlekłe <CHOROBA>nadciśnienie tętnicze</CHOROBA>, kontrola domowa RR 145/90. Kontynuacja <LEK>Perindopril</LEK> 5 mg. Zlecono <BADANIE>lipidogram</BADANIE> oraz <BADANIE>glikemię na czczo</BADANIE>. Adres: <ADRES>ul. Lipowa 3, 09-400 Płock</ADRES>."},{"text":"Oddział chirurgii. <DATA>23.03.2025</DATA>. Pacjent <PERSON>Dominik Nowacki</PERSON>, PESEL <PESEL>91032316780</PESEL>. Ból brzucha, wymioty. W <BADANIE>TK jamy brzusznej</BADANIE> cechy <CHOROBA>niedrożności jelita cienkiego</CHOROBA>. Wykonano <BADANIE>laparotomię</BADANIE> odbarczającą. Leczenie: <LEK>Cefazolin</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Klinicznym im. Orłowskiego</SZPITAL>."},{"text":"Poradnia okulistyczna. <DATA>10.09.2025</DATA>. Pacjentka <PERSON>Justyna Bednarz</PERSON>, PESEL <PESEL>78091011234</PESEL>, tel. <TELEFON>512 889 301</TELEFON>. Nagłe pogorszenie widzenia oka prawego. W <BADANIE>angiografii fluoresceinowej</BADANIE> cechy <CHOROBA>zakrzepu żyły środkowej siatkówki</CHOROBA>. Zastosowano <LEK>Lucentis</LEK>. Kontrola w <SZPITAL>Uniwersyteckim Szpitalu Klinicznym we Wrocławiu</SZPITAL>."},{"text":"OIT. <DATA>14.07.2025</DATA>. Pacjent <PERSON>Robert Kania</PERSON>, PESEL <PESEL>70071412390</PESEL>. Po sepsie. W <BADANIE>gazometrii</BADANIE> hipoksemia. Rozpoznano <CHOROBA>sepsę</CHOROBA> o etiologii płucnej. Leczenie: <LEK>Meropenem</LEK>, <LEK>Norepinefryna</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Uniwersyteckim w Poznaniu</SZPITAL>."},{"text":"Poradnia psychiatryczna. <DATA>02.02.2025</DATA>. Pacjent <PERSON>Karolina Maj</PERSON>, PESEL <PESEL>95020214567</PESEL>. Objawy: derealizacja, lęk, bezsenność. Rozpoznano <CHOROBA>zaburzenia adaptacyjne</CHOROBA>. Włączono <LEK>Hydroksyzyna</LEK>. Zalecono psychoterapię. Adres: <ADRES>ul. Cicha 7/3, 44-100 Gliwice</ADRES>."},{"text":"Poradnia kardiologiczna. <DATA>19.06.2025</DATA>. Pacjent <PERSON>Edward Lis</PERSON>, PESEL <PESEL>52061909871</PESEL>. Duszność wysiłkowa. W <BADANIE>echo serca</BADANIE> EF 35%. Rozpoznano <CHOROBA>kardiomiopatię rozstrzeniową</CHOROBA>. Włączono <LEK>Entresto</LEK>. Kontrola w <SZPITAL>Instytucie Kardiologii w Krakowie</SZPITAL>."},{"text":"Pediatria, izba przyjęć. <DATA>28.08.2025</DATA>. Pacjent <PERSON>Filip Orłowski</PERSON>, PESEL <PESEL>14082809876</PESEL>. Gorączka, kaszel, osłabienie. W <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>ostre zapalenie oskrzeli</CHOROBA>. Zalecono <LEK>Azithromycin</LEK>. Adres: <ADRES>ul. Akacjowa 11, 21-500 Biała Podlaska</ADRES>."},{"text":"Medycyna pracy. <DATA>12.05.2025</DATA>. Pacjent <PERSON>Arkadiusz Górski</PERSON>, PESEL <PESEL>75051216789</PESEL>. Badanie okresowe kierowcy. W <BADANIE>EKG spoczynkowym</BADANIE> bez odchyleń. Rozpoznano <CHOROBA>nadciśnienie tętnicze</CHOROBA> wyrównane. Zdolny do pracy. Wydano zaświadczenie w <SZPITAL>Poradni Medycyny Pracy Medicover</SZPITAL>."},{"text":"Neurologia, wypis. <DATA>03.10.2025</DATA>. Pacjentka <PERSON>Renata Wolska</PERSON>, PESEL <PESEL>66010311298</PESEL>. Udar niedokrwienny. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar mózgu</CHOROBA>. Leczenie: <LEK>ASA</LEK>, <LEK>Atorwastatyna</LEK>. Rehabilitacja w <SZPITAL>Szpitalu Rehabilitacyjnym w Nałęczowie</SZPITAL>."},
+{
+"text": "SOR kardiologiczny. <DATA>12.03.2026</DATA>. Pacjent <PERSON>Jan Wrona</PERSON>, PESEL <PESEL>90031214567</PESEL>, tel. <TELEFON>601 234 111</TELEFON>, zam. <ADRES>ul. Grochowska 22/4, 03-823 Warszawa</ADRES>. Napadowe kołatania serca, duszność. W <BADANIE>EKG</BADANIE> AF z szybkim przewodzeniem komorowym. Rozpoznano <CHOROBA>migotanie przedsionków</CHOROBA>. Włączono <LEK>Amiodaron</LEK>, kontrola hemodynamiki."
+},
+{
+"text": "POZ, e-recepta. <DATA>05.01.2026</DATA>. Pacjentka <PERSON>Elżbieta Markiewicz</PERSON>, PESEL <PESEL>66010509874</PESEL>, tel. <TELEFON>502 771 908</TELEFON>. <CHOROBA>cukrzyca typu 2</CHOROBA> – kontrola. Glikemie nadal podwyższone. Zalecono <LEK>Metformina</LEK> 1000 mg 2x1 + <LEK>Dapagliflozyna</LEK> 10 mg 1x1. Zlecono <BADANIE>HbA1c</BADANIE> i <BADANIE>lipidogram</BADANIE>."
+},
+{
+"text": "OIT. <DATA>18.02.2026</DATA>. Pacjent <PERSON>Marek Dąbrowski</PERSON>, PESEL <PESEL>78021811239</PESEL>. Wstrząs septyczny. W <BADANIE>gazometrii</BADANIE> kwasica, hipoksja. Rozpoznano <CHOROBA>sepsę</CHOROBA> o nieustalonym ognisku. Leczenie: <LEK>Norepinefryna</LEK>, <LEK>Meropenem</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Klinicznym Dzieciątka Jezus</SZPITAL>."
+},
+{
+"text": "Oddz. ortopedii. <DATA>27.11.2025</DATA>. Pacjent <PERSON>Paweł Kruk</PERSON>, PESEL <PESEL>92092716780</PESEL>, tel. <TELEFON>698 112 450</TELEFON>. Upadek z wysokości, ból biodra. W <BADANIE>RTG miednicy</BADANIE> złamanie szyjki kości udowej. Rozpoznano <CHOROBA>złamanie kości udowej</CHOROBA>. Wykonano <BADANIE>endoprotezoplastykę stawu biodrowego</BADANIE>."
+},
+{
+"text": "Neurologia. <DATA>09.09.2025</DATA>. Pacjentka <PERSON>Alicja Nowicka</PERSON>, PESEL <PESEL>85090914567</PESEL>. Utrata przytomności, drgawki. W <BADANIE>EEG</BADANIE> zmiany napadowe. Rozpoznano <CHOROBA>padaczkę</CHOROBA>. Włączono <LEK>Levetiracetam</LEK>. Zalecono kontrolę w <BADANIE>MR głowy</BADANIE>."
+},
+{
+"text": "Gastroenterologia. <DATA>14.06.2025</DATA>. Pacjent <PERSON>Rafał Sienkiewicz</PERSON>, PESEL <PESEL>70061412398</PESEL>, tel. <TELEFON>600 991 772</TELEFON>. Smoliste stolce, osłabienie. W <BADANIE>gastroskopii</BADANIE> owrzodzenie z krwawieniem. Rozpoznano <CHOROBA>krwawienie z górnego odcinka przewodu pokarmowego</CHOROBA>. Zastosowano <LEK>Omeprazol</LEK> i.v."
+},
+{
+"text": "Pulmonologia. <DATA>03.04.2026</DATA>. Pacjentka <PERSON>Karolina Bąk</PERSON>, PESEL <PESEL>96040311234</PESEL>, tel. <TELEFON>517 334 889</TELEFON>. Napady duszności, świsty. W <BADANIE>spirometrii</BADANIE> obturacja odwracalna. Rozpoznano <CHOROBA>astmę oskrzelową</CHOROBA>. Włączono <LEK>Budezonid</LEK> + <LEK>Formoterol</LEK>."
+},
+{
+"text": "Oddz. ginekologiczny. <DATA>21.10.2025</DATA>. Pacjentka <PERSON>Magdalena Lis</PERSON>, PESEL <PESEL>88092114560</PESEL>. 32 tc, białkomocz, RR 170/100. W <BADANIE>USG położniczym</BADANIE> zahamowanie wzrostu płodu. Rozpoznano <CHOROBA>stan przedrzucawkowy</CHOROBA>. Hospitalizacja w <SZPITAL>Szpitalu Specjalistycznym św. Zofii</SZPITAL>."
+},
+{
+"text": "Dermatologia. <DATA>15.05.2025</DATA>. Pacjent <PERSON>Łukasz Wrona</PERSON>, PESEL <PESEL>90121516789</PESEL>, tel. <TELEFON>690 221 334</TELEFON>. Rumień, bolesność kończyny dolnej. Rozpoznano <CHOROBA>cellulitis</CHOROBA>. Włączono <LEK>Clindamycin</LEK>. Zlecono kontrolę CRP w <BADANIE>morfologii</BADANIE>."
+},
+{
+"text": "Onkologia. <DATA>28.08.2025</DATA>. Pacjentka <PERSON>Anna Wróbel</PERSON>, PESEL <PESEL>74082811290</PESEL>. <CHOROBA>rak piersi</CHOROBA> w trakcie leczenia. W <BADANIE>PET-CT</BADANIE> bez nowych ognisk. Zastosowano <LEK>Docetaksel</LEK>. Kontrola w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "SOR internistyczny. <DATA>07.01.2026</DATA>. Pacjent <PERSON>Andrzej Mazur</PERSON>, PESEL <PESEL>82010712345</PESEL>, tel. <TELEFON>601 882 110</TELEFON>. Osłabienie, czarne stolce od 2 dni. W <BADANIE>morfologii</BADANIE> Hb 6.9 g/dl. Rozpoznano <CHOROBA>krwawienie z przewodu pokarmowego</CHOROBA>. Podano <LEK>Koncentrat krwinek czerwonych</LEK>, <LEK>Omeprazol</LEK> i.v. Pilna gastroskopia."
+},
+{
+"text": "POZ. <DATA>16.02.2025</DATA>. Pacjentka <PERSON>Joanna Sławińska</PERSON>, PESEL <PESEL>76021609871</PESEL>, zam. <ADRES>ul. Kwiatowa 9/2, 62-800 Kalisz</ADRES>. Infekcja dróg moczowych, dysuria, częstomocz. W <BADANIE>badaniu ogólnym moczu</BADANIE> leukocyturia. Rozpoznano <CHOROBA>zapalenie pęcherza moczowego</CHOROBA>. Zalecono <LEK>Nitrofurantoina</LEK>."
+},
+{
+"text": "Oddział neurologii. <DATA>23.09.2025</DATA>. Pacjent <PERSON>Piotr Kaczmarek</PERSON>, PESEL <PESEL>70092316780</PESEL>. Nagły niedowład połowiczy lewostronny. W <BADANIE>TK głowy</BADANIE> cechy <CHOROBA>udar niedokrwienny mózgu</CHOROBA>. Włączono <LEK>Alteplaza</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Klinicznym im. W. Orłowskiego</SZPITAL>."
+},
+{
+"text": "Kardiologia. <DATA>11.11.2025</DATA>. Pacjent <PERSON>Henryk Wilk</PERSON>, PESEL <PESEL>54011111234</PESEL>, tel. <TELEFON>502 119 771</TELEFON>. Duszność wysiłkowa, obrzęki KKD. W <BADANIE>echo serca</BADANIE> EF 28%. Rozpoznano <CHOROBA>niewydolność serca</CHOROBA>. Zwiększono <LEK>Torasemid</LEK>, włączono <LEK>Spironolakton</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>03.03.2025</DATA>. Pacjentka <PERSON>Magda Piasecka</PERSON>, PESEL <PESEL>89030314567</PESEL>. Ostry ból brzucha, dodatni objaw Blumberga. W <BADANIE>USG jamy brzusznej</BADANIE> cechy <CHOROBA>ostrego zapalenia wyrostka robaczkowego</CHOROBA>. Wykonano <BADANIE>appendektomię laparoskopową</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>19.05.2025</DATA>. Pacjent <PERSON>Radosław Gajda</PERSON>, PESEL <PESEL>78051909876</PESEL>. Przewlekły kaszel, duszność. W <BADANIE>spirometrii</BADANIE> FEV1 55%. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Tiotropium</LEK>."
+},
+{
+"text": "Ginekologia. <DATA>28.04.2025</DATA>. Pacjentka <PERSON>Karolina Nowak</PERSON>, PESEL <PESEL>95042812390</PESEL>. Krwawienia międzymiesiączkowe. W <BADANIE>USG przezpochwowym</BADANIE> polip endometrialny. Rozpoznano <CHOROBA>polip trzonu macicy</CHOROBA>. Wykonano <BADANIE>histeroskopię</BADANIE>."
+},
+{
+"text": "Onkologia. <DATA>17.06.2025</DATA>. Pacjent <PERSON>Tomasz Baran</PERSON>, PESEL <PESEL>69061711234</PESEL>, tel. <TELEFON>600 445 998</TELEFON>. <CHOROBA>rak jelita grubego</CHOROBA> po resekcji. W <BADANIE>TK jamy brzusznej</BADANIE> bez cech wznowy. Zastosowano <LEK>5-FU</LEK> w chemioterapii uzupełniającej."
+},
+{
+"text": "Pediatria. <DATA>09.12.2025</DATA>. Pacjent <PERSON>Jakub Lis</PERSON>, PESEL <PESEL>15120909876</PESEL>. Gorączka, wysypka. W <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>płonica</CHOROBA>. Włączono <LEK>Penicylina V</LEK>."
+},
+{
+"text": "Reumatologia. <DATA>26.08.2025</DATA>. Pacjentka <PERSON>Ewa Król</PERSON>, PESEL <PESEL>72082614567</PESEL>, tel. <TELEFON>512 778 990</TELEFON>. Bóle stawów, sztywność poranna. W <BADANIE>OB</BADANIE> i <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>reumatoidalne zapalenie stawów</CHOROBA>. Włączono <LEK>Metotreksat</LEK>."
+},
+{
+"text": "SOR. <DATA>03.02.2026</DATA>. Pacjent <PERSON>Michał Pawlak</PERSON>, PESEL <PESEL>86020311234</PESEL>, tel. <TELEFON>600 771 992</TELEFON>. Ból w klp, poty, niepokój. W <BADANIE>EKG</BADANIE> uniesienia ST w odprowadzeniach przednich. Rozpoznano <CHOROBA>zawał STEMI</CHOROBA>. Podano <LEK>Heparyna</LEK>, <LEK>Aspiryna</LEK>. Przekazany do <SZPITAL>Instytutu Kardiologii w Aninie</SZPITAL>."
+},
+{
+"text": "POZ. <DATA>14.10.2025</DATA>. Pacjentka <PERSON>Barbara Zielińska</PERSON>, PESEL <PESEL>64091409876</PESEL>, zam. <ADRES>ul. Ogrodowa 5/1, 87-100 Toruń</ADRES>. Przewlekły ból krzyża. W <BADANIE>RTG kręgosłupa L-S</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>chorobę zwyrodnieniową kręgosłupa</CHOROBA>. Zalecono <LEK>Ibuprofen</LEK>."
+},
+{
+"text": "Oddział chirurgii. <DATA>21.07.2025</DATA>. Pacjent <PERSON>Artur Kłos</PERSON>, PESEL <PESEL>90072116789</PESEL>. Ostry brzuch. W <BADANIE>TK jamy brzusznej</BADANIE> perforacja wrzodu dwunastnicy. Rozpoznano <CHOROBA>perforacja wrzodu</CHOROBA>. Wykonano <BADANIE>operację sposobem Grahama</BADANIE>."
+},
+{
+"text": "Neurologia. <DATA>18.03.2026</DATA>. Pacjentka <PERSON>Renata Błaszczyk</PERSON>, PESEL <PESEL>72031814567</PESEL>. Drżenie spoczynkowe, spowolnienie ruchowe. Rozpoznano <CHOROBA>chorobę Parkinsona</CHOROBA>. Włączono <LEK>Levodopa</LEK>. Kontrola w <SZPITAL>Szpitalu Klinicznym UM w Poznaniu</SZPITAL>."
+},
+{
+"text": "Pulmonologia. <DATA>12.12.2025</DATA>. Pacjent <PERSON>Krzysztof Duda</PERSON>, PESEL <PESEL>80081212390</PESEL>, tel. <TELEFON>602 334 771</TELEFON>. Duszność, kaszel przewlekły. W <BADANIE>RTG klatki piersiowej</BADANIE> rozedma. Rozpoznano <CHOROBA>rozedmę płuc</CHOROBA>. Włączono <LEK>Salbutamol</LEK>."
+},
+{
+"text": "Gastroenterologia. <DATA>05.06.2025</DATA>. Pacjentka <PERSON>Ilona Wesołowska</PERSON>, PESEL <PESEL>77060509871</PESEL>. Bóle nadbrzusza, zgaga. W <BADANIE>gastroskopii</BADANIE> cechy <CHOROBA>GERD</CHOROBA>. Zalecono <LEK>Esomeprazol</LEK>."
+},
+{
+"text": "Onkologia. <DATA>22.09.2025</DATA>. Pacjent <PERSON>Paweł Zawadzki</PERSON>, PESEL <PESEL>69092211234</PESEL>. <CHOROBA>czerniak skóry</CHOROBA>. W <BADANIE>biopsji skóry</BADANIE> potwierdzony nowotwór. Włączono <LEK>Immunoterapia</LEK>. Leczenie w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "Pediatria. <DATA>15.04.2025</DATA>. Pacjent <PERSON>Filip Nowicki</PERSON>, PESEL <PESEL>16041509876</PESEL>. Kaszel, gorączka. W <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>zapalenie płuc</CHOROBA>. Włączono <LEK>Amoksycylina</LEK>."
+},
+{
+"text": "Reumatologia. <DATA>30.01.2026</DATA>. Pacjentka <PERSON>Justyna Maj</PERSON>, PESEL <PESEL>82013014567</PESEL>. Bóle i obrzęki stawów dłoni. W <BADANIE>OB</BADANIE> wysokie, RF dodatni. Rozpoznano <CHOROBA>reumatoidalne zapalenie stawów</CHOROBA>. Włączono <LEK>Metotreksat</LEK> + <LEK>Prednizon</LEK>."
+},
+{
+"text": "SOR. <DATA>09.08.2025</DATA>. Pacjent <PERSON>Łukasz Wójcik</PERSON>, PESEL <PESEL>91080916780</PESEL>. Uraz głowy po upadku. W <BADANIE>TK głowy</BADANIE> bez zmian ogniskowych. Rozpoznano <CHOROBA>wstrząśnienie mózgu</CHOROBA>. Zalecono obserwację i <LEK>Paracetamol</LEK>."
+},
+{
+"text": "SOR internistyczny. <DATA>11.01.2026</DATA>. Pacjent <PERSON>Paweł Krawiec</PERSON>, PESEL <PESEL>87011112390</PESEL>, tel. <TELEFON>601 998 771</TELEFON>. Duszność, tachykardia. W <BADANIE>EKG</BADANIE> SVT 180/min. Rozpoznano <CHOROBA>częstoskurcz nadkomorowy</CHOROBA>. Wykonano masaż zatoki szyjnej, podano <LEK>adenozyna</LEK>."
+},
+{
+"text": "POZ. <DATA>19.03.2025</DATA>. Pacjentka <PERSON>Urszula Michalska</PERSON>, PESEL <PESEL>69031909876</PESEL>, zam. <ADRES>ul. Polna 8/3, 85-790 Bydgoszcz</ADRES>. Przewlekłe zmęczenie, senność. W <BADANIE>TSH</BADANIE> 8.2. Rozpoznano <CHOROBA>niedoczynność tarczycy</CHOROBA>. Włączono <LEK>Levothyroxine</LEK>."
+},
+{
+"text": "Oddział chirurgii. <DATA>08.05.2025</DATA>. Pacjent <PERSON>Marcin Olejnik</PERSON>, PESEL <PESEL>92050816780</PESEL>. Ból w prawym dole biodrowym. W <BADANIE>USG jamy brzusznej</BADANIE> cechy <CHOROBA>ostrego zapalenia wyrostka robaczkowego</CHOROBA>. Wykonano <BADANIE>appendektomię</BADANIE>. Antybiotykoterapia <LEK>Ceftriakson</LEK>."
+},
+{
+"text": "Neurologia. <DATA>27.09.2025</DATA>. Pacjent <PERSON>Katarzyna Bielecka</PERSON>, PESEL <PESEL>78092714567</PESEL>. Zaburzenia mowy, asymetria twarzy. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar niedokrwienny</CHOROBA>. Włączono <LEK>ASA</LEK> i rehabilitację."
+},
+{
+"text": "Pulmonologia. <DATA>14.11.2025</DATA>. Pacjent <PERSON>Grzegorz Mazur</PERSON>, PESEL <PESEL>75011412345</PESEL>, tel. <TELEFON>690 221 998</TELEFON>. Kaszel przewlekły, krwioplucie. W <BADANIE>TK klatki piersiowej</BADANIE> guz płuca P. Rozpoznano <CHOROBA>rak płuca</CHOROBA>. Skierowanie do <SZPITAL>Instytutu Gruźlicy i Chorób Płuc</SZPITAL>."
+},
+{
+"text": "Ginekologia. <DATA>02.02.2026</DATA>. Pacjentka <PERSON>Anna Król</PERSON>, PESEL <PESEL>86020214567</PESEL>. Krwawienia po menopauzie. W <BADANIE>USG przezpochwowym</BADANIE> pogrubienie endometrium. Rozpoznano <CHOROBA>hiperplazję endometrium</CHOROBA>. Wykonano <BADANIE>biopsję endometrium</BADANIE>."
+},
+{
+"text": "Kardiologia. <DATA>30.06.2025</DATA>. Pacjent <PERSON>Edward Szymański</PERSON>, PESEL <PESEL>52063011234</PESEL>. Duszność, obrzęki KKD. W <BADANIE>echo serca</BADANIE> EF 25%. Rozpoznano <CHOROBA>niewydolność serca</CHOROBA>. Włączono <LEK>Furosemid</LEK> + <LEK>Bisoprolol</LEK>."
+},
+{
+"text": "Dermatologia. <DATA>17.08.2025</DATA>. Pacjentka <PERSON>Weronika Dąb</PERSON>, PESEL <PESEL>99081712390</PESEL>. Zmiany pęcherzowe skóry. W <BADANIE>biopsji skóry</BADANIE> obraz <CHOROBA>pemfigoid</CHOROBA>. Włączono <LEK>Prednizon</LEK>."
+},
+{
+"text": "Reumatologia. <DATA>21.12.2025</DATA>. Pacjent <PERSON>Radosław Kubiak</PERSON>, PESEL <PESEL>80012116780</PESEL>. Bóle stawów, sztywność poranna. W <BADANIE>OB</BADANIE> 65, RF dodatni. Rozpoznano <CHOROBA>reumatoidalne zapalenie stawów</CHOROBA>. Włączono <LEK>Leflunomid</LEK>."
+},
+{
+"text": "OIT. <DATA>05.09.2025</DATA>. Pacjent <PERSON>Dominik Wrona</PERSON>, PESEL <PESEL>90090512345</PESEL>. Wstrząs septyczny po ZUM. W <BADANIE>gazometrii</BADANIE> kwasica metaboliczna. Rozpoznano <CHOROBA>sepsę</CHOROBA>. Leczenie: <LEK>Noradrenalina</LEK>, <LEK>Piperacylina/Tazobaktam</LEK>. Hospitalizacja w <SZPITAL>Szpitalu Klinicznym UM w Łodzi</SZPITAL>."
+},
+{
+"text": "SOR urazowy. <DATA>04.02.2026</DATA>. Pacjent <PERSON>Mateusz Piotrowski</PERSON>, PESEL <PESEL>94020416780</PESEL>, tel. <TELEFON>690 112 778</TELEFON>. Uraz kolana po skręceniu. W <BADANIE>RTG stawu kolanowego</BADANIE> bez złamań. Rozpoznano <CHOROBA>skręcenie stawu kolanowego</CHOROBA>. Zalecono <LEK>Naproksen</LEK>, orteza."
+},
+{
+"text": "POZ. <DATA>13.06.2025</DATA>. Pacjentka <PERSON>Helena Witek</PERSON>, PESEL <PESEL>63061309871</PESEL>, zam. <ADRES>ul. Lipowa 14/2, 96-300 Żyrardów</ADRES>. Przewlekły kaszel palacza. W <BADANIE>spirometrii</BADANIE> cechy obturacji. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Formoterol</LEK> + <LEK>Tiotropium</LEK>."
+},
+{
+"text": "Oddział neurologii. <DATA>22.10.2025</DATA>. Pacjent <PERSON>Wojciech Baran</PERSON>, PESEL <PESEL>75092216780</PESEL>. Nagłe zawroty głowy, zaburzenia równowagi. W <BADANIE>MR głowy</BADANIE> zmiany naczyniowe. Rozpoznano <CHOROBA>przewlekłe niedokrwienie mózgu</CHOROBA>. Zalecono <LEK>Cinnarizyna</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>07.07.2025</DATA>. Pacjentka <PERSON>Jolanta Kaczmarek</PERSON>, PESEL <PESEL>68070714567</PESEL>, tel. <TELEFON>502 889 771</TELEFON>. Kołatania serca. W <BADANIE>Holter EKG</BADANIE> liczne pobudzenia komorowe. Rozpoznano <CHOROBA>arytmia komorowa</CHOROBA>. Włączono <LEK>Sotalol</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>18.03.2025</DATA>. Pacjent <PERSON>Robert Lis</PERSON>, PESEL <PESEL>90031811234</PESEL>. Ból brzucha, wymioty. W <BADANIE>TK jamy brzusznej</BADANIE> cechy niedrożności. Rozpoznano <CHOROBA>niedrożność mechaniczna jelit</CHOROBA>. Wykonano <BADANIE>operację laparotomii</BADANIE>."
+},
+{
+"text": "Gastroenterologia. <DATA>11.11.2025</DATA>. Pacjentka <PERSON>Izabela Nowak</PERSON>, PESEL <PESEL>82011109876</PESEL>. Bóle nadbrzusza, wzdęcia. W <BADANIE>gastroskopii</BADANIE> cechy <CHOROBA>zapalenia żołądka</CHOROBA>. Zalecono <LEK>Pantoprazol</LEK>."
+},
+{
+"text": "Pulmonologia. <DATA>26.09.2025</DATA>. Pacjent <PERSON>Kamil Zając</PERSON>, PESEL <PESEL>87092616780</PESEL>, tel. <TELEFON>601 445 992</TELEFON>. Duszność, kaszel. W <BADANIE>RTG klatki piersiowej</BADANIE> nacieki w PP. Rozpoznano <CHOROBA>zapalenie płuc</CHOROBA>. Włączono <LEK>Amoksycylina z kwasem klawulanowym</LEK>."
+},
+{
+"text": "Dermatologia. <DATA>05.05.2025</DATA>. Pacjentka <PERSON>Agnieszka Pawlik</PERSON>, PESEL <PESEL>91050512390</PESEL>. Świąd skóry, zmiany rumieniowe. Rozpoznano <CHOROBA>atopowe zapalenie skóry</CHOROBA>. Włączono <LEK>Mometazon</LEK>."
+},
+{
+"text": "Onkologia. <DATA>29.08.2025</DATA>. Pacjent <PERSON>Andrzej Malec</PERSON>, PESEL <PESEL>66082911234</PESEL>. <CHOROBA>rak prostaty</CHOROBA>. W <BADANIE>biopsji prostaty</BADANIE> potwierdzony nowotwór. Zastosowano <LEK>Goserelina</LEK>. Kontrola w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "Pediatria. <DATA>14.01.2026</DATA>. Pacjent <PERSON>Oskar Michalski</PERSON>, PESEL <PESEL>16011409876</PESEL>. Gorączka, kaszel suchy. W <BADANIE>CRP</BADANIE> umiarkowanie podwyższone. Rozpoznano <CHOROBA>infekcję wirusową dróg oddechowych</CHOROBA>. Zalecono <LEK>Paracetamol</LEK> i nawodnienie."
+},
+{
+"text": "SOR wewnętrzny. <DATA>02.03.2026</DATA>. Pacjent <PERSON>Damian Kurek</PERSON>, PESEL <PESEL>88030216780</PESEL>, tel. <TELEFON>600 331 992</TELEFON>. Osłabienie, hipotensja. W <BADANIE>gazometrii</BADANIE> kwasica metaboliczna. Rozpoznano <CHOROBA>odwodnienie ciężkie</CHOROBA>. Płynoterapia i.v. <LEK>0,9% NaCl</LEK>."
+},
+{
+"text": "POZ. <DATA>21.05.2025</DATA>. Pacjentka <PERSON>Beata Krawiec</PERSON>, PESEL <PESEL>74052109876</PESEL>, zam. <ADRES>ul. Akacjowa 6/4, 00-950 Warszawa</ADRES>. Bóle stawów kolanowych. W <BADANIE>RTG stawów</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>chorobę zwyrodnieniową stawów</CHOROBA>. Zalecono <LEK>Meloksykam</LEK>."
+},
+{
+"text": "Neurologia. <DATA>09.01.2026</DATA>. Pacjent <PERSON>Łukasz Wrona</PERSON>, PESEL <PESEL>90010916780</PESEL>. Drgawki uogólnione. W <BADANIE>EEG</BADANIE> zmiany napadowe. Rozpoznano <CHOROBA>padaczkę uogólnioną</CHOROBA>. Włączono <LEK>Kwetiapina</LEK> jako leczenie wspomagające + <LEK>Levetiracetam</LEK>."
+},
+{
+"text": "Chirurgia naczyniowa. <DATA>17.04.2025</DATA>. Pacjent <PERSON>Roman Zalewski</PERSON>, PESEL <PESEL>72041711234</PESEL>. Ból i niedokrwienie kończyny dolnej. W <BADANIE>angiografii</BADANIE> zamknięcie tętnicy udowej. Rozpoznano <CHOROBA>ostre niedokrwienie kończyny</CHOROBA>. Wykonano <BADANIE>embolectomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>28.06.2025</DATA>. Pacjentka <PERSON>Grażyna Sokołowska</PERSON>, PESEL <PESEL>63062809871</PESEL>. Duszność wysiłkowa. W <BADANIE>spirometrii</BADANIE> restrykcja. Rozpoznano <CHOROBA>włóknienie płuc</CHOROBA>. Zalecono <LEK>Pirfenidon</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>03.11.2025</DATA>. Pacjent <PERSON>Andrzej Lis</PERSON>, PESEL <PESEL>60031116780</PESEL>. Zasłabnięcia. W <BADANIE>Holter EKG</BADANIE> bradykardia 35/min. Rozpoznano <CHOROBA>bloki przedsionkowo-komorowe</CHOROBA>. Zakwalifikowany do <BADANIE>implantacji rozrusznika</BADANIE>."
+},
+{
+"text": "Ginekologia. <DATA>12.03.2025</DATA>. Pacjentka <PERSON>Monika Król</PERSON>, PESEL <PESEL>90031214567</PESEL>. Bóle podbrzusza. W <BADANIE>USG przezpochwowym</BADANIE> torbiel jajnika. Rozpoznano <CHOROBA>torbiel jajnika</CHOROBA>. Zalecono obserwację i kontrolne <BADANIE>USG</BADANIE>."
+},
+{
+"text": "Dermatologia. <DATA>19.08.2025</DATA>. Pacjent <PERSON>Paweł Mazur</PERSON>, PESEL <PESEL>85081911234</PESEL>. Zmiany krostkowe twarzy. Rozpoznano <CHOROBA>trądzik pospolity</CHOROBA>. Włączono <LEK>Izotretynoina</LEK>."
+},
+{
+"text": "Onkologia. <DATA>06.10.2025</DATA>. Pacjentka <PERSON>Halina Nowak</PERSON>, PESEL <PESEL>65010609876</PESEL>. <CHOROBA>rak jajnika</CHOROBA>. W <BADANIE>TK jamy brzusznej</BADANIE> progresja zmian. Włączono <LEK>Carboplatyna</LEK> + <LEK>Paclitaxel</LEK>. Leczenie w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "SOR pediatryczny. <DATA>15.02.2026</DATA>. Pacjent <PERSON>Filip Wójcik</PERSON>, PESEL <PESEL>16021509876</PESEL>. Gorączka 40°C, wysypka. Rozpoznano <CHOROBA>infekcję wirusową</CHOROBA>. Zalecono <LEK>Paracetamol</LEK>, obserwacja."
+},
+{
+"text": "SOR internistyczny. <DATA>08.04.2025</DATA>. Pacjent <PERSON>Tomasz Wójcik</PERSON>, PESEL <PESEL>82040816780</PESEL>, tel. <TELEFON>601 445 118</TELEFON>. Silne osłabienie, hipotensja. W <BADANIE>morfologii</BADANIE> Hb 7.8 g/dl. Rozpoznano <CHOROBA>niedokrwistość pokrwotoczną</CHOROBA>. Podano 2 j. KKCz, <LEK>Omeprazol</LEK> i.v."
+},
+{
+"text": "POZ. <DATA>22.09.2025</DATA>. Pacjentka <PERSON>Barbara Maj</PERSON>, PESEL <PESEL>67092209876</PESEL>, zam. <ADRES>ul. Jesienna 11/3, 60-689 Poznań</ADRES>. Przewlekłe bóle karku. W <BADANIE>RTG odcinka szyjnego</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>spondylozę szyjną</CHOROBA>. Zalecono <LEK>Naproksen</LEK>."
+},
+{
+"text": "Neurologia. <DATA>14.01.2026</DATA>. Pacjent <PERSON>Rafał Sikora</PERSON>, PESEL <PESEL>90011416780</PESEL>. Niedowład połowiczy prawy. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar niedokrwienny</CHOROBA>. Włączono <LEK>Alteplaza</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>30.06.2025</DATA>. Pacjent <PERSON>Henryk Król</PERSON>, PESEL <PESEL>55063011234</PESEL>, tel. <TELEFON>502 998 771</TELEFON>. Duszność spoczynkowa. W <BADANIE>echo serca</BADANIE> EF 20%. Rozpoznano <CHOROBA>zaawansowaną niewydolność serca</CHOROBA>. Włączono <LEK>Torasemid</LEK> + <LEK>Entresto</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>17.05.2025</DATA>. Pacjent <PERSON>Łukasz Nowik</PERSON>, PESEL <PESEL>91051716780</PESEL>. Ostry brzuch. W <BADANIE>USG jamy brzusznej</BADANIE> cechy perforacji. Rozpoznano <CHOROBA>perforacja wrzodu żołądka</CHOROBA>. Wykonano <BADANIE>laparotomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>11.11.2025</DATA>. Pacjentka <PERSON>Alicja Wrona</PERSON>, PESEL <PESEL>78011114567</PESEL>. Duszność, kaszel. W <BADANIE>spirometrii</BADANIE> obturacja ciężka. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Umeclidinium</LEK> + <LEK>Vilanterol</LEK>."
+},
+{
+"text": "Gastroenterologia. <DATA>06.03.2026</DATA>. Pacjent <PERSON>Paweł Baran</PERSON>, PESEL <PESEL>86030616780</PESEL>. Bóle nadbrzusza, spadek masy ciała. W <BADANIE>gastroskopii</BADANIE> guz żołądka. Rozpoznano <CHOROBA>rak żołądka</CHOROBA>. Skierowany do <SZPITAL>Narodowego Instytutu Onkologii</SZPITAL>."
+},
+{
+"text": "Dermatologia. <DATA>28.07.2025</DATA>. Pacjentka <PERSON>Monika Lis</PERSON>, PESEL <PESEL>92072814567</PESEL>. Świąd skóry, pokrzywka. Rozpoznano <CHOROBA>pokrzywkę przewlekłą</CHOROBA>. Włączono <LEK>Cetyryzyna</LEK>."
+},
+{
+"text": "Onkologia. <DATA>19.12.2025</DATA>. Pacjent <PERSON>Andrzej Witek</PERSON>, PESEL <PESEL>70011916780</PESEL>. <CHOROBA>rak płuca</CHOROBA>. W <BADANIE>PET-CT</BADANIE> progresja choroby. Włączono <LEK>Nivolumab</LEK>. Leczenie w <SZPITAL>Instytucie Gruźlicy i Chorób Płuc</SZPITAL>."
+},
+{
+"text": "SOR ortopedyczny. <DATA>25.02.2026</DATA>. Pacjent <PERSON>Mateusz Kaczor</PERSON>, PESEL <PESEL>94022516780</PESEL>. Uraz ręki po upadku. W <BADANIE>RTG ręki</BADANIE> złamanie kości śródręcza. Rozpoznano <CHOROBA>złamanie kości śródręcza</CHOROBA>. Założono opatrunek gipsowy, <LEK>Ketoprofen</LEK>."
+},
+{
+"text": "SOR internistyczny. <DATA>10.02.2026</DATA>. Pacjent <PERSON>Adam Kaczmarek</PERSON>, PESEL <PESEL>80021016780</PESEL>, tel. <TELEFON>601 778 992</TELEFON>. Ból w klp, duszność. W <BADANIE>EKG</BADANIE> uniesienia ST w ścianie dolnej. Rozpoznano <CHOROBA>zawał STEMI</CHOROBA>. Podano <LEK>Aspiryna</LEK>, <LEK>Heparyna</LEK>, przekazany do <SZPITAL>Instytutu Kardiologii w Aninie</SZPITAL>."
+},
+{
+"text": "POZ. <DATA>15.05.2025</DATA>. Pacjentka <PERSON>Halina Wrona</PERSON>, PESEL <PESEL>64051509876</PESEL>, zam. <ADRES>ul. Słowackiego 9/2, 05-800 Pruszków</ADRES>. Przewlekłe bóle kolan. W <BADANIE>RTG stawów kolanowych</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>gonartroza</CHOROBA>. Zalecono <LEK>Meloksykam</LEK>."
+},
+{
+"text": "Neurologia. <DATA>03.11.2025</DATA>. Pacjent <PERSON>Krzysztof Mazur</PERSON>, PESEL <PESEL>75031116780</PESEL>. Nagłe zaburzenia mowy. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar niedokrwienny mózgu</CHOROBA>. Włączono <LEK>Alteplaza</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>28.06.2025</DATA>. Pacjent <PERSON>Edward Nowik</PERSON>, PESEL <PESEL>52062811234</PESEL>, tel. <TELEFON>502 334 771</TELEFON>. Duszność, obrzęki. W <BADANIE>echo serca</BADANIE> EF 22%. Rozpoznano <CHOROBA>zaawansowaną niewydolność serca</CHOROBA>. Włączono <LEK>Furosemid</LEK> + <LEK>Spironolakton</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>19.04.2025</DATA>. Pacjent <PERSON>Marcin Lis</PERSON>, PESEL <PESEL>90041916780</PESEL>. Ostry ból brzucha. W <BADANIE>USG jamy brzusznej</BADANIE> cechy zapalenia wyrostka. Rozpoznano <CHOROBA>ostre zapalenie wyrostka robaczkowego</CHOROBA>. Wykonano <BADANIE>appendektomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>12.12.2025</DATA>. Pacjentka <PERSON>Barbara Kłos</PERSON>, PESEL <PESEL>70021214567</PESEL>. Kaszel, duszność. W <BADANIE>spirometrii</BADANIE> obturacja. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Tiotropium</LEK>."
+},
+{
+"text": "Gastroenterologia. <DATA>07.03.2026</DATA>. Pacjent <PERSON>Paweł Wrona</PERSON>, PESEL <PESEL>86030716780</PESEL>. Spadek masy ciała, bóle brzucha. W <BADANIE>kolonoskopii</BADANIE> guz esicy. Rozpoznano <CHOROBA>rak jelita grubego</CHOROBA>. Skierowany do <SZPITAL>Narodowego Instytutu Onkologii</SZPITAL>."
+},
+{
+"text": "Dermatologia. <DATA>18.08.2025</DATA>. Pacjentka <PERSON>Monika Krawiec</PERSON>, PESEL <PESEL>92081814567</PESEL>. Świąd skóry, wyprysk. Rozpoznano <CHOROBA>atopowe zapalenie skóry</CHOROBA>. Włączono <LEK>Mometazon</LEK>."
+},
+{
+"text": "Onkologia. <DATA>20.10.2025</DATA>. Pacjent <PERSON>Andrzej Lis</PERSON>, PESEL <PESEL>70012016780</PESEL>. <CHOROBA>rak prostaty</CHOROBA>. W <BADANIE>scyntygrafii kości</BADANIE> przerzuty. Włączono <LEK>Enzalutamid</LEK>."
+},
+{
+"text": "SOR pediatryczny. <DATA>16.02.2026</DATA>. Pacjent <PERSON>Oliwier Baran</PERSON>, PESEL <PESEL>16021609876</PESEL>. Gorączka, wysypka. W <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>infekcję wirusową</CHOROBA>. Zalecono <LEK>Paracetamol</LEK>, obserwacja."
+},
+{
+"text": "SOR internistyczny. <DATA>03.03.2026</DATA>. Pacjent <PERSON>Robert Szymański</PERSON>, PESEL <PESEL>81030316780</PESEL>, tel. <TELEFON>601 221 998</TELEFON>. Duszność, tachykardia, spadki RR. W <BADANIE>gazometrii</BADANIE> hipoksemia. Rozpoznano <CHOROBA>ostra niewydolność oddechowa</CHOROBA>. Zastosowano tlenoterapię, <LEK>Furosemid</LEK> i.v."
+},
+{
+"text": "POZ. <DATA>10.10.2025</DATA>. Pacjentka <PERSON>Maria Wójcik</PERSON>, PESEL <PESEL>65011009876</PESEL>, zam. <ADRES>ul. Polna 2/1, 43-200 Pszczyna</ADRES>. Przewlekłe bóle kręgosłupa. W <BADANIE>RTG kręgosłupa L-S</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>chorobę zwyrodnieniową kręgosłupa</CHOROBA>. Zalecono <LEK>Ketoprofen</LEK>."
+},
+{
+"text": "Neurologia. <DATA>27.01.2026</DATA>. Pacjent <PERSON>Łukasz Baran</PERSON>, PESEL <PESEL>90012716780</PESEL>. Nagłe zaburzenia mowy i widzenia. W <BADANIE>TK głowy</BADANIE> niedokrwienie w obrębie płata skroniowego. Rozpoznano <CHOROBA>udar niedokrwienny mózgu</CHOROBA>. Włączono <LEK>Alteplaza</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>15.05.2025</DATA>. Pacjent <PERSON>Andrzej Król</PERSON>, PESEL <PESEL>55051511234</PESEL>, tel. <TELEFON>502 118 771</TELEFON>. Kołatania serca, zasłabnięcia. W <BADANIE>Holter EKG</BADANIE> epizody AF. Rozpoznano <CHOROBA>migotanie przedsionków</CHOROBA>. Włączono <LEK>Apiksaban</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>22.02.2025</DATA>. Pacjentka <PERSON>Alicja Nowak</PERSON>, PESEL <PESEL>88022214567</PESEL>. Ostry ból brzucha. W <BADANIE>USG jamy brzusznej</BADANIE> cechy zapalenia pęcherzyka. Rozpoznano <CHOROBA>ostre zapalenie pęcherzyka żółciowego</CHOROBA>. Wykonano <BADANIE>cholecystektomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>09.09.2025</DATA>. Pacjent <PERSON>Radosław Lis</PERSON>, PESEL <PESEL>78090916780</PESEL>. Duszność wysiłkowa. W <BADANIE>spirometrii</BADANIE> FEV1 48%. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Umeclidinium</LEK>."
+},
+{
+"text": "Gastroenterologia. <DATA>14.02.2026</DATA>. Pacjentka <PERSON>Elżbieta Wrona</PERSON>, PESEL <PESEL>70021414567</PESEL>. Bóle nadbrzusza, anemia. W <BADANIE>gastroskopii</BADANIE> owrzodzenie żołądka. Rozpoznano <CHOROBA>chorobę wrzodową żołądka</CHOROBA>. Zalecono <LEK>Pantoprazol</LEK>."
+},
+{
+"text": "Dermatologia. <DATA>03.06.2025</DATA>. Pacjent <PERSON>Mateusz Krawiec</PERSON>, PESEL <PESEL>91060316780</PESEL>. Zmiany rumieniowe, świąd. Rozpoznano <CHOROBA>łuszczycę</CHOROBA>. Włączono <LEK>Calcipotriol</LEK>."
+},
+{
+"text": "Onkologia. <DATA>11.11.2025</DATA>. Pacjentka <PERSON>Monika Sokołowska</PERSON>, PESEL <PESEL>68011109876</PESEL>. <CHOROBA>rak piersi</CHOROBA>. W <BADANIE>PET-CT</BADANIE> brak progresji. Włączono <LEK>Tamoksyfen</LEK>. Kontrola w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "SOR urazowy. <DATA>29.12.2025</DATA>. Pacjent <PERSON>Kamil Wójcik</PERSON>, PESEL <PESEL>94012916780</PESEL>. Uraz głowy po upadku. W <BADANIE>TK głowy</BADANIE> bez zmian pourazowych. Rozpoznano <CHOROBA>wstrząśnienie mózgu</CHOROBA>. Zalecono obserwację i <LEK>Paracetamol</LEK>."
+},
+{
+"text": "SOR internistyczny. <DATA>05.04.2026</DATA>. Pacjent <PERSON>Arkadiusz Wrona</PERSON>, PESEL <PESEL>82040516780</PESEL>, tel. <TELEFON>601 119 882</TELEFON>. Osłabienie, splątanie. W <BADANIE>glikemii</BADANIE> 38 mg/dl. Rozpoznano <CHOROBA>hipoglikemia ciężka</CHOROBA>. Podano glukozę i.v., wyrównanie stanu."
+},
+{
+"text": "POZ. <DATA>18.08.2025</DATA>. Pacjentka <PERSON>Justyna Kaczmarek</PERSON>, PESEL <PESEL>76081809876</PESEL>, zam. <ADRES>ul. Leśna 4/2, 64-920 Piła</ADRES>. Przewlekłe zmęczenie, senność. W <BADANIE>TSH</BADANIE> 9.6. Rozpoznano <CHOROBA>niedoczynność tarczycy</CHOROBA>. Włączono <LEK>Levothyroxine</LEK>."
+},
+{
+"text": "Neurologia. <DATA>12.12.2025</DATA>. Pacjent <PERSON>Rafał Nowik</PERSON>, PESEL <PESEL>90011216780</PESEL>. Niedowład połowiczy lewy. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar niedokrwienny mózgu</CHOROBA>. Włączono <LEK>Alteplaza</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>03.03.2025</DATA>. Pacjent <PERSON>Henryk Mazur</PERSON>, PESEL <PESEL>52030311234</PESEL>, tel. <TELEFON>502 771 119</TELEFON>. Duszność spoczynkowa. W <BADANIE>echo serca</BADANIE> EF 18%. Rozpoznano <CHOROBA>krańcowa niewydolność serca</CHOROBA>. Włączono <LEK>Torasemid</LEK> + <LEK>Dobutamina</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>09.06.2025</DATA>. Pacjent <PERSON>Paweł Lis</PERSON>, PESEL <PESEL>91060916780</PESEL>. Ostry ból brzucha. W <BADANIE>TK jamy brzusznej</BADANIE> perforacja jelita cienkiego. Rozpoznano <CHOROBA>perforacja jelita</CHOROBA>. Wykonano <BADANIE>laparotomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>20.10.2025</DATA>. Pacjentka <PERSON>Elżbieta Krawiec</PERSON>, PESEL <PESEL>70012014567</PESEL>. Duszność, krwioplucie. W <BADANIE>TK klatki piersiowej</BADANIE> guz PŁ. Rozpoznano <CHOROBA>rak płuca</CHOROBA>. Skierowana do <SZPITAL>Instytutu Gruźlicy i Chorób Płuc</SZPITAL>."
+},
+{
+"text": "Gastroenterologia. <DATA>14.04.2026</DATA>. Pacjent <PERSON>Michał Baran</PERSON>, PESEL <PESEL>86041416780</PESEL>. Bóle brzucha, biegunka. W <BADANIE>kolonoskopii</BADANIE> zmiany zapalne. Rozpoznano <CHOROBA>wrzodziejące zapalenie jelita grubego</CHOROBA>. Włączono <LEK>Mesalazyna</LEK>."
+},
+{
+"text": "Dermatologia. <DATA>27.07.2025</DATA>. Pacjentka <PERSON>Monika Wójcik</PERSON>, PESEL <PESEL>92072714567</PESEL>. Zmiany pęcherzowe. W <BADANIE>biopsji skóry</BADANIE> obraz pemfigoidu. Rozpoznano <CHOROBA>pemfigoid</CHOROBA>. Włączono <LEK>Prednizon</LEK>."
+},
+{
+"text": "Onkologia. <DATA>19.09.2025</DATA>. Pacjent <PERSON>Andrzej Lis</PERSON>, PESEL <PESEL>70091916780</PESEL>. <CHOROBA>rak prostaty</CHOROBA>. W <BADANIE>scyntygrafii kości</BADANIE> przerzuty. Włączono <LEK>Abirateron</LEK>. Leczenie w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "SOR pediatryczny. <DATA>01.02.2026</DATA>. Pacjent <PERSON>Oliwier Nowicki</PERSON>, PESEL <PESEL>16020109876</PESEL>. Gorączka 39.5°C, kaszel. W <BADANIE>CRP</BADANIE> podwyższone. Rozpoznano <CHOROBA>zapalenie płuc</CHOROBA>. Zalecono <LEK>Amoksycylina</LEK>."
+},
+{
+"text": "SOR internistyczny. <DATA>07.04.2026</DATA>. Pacjent <PERSON>Marcin Wrona</PERSON>, PESEL <PESEL>84040716780</PESEL>, tel. <TELEFON>601 332 119</TELEFON>. Ból w klp, poty. W <BADANIE>EKG</BADANIE> obniżenia ST. Rozpoznano <CHOROBA>OZW bez uniesienia ST</CHOROBA>. Podano <LEK>Aspiryna</LEK>, <LEK>Heparyna</LEK>."
+},
+{
+"text": "POZ. <DATA>22.11.2025</DATA>. Pacjentka <PERSON>Anna Krawiec</PERSON>, PESEL <PESEL>66082209876</PESEL>, zam. <ADRES>ul. Parkowa 7/1, 87-100 Toruń</ADRES>. Przewlekłe bóle karku. W <BADANIE>RTG odcinka szyjnego</BADANIE> zmiany zwyrodnieniowe. Rozpoznano <CHOROBA>spondyloza szyjna</CHOROBA>. Zalecono <LEK>Meloksykam</LEK>."
+},
+{
+"text": "Neurologia. <DATA>13.03.2026</DATA>. Pacjent <PERSON>Łukasz Nowik</PERSON>, PESEL <PESEL>90031316780</PESEL>. Afazja, niedowład prawy. W <BADANIE>TK głowy</BADANIE> ognisko niedokrwienne. Rozpoznano <CHOROBA>udar niedokrwienny</CHOROBA>. Włączono <LEK>Alteplaza</LEK>."
+},
+{
+"text": "Kardiologia. <DATA>18.05.2025</DATA>. Pacjent <PERSON>Edward Wrona</PERSON>, PESEL <PESEL>52051811234</PESEL>, tel. <TELEFON>502 771 990</TELEFON>. Duszność, obrzęki. W <BADANIE>echo serca</BADANIE> EF 24%. Rozpoznano <CHOROBA>niewydolność serca</CHOROBA>. Włączono <LEK>Furosemid</LEK> + <LEK>Spironolakton</LEK>."
+},
+{
+"text": "Chirurgia ogólna. <DATA>02.06.2025</DATA>. Pacjent <PERSON>Robert Lis</PERSON>, PESEL <PESEL>91060216780</PESEL>. Ostry brzuch. W <BADANIE>USG jamy brzusznej</BADANIE> cechy perforacji. Rozpoznano <CHOROBA>perforacja wrzodu żołądka</CHOROBA>. Wykonano <BADANIE>laparotomię</BADANIE>."
+},
+{
+"text": "Pulmonologia. <DATA>11.09.2025</DATA>. Pacjentka <PERSON>Barbara Kłos</PERSON>, PESEL <PESEL>70091114567</PESEL>. Duszność wysiłkowa. W <BADANIE>spirometrii</BADANIE> FEV1 50%. Rozpoznano <CHOROBA>POChP</CHOROBA>. Włączono <LEK>Umeclidinium</LEK>."
+},
+{
+"text": "Gastroenterologia. <DATA>25.02.2026</DATA>. Pacjent <PERSON>Paweł Baran</PERSON>, PESEL <PESEL>86022516780</PESEL>. Bóle brzucha, biegunki. W <BADANIE>kolonoskopii</BADANIE> zmiany zapalne. Rozpoznano <CHOROBA>chorobę Crohna</CHOROBA>. Włączono <LEK>Azatiopryna</LEK>."
+},
+{
+"text": "Dermatologia. <DATA>08.07.2025</DATA>. Pacjentka <PERSON>Monika Lis</PERSON>, PESEL <PESEL>92070814567</PESEL>. Zmiany rumieniowe, świąd. Rozpoznano <CHOROBA>łuszczycę</CHOROBA>. Włączono <LEK>Metotreksat</LEK>."
+},
+{
+"text": "Onkologia. <DATA>10.10.2025</DATA>. Pacjent <PERSON>Andrzej Wójcik</PERSON>, PESEL <PESEL>70011016780</PESEL>. <CHOROBA>rak jelita grubego</CHOROBA>. W <BADANIE>TK jamy brzusznej</BADANIE> progresja. Włączono <LEK>Irinotekan</LEK>. Leczenie w <SZPITAL>Narodowym Instytucie Onkologii</SZPITAL>."
+},
+{
+"text": "SOR pediatryczny. <DATA>18.02.2026</DATA>. Pacjent <PERSON>Filip Wrona</PERSON>, PESEL <PESEL>16021809876</PESEL>. Gorączka, kaszel. W <BADANIE>CRP</BADANIE> umiarkowanie podwyższone. Rozpoznano <CHOROBA>infekcję wirusową</CHOROBA>. Zalecono <LEK>Paracetamol</LEK>."
+}
+]
