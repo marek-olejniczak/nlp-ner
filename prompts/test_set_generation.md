@@ -14,33 +14,33 @@ ZASADY KRYTYCZNE (Zignorowanie ich zniszczy projekt):
    - Każdy otwarty znacznik MUSI być zamknięty tym samym tagiem. Bez zagnieżdżania.
    - Używaj WYŁĄCZNIE znaczników z listy poniżej, dokładnie w tej wielkości liter.
    - Oznaczaj TYLKO właściwą nazwę encji — bez słów kontekstowych (przyimków, nazw oddziałów, tytułów lekarskich). Przykłady:
-     - DOBRZE: `na kardiologię <SZPITAL>Szpitala Bielańskiego</SZPITAL>`
-     - ŹLE: `<SZPITAL>na kardiologię Szpitala Bielańskiego</SZPITAL>`
+     - DOBRZE: `na kardiologię <HOSPITAL>Szpitala Bielańskiego</HOSPITAL>`
+     - ŹLE: `<HOSPITAL>na kardiologię Szpitala Bielańskiego</HOSPITAL>`
      - DOBRZE: `konsultował dr <PERSON>Jan Nowak</PERSON>`  (bez „dr")
-   - Granica znacznika ma obejmować dokładnie nazwę encji — nie doklejaj sąsiednich znaków interpunkcyjnych ani jednostek (np. `<LEK>Acard</LEK> 75mg`, nie `<LEK>Acard 75mg</LEK>`).
+   - Granica znacznika ma obejmować dokładnie nazwę encji — nie doklejaj sąsiednich znaków interpunkcyjnych ani jednostek (np. `<DRUG>Acard</DRUG> 75mg`, nie `<DRUG>Acard 75mg</DRUG>`).
 
 5. FORMAT WYJŚCIOWY: Zwróć wynik WYŁĄCZNIE jako czysty, poprawny obiekt JSON (tablica obiektów). Żadnego tekstu przed i po. Każdy obiekt ma jedno pole `"text"` zawierające fragment z inline tagami.
 
-Dozwolone znaczniki (WYŁĄCZNIE te):
-- `<PERSON>`   — imię i nazwisko osoby (pacjent, lekarz) — bez tytułów
-- `<CHOROBA>`  — jednostka chorobowa, rozpoznanie, objaw
-- `<LEK>`      — nazwa leku lub substancji czynnej
-- `<BADANIE>`  — badanie, zabieg, procedura (EKG, morfologia, rtg klatki, USG jamy brzusznej...)
-- `<SZPITAL>`  — nazwa szpitala / placówki (sama nazwa, bez oddziału)
-- `<ADRES>`    — adres (ulica/al. + numer, opcjonalnie kod pocztowy + miasto)
-- `<DATA>`     — data w dowolnym formacie
-- `<PESEL>`    — 11-cyfrowy numer PESEL
-- `<TELEFON>`  — polski numer telefonu (9 cyfr)
+Dozwolone znaczniki (WYŁĄCZNIE te — nazwy etykiet po angielsku, treść po polsku):
+- `<PERSON>`    — imię i nazwisko osoby (pacjent, lekarz) — bez tytułów
+- `<DISEASE>`   — jednostka chorobowa, rozpoznanie, objaw
+- `<DRUG>`      — nazwa leku lub substancji czynnej
+- `<TEST>`      — badanie, zabieg, procedura (EKG, morfologia, rtg klatki, USG jamy brzusznej...)
+- `<HOSPITAL>`  — nazwa szpitala / placówki (sama nazwa, bez oddziału)
+- `<ADDRESS>`   — adres (ulica/al. + numer, opcjonalnie kod pocztowy + miasto)
+- `<DATE>`      — data w dowolnym formacie
+- `<PESEL>`     — 11-cyfrowy numer PESEL
+- `<PHONE>`     — polski numer telefonu (9 cyfr)
 
 Realizm danych PII:
 - PESEL: dokładnie 11 cyfr.
-- TELEFON: realistyczny 9-cyfrowy numer, mieszaj formaty zapisu (601234567, 601 234 567, +48 601 234 567).
-- DATA: mieszaj formaty (15.10.2023, 20 marca 2018 r., 2023-10-15).
-- ADRES: ul./al. + nazwa + numer, czasem kod pocztowy + miasto.
+- PHONE: realistyczny 9-cyfrowy numer, mieszaj formaty zapisu (601234567, 601 234 567, +48 601 234 567).
+- DATE: mieszaj formaty (15.10.2023, 20 marca 2018 r., 2023-10-15).
+- ADDRESS: ul./al. + nazwa + numer, czasem kod pocztowy + miasto.
 
 Struktura JSON ma wyglądać dokładnie tak (to jest tylko przykład formatowania, nie kopiuj tej treści):
 [
   {
-    "text": "Wypis z SOR, <DATA>14.03.2024</DATA>. Pacjent <PERSON>Jan Nowak</PERSON>, PESEL <PESEL>85031512345</PESEL>, zam. <ADRES>ul. Polna 7, 30-001 Kraków</ADRES>, tel. <TELEFON>601 234 567</TELEFON>. Zgłosił się z bólem w klatce, w <BADANIE>EKG</BADANIE> cechy <CHOROBA>STEMI</CHOROBA>. Podano <LEK>Acard</LEK>, przekazano na kardiologię <SZPITAL>Szpitala Wojewódzkiego</SZPITAL>. Zlecono <BADANIE>troponiny</BADANIE>."
+    "text": "Wypis z SOR, <DATE>14.03.2024</DATE>. Pacjent <PERSON>Jan Nowak</PERSON>, PESEL <PESEL>85031512345</PESEL>, zam. <ADDRESS>ul. Polna 7, 30-001 Kraków</ADDRESS>, tel. <PHONE>601 234 567</PHONE>. Zgłosił się z bólem w klatce, w <TEST>EKG</TEST> cechy <DISEASE>STEMI</DISEASE>. Podano <DRUG>Acard</DRUG>, przekazano na kardiologię <HOSPITAL>Szpitala Wojewódzkiego</HOSPITAL>. Zlecono <TEST>troponiny</TEST>."
   }
 ]

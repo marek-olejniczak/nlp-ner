@@ -30,7 +30,7 @@ from .dataset import ID2LABEL, LABEL2ID, LABELS, build_datasets, load_jsonl, rep
 from .metrics import compute_metrics
 
 REPO_ROOT = Path(__file__).parent.parent
-DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset_new.jsonl"
+DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset.jsonl"
 DEFAULT_MODEL = "allegro/herbert-base-cased"
 
 
