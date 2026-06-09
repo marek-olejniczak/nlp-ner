@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Raport <TEST>angiografii wieńcowej</TEST>, <DATE>04.08.2024</DATE>. <PERSON>Remigiusz Nowak</PERSON>, PESEL <PESEL>59041756789</PESEL>. Lewostronny układ koronalny. <DISEASE>Zwężenie 50% w RCA</DISEASE>, <DISEASE>zwężenie 70% w LAD</DISEASE>, <DISEASE>zwężenie 85% w CX</DISEASE>. Decyzja: leczenie zachowawcze, interwencja zaplanowana jeśli pogorszenie objawów. Zalecenie: <DRUG>Dualismos</DRUG> (ASA 100mg + Klopidogrel 75mg), <DRUG>Ezetymib</DRUG> 10mg."
+  },
+  {
+    "text": "Opis biopsji skóry, <DATE>09.05.2024</DATE>. Pobór z obszaru <ADDRESS>lewego przedramienia</ADDRESS> u <PERSON>Ireny Nowaczyk</PERSON>, PESEL <PESEL>64071567892</PESEL>. Rozpoznanie kliniczne: podejrzenie <DISEASE>włókniakowatości</DISEASE>. Wynik patologiczny: <DISEASE>twardzina lokomotorii</DISEASE> — przebiegający proces zapalny, włóknienie dermis. Pacjentka kierowana do <HOSPITAL>Kliniki Chorób Tkanki Łącznej</HOSPITAL>."
+  },
+  {
+    "text": "Opis USG brzucha, <DATE>16.04.2024</DATE>. Pacjent pediatryczny: <PERSON>Daniel Chmielewski</PERSON>, wiek 8 lat, PESEL <PESEL>16040816789</PESEL>, zam. <ADDRESS>ul. Powstańców Śląskich 55, 40-200 Katowice</ADDRESS>. Wznowienie <DISEASE>bólu brzucha</DISEASE> w projekcji pęcherzyka. W <TEST>USG</TEST> <DISEASE>cholecystitis</DISEASE> o nieznanej etiologii. Zalecono konsultację gastroenterologa pediatrycznego i <TEST>hepatogram</TEST>."
+  },
+  {
+    "text": "Recepta POZ, <DATE>5.06.2024</DATE>. Lekarz <PERSON>dr Anna Kowalska</PERSON> dla pacjenta <PERSON>Piotr Zaremba</PERSON>, PESEL <PESEL>92031445678</PESEL>, tel. <PHONE>512 667 890</PHONE>. Rozpoznanie: <DISEASE>POChP</DISEASE>. Ordynuje: <DRUG>Seretide</DRUG> 50/500 mcg inhal. x 2/d, <DRUG>Spiriva</DRUG> 18 mcg x 1/d, <DRUG>Ventolin</DRUG> prn. Odbiór w <HOSPITAL>Aptece Pod Arkadami</HOSPITAL>, ul. Kopernika 3, Poznań."
+  },
+  {
+    "text": "Notatka pierwszej wizyty dermatologicznej (przychodni), <DATE>29.05.2024</DATE>. <PERSON>Joanna Michalak</PERSON>, PESEL <PESEL>88022312345</PESEL>, <ADDRESS>ul. Świętojańska 12, 80-835 Gdańsk</ADDRESS>, <PHONE>605 678 901</PHONE>. Skarga: <DISEASE>trądzik różowaty</DISEASE> twarzy. <TEST>Dermoskopia</TEST> — cechy charakterystyczne. Rozpoczęcie: <DRUG>Metronidazol</DRUG> żel 0.75%, <DRUG>Azelaina</DRUG> krem 20%."
+  },
+  {
+    "text": "Notatka lekarska. <PERSON>Cezary Wojtczak</PERSON>, tel. <PHONE>721 567 890</PHONE>. <DISEASE>Zaparcie</DISEASE> oporne na leczenie. Rekomendacja: <TEST>defekografia</TEST>, dieta wysokowłóknista, <DRUG>Macrogol</DRUG> 17g/dobę."
+  },
+  {
+    "text": "Konsultacja dermatologiczna (notatka elektroniczna), <DATE>28.04.2024</DATE>. <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>86072134567</PESEL>, <ADDRESS>ul. Chłodna 34, 00-867 Warszawa</ADDRESS>, <PHONE>721 456 789</PHONE>. Pacjent z <DISEASE>atopowym zapaleniem skóry (AZS)</DISEASE> u 8-latka. <TEST>Badanie kultury mykologicznej</TEST> planuje się. Zalecone: <DRUG>Elocom</DRUG> maść 2x dziennie, <DRUG>Cetaphil</DRUG> do mycia."
+  },
+  {
+    "text": "Notatka SOR, <DATE>15.09.2024</DATE>. Pacjentka <PERSON>Joanna Kisiel</PERSON>, PESEL <PESEL>89072345678</PESEL>, zam. <ADDRESS>Piłsudskiego 56, 90-000 Łódź</ADDRESS>. Przyjęta z <DISEASE>atakiem wymiocin, zawrotów głowy, zmęczenia</DISEASE>. <TEST>Glikemia 356 mg/dl, ketonemia +2</TEST>. Rozpoznanie: <DISEASE>diabetyczna ketoacydoza</DISEASE>. Infuzja, insulin, monitoring. Tel. kontaktowy <PHONE>723 567 890</PHONE>."
+  },
+  {
+    "text": "Recepta elektroniczna (pielęgnacja dermatologiczna), <DATE>8.08.2024</DATE>. Lekarz: <PERSON>Dr Ewa Plewacka</PERSON>. Pacjent: <PERSON>Ryszard Szust</PERSON>, PESEL <PESEL>55011156789</PESEL>, <ADDRESS>ul. Warszawska 123, 31-155 Kraków</ADDRESS>, <PHONE>668 345 678</PHONE>. Wskazanie: <DISEASE>stárość skóry (photo-aging)</DISEASE>. Zlecono: <DRUG>Retinol 1%</DRUG> krem, <DRUG>Vitamin C</DRUG> serum, <DRUG>Sunscreen SPF 50</DRUG>."
+  },
+  {
+    "text": "Wynik <TEST>RTG klatki</TEST>, <DATE>03.07.2024</DATE>. Pacjent <PERSON>Robert Szymański</PERSON>, PESEL <PESEL>58041256789</PESEL>, tel. <PHONE>512 789 345</PHONE>. Widoczny naciek w <DISEASE>górnym płacie prawego płuca</DISEASE> o wymiarach 4x3cm. Zalecono <TEST>TK z kontr.</TEST> oraz konsultacja <HOSPITAL>Szpitalnego Oddziału Onkologicznego</HOSPITAL>."
+  },
+  {
+    "text": "Przepis z poradni nerwicznej, <DATE>17.06.2024</DATE>, <HOSPITAL>Poradnia Neuropsychiatrii, PCZ nr 1</HOSPITAL>. Dr <PERSON>Aleksandra Szymczak</PERSON>. Pacjent <PERSON>Marek Dąbrowski</PERSON>, PESEL <PESEL>68071512345</PESEL>, tel. <PHONE>601 123 456</PHONE>. Stan <DISEASE>zaburzenia snu</DISEASE> wynikający z <DISEASE>bezdechu sennego</DISEASE>. Zalecono <TEST>polisomnografię</TEST> na <HOSPITAL>Ośrodek Medycyny Snu</HOSPITAL>, przepisano <DRUG>Melatonina</DRUG> 5mg przed snem."
+  },
+  {
+    "text": "E-recepta, <DATE>6.06.2024</DATE>. <PERSON>Wanda Głowacka</PERSON>, PESEL <PESEL>82121234567</PESEL>, <ADDRESS>Szczecin, ul. Matejki 15/1</ADDRESS>. <DRUG>Metoprolol</DRUG> 50mg 1x dziennie na <DISEASE>tachykardię</DISEASE>. Termin wizyty za 6 tygodni. Tel. <PHONE>607 666 777</PHONE>."
+  },
+  {
+    "text": "<DATE>14.05.2025</DATE>. Notatka SOR, <HOSPITAL>Szpital Świętej Anny w Warszawie</HOSPITAL>. <PERSON>Jarosław Kowalczyk</PERSON>, PESEL <PESEL>65010834567</PESEL>, <ADDRESS>ul. Senatorska 12, Warszawa</ADDRESS>. Uraz ręki podczas pracy — <DISEASE>złamanie trzeciej phalangi palca środkowego</DISEASE>. <TEST>RTG ręki</TEST> — bez przesunięcia. Opatrunek i immobilizacja. <DRUG>Ibuprofen 400mg</DRUG> 3xd."
+  },
+  {
+    "text": "Kardiogram spoczynkowy, <DATE>24.07.2024</DATE>. <PERSON>Lucyna Czarna</PERSON>, PESEL <PESEL>59081834567</PESEL>, <ADDRESS>Mickiewicza 45, 02-495 Warszawa</ADDRESS>. Zapis: <DISEASE>mierzbliwość komorowa</DISEASE> — bigeminia. HR 62, RR normalne w zapisie. Zalecenie: <TEST>Holter 24h</TEST> i konsultacja przed zwiększeniem <DRUG>Betaksolu</DRUG>."
+  },
+  {
+    "text": "Notatka SOR, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Andrzej Kowalski</PERSON>, PESEL <PESEL>65082314567</PESEL>, zam. <ADDRESS>ul. Mickiewicza 12, 50-123 Wrocław</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Krwawienie z j.d. od 3 dni. W obrazie <TEST>USG jamy</TEST> masę w <DISEASE>jelicie grubym</DISEASE>. Wysłano na <HOSPITAL>Szpital Świętej Anny</HOSPITAL> do onkochirurgii."
+  },
+  {
+    "text": "Notatka dentystyczna pediatryczna, <DATE>8.10.2023</DATE>. <PERSON>Patryk Hoffman</PERSON>, wiek 7 lat, PESEL <PESEL>16101610345</PESEL>, <ADDRESS>ul. Gdańska 22, 80-000 Gdańsk</ADDRESS>. Pacjent ze <DISEASE>próchnicą</DISEASE> dwóch zębów molowych. Przeprowadzono <TEST>plombowanie</TEST> pod niskim stężeniem podtlenku azotu. Zalecono higienerę jamy ustnej i fluor żel co tydzień."
+  },
+  {
+    "text": "Raport <TEST>angiografii mózgu</TEST>, <DATE>2024-05-31</DATE>, <HOSPITAL>Szpital Uniwersytecki, Oddział Radiologii Interwencyjnej</HOSPITAL>. <PERSON>Zygmunt Twardowski</PERSON>, PESEL <PESEL>56022334567</PESEL>. Wskazanie: <DISEASE>podejrzenie niedokrwistości pnia mózgu</DISEASE>. Znalezienie: zwężenie stenozujące (85%) arterii wertebralnej lewej. Wykonano <TEST>angioplastykę ze stentowaniem</TEST>. Post-procedura: drożność przywrócona. Pacjent bez powikłań."
+  },
+  {
+    "text": "Notatka z SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Marek Szydłowski</PERSON>, PESEL <PESEL>78042156789</PESEL>, ul. <ADDRESS>Warszawska 23, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>501 234 890</PHONE>. Zgłasza ostry ból w klatce piersiowej od 2h. W <TEST>EKG</TEST> ST elevacja w odprowadzeniach II, III, aVF — podejrzenie <DISEASE>STEMI</DISEASE>. RR 165/95, HR 102. Podano <DRUG>Acard</DRUG> 500mg, <DRUG>Clopidogrel</DRUG> loading 600mg, start heparyny. Transport na <HOSPITAL>Szpital Uniwersytecki w Gdańsku</HOSPITAL>."
+  },
+  {
+    "text": "Notatka lekarska POZ, <DATE>11.06.2024</DATE>. <PERSON>Magdalena Lewandowska</PERSON>, PESEL <PESEL>86102345678</PESEL>, <ADDRESS>Poznań, ul. Święty Marcin 78/2</ADDRESS>. Przychód. <DISEASE>kaszel</DISEASE> od 5 dni. Bez gorączki. W <TEST>RTG klatki</TEST> norma. Rozp.: <DRUG>Ambrobene</DRUG> syrop 15ml 3x dziennie. Tel. <PHONE>515 222 333</PHONE>."
+  },
+  {
+    "text": "Recepta, <DATE>12.09.2024</DATE>. <PERSON>Rozalia Nowak-Żak</PERSON>, PESEL <PESEL>69042345678</PESEL>, zam. <ADDRESS>ul. Pulaskiego 33/7, 12-300 Pisz</ADDRESS>. <DISEASE>Zwyrodnienie stawów rąk</DISEASE> — średniozaawansowane. <DRUG>Vitulin</DRUG> 3x dziennie, <DRUG>Apifors</DRUG> żel do masażu stawów. Rękawice rozgrzewające. Wizyta za 3 miesiące w <HOSPITAL>Poradni Zapalnych Chorób Stawów</HOSPITAL>."
+  },
+  {
+    "text": "Recepta POZ, <DATE>7.06.2024</DATE>. <PERSON>Jadwiga Tomczak</PERSON>, PESEL <PESEL>65051234561</PESEL>, <ADDRESS>Warszawa, ul. Raszyńska 8</ADDRESS>. Na <DISEASE>zapalenie pęcherza</DISEASE>: <DRUG>Nitrofurantoin</DRUG> 100mg 2x 7 dni. Tel. <PHONE>668 333 444</PHONE>."
+  },
+  {
+    "text": "Notatka ze zdarzenia na szkolnym punkcie opieki zdrowotnej, <DATE>30.01.2024</DATE>. Uczeń <PERSON>Kacper Grabowski</PERSON>, PESEL <PESEL>12010912345</PESEL>, klasa IV, tel. matki <PHONE>505 666 777</PHONE>. Uraz: złamanie przedramienia lewe <DATE>godz. 10:15</DATE>. <TEST>RTG potwierdza</TEST>: <DISEASE>złamanie trzonu kości promieniowej</DISEASE>. Przekazano na <HOSPITAL>SOR Szpital Dzieci</HOSPITAL>, <ADDRESS>Kraków, ul. Wielicka 265</ADDRESS>."
+  },
+  {
+    "text": "Epikryza z oddziału urologii, <HOSPITAL>Szpital Św. Józefa</HOSPITAL>, <DATE>22.10.2024</DATE>. Pacjent <PERSON>Andrzej Lewandowski</PERSON>, PESEL <PESEL>65031567890</PESEL>, po zabiegu <TEST>TURP</TEST> z powodu <DISEASE>hiperplazji prostaty</DISEASE>. Stan po operacji bez powikłań. Przepisano <DRUG>Omnic</DRUG> p.o. 1x dziennie, <DRUG>Ibuprofen</DRUG> na ból."
+  },
+  {
+    "text": "Konsultacja w poradni gruźlicy, <DATE>02.09.2024</DATE>. <PERSON>Zbigniew Rutkowski</PERSON>, PESEL <PESEL>61031578901</PESEL>, tel. <PHONE>603 789 456</PHONE>. Pacjent zgłasza <DISEASE>kaszel trwający 3 tygodnie z odkrztuszaniem krwi</DISEASE>. <TEST>RTG klatki</TEST> — zmiana miąższowa w płacie górnym p.p. <TEST>Test Tuberculeau</TEST> pozytywny. Wdrażamy <DRUG>Isoniazyd</DRUG>, <DRUG>Ryfampicynę</DRUG>, <DRUG>Pirazyynamid</DRUG>. Izolacja."
+  },
+  {
+    "text": "Notatka poradni onkologicznej, <DATE>13.09.2024</DATE>. <PERSON>Helena Borkowska</PERSON>, PESEL <PESEL>65121456789</PESEL>, <ADDRESS>ul. Szwajcarska 7, 02-593 Warszawa</ADDRESS>. Remisja <DISEASE>raka piersi stadium II</DISEASE> po <DRUG>Trastuzumab</DRUG> neoadjuvant + <TEST>radioterapii</TEST>. <TEST>USG piersi i pach</TEST> — bez zmian. Następna kontrola za 3 miesiące na <HOSPITAL>Centrum Onkologii Warszawa</HOSPITAL>."
+  },
+  {
+    "text": "Wypis ze szpitala, <DATE>12.10.2024</DATE>. <PERSON>Paulina Zajczyk</PERSON>, tel. <PHONE>691 234 567</PHONE>. Hospitalizowana na oddziale pulmonologii w <HOSPITAL>Szpital Św. Wincentego</HOSPITAL> z <DISEASE>zapaleniem płuc atypowym</DISEASE>. Leczenie empiryczne <DRUG>Azytromycyną</DRUG> 500 mg x 3 przez 5 dni. W trzecim dniu stanu pogorszyła się <DISEASE>duszność</DISEASE>, dołączono <DRUG>Cefotaksym</DRUG>. Wypisana w stanie dobrym."
+  },
+  {
+    "text": "Notatka SOR, <DATE>24.12.2023</DATE>. <PERSON>Ł. Woźniak</PERSON>, PESEL <PESEL>73010267890</PESEL>. Bóle brzucha, wymiotowanie. <TEST>USG brzucha</TEST> — powiększona trzustka, atypowe rozszerzenie dróg żółciowych. <DISEASE>Podejrzenie raka trzustki</DISEASE>. <TEST>CT br. natychmiastowo</TEST> w toku. Tel. pacjenta: <PHONE>512789123</PHONE>."
+  },
+  {
+    "text": "Przewód z <HOSPITAL>Oddziału Pediatrii Szpitala Miejskiego</HOSPITAL>, <DATE>16.05.2024</DATE>. Pacjent <PERSON>Dawid Śliwa</PERSON>, PESEL <PESEL>13040945678</PESEL>, wiek 7 lat, adres: <ADDRESS>Wrocław, ul. Strzelecka 12/3, 50-001</ADDRESS>. Rys stanu: gorączka, ból brzucha, wymioty. <TEST>USG jamy brzusznej</TEST>: powiększona wątroba (wymiar 8cm). Zalecenie: <TEST>markery wirusowe</TEST>, <TEST>LFT</TEST>."
+  },
+  {
+    "text": "Notatka POZ, <DATE>16.07.2024</DATE>. <PERSON>Irena Banasik</PERSON>, PESEL <PESEL>71032145678</PESEL>, tel. <PHONE>789 567 234</PHONE>. <DISEASE>Otyłość, prediabetes, nietolerancja glukozy</DISEASE>. Skierowanie na <TEST>badania genetyczne</TEST> do <HOSPITAL>Poradni Genetycznej</HOSPITAL>."
+  },
+  {
+    "text": "Raport z <TEST>densytometrii kostnej</TEST>, <DATE>24.03.2024</DATE>. Pacjent <PERSON>Urszula Nowak</PERSON>, PESEL <PESEL>15121956789</PESEL>, lat 14. Wskazanie: <DISEASE>zaburzenia wzrostu</DISEASE>. Wynik T-score: -0.9 (przedwczesne zmniejszenie gęstości kostnej). Zalecenie: <DRUG>Witamina D3</DRUG> 1000j.m. dziennie, dieta bogata w wapń."
+  },
+  {
+    "text": "Notatka SOR, <DATE>08.09.2023</DATE>. Pacjent <PERSON>Zygmunt Zając</PERSON>, PESEL <PESEL>59121234560</PESEL>, zam. <ADDRESS>ul. Krakowskie Przedmieście 15, 00-071 Warszawa</ADDRESS>. Uraz <DISEASE>cewki moczowej</DISEASE> po kateterezacji urologicznej w innej placówce. Krwawienie z cewki moczowej, znaczny dyskomfort. Założono cewnik suprapubiczny <TEST>Boyce</TEST>. Pilne skierowanie do <HOSPITAL>Szpitala Św. Rocha</HOSPITAL>."
+  },
+  {
+    "text": "Notatka z zakresu chirurgii plastycznej z <DATE>24.07.2024</DATE>. Pacjent <PERSON>Sławomir Wysocki</PERSON>, PESEL <PESEL>70041534567</PESEL>, zam. <ADDRESS>ul. Szkolna 8/2, 20-001 Lublin</ADDRESS>, tel. <PHONE>797 123 456</PHONE>. <DISEASE>Wyszczerbienie czoła spowodowane bliznowaceniem</DISEASE>. Zalecono <TEST>przeszczep tkanki tłuszczowej z autologicznego materiału brzusznego</TEST>. Plan zabiegu na <DATE>31.07.2024</DATE>."
+  },
+  {
+    "text": "E-recepta POZ, <DATE>15.04.2024</DATE>. <PERSON>Krystyna Szymczak</PERSON>, PESEL <PESEL>55020812345</PESEL>, tel. <PHONE>512 345 678</PHONE>. Rozpoznanie: <DISEASE>endometrioza</DISEASE> stadio III. Zlecenie: <DRUG>Dienogest</DRUG> 2 mg p.o., 1x1, przez 3 mcy. Wykonywane przez <HOSPITAL>Przychodnię Zdrojowa</HOSPITAL>. Lek dostępny w aptece pod kodem 5290."
+  },
+  {
+    "text": "Notatka z dyżuru nocnego SOR, <DATE>21.01.2024</DATE> <DATE>godz. 23:30</DATE>. Dziecko <PERSON>Łucja Warowska</PERSON>, PESEL <PESEL>15040934567</PESEL>, wiek 5 lat, adres: <ADDRESS>Gdańsk, ul. Warszawska 78/2, 80-250</ADDRESS>. Gorączka 39.8°C, osutka drobna, obrzęk oczu. <DISEASE>Podejrzenie różyczki wrodzonej</DISEASE>. Test: serowzakaŕ. Izolacja, konsultacja epidemiolog."
+  },
+  {
+    "text": "Notatka pogotowia, <DATE>02.10.2024</DATE>. Pacjent <PERSON>Marek Sawicki</PERSON>, PESEL <PESEL>73051834567</PESEL>, <ADDRESS>ul. Słodowa 7, 80-022 Gdańsk</ADDRESS>. Upadek z drabiny. <DISEASE>Złamanie obu przedramion</DISEASE>. <TEST>RTG obustronne</TEST> — złamania zmieszcze z przesunięciem. Gips bds, <DRUG>Ketanest</DRUG> i.m., tetanus. Skierowanie do <HOSPITAL>Szpital Ortopediczny</HOSPITAL>."
+  },
+  {
+    "text": "Konsultacja urologiczna, <DATE>19.05.2024</DATE>. Pacjent <PERSON>Roman Mazur</PERSON>, PESEL <PESEL>72091445678</PESEL>, zam. <ADDRESS>ul. Puławska 156, 02-595 Warszawa</ADDRESS>. Skierowanie od <PERSON>dr. Ewy Lewandowskiej</PERSON> z POZ. Skarżenie się na <DISEASE>częste oddawanie moczu</DISEASE> nocą (4–5x), bóle przy miktucji. W ostatnich <DATE>3 miesiące</DATE> — <DISEASE>zapalenia dróg moczowych</DISEASE> powtarzające się. <TEST>Badanie fizykalne</TEST>: prostata powiększona, niebolesna. <TEST>USG</TEST> — ognisko w prostati 1,5cm. Zalecono <TEST>biopsję prostaty</TEST> i <DRUG>Doxycyklina</DRUG> 100mg 1x dziennie profilaktycznie."
+  },
+  {
+    "text": "Konsultacja logopedy, <DATE>09.10.2024</DATE>. <PERSON>Irena Bielska</PERSON>, PESEL <PESEL>87041289567</PESEL>, <ADDRESS>ul. Mickiewicza 34/2, 50-001 Wrocław</ADDRESS>, tel. <PHONE>698 345 678</PHONE>. Po <DISEASE>udarze mózgu</DISEASE> zaobserwowana <DISEASE>afazja ekspresywna</DISEASE>. Zalecono intensywną <TEST>terapię logopedyczną</TEST> 2x tygodniu. Pacjent przyjęty do programu rehabilitacyjnego na <HOSPITAL>Szpitalu Rehabilitacyjnym \"Zdrowotnik\"</HOSPITAL>."
+  },
+  {
+    "text": "Notatka ambulatoryjna, <DATE>27.11.2024</DATE>. <PERSON>Ewa Lipska</PERSON>, PESEL <PESEL>80101123456</PESEL>, <ADDRESS>Żeromskiego 8, 31-001 Kraków</ADDRESS>, tel. <PHONE>505 678 901</PHONE>. Pacjentka 44 lata, bóle w klatce od 3 dni, związane z wysiłkiem. <TEST>EKG</TEST> bez zmian. <TEST>Troponina</TEST> ujemna. Po <TEST>teście wysiłkowym</TEST> — dodatnie pod względem <DISEASE>niedokrwienia</DISEASE> ściany dolnej. Zalecenie: <TEST>koronarografia</TEST> na <HOSPITAL>Szpital Św. Rafała</HOSPITAL>."
+  },
+  {
+    "text": "Recepta ze <HOSPITAL>Poradni Bólu</HOSPITAL>, <DATE>26.07.2024</DATE>. Dr <PERSON>Janusz Kowalski</PERSON>. <PERSON>Marek Piotrowski</PERSON>, PESEL <PESEL>66040567890</PESEL>, <ADDRESS>ul. Piastowska 12, 70-001 Szczecin</ADDRESS>, tel. <PHONE>663 234 567</PHONE>. <DISEASE>Ból neuropatyczny</DISEASE> po <DISEASE>herpes zoster</DISEASE> (post-herpetyczne neuralgia). Leczenie: <DRUG>Pregabalina</DRUG> 600mg/d (3x 200mg) + <DRUG>Tramadol</DRUG> 50mg 2-3x dziennie doraźnie."
+  },
+  {
+    "text": "Konsultacja ortopedyczna, <DATE>06.04.2024</DATE>, <HOSPITAL>Klinika Medycyny Sportowej WAM</HOSPITAL>. <PERSON>Dorota Szewczyk</PERSON>, PESEL <PESEL>84072345678</PESEL>. Bóle stawu biodrowego lewego po biegu maratonskiego. <DISEASE>Sindrom femoroacetikularnyx impingementu FAI lewego</DISEASE>. <TEST>RTG miednicy z rzutami specjalnymi</TEST> + <TEST>MRI biodrowe</TEST>. <DRUG>Naproxen 500mg</DRUG> 2xd., fizjoterapia."
+  },
+  {
+    "text": "Recepta dla pacjenta z <HOSPITAL>Szpitala Psychiayztrycznego</HOSPITAL>, <DATE>31.05.2024</DATE>. <PERSON>Gabriela Nowak</PERSON>, PESEL <PESEL>79081245670</PESEL>. Wskazanie: <DISEASE>psychosomatyczne swędzenie skóry</DISEASE> (dermatitis factitia). Przepisano: <DRUG>Sertralinę</DRUG> 50mg p.o., <DRUG>Hydroxyzinę</DRUG> 50mg na noc, <DRUG>Eucerin</DRUG> maść rekonwaleszencyjna na ciało. Psychoterapia obowiązkowa."
+  },
+  {
+    "text": "Wypis ambulatoryjny, <DATE>10.01.2023</DATE>. <PERSON>Zbigniew Fajowski</PERSON>, PESEL <PESEL>57062345678</PESEL>, zam. <ADDRESS>ul. Mickiewicza 67, 31-126 Kraków</ADDRESS>, tel. <PHONE>723 111 222</PHONE>. Wizyty w <HOSPITAL>Poradni Urologicznej Szpitala Czerniakowskiego</HOSPITAL> <DATE>od 04.01.2023</DATE>. Rozpoznanie: <DISEASE>guz pęcherza moczowego</DISEASE> — <DISEASE>carcinoma in situ</DISEASE>. Plan: <TEST>cystektomia radykalna</TEST> z utworzeniem neobęcherza z pętli jelita. Pacjent skierowany na konsultację anestezjologiczną. Data zabiegu planowana na <DATE>02.02.2023</DATE>."
+  },
+  {
+    "text": "Recepta, wydana <DATE>07.04.2024</DATE>. <PERSON>Urszula Ostrańska</PERSON>, PESEL <PESEL>58062156789</PESEL>, wiek 65, <ADDRESS>Łódź, ul. Aleksandrów 44</ADDRESS>, tel <PHONE>723987654</PHONE>. Rozpoznanie: <DISEASE>AF CHA2DS2-VASc 4</DISEASE>, <DISEASE>HT III st.</DISEASE>. Leki: <DRUG>Apixaban</DRUG> 5mg 2x1, <DRUG>Amlodipina</DRUG> 5mg 1x1, <DRUG>Hydrochlorotyzad</DRUG> 25mg 1x1."
+  },
+  {
+    "text": "Notatka ze zmiany, <DATE>15.04.2024</DATE>. <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>92061823456</PESEL>. Po operacji <DISEASE>artroskopii kolanka</DISEASE> 2 dni temu. Zgłasza bóle, m.in. nocne, zasiady. <TEST>Objawy Lessera</TEST> dodatnie. Kontrola <TEST>USG</TEST> w <HOSPITAL>Ośrodek Zdrowia nr 5</HOSPITAL> za 3 dni. <DRUG>Ibuprofen</DRUG> 400mg x2 dziennie, <DRUG>Tramal</DRUG> doraźnie."
+  },
+  {
+    "text": "Konsultacja specjalistyczna z <DATE>23.03.2024</DATE>. <PERSON>Joanna Sikora</PERSON>, PESEL <PESEL>84102312345</PESEL>. Pacjentka z <DISEASE>bólami podczas stosunku (dyspareunią)</DISEASE>. <TEST>USG przechwytowe</TEST> — bez zmian. Sugestia: <DISEASE>waginizm</DISEASE> lub <DISEASE>zapalenie pochwy</DISEASE>. Zalecono <DRUG>Fluocortolon</DRUG> krem 0.05% lokalnie i sesje psychoterapii. Powrót za 4 tygodnie."
+  },
+  {
+    "text": "Recepta dla pielęgniarki szkolnej, <DATE>01.06.2024</DATE>. <PERSON>Kamila Nowak</PERSON>, PESEL <PESEL>11062012367</PESEL>, zam. <ADDRESS>ul. Szkolna 12, 31-001 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>zakaźne zapalenie keratyny włosów</DISEASE> (zaraźliwa łojotokoza). Przepisano: <DRUG>Octyl benzyl ether</DRUG> 1% do włosów 3x w tygodniu, <DRUG>Nizoral</DRUG> szampon do mycia codziennie. Unikać dzielenia przedmiotów toaletowych. Powtórka za 2 tygodnie."
+  },
+  {
+    "text": "Notatka SOR, <DATE>8.06.2024</DATE>. Pacjent <PERSON>Krzysztof Dąbrowski</PERSON>, PESEL <PESEL>78051234567</PESEL>, zam. <ADDRESS>ul. Nowy Świat 15, 00-020 Warszawa</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Stanów lękowych, bez snu od 3 dni. W <TEST>rozmowie psychiatrycznej</TEST> ujawnia myśli samobójcze. <DRUG>Lorazepam</DRUG> 2 mg i.m., hospitalizacja na oddział zamknięty."
+  },
+  {
+    "text": "Opis zabiegu, <DATE>08.06.2024</DATE>. <PERSON>Lucyna Lewandowska</PERSON>, PESEL <PESEL>59111234567</PESEL>. <TEST>Zabiegi na kości piszczelowej</TEST> — wycięcie tkanki martwej. <DISEASE>Martwica rozległa</DISEASE> w przebiegu <DISEASE>cukrzycy</DISEASE>. Biopeptyd, czyszczenie rany, opatrunek jałowy. Pacjentka na <HOSPITAL>Oddział Chirurgii Ogólnej</HOSPITAL>."
+  },
+  {
+    "text": "E-recepta, <DATE>21.04.2025</DATE>. <PERSON>Katarzyna Nowakowska</PERSON>, PESEL <PESEL>89012334455</PESEL>, zam. <ADDRESS>ul. Piotrkowska 88, 90-001 Łódź</ADDRESS>. <DISEASE>Zaburzenie snu typu insomnia</DISEASE>. <DRUG>Ambien</DRUG> 5mg na noc, <DRUG>Melatonin</DRUG> 10mg. Refundacja ważna. <TEST>Test latencji snu</TEST> zaplanowany. Tel. gabinetu: <PHONE>424567890</PHONE>."
+  },
+  {
+    "text": "Konsultacja neurochirurgiczna, <DATE>27.02.2024</DATE>. <PERSON>Ewa Sochacka</PERSON>, PESEL <PESEL>92031845289</PESEL>, <ADDRESS>ul. Słoneczna 14/2, 85-001 Bydgoszcz</ADDRESS>, tel. <PHONE>512 678 901</PHONE>. Pacjentka z chronicznym bólem głowy, cechy <DISEASE>guza mózgu</DISEASE> w <TEST>MRI</TEST>. Rozważana operacyjna resekcja guza w ciągu 2-3 tyg. na <HOSPITAL>Klinice Neurochirurgii Uniwersytetu Medycznego</HOSPITAL>. Wstępne badania laboratoryjne zalecone."
+  },
+  {
+    "text": "E-recepta wystawiona <DATE>04.06.2024</DATE>. <PERSON>Benedykt Sądecki</PERSON>, PESEL <PESEL>68091234563</PESEL>, tel. <PHONE>789 456 123</PHONE>. Rozpoznanie: <DISEASE>kontaktowe zapalenie skóry na rękach</DISEASE> — uczulenie na nikiel. Przepisano: <DRUG>Hydrocortisone</DRUG> maść 1% 3x dziennie na 7 dni, <DRUG>Avène Thermal Spring Water</DRUG> do kąpieli, <DRUG>Cetaphil</DRUG> do mycia. Unikać biżuterii z niklu."
+  },
+  {
+    "text": "Konsultacja neurologa dziecinki, <DATE>19.04.2024</DATE>. Pacjent <PERSON>Grzegorz Nowak</PERSON>, ur. <DATE>03.12.2014</DATE>, PESEL <PESEL>14120356789</PESEL>, tel. opiekuna <PHONE>666 333 444</PHONE>. Wskazanie: <DISEASE>bóle głowy napięciowe</DISEASE>. Badanie neurologiczne: norma. Zalecenie: <DRUG>Paracetamol</DRUG> p.o., psychoedukacja rodziców."
+  },
+  {
+    "text": "Epikryza <DATE>13.06.2024</DATE>. <PERSON>Marek Dominik</PERSON>, PESEL <PESEL>68021256789</PESEL>, <ADDRESS>al. Solidarności 156, 80-864 Gdańsk</ADDRESS>, tel. <PHONE>608 789 012</PHONE>. Pobyt szpitalny: <DATE>08.06—13.06.2024</DATE> z powodu <DISEASE>zapalenia worka żółciowego</DISEASE>. <TEST>USG jamy brzusznej</TEST> — kamienie w pęcherzyku. <TEST>LFT</TEST> podwyższone. <DRUG>Cefazoline</DRUG> 1g i.v. co 8 godz, <DRUG>Metronidazol</DRUG> 500 mg. Pacjent wypisany w dobrym stanie z zaleceniem <TEST>cholecystektomii</TEST> za 6-8 tygodni."
+  },
+  {
+    "text": "Epikryza ze <HOSPITAL>Szpitala Bielańskiego, Oddział Udarów Mózgu</HOSPITAL>, <DATE>2024-05-20</DATE>. <PERSON>Jan Lipski</PERSON>, PESEL <PESEL>61042234567</PESEL>, zam. <ADDRESS>ul. Puławska 18/5, 02-514 Warszawa</ADDRESS>. tel. <PHONE>789 234 567</PHONE>. Przyjęty z <DISEASE>udarem niedokrwiennym w terenie zaopatrzenia MCA</DISEASE>. <TEST>CT głowy przy przyjęciu</TEST> potwierdza niedowład połowiczy lewy. Włączono <DRUG>Clopidogrel</DRUG> 75mg + <DRUG>ASA</DRUG> 75mg, <TEST>USG karotydy</TEST> — zwężenie 70%. Wypisany ze stałą <DRUG>Atorwastatyna</DRUG> 40mg."
+  },
+  {
+    "text": "Notatka konsultacji chirurgicznej, <DATE>08.12.2024</DATE>. Pacjent <PERSON>Jerzy Dobrowolski</PERSON>, PESEL <PESEL>64081145678</PESEL>, tel. <PHONE>604 456 789</PHONE>. Stan po <TEST>appendektomii</TEST> 6 miesięcy temu. Teraz: <DISEASE>adhezje</DISEASE> powodujące <DISEASE>niedrożność przerywaną</DISEASE>. Leczenie zachowawcze, <DRUG>Buscopan</DRUG> 10mg i.m., dieta."
+  },
+  {
+    "text": "Notatka ambulatoryjna, <DATE>06.06.2024</DATE>, godz. 10:30. Pacjent <PERSON>Zbigniew Kamiński</PERSON>, PESEL <PESEL>71042345678</PESEL>, zam. <ADDRESS>ul. Mickiewicza 34, 31-120 Kraków</ADDRESS>. Zgłasza się z kaszlem produktywnym, zmęczeniem. Ostatnio przebył <DISEASE>zapalenie płuc</DISEASE>. <TEST>RTG</TEST> — przedłużająca się gojąca się zmiana. <DRUG>Izoniazyd</DRUG> 300 mg x 1/d — podejrzenie <DISEASE>gruźlicy</DISEASE>. Wysłano na <TEST>test tuberkulinowy</TEST>. Tel.: <PHONE>502 333 221</PHONE>."
+  },
+  {
+    "text": "Notatka z diagnostyki — spektrofotometria, <DATE>22.05.2024</DATE>. Pacjentka <PERSON>Joanna Kamińska</PERSON>, PESEL <PESEL>86121234565</PESEL>. <TEST>Spektrofotometryczne badanie pieprzyka</TEST> na plecach — wynik: zmiana niezłośliwa, cechy łagodne. Zalecono obserwację co 6 miesięcy. Brak konieczności biopsji lub usunięcia."
+  },
+  {
+    "text": "Opis <TEST>FGDS</TEST>, <DATE>30.05.2024</DATE>. <PERSON>Zofia Babińska</PERSON>, zam. <ADDRESS>Białystok, ul. Warszawska 102/4</ADDRESS>. <DISEASE>Wrzód pyloru</DISEASE> z cechami <DISEASE>fibrinolysis</DISEASE>. <TEST>Biopsja</TEST> aby wykluczyć <DISEASE>złośliwość</DISEASE>. <DRUG>Omeprazol</DRUG> 40mg 2x dziennie przez 12 tygodni."
+  },
+  {
+    "text": "<DATE>27.07.2024</DATE>, pacjent <PERSON>Andrzej Przybylski</PERSON>, PESEL <PESEL>68121234567</PESEL>, tel. <PHONE>664 123 789</PHONE>. <DISEASE>Zatrucie rozpuszczalnikiem</DISEASE> — pracownik w fabryce inhalował pary. <DISEASE>Zespół drażnienia dróg oddechowych</DISEASE>. SpO2 94%, podano <DRUG>tlen</DRUG>. <TEST>Obserwacja</TEST> 4 h, poprawa. Wypisz do domu."
+  },
+  {
+    "text": "Raport z <HOSPITAL>Kliniki Chirurgii Urazowej UW</HOSPITAL>, <DATE>15.12.2025</DATE>. <PERSON>Krzysztof Adamski</PERSON>, PESEL <PESEL>68062378901</PESEL>. <DISEASE>Złamanie trzonu kości piszczelowej i fibuli obustronnie</DISEASE> po upadku ze schodów. <TEST>TK obu wcinki</TEST> — fragmenty wymagające stabilizacji. <TEST>ORIF śrubami</TEST> zaplanowana. <DRUG>Gentamycyna 240mg</DRUG> i.v., <DRUG>Tramadol 100mg</DRUG> co 6h."
+  },
+  {
+    "text": "Konsultacja specjalisty, <DATE>19.02.2026</DATE>. <PERSON>Stanisława Wójcik</PERSON>, PESEL <PESEL>85091234567</PESEL>, zam. <ADDRESS>ul. Słoneczna 44, 50-500 Wrocław</ADDRESS>, tel. <PHONE>602 789 012</PHONE>. Obserwacja pacjentki z <DISEASE>neuropatią diabetyczną</DISEASE>. <TEST>Elektromiografia</TEST> i <TEST>EMG</TEST> potwierdzone objawy. Zalecono <DRUG>Pregabalinę</DRUG> 300mg dziennie rozłożoną na dawki. Pacjentka pod opieką na <HOSPITAL>Poradni Neurologicznej Szpitala Bielańskiego</HOSPITAL>."
+  },
+  {
+    "text": "Notatka ze spłością, <DATE>26.11.2024</DATE>. <PERSON>Joanna Laskowska</PERSON>, PESEL <PESEL>65081134567</PESEL>, tel. <PHONE>512 789 234</PHONE>. Pacjentka hospitalizowana z powodu <DISEASE>zaprzestania oddychania</DISEASE> w zaawansowanym <DISEASE>raku płuca SCLC</DISEASE>. Zastosowano <DRUG>Morphina</DRUG> i.v. oraz <DRUG>Midazolam</DRUG> w celu sedacji paliatywnej. Rodzina poinformowana. Prognoza tygodniowa."
+  },
+  {
+    "text": "Epikryza ze <HOSPITAL>Szpital św. Zofii</HOSPITAL>, <DATE>09.12.2024</DATE>. <PERSON>Iwona Olejnik</PERSON>, PESEL <PESEL>81051823456</PESEL>. Pobyt 10 dni, <DISEASE>hyperglicemia z zapaleniem trzustki</DISEASE>. <TEST>Amylase 520 j/l, lipase 780 j/l</TEST>. Leczenie: <DRUG>Insulin IV</DRUG>, infuzje, NPO. Trzustka bez zmian strukturalnych. Wysłana na obserwację gastroenterologa."
+  },
+  {
+    "text": "<DATE>19.11.2023</DATE>, SOR nocny. <PERSON>Jolanta Łoś</PERSON>, 62 lata, PESEL <PESEL>62111245678</PESEL>, <ADDRESS>ul. Grzybowa 17, Wrocław</ADDRESS>. <DISEASE>Bóle brzucha</DISEASE> kolkowe, <DISEASE>wymioty</DISEASE>. W <TEST>RTG brzucha</TEST> obraz „stop\" niedrożności. <TEST>USG</TEST> powiększenie pętli. Hospitalizacja — podejrzenie <DISEASE>niedostania żółciaka</DISEASE>."
+  },
+  {
+    "text": "Dyżur SOR, <DATE>14.11.2024</DATE>. <PERSON>Anna Kowalska</PERSON>, PESEL <PESEL>92031645678</PESEL>, tel. <PHONE>722 456 789</PHONE>. <DISEASE>Bóle brzucha</DISEASE> ostry, <DISEASE>wymioty</DISEASE>. Wywiad: apendectomia 5 lat temu. W <TEST>RTG brzucha</TEST> bez zmian ostrych. <TEST>Morfologia</TEST>: WBC 7.2, <DRUG>Paracetamol</DRUG> 500mg p.o., rozpoznanie <DISEASE>gastroenteritis</DISEASE>."
+  },
+  {
+    "text": "Raport <TEST>holtera</TEST>, <DATE>18.07.2024</DATE>. <PERSON>Jerzy Krawczyk</PERSON>, PESEL <PESEL>56042134567</PESEL>. Średnia HR 71/min, maks 118. Zanotowano 47 pojedynczych przedwczesnych skurczów komorowych (PVC). Brak paroksyzmów <DISEASE>MF</DISEASE>. Zalecenie: obserwacja, kontakt jeśli pojawią się objawy."
+  },
+  {
+    "text": "Notatka z chirurgii bariatrycznej, <DATE>22.09.2024</DATE>. Pacjent <PERSON>Andrzej Lipski</PERSON>, PESEL <PESEL>75011512345</PESEL>, zam. <ADDRESS>al. Ujazdowskie 30, 00-000 Warszawa</ADDRESS>, tel. <PHONE>789 456 123</PHONE>. Po <TEST>zabiegu gastroplastyki z zespoleniem bocznym</TEST>. BMI pre-op 41. Pacjent toleruje reżim żywieniowy, bóle kontrolowane. <DRUG>Witamina B12</DRUG> i.m. 1000 mcg miesięcznie. Zalecono hospitalizację na oddziale w celu obserwacji."
+  },
+  {
+    "text": "Notatka SOR, <DATE>08.06.2024</DATE>. Chłopiec <PERSON>Szymon Kawski</PERSON>, PESEL <PESEL>14051232456</PESEL>, wiek 6 lat, zam. <ADDRESS>ul. Stronska 12/4, 02-656 Warszawa</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Matka: gorączka od 2 dni, bóle gardła, wysypka. W <TEST>RTG klatki</TEST> zmiany zapalne. Rozpoznanie: <DISEASE>zapalenie górnych dróg oddechowych</DISEASE>. Podano <DRUG>Amoksycylinę</DRUG> p.o., <DRUG>Paracetamol</DRUG>. Wypisano do domu."
+  },
+  {
+    "text": "Wypis pacjenta, <DATE>10.02.2024</DATE>, <HOSPITAL>Szpital Miejski w Toruniu</HOSPITAL>. <PERSON>Lidia Sobczak</PERSON>, PESEL <PESEL>61040567890</PESEL>. Hospitalizowana 12 dni z <DISEASE>złamaniem subkapitalnym kości udowej lewej</DISEASE>. <TEST>Hemiarthroplastyka czaszkowej</TEST> wykonana. <DRUG>Enoxaparin 40mg</DRUG> s.c. 1xd./21dni, <DRUG>Meloxicam 15mg</DRUG>. Mobilizacja od dnia trzeciego."
+  },
+  {
+    "text": "Opis RTG kręgosłupa, <DATE>03.12.2025</DATE>. <PERSON>Grażyna Popławska</PERSON>, PESEL <PESEL>88020945678</PESEL>, zam. <ADDRESS>ul. Krótka 18/2, 20-001 Lublin</ADDRESS>, tel. <PHONE>728 567 890</PHONE>. Pacjentka z <DISEASE>bólami szyi i ograniczeniem ruchomości</DISEASE>. <TEST>RTG boczne C-spine</TEST> wykazało <DISEASE>spondylozy wielopoziomowe</DISEASE> oraz <DISEASE>stenozę kanału kręgowego</DISEASE>. Zalecona fizjoterapia i <DRUG>Meloxicam</DRUG> 7.5mg. Pacjent pod opieką na <HOSPITAL>Poradni Neurologicznej</HOSPITAL>."
+  },
+  {
+    "text": "e-recepta POZ <DATE>6.06.2024</DATE>. <PERSON>Henryk Babski</PERSON>, PESEL <PESEL>77100634567</PESEL>, tel. <PHONE>504 234 567</PHONE>. Pacjent z <DISEASE>refluksem żołądkowo-przełykowym</DISEASE>. <DRUG>Omeprazol</DRUG> 20mg 1x/dzień rano, <DRUG>Ranitydinę</DRUG> doraźnie, <DRUG>Almagel</DRUG> po jedzeniu. Zalecono unikanie żywności ostrych, kawy, leżeniu 3h po posiłkach."
+  },
+  {
+    "text": "Opis badania, <DATE>07.08.2024</DATE>. <PERSON>Ewa Lipińska</PERSON>, PESEL <PESEL>89041234567</PESEL>. <TEST>RTG stanu zatrzymanego kregosłupa piersiowego</TEST>: <DISEASE>Osteoporoza</DISEASE>, <DISEASE>osteofity</DISEASE> na poziomach Th5-Th7. Zalecenie: <DRUG>Alenolan</DRUG> 70mg tygodniowo, suplement wapnia. Porada: <HOSPITAL>Klinika Chorób Metabolicznych Kości</HOSPITAL>."
+  },
+  {
+    "text": "Opis procedury, <DATE>18.03.2024</DATE>. <PERSON>Józef Borkowski</PERSON>, PESEL <PESEL>59081267890</PESEL>, <ADDRESS>ul. Słowackiego 34/1, 33-100 Tarnów</ADDRESS>. <TEST>Artroskopia stawu ramiennego</TEST> z usunięciem debrysu. Drenażu. <DRUG>Cefazolina</DRUG> 1g i.v. Zalecenie: Imobilizacja mitela przez 2 tygodnie. Następna wizyta w <HOSPITAL>Klinice Ortopedii Szpitala Wojewódzkiego</HOSPITAL>."
+  },
+  {
+    "text": "Epikryza ze <HOSPITAL>Szpital Miejski Nr 7</HOSPITAL>, oddział endokrynologii. <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>82071523456</PESEL>, <DATE>25.02.2024</DATE>. Hospitalizacja z powodu <DISEASE>dekompensacji cukrzycowej</DISEASE>. <TEST>EKG</TEST> bez zmian, <TEST>morfologia</TEST> ok. Podawano <DRUG>Insulin Lispro</DRUG> s.c. 6 jednostek. Stan istotnie lepszy, wypisany z rekomendacją dalszej obserwacji."
+  },
+  {
+    "text": "Konsultacja ginekologiczna, <DATE>11.05.2024</DATE>. Pacjentka <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>87021523456</PESEL>, zam. <ADDRESS>ul. Krakowska 23, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>721 456 789</PHONE>. Zgłasza <DISEASE>krwawienia pozamieszkowe</DISEASE> od 3 mcy. W <TEST>USG endowag.</TEST> polipy macicy. Bez <DISEASE>dystonii</DISEASE>. Zalecono <TEST>histeroskopię</TEST> z <TEST>biopsją</TEST>. Przed procedurą <DRUG>Ibuprofen</DRUG> 400 mg."
+  },
+  {
+    "text": "Notatka poporodowa ze <HOSPITAL>Szpitala Św. Łazarza</HOSPITAL>, <DATE>19.02.2024</DATE>. Pacjentka <PERSON>Magdalena Kowalski</PERSON>, PESEL <PESEL>89031945678</PESEL>, dopo <DISEASE>STEMI</DISEASE> 3 dni temu — poród naturalny, bo <DISEASE>wskazania położnicze</DISEASE>. <DISEASE>Nieznaczne rozdarcia II stopnia</DISEASE> kanału porodowego. Dziecko — chłopiec, 3450 g, Apgar 9/9/10. Podano <DRUG>Oxytocin</DRUG> 5 j.m. i.m. w godz. 3-ciej porodowego, <DRUG>Syntometrine</DRUG> 0.5 ml. Lochie kresowe. Pacjentka na <DRUG>Enoxaparin</DRUG> s.c."
+  },
+  {
+    "text": "Skierowanie, <DATE>27.11.2024</DATE>. <PERSON>Iwona Ratajczak</PERSON>, lat 44, PESEL <PESEL>80030156789</PESEL>, tel. <PHONE>512789456</PHONE>. <DISEASE>Zaburzenie przystosowania po rozwodzie</DISEASE>. Pacjentka zażywa alkohol przez stres. <DRUG>Campral</DRUG> 333mg 3x dziennie, <DRUG>Antabuse</DRUG> 250mg. Skierowana do <HOSPITAL>Poradni Zdrowia Psychicznego</HOSPITAL> + <HOSPITAL>ośrodka dezintoksykacji</HOSPITAL>."
+  },
+  {
+    "text": "Notatka SOR, <DATE>03.09.2024</DATE>, <HOSPITAL>Szpital Miedziałowski, SOR</HOSPITAL>. <PERSON>Ewa Zielińska</PERSON>, PESEL <PESEL>75102356789</PESEL>, <ADDRESS>ul. Krakowska 7, 50-001 Wrocław</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Zgłoszenie: nagły <DISEASE>zawrót głowy i ataksja</DISEASE>. W <TEST>MRI pnia mózgu</TEST> kreski niedowładów wiotkiego type (<DISEASE>bezpośredniego uszkodzenia móżdżku</DISEASE>). Kw. <DRUG>Diazepam</DRUG> 5mg i.m., poddano hospitalizacji."
+  },
+  {
+    "text": "Notatka POZ, <DATE>26.11.2024</DATE>. <PERSON>Lidia Górska</PERSON>, PESEL <PESEL>68101234567</PESEL>, tel. <PHONE>607888999</PHONE>. Pacjentka po <DISEASE>mastektomii prawostronnej</DISEASE> za <DISEASE>raka piersi stadium IIa</DISEASE>. Fizjoterapia ramienia — zapora, bóle neuralgiczne. <DRUG>Gabapentin</DRUG> 300mg x3/d. Objawy: zmniejszone po 2 tygodniach. Zalecenie: dalsza terapia."
+  },
+  {
+    "text": "Recepta specjalistyczna z poradni nerwów, <DATE>02.10.2024</DATE>, <HOSPITAL>Szpital św. Raafaela, Neurology</HOSPITAL>. <PERSON>Urszula Bąk</PERSON>, PESEL <PESEL>69080534567</PESEL>, <ADDRESS>ul. Mokotowska 44, 00-565 Warszawa</ADDRESS>, tel. <PHONE>514 567 890</PHONE>. Diagnoza: <DISEASE>stwardnienie rozsiane (MS)</DISEASE>. Start immunomodulacji: <DRUG>Interferon beta-1a</DRUG> 30 μg i.m. 1x tygodniowo. Zalecono <TEST>MRI kręgosłupa lędźwiowego</TEST> za 1 m-c."
+  },
+  {
+    "text": "Recepta, <DATE>20.08.2024</DATE>. <PERSON>Ignacy Mazur</PERSON>, PESEL <PESEL>68031556789</PESEL>, tel. <PHONE>507 678 901</PHONE>. <DISEASE>Bursitis ścięgnista łokcia</DISEASE> po pracy fizycznej. <DRUG>Diclofenac</DRUG> 50mg 2x dziennie, <DRUG>Arnica</DRUG> żel 3x dziennie. Spoczynku ramienia. Fizykoterapia w <HOSPITAL>Ośrodku Zdrowia</HOSPITAL> 2x tygodniowo."
+  },
+  {
+    "text": "Opis zabiegu — drenaż ropnia, <DATE>15.06.2024</DATE>. Pacjent <PERSON>Filip Nowak</PERSON>, PESEL <PESEL>86032145678</PESEL>, zam. <ADDRESS>Al. Armii Ludowej 8, 02-001 Warszawa</ADDRESS>. Wykonano <TEST>drenowanie złośliwego ropnia</TEST> pod skórą na udzie lewym po <DISEASE>zapaleniu biały płyn</DISEASE>. <TEST>Posiew</TEST> potwierdził <DISEASE>Staphylococcus aureus</DISEASE>. Nałożono <DRUG>Linomycin</DRUG> b/z. Gazy zmieniane co 24h."
+  },
+  {
+    "text": "Recepta ambulatoryjna, <DATE>04.06.2024</DATE>. Pacjentka <PERSON>Urszula Grabowska</PERSON>, PESEL <PESEL>59021534567</PESEL>, zam. <ADDRESS>ul. Próżna 15, 00-107 Warszawa</ADDRESS>. Lekarz <PERSON>dr Janusz Nowicki</PERSON>. Rozpoznanie: <DISEASE>alergiczny nieżyt nosofaryngu z astmą</DISEASE>. Leki: <DRUG>Desloratadine</DRUG> 5 mg x 1, <DRUG>Fluticason/Salmetrol</DRUG> inhal. x 2/d prn. Tel. pacjentki: <PHONE>607 123 555</PHONE>."
+  },
+  {
+    "text": "Pismo z ambulatorii, <DATE>31.08.2024</DATE>. <PERSON>Ewa Górska</PERSON>, PESEL <PESEL>64120267890</PESEL>, tel. <PHONE>501 234 567</PHONE>. Leczenie <DISEASE>czerniaków skóry</DISEASE> stadiumII. Po zaplanowanej <TEST>imunochemioterapii</TEST> schemat <DRUG>Yervoy</DRUG> + <DRUG>Opdivo</DRUG>. Tolerancja bardzo dobra, rTLD brak. Dalsze kursy zaplanowano na <DATE>15.09.2024</DATE>."
+  },
+  {
+    "text": "Konsultacja urologiczna, <HOSPITAL>Przychownia przy Al. Jerozolimskich</HOSPITAL>, <DATE>14.08.2024</DATE>. Pacjent <PERSON>Jan Szymczyk</PERSON>, PESEL <PESEL>71041234567</PESEL>, tel. <PHONE>601234987</PHONE>, zam. <ADDRESS>ul. Puławska 12, 02-595 Warszawa</ADDRESS>. Skarga: <DISEASE>nocna polakiuria</DISEASE>, 3-4 razy na noc. W tarczy <TEST>USG prostaty</TEST> powiększenie do 35 g. Wdrożono <DRUG>Tamsulosin</DRUG> 0,4 mg wieczorem."
+  },
+  {
+    "text": "Notatka SOR, <DATE>17.12.2024</DATE>. <PERSON>Ewa Jasińska</PERSON>, PESEL <PESEL>88101145678</PESEL>, <ADDRESS>ul. Widokowa 22, 32-001 Myślenice</ADDRESS>, tel. <PHONE>691 234 789</PHONE>. <DISEASE>Zapalenie błony śluzowej pochwy</DISEASE> z białorówawo, swędzenie. <TEST>Wymaz na grzyby</TEST> Candida albicans. <DRUG>Trichopol</DRUG> 500mg 2x dziennie 10 dni. <DRUG>Canesten</DRUG> krem dopochwowo."
+  },
+  {
+    "text": "Opis badania laboratoryjnego, <HOSPITAL>Laboratorium ALAB</HOSPITAL>, <DATE>22.12.2022</DATE>. Pacjent <PERSON>Stanisław Borkowski</PERSON>, PESEL <PESEL>48031234567</PESEL>. Wymazy z cewki moczowej — obecna <DISEASE>flora patogenna</DISEASE>. <TEST>Gram wymazu</TEST>: gram-ujemne pałeczki. Wyznaczenie czułości na antybiotyki w toku."
+  },
+  {
+    "text": "E-recepta POZ, <DATE>08.06.2024</DATE>. Lp.: <PERSON>Anna Lewandowska</PERSON>, PESEL <PESEL>95081534567</PESEL>, zam. <ADDRESS>Jeżycka 12, 61-001 Poznań</ADDRESS>. Rozpoznanie: <DISEASE>arytmia</DISEASE> na tle <DISEASE>migotania przedsionków</DISEASE>. Ordynacja: <DRUG>Digoxin</DRUG> 0.25mg 1x1, <DRUG>Metoprolol</DRUG> p.o. 50mg 2x1. Wizyta kontrolna za 3 m-ce na <HOSPITAL>Klinika Kardiologiczna CMUJ</HOSPITAL>."
+  },
+  {
+    "text": "<DATE>25.01.2026</DATE>. <PERSON>Piotr Górski</PERSON>, <ADDRESS>Wrocław, ul. Piaskowa 12/8</ADDRESS>. PESEL <PESEL>72081934521</PESEL>, tel. <PHONE>791 567 234</PHONE>. Skarga: <DISEASE>ból kolana po zapachu w biurze</DISEASE>, <DISEASE>opuchlizna</DISEASE>. <TEST>Sonografia kolana</TEST> — bez płynu, kostki bez zmian. <DISEASE>Drażliwość synowialnej</DISEASE>. <DRUG>Ketoprofen żel</DRUG>, <DRUG>Flexiseq</DRUG>. Zalecono spokój, lód."
+  },
+  {
+    "text": "Notatka dyżurna SOR, <DATE>2024-06-07</DATE>. <PERSON>Krzysztof Nawrocki</PERSON>, PESEL <PESEL>68041234567</PESEL>, zam. <ADDRESS>ul. Łódź 89, 31-408 Kraków</ADDRESS>, tel. <PHONE>728 567 890</PHONE>. Omdlenie podczas pracy. Stan przytomności szybko przywrócony. <TEST>EKG</TEST> <DISEASE>arytmia</DISEASE>. <TEST>Ciśnienie tętnicze</TEST> 95/60 mmHg. Infuzja <DRUG>Hartmann</DRUG> 500 ml. Obserwacja 2 godz. Pacjent do domu, zalecenie wizyta u <PERSON>dr</PERSON> internisty."
+  },
+  {
+    "text": "Wynik <TEST>cytologii z wymazu cervicalnego</TEST>, <DATE>02.06.2024</DATE>. <PERSON>Agnieszka Wojcik</PERSON>, PESEL <PESEL>66020567890</PESEL>, zam. <ADDRESS>ul. Zwycięzców 89, 30-789 Kraków</ADDRESS>. Klasa Bethesda: ASC-US (niepewność co do intraepitelialnych zmian). Zalecono HPV-testing i powtórzenie wymazu za 6 m-cy."
+  },
+  {
+    "text": "Konsultacja teleporadna, <DATE>29.12.2023</DATE>. <PERSON>Lp Andrzej Sikora</PERSON>, <PESEL>61051189234</PESEL>, tel. konsultacyjny <PHONE>514 123 456</PHONE>. Adres stały: <ADDRESS>ul. Marszałkowska 78, 00-545 Warszawa</ADDRESS>. Pytanie o <DISEASE>objawy dysurezy</DISEASE> — drażliwość, ból przy oddawaniu moczu po <%= 2 tygodnie %>. <TEST>Badanie palpacyjne odbytnicze</TEST> wykonane <DATE>20.12.2023</DATE> — prostata miękka, normalnych wymiarów. Zalecono <TEST>badanie moczu kultur</TEST> i <DRUG>Norfloksacyna</DRUG> 400mg 2x dziennie na 7 dni. Ponowny kontakt za tydzień."
+  },
+  {
+    "text": "Opis <TEST>echokardiografii przezprzełykowej</TEST>, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Edmund Nowosielski</PERSON>, PESEL <PESEL>61120556789</PESEL>. Procedura: wdrożenie do przełyku, sedacja. Widoczne: łagodne zwiększenie lewej komory, funkcja skurczowa na granicy normy (EF 50%). Brak guzów wśród jam. Zalecono powtórzenie za 12 miesięcy. <HOSPITAL>Kardiologia Uniwersytetu Medycznego</HOSPITAL>."
+  },
+  {
+    "text": "e-recepta POZ <DATE>15.06.2024</DATE>. <PERSON>Anna Pietrzak</PERSON>, PESEL <PESEL>92051567890</PESEL>, tel. <PHONE>723 456 123</PHONE>. Zaświadczenie pracownicze — niezdolność do pracy przez 3 dni z powodu <DISEASE>grypy</DISEASE>. Leki: <DRUG>Paracetamol</DRUG> 500mg x4/dzień, <DRUG>Ibuprofen</DRUG> 200mg doraźnie, <DRUG>Witamina C</DRUG> 1000mg 1x/dzień."
+  },
+  {
+    "text": "Epikryza ortopedyczna z <DATE>22.04.2026</DATE>. <PERSON>Ewa Michalska</PERSON>, PESEL <PESEL>85031112223</PESEL>, <ADDRESS>Gdańsk, ul. Długa 15</ADDRESS>. Przyjęta z <DISEASE>zwichnięciem stawu ramiennego lewego</DISEASE> (przede anterior). Wykonano <TEST>USG barku</TEST> — bez uszkodzenia m. rotatorów. Repozyja s.a. udana, immobilizacja zawieszą. <DRUG>Acard 75mg</DRUG>, <DRUG>Paracetamol 500mg</DRUG>. Wypisana do domu."
+  },
+  {
+    "text": "Raport laboratoria, <DATE>12.08.2024</DATE>. <PERSON>Wanda Szydłowska</PERSON>, PESEL <PESEL>82021378456</PESEL>, <ADDRESS>ul. Pogodna 18, 35-001 Rzeszów</ADDRESS>, tel. <PHONE>602 123 456</PHONE>. <TEST>Hormon TSH</TEST> 4.8 mIU/L, <TEST>Free T4</TEST> w normie. <DISEASE>Podejrzenie niedoczynności tarczycy</DISEASE>. Powtórka <TEST>TSH</TEST> za 6 tygodni, <DRUG>L-tyroksyna</DRUG> rozważy się na wizyta."
+  },
+  {
+    "text": "Opis <TEST>spirometrii</TEST>, <DATE>10.08.2022</DATE>. Pacjent <PERSON>Romuald Dwilewicz</PERSON>, PESEL <PESEL>49051267890</PESEL>, badanie wykonane w <HOSPITAL>Pracowni Funkcjonalnej Szpitala Uniwersyteckiego</HOSPITAL>, ul. <ADDRESS>Żołnierska 11, 90-549 Łódź</ADDRESS>. Wskaźnik FEV1 82% (norma >80%), VC 88% (norma). Wniosek: brak zaburzeń — pacjent kwalifikuje się do <TEST>zabiegu TURP</TEST>. Zalecono premedykację (<DRUG>Metoprolol</DRUG> 25mg). <TEST>Badanie EKG</TEST> — bez zmian."
+  },
+  {
+    "text": "Zalecenie pacjentom/opiekunom, <DATE>13.06.2024</DATE>. Wychodzące ze <HOSPITAL>Poradni Zdrowia Psychicznego Dzieci</HOSPITAL>. Pacjent <PERSON>Kornelia Szydłowska</PERSON>, PESEL <PESEL>15050156789</PESEL>, lat 8. Rozpoznanie: <DISEASE>zaburzenia snu</DISEASE>. Zalecenia: regularna higiena snu, <DRUG>Melatonina</DRUG> 3mg przed snem, psychoterapia behawioralna. Kontrola za 4 tygodnie."
+  },
+  {
+    "text": "Notatka z zakresu chirurgii ortopedycznej, <DATE>11.08.2024</DATE>. Pacjent <PERSON>Artur Szmidt</PERSON>, PESEL <PESEL>77040134567</PESEL>, zam. <ADDRESS>ul. Słoneczna 23, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>505 123 456</PHONE>. Po <TEST>zabiegu operacyjnym rekonstrukcji więzadeł przedniej ścięgna mięśnia czworogłowego udowa</TEST>. Stan gojenia rany — bez powikłań. <DRUG>Diclofenac</DRUG> 50 mg p.o. 3x dziennie. Zalecono rehabilitację u fizjoterapeuty."
+  },
+  {
+    "text": "Notatka SOR, <DATE>8.06.2024</DATE>, godz. 14:45. Pacjent <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>78051223456</PESEL>, tel. <PHONE>723 445 678</PHONE>, zam. <ADDRESS>ul. Warszawska 12, 00-900 Warszawa</ADDRESS>. Zgłosił się z dusznością i suchym kaszlem od 3 dni. W <TEST>RTG klatki</TEST> zaciemnienie bierne w prawym górnym polu płucnego. Podejrzenie <DISEASE>zapalenia płuc</DISEASE>. Zalecono <TEST>badania krwi</TEST>, <DRUG>Augmentin</DRUG> 1g x 3. Przekazano do <HOSPITAL>Szpitala Św. Raffaela</HOSPITAL>."
+  }
+]
