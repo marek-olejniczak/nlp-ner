@@ -21,3 +21,5 @@ wandb/
 .DS_Storeoutput/_gen/
 output/ner_dataset_mixed.jsonl
 output/_gen2/
+output/_gen3/
+output/ner_dataset_golden_heldout.jsonl

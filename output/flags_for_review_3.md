@@ -1,0 +1,239 @@
+# Usunięte próbki (235 flag, 209 próbek) — NIE ma ich w czystej puli
+
+USUNIĘTE z czystej puli (dogenerujemy zamiast poprawiać ręcznie). Rejestr błędów do uniknięcia przy regeneracji. Numer = indeks w output/generated_review.md.
+
+- [0045] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 95% LM + LAD + RCx (trójnaczyniowe).»
+- [0048] **wartosc-wewnatrz-spanu** DISEASE: «156 epizodów migotania przedsionków,»
+- [0051] **wartosc-wewnatrz-spanu** DISEASE: «Liczne (>1000/24h) zespoły QRS»
+- [0064] **wartosc-wewnatrz-spanu** DISEASE: «Zwężenie 30% LCx.»
+- [0064] **wartosc-wewnatrz-spanu** DISEASE: «Zwężenie 45% LAD proximalne»
+- [0083] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [0089] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [0137] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 1, decompensatio.»
+- [0137] **wartosc-wewnatrz-spanu** TEST: «HCO3»
+- [0142] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0148] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0149] **wartosc-wewnatrz-spanu** TEST: «T4 wolny»
+- [0153] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 1, nowe rozpoznanie.»
+- [0153] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0154] **wartosc-wewnatrz-spanu** TEST: «USG za 6 m-cy.»
+- [0155] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0160] **wartosc-wewnatrz-spanu** TEST: «IGF-1»
+- [0172] **wartosc-wewnatrz-spanu** TEST: «laser CO2 frakcjonowany»
+- [0196] **angielski-lek** «retinol»
+- [0233] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0242] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0246] **wartosc-wewnatrz-spanu** DISEASE: «nadciśnienie 2. stopnia»
+- [0248] **ADDRESS-bez-numeru** ADDRESS: «Gdańsk, Oliwa.»
+- [0250] **wartosc-wewnatrz-spanu** TEST: «HbA1c,»
+- [0252] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0252] **wartosc-wewnatrz-spanu** TEST: «ekstrakcja zęba 37 pod znieczuleniem»
+- [0255] **wartosc-wewnatrz-spanu** DISEASE: «otyłość 2. stopnia»
+- [0258] **ADDRESS-bez-numeru** ADDRESS: «Kraków, Nowa Huta.»
+- [0261] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typ 2 post-operacyjna.»
+- [0263] **wartosc-wewnatrz-spanu** DISEASE: «CKD 5D w wyniku cukrzycy»
+- [0265] **wartosc-wewnatrz-spanu** DISEASE: «przewlekłą chorobę nerek 2. stadium.»
+- [0278] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0296] **ADDRESS-bez-numeru** ADDRESS: «lewym przedramienia,»
+- [0310] **wartosc-wewnatrz-spanu** TEST: «C3»
+- [0310] **wartosc-wewnatrz-spanu** TEST: «C4»
+- [0338] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0355] **ADDRESS-bez-numeru** ADDRESS: «grzbietu kości biodrowej»
+- [0387] **wartosc-wewnatrz-spanu** TEST: «kontrolę OCT za 4 tygodnie.»
+- [0403] **wartosc-wewnatrz-spanu** TEST: «HbA1c:»
+- [0414] **wartosc-wewnatrz-spanu** DISEASE: «COVID-19,»
+- [0465] **wartosc-wewnatrz-spanu** TEST: «obserwację i powtórną biopsję za 3 miesiące.»
+- [0474] **angielski-lek** «Vitamin»
+- [0477] **wartosc-wewnatrz-spanu** TEST: «fT4»
+- [0511] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0522] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0531] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0549] **wartosc-wewnatrz-spanu** DISEASE: «ponad 1000 pojedynczych depolaryzacji komorowych.»
+- [0576] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0592] **wartosc-wewnatrz-spanu** TEST: «cykl regularny, 28 dni.»
+- [0636] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [0650] **wartosc-wewnatrz-spanu** TEST: «D3 limfadenektomią.»
+- [0652] **wartosc-wewnatrz-spanu** DISEASE: «adenocarcinoma prostacie pT3b N0 M0 Gleason»
+- [0656] **wartosc-wewnatrz-spanu** TEST: «CT co 6 miesięcy.»
+- [0668] **wartosc-wewnatrz-spanu** DISEASE: «ductal invasive carcinoma pT2N1M0 Nottingham III.»
+- [0680] **wartosc-wewnatrz-spanu** DISEASE: «co 2-3 godziny.»
+- [0691] **wartosc-wewnatrz-spanu** DISEASE: «CIN2.»
+- [0705] **wartosc-wewnatrz-spanu** TEST: «przetoczenia 2 jednostek krwi O+.»
+- [0778] **wartosc-wewnatrz-spanu** TEST: «chemioterapii 1. linii»
+- [0779] **wartosc-wewnatrz-spanu** TEST: «endoskopie co 3 miesiące.»
+- [0782] **wartosc-wewnatrz-spanu** TEST: «radioterapia 3D konformalnej»
+- [0791] **wartosc-wewnatrz-spanu** TEST: «CA-125»
+- [0797] **wartosc-wewnatrz-spanu** TEST: «CA-125»
+- [0871] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0875] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0878] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [0878] **wartosc-wewnatrz-spanu** TEST: «FEV1/FVC»
+- [0880] **ADDRESS-bez-numeru** ADDRESS: «Poznań.»
+- [0881] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0887] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0889] **ADDRESS-bez-numeru** ADDRESS: «Łódź.»
+- [0890] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0895] **ADDRESS-bez-numeru** ADDRESS: «Białystok.»
+- [0896] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0898] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [0923] **wartosc-wewnatrz-spanu** TEST: «CT 3D brzucha»
+- [0932] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0937] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0939] **wartosc-wewnatrz-spanu** TEST: «5-HIAA»
+- [0940] **wartosc-wewnatrz-spanu** TEST: «Kontrola za 6 tygodni.»
+- [0940] **wartosc-wewnatrz-spanu** TEST: «fT3»
+- [0940] **wartosc-wewnatrz-spanu** TEST: «fT4»
+- [0943] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0949] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0952] **wartosc-wewnatrz-spanu** DISEASE: «anemia (Hb 10.5 g/dl).»
+- [0954] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0955] **wartosc-wewnatrz-spanu** TEST: «HbA1c.»
+- [0956] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0960] **wartosc-wewnatrz-spanu** DISEASE: «DM1»
+- [0960] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [0963] **wartosc-wewnatrz-spanu** DISEASE: «DM2,»
+- [0977] **angielski-lek** «serum»
+- [1031] **wartosc-wewnatrz-spanu** DISEASE: «parcia nocne 5-6 razy.»
+- [1035] **wartosc-wewnatrz-spanu** TEST: «HCO3-»
+- [1037] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1037] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1039] **wartosc-wewnatrz-spanu** DISEASE: «DM1»
+- [1039] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1043] **wartosc-wewnatrz-spanu** DISEASE: «DM2.»
+- [1046] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1050] **wartosc-wewnatrz-spanu** DISEASE: «DM2.»
+- [1050] **wartosc-wewnatrz-spanu** DISEASE: «włączenie 2 gałęzi.»
+- [1051] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1051] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1054] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1056] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1058] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1059] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1059] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1062] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1063] **wartosc-wewnatrz-spanu** DISEASE: «DM2.»
+- [1064] **wartosc-wewnatrz-spanu** DISEASE: «DM2»
+- [1064] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1065] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [1065] **wartosc-wewnatrz-spanu** TEST: «FEV1/FVC»
+- [1066] **wartosc-wewnatrz-spanu** DISEASE: «DM2.»
+- [1066] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1078] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1095] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1127] **wartosc-wewnatrz-spanu** TEST: «HLA-B27,»
+- [1151] **wartosc-wewnatrz-spanu** DISEASE: «złamanie żeber 5-7 lewych,»
+- [1166] **wartosc-wewnatrz-spanu** TEST: «B12,»
+- [1175] **ADDRESS-bez-numeru** ADDRESS: «grzebienia biodra:»
+- [1175] **wartosc-wewnatrz-spanu** DISEASE: «Niedokrwistość B12 deficytowa.»
+- [1184] **wartosc-wewnatrz-spanu** TEST: «B12.»
+- [1212] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1223] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1261] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1266] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1269] **wartosc-wewnatrz-spanu** TEST: «ETCO2»
+- [1269] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1289] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1312] **wartosc-wewnatrz-spanu** DISEASE: «zmiana sygnału T2/FLAIR w moście,»
+- [1314] **wartosc-wewnatrz-spanu** DISEASE: «steoza 90% RPD,»
+- [1337] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1343] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1346] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1355] **wartosc-wewnatrz-spanu** DISEASE: «zawężenia wielonaczyniowe (LAD 95%, CX 85%, RCA»
+- [1357] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1362] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [1363] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1387] **wartosc-wewnatrz-spanu** TEST: «T4 wolny»
+- [1389] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1397] **wartosc-wewnatrz-spanu** TEST: «HER2»
+- [1401] **wartosc-wewnatrz-spanu** TEST: «CA-125»
+- [1417] **wartosc-wewnatrz-spanu** TEST: «CA-125»
+- [1518] **wartosc-wewnatrz-spanu** DISEASE: «Cukrzyca typu 2 w ciąży.»
+- [1518] **wartosc-wewnatrz-spanu** TEST: «Glukoza 2-godz. po obciążeniu»
+- [1530] **wartosc-wewnatrz-spanu** TEST: «USG co 2 tygodnie»
+- [1550] **wartosc-wewnatrz-spanu** TEST: «HCO3-»
+- [1594] **wartosc-wewnatrz-spanu** DISEASE: «przepuklina międzytrzonowa L4-L5 z uciśnięciem korzenia nerwu.»
+- [1664] **wartosc-wewnatrz-spanu** TEST: «PCL-5»
+- [1676] **ADDRESS-bez-numeru** ADDRESS: «Lipiny koło Poznania,»
+- [1744] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1745] **wartosc-wewnatrz-spanu** DISEASE: «Cukrzyca typu 2 niekontrolowana.»
+- [1750] **wartosc-wewnatrz-spanu** TEST: «T3 wolny»
+- [1750] **wartosc-wewnatrz-spanu** TEST: «T4 wolny»
+- [1751] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1754] **wartosc-wewnatrz-spanu** TEST: «IL-6»
+- [1760] **wartosc-wewnatrz-spanu** TEST: «I-131.»
+- [1762] **wartosc-wewnatrz-spanu** TEST: «T4 wolny»
+- [1779] **wartosc-wewnatrz-spanu** TEST: «laser CO2 do usunięcia»
+- [1799] **wartosc-wewnatrz-spanu** DISEASE: «piuria 25 leukocytów,»
+- [1800] **wartosc-wewnatrz-spanu** TEST: «CRP 156 mg/l,»
+- [1819] **wartosc-wewnatrz-spanu** TEST: «USG sprzed 2 miesięcy»
+- [1823] **wartosc-wewnatrz-spanu** TEST: «PSA co 6 miesięcy,»
+- [1824] **wartosc-wewnatrz-spanu** TEST: «IIEF-5 score»
+- [1829] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1833] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1837] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycę od 15 lat.»
+- [1841] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1844] **wartosc-wewnatrz-spanu** DISEASE: «Cukrzyca typu 2 z powikłaniami.»
+- [1848] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycą od 20 lat.»
+- [1856] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycą i albuminurią 245 mg/dobę.»
+- [1857] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycą, zawałem 2 lata temu»
+- [1858] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 2 z niewystarczającą kontrolą.»
+- [1910] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [1954] **wartosc-wewnatrz-spanu** TEST: «HLA-B27»
+- [1958] **ADDRESS-bez-numeru** ADDRESS: «Wrocław.»
+- [1965] **angielski-lek** «Vitamin»
+- [1980] **wartosc-wewnatrz-spanu** DISEASE: «CD5+, CD19+, CD23+ limfocyty.»
+- [2014] **wartosc-wewnatrz-spanu** TEST: «20G vitrektomię»
+- [2023] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2045] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2059] **wartosc-wewnatrz-spanu** TEST: «SvO2»
+- [2063] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2069] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2082] **wartosc-wewnatrz-spanu** TEST: «ETCO2»
+- [2087] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2091] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2098] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2101] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2109] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2111] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2145] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 80% w RCA.»
+- [2210] **ADDRESS-bez-numeru** ADDRESS: «Poznań.»
+- [2211] **wartosc-wewnatrz-spanu** TEST: «CA-125»
+- [2225] **ADDRESS-bez-numeru** ADDRESS: «Kraków.»
+- [2276] **wartosc-wewnatrz-spanu** TEST: «fT4»
+- [2342] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [2366] **wartosc-wewnatrz-spanu** DISEASE: «COVID-19»
+- [2379] **wartosc-wewnatrz-spanu** DISEASE: «zmiany zwyrodnieniowe na poziomach C4-C5 i»
+- [2383] **wartosc-wewnatrz-spanu** DISEASE: «COVID-19»
+- [2419] **wartosc-wewnatrz-spanu** TEST: «iniekcję triamchinolonu 40 mg + lidokaina.»
+- [2459] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [2465] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [2465] **wartosc-wewnatrz-spanu** TEST: «FEV1/FVC»
+- [2470] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2472] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2475] **wartosc-wewnatrz-spanu** TEST: «SpO2»
+- [2476] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [2486] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 50% w RCA.»
+- [2486] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 70% w LAD,»
+- [2489] **wartosc-wewnatrz-spanu** TEST: «T4 wolne»
+- [2492] **wartosc-wewnatrz-spanu** TEST: «FEV1»
+- [2527] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 2 nowo rozpoznana.»
+- [2528] **wartosc-wewnatrz-spanu** TEST: «T3 wolny»
+- [2532] **wartosc-wewnatrz-spanu** TEST: «HCO3»
+- [2533] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [2536] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 2 niekontrolowana.»
+- [2537] **wartosc-wewnatrz-spanu** TEST: «T4 wolny»
+- [2539] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycy typu 2 leczenia insuliną.»
+- [2541] **wartosc-wewnatrz-spanu** TEST: «fT4»
+- [2542] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [2544] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 2 ze słabą kompensacją.»
+- [2544] **wartosc-wewnatrz-spanu** TEST: «HbA1c»
+- [2548] **wartosc-wewnatrz-spanu** DISEASE: «cukrzyca typu 2 niekontrolowana z licznymi powikłaniami — neuropatia, retinopati»
+- [2553] **wartosc-wewnatrz-spanu** DISEASE: «cukrzycy 15 lat.»
+- [2555] **wartosc-wewnatrz-spanu** TEST: «120 min»
+- [2555] **wartosc-wewnatrz-spanu** TEST: «180 min»
+- [2555] **wartosc-wewnatrz-spanu** TEST: «glikemia 0 min»
+- [2569] **ADDRESS-bez-numeru** ADDRESS: «Warszawie.»
+- [2579] **ADDRESS-bez-numeru** ADDRESS: «Warszawie.»
+- [2592] **ADDRESS-bez-numeru** ADDRESS: «Gdańsku.»
+- [2629] **wartosc-wewnatrz-spanu** TEST: «T2»
+- [2663] **wartosc-wewnatrz-spanu** TEST: «B12»
