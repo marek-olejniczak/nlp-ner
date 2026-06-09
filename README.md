@@ -4,8 +4,8 @@ A Named Entity Recognition model that detects **9 types of sensitive entities** 
 medical text, for **anonymization**: paste a discharge note → the model finds personal and
 medical entities → replace them with a mask, a tag, or a realistic placeholder.
 
-🩺 **Live demo:** https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
-🤗 **Model:** https://huggingface.co/michaelo-ponteski/ner-medical-pl
+**Live demo:** https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
+**Model:** https://huggingface.co/michaelo-ponteski/ner-medical-pl
 
 ```
 ┌─────────────┐   ┌──────────────────────┐   ┌─────────────┐   ┌──────────────┐
@@ -120,22 +120,53 @@ python -m training.evaluate --checkpoint models/herbert-base-cased/best --test-f
 
 ## Results
 
-HerBERT-base, **golden micro F1** (independent test) — the effect of adding golden-style to training:
+Entity-level micro F1 (seqeval, strict, IOB2). Three eval sets (see *Datasets*): **split**
+(in-distribution, sanity), **golden** (independent, before/after headline), **held-out**
+(golden-style, leakage-free).
 
-| Type | injection only | + golden-style |
+### Effect of adding golden-style data (golden set, micro F1)
+
+| Model | injection only | + golden-style |
 |---|---|---|
-| PESEL / PHONE | ~1.0 | ~1.0 |
-| ADDRESS | 0.25 | **0.99** |
-| DATE | 0.08 | **0.95** |
-| DRUG | 0.29 | **0.79** |
-| HOSPITAL | 0.87 | 0.96 |
-| PERSON | 0.67 | 0.77 |
-| **micro F1** | **0.39** | **0.61** |
+| HerBERT-base | 0.39 | **0.61** |
+| polish-roberta-base-v2 | 0.40 | _pending_ |
+| XLM-R-base | 0.40 | _pending_ |
 
-PII identifiers (the ones that matter for anonymization) jumped dramatically. DISEASE/TEST stay
-low on golden — mostly due to label noise in the golden set itself (uncleaned, long descriptive
-spans); on the clean held-out the model reaches DISEASE 0.62 / TEST 0.68. Model choice (HerBERT
-vs RoBERTa vs XLM-R) is secondary — the bottleneck is data, not architecture.
+Adding short clinical forms to training lifts the independent golden F1 by ~0.22 — confirming the
+bottleneck was the training distribution, not the model.
+
+### HerBERT-base across eval sets
+
+| Eval set | micro F1 | macro F1 |
+|---|---|---|
+| split (in-distribution) | 0.954 | 0.961 |
+| golden (independent) | 0.611 | 0.757 |
+| held-out (golden-style) | 0.870 | 0.895 |
+
+### HerBERT-base — F1 per entity
+
+| Type | golden | held-out |
+|---|---|---|
+| PERSON | 0.77 | 0.99 |
+| ADDRESS | 0.99 | 0.99 |
+| DATE | 0.95 | 0.98 |
+| PESEL | 1.00 | 1.00 |
+| PHONE | 0.99 | 0.99 |
+| HOSPITAL | 0.96 | 0.91 |
+| DRUG | 0.79 | 0.89 |
+| DISEASE | 0.12 | 0.62 |
+| TEST | 0.24 | 0.68 |
+
+PII identifiers (PERSON/ADDRESS/DATE/PESEL/PHONE) — what matters for anonymization — are strong.
+DISEASE/TEST are low on golden but ~0.6–0.7 on the clean held-out: the gap is mostly label noise
+in the (uncleaned, LLM-generated) golden set, not the model. Model choice (HerBERT vs RoBERTa vs
+XLM-R) is secondary — the bottleneck is data.
+
+> **Methodology note.** *split* shares the training distribution (optimistic — sanity only).
+> *golden* is independent samples but shares the LLM-generation style, so absolute numbers
+> overstate real-world performance; the relative before/after is the trustworthy signal. No
+> human-annotated test exists yet — a fully out-of-distribution measure would require real
+> annotated clinical text.
 
 ## Application
 
@@ -144,7 +175,7 @@ A Gradio app on HF Spaces — paste Polish medical text, pick an anonymization m
 with an optional consistency toggle (same entity → same replacement). A regex catch-net backs
 up PESEL/phone/date. Code: `app/`.
 
-👉 https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
+https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
 
 ## Repo structure
 
