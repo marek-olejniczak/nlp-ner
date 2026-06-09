@@ -30,7 +30,12 @@ class ReplacementProvider:
     """Dostarcza realistyczne zamienniki encji; opcjonalnie spójne w obrębie dokumentu."""
 
     def __init__(self, seed: int | None = None):
-        self._pools = load_pools(DATA_DIR)
+        # brak data/ (np. lekki deploy) -> pule puste, PII i tak działa przez Faker,
+        # a medyczne placeholdery degradują się do [LABEL]
+        try:
+            self._pools = load_pools(DATA_DIR)
+        except (FileNotFoundError, ValueError):
+            self._pools = {}
         self._rng = random.Random(seed)
         # Faker importujemy leniwie — dep tylko dla PII
         from faker import Faker
@@ -44,8 +49,9 @@ class ReplacementProvider:
         if label in EN_TO_POOL:
             pool = self._pools.get(EN_TO_POOL[label])
             if pool:
-                # _pick_value używa globalnego random; podsiewamy stan dla powtarzalności
                 return _pick_value(pool)
+            if label == "PERSON":  # fallback bez puli CSV
+                return self._fake.name()
             return f"[{label}]"
         if label == "ADDRESS":
             return f"{self._fake.street_address()}, {self._fake.postcode()} {self._fake.city()}"

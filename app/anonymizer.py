@@ -24,7 +24,7 @@ ALL_TYPES = ["PERSON", "DISEASE", "DRUG", "TEST", "HOSPITAL", "ADDRESS", "DATE",
 # domyślnie anonimizujemy identyfikujące; treść kliniczna (DISEASE/DRUG/TEST) opcjonalnie
 DEFAULT_TYPES = ["PERSON", "ADDRESS", "DATE", "PESEL", "PHONE", "HOSPITAL"]
 
-MODEL_ID = os.environ.get("NER_MODEL_ID", "allegro/herbert-base-cased")
+MODEL_ID = os.environ.get("NER_MODEL_ID", "michaelo-ponteski/ner-medical-pl")
 _MAX_CHARS = 1000  # budżet znaków na chunk (bezpiecznie pod 512 subwordów dla PL)
 
 
