@@ -1,7 +1,8 @@
-# Próbki do ręcznego przeglądu (57 flag, 55 unikalnych próbek)
+# Usunięte próbki (57 flag, 55 próbek) — NIE ma ich w czystej puli
 
-Auto-fixy (tytuły, korupcja, końcówki lab) już zrobione. Poniżej to, czego kod nie ocenia bezpiecznie.
-
+Te próbki USUNIĘTO z `ner_dataset_generated_clean.jsonl` (dogenerujemy, zamiast poprawiać ręcznie).
+Lista służy jako rejestr błędów do uniknięcia przy regeneracji — zaostrzyć prompt: polski only (bez
+angielskich leków), ADDRESS tylko adres pocztowy (nie anatomia), span = sama nazwa bez wartości/jednostek.
 Numer = indeks w output/generated_review.md.
 
 - [0001] **wartosc-wewnatrz-spanu** DISEASE: «Zwężenie 50% w RCA,»
