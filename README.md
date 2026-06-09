@@ -1,164 +1,162 @@
-# ner-medical
+# ner-medical — anonymizing Polish medical documentation
 
-Generator danych treningowych NER dla polskiej dokumentacji medycznej.
+A Named Entity Recognition model that detects **9 types of sensitive entities** in Polish
+medical text, for **anonymization**: paste a discharge note → the model finds personal and
+medical entities → replace them with a mask, a tag, or a realistic placeholder.
 
-## Przepływ danych
+🩺 **Live demo:** https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
+🤗 **Model:** https://huggingface.co/michaelo-ponteski/ner-medical-pl
 
 ```
-┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│  Źródła danych    │ ──→│  Skrypty ekstrakcji│ ──→│  CSV z encjami   │
-│  (gov.pl, NFZ)    │    │  data/raw/         │    │  data/            │
-└──────────────────┘     └──────────────────┘     └────────┬─────────┘
-                                                            ↓
-┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│  Template z      │ ←──│  Generator        │ ←──│  src/main.py     │
-│  placeholderami  │     │  (Ollama)         │     │  (pule + ważenie)│
-└──────────────────┘     └──────────────────┘     └──────────────────┘
-                                                            ↓
-                                                  ┌──────────────────┐
-                                                  │  Dataset JSON    │
-                                                  │  (output/)       │
-                                                  └──────────────────┘
+┌─────────────┐   ┌──────────────────────┐   ┌─────────────┐   ┌──────────────┐
+│ PII sources │──▶│ Dataset generation   │──▶│ Fine-tuning │──▶│ Anonymizer   │
+│ gov.pl, NFZ │   │ injection + LLM      │   │ HerBERT/    │   │ (Gradio app  │
+│ ICD-9/11    │   │ (golden-style)       │   │ RoBERTa     │   │  on HF Space)│
+└─────────────┘   └──────────────────────┘   └─────────────┘   └──────────────┘
 ```
 
-## Zbiory danych
+## Entities (9 types)
 
-### Encje główne
+| | Entity | Description |
+|---|---|---|
+| PII | `PERSON` | full name |
+| PII | `ADDRESS` | home address |
+| PII | `DATE` | date |
+| PII | `PESEL` | Polish national ID number |
+| PII | `PHONE` | phone number |
+| medical | `DISEASE` | disease / diagnosis / symptom |
+| medical | `DRUG` | drug / active substance |
+| medical | `TEST` | test / procedure |
+| medical | `HOSPITAL` | facility name |
 
-| Placeholder | Plik | Rozmiar | Ważenie | Źródło |
+Tagging scheme: **IOB2** (19 classes = 9 types × {B,I} + `O`). Labels are in English;
+the generator emits Polish labels and `training/relabel.py` converts them.
+
+## Where the data comes from — a hybrid approach
+
+No public Polish medical NER dataset exists (sensitive data, GDPR). We build a synthetic one
+from two complementary tracks, both grounded in real entity dictionaries.
+
+### 1. Real entity values (public sources)
+
+| Placeholder | File | Size | Weighting | Source |
 |---|---|---|---|---|
-| `<PERSON>` | `data/persons.csv` | 200 000 | weighted (PESEL) | Listy PESEL (gov.pl) |
-| `<PERSON>` (warianty) | `data/persons_variants.csv` | 27 640 | weighted (PESEL) | Warianty nazwisk (pan/pani + inicjał) |
-| `<DRUG>` | `data/drugs_weighted.csv` | 959 | weighted (NFZ) | API NFZ – refundacja apteczna 2024 |
-| `<DISEASE>` | `data/diseases.csv` | 16 387 | uniform | ICD-11 (gov.pl) |
-| `<TEST>` | `data/tests.csv` | 9 987 | uniform | ICD-9 (gov.pl) |
-| `<HOSPITAL>` | `data/hospitals.csv` | 569 | uniform | Wykaz szpitali (gov.pl) |
-| `<HOSPITAL>` (norm.) | `data/hospitals_normalized.csv` | 569 | uniform | Wersja znormalizowana |
+| `<PERSON>` | `data/persons.csv` | 200,000 | weighted (PESEL) | PESEL name lists (gov.pl) — population-like distribution (more Piotrs than Amadeuszes) |
+| `<PERSON>` (variants) | `data/persons_variants.csv` | 27,640 | weighted | pan/pani + initial |
+| `<DRUG>` | `data/drugs_weighted.csv` | 959 | weighted (NFZ) | NFZ API – 2024 reimbursement |
+| `<DISEASE>` | `data/diseases.csv` | 16,387 | uniform | ICD-11 (gov.pl) |
+| `<TEST>` | `data/tests.csv` | 9,987 | uniform | ICD-9 (gov.pl) |
+| `<HOSPITAL>` | `data/hospitals.csv` | 569 | uniform | hospital registry (gov.pl) |
 
-### Listy popularne (częste/ogólnikowe nazwy)
+Plus "popular" lists (`data/najpopularniejsze_*.csv`) for common, colloquial names.
+PII (ADDRESS/DATE/PESEL/PHONE) is generated with Faker `pl_PL`. Extraction scripts: `data/raw/`.
 
-Służą do urozmaicenia generacji o powszechnie znane terminy medyczne, obok specjalistycznych nazw z głównych zbiorów.
+### 2. Two generation tracks
 
-| Placeholder | Plik | Rozmiar |
+**a) Injection (deterministic)** — `src/`. A local LLM (Ollama/Gemma) writes a **template**
+with tags (`<PERSON>`, `<DRUG>`…), Python injects real values from the pools and computes
+entity offsets **mathematically** → **100% correct labels**, no formatting hallucinations.
+Downside: it injects full, formal database names ("electrocardiography at rest"), not
+clinical language.
+
+**b) Golden-style (LLM inline markup)** — Claude Haiku generates natural clinical text with
+entities marked inline (`<DISEASE>STEMI</DISEASE>`); `training/eval_set.py` deterministically
+converts the markup to labels. This yields **short, real clinical forms** (EKG, STEMI, brand
+drug names, numeric dates). Downside: label noise (cleaned by `tools/clean_generated.py` —
+drop corruption, strip titles, trim lab values).
+
+### 3. Why both — distribution shift (the key finding)
+
+Training **only on injection** scored great on its own test split (~0.98 F1) but **0.39** on
+an independent golden set — the model had learned **formal database names, not clinical
+language**. Evidence in mean entity length (tokens): injection DATE 3.0 / TEST 5.3 vs real
+golden DATE 1.6 / TEST 3.3. Adding golden-style (short forms) to training **closes the gap** —
+see Results.
+
+## Datasets — what goes to train vs test
+
+**TRAIN** → `output/ner_dataset_mixed.jsonl` (12,342; built by `tools/build_training_set.py`):
+
+| Source | File | Samples |
 |---|---|---|
-| `<DRUG>` | `data/najpopularniejsze_leki.csv` | 100 |
-| `<DISEASE>` | `data/najpopularniejsze_choroby.csv` | 97 |
-| `<TEST>` | `data/najpopularniejsze_zabiegi_badania.csv` | 99 |
-| `<TEST>` | `data/najpopularniejsze_zabiegi_badania_300.csv` | 301 |
-| `<TEST>` (razem, dedup) | — | 351 |
+| Injection | `output/ner_dataset.jsonl` | 8,770 |
+| Golden-style (Haiku, 3 batches, cleaned) | `output/ner_dataset_generated{_clean,_2,_3}.jsonl` | 3,772 |
+| ⤷ minus 200 held out | | **3,572 into the mix** |
 
-## Strategia selekcji (mixed pools)
+`training/dataset.py` splits the mix 80/10/10 → train 9,874 / val 1,234 / internal-test 1,234.
 
-Podczas wypełniania placeholderów w template każda encja ma swoją strategię:
+**TEST / EVAL** (independent, NEVER in training):
 
-| Placeholder | P(common) | Główna pula | Popularna pula |
+| Set | File | Samples | Role |
 |---|---|---|---|
-| `<DRUG>` | **30%** | `drugs_weighted.csv` (ważony NFZ) | `najpopularniejsze_leki.csv` (uniform) |
-| `<DISEASE>` | **30%** | `diseases.csv` (uniform) | `najpopularniejsze_choroby.csv` (uniform) |
-| `<TEST>` | **30%** | `tests.csv` (uniform) | merge 2 plików popularnych (uniform) |
-| `<PERSON>` | **5%** | `persons.csv` (ważony PESEL) | `persons_variants.csv` (ważony PESEL) |
-| `<HOSPITAL>` | — | `hospitals.csv` (uniform) | — |
+| golden | `test/dataset_1.json`, `dataset_2.json` | 220 + 160 | independent human-style (before/after headline) |
+| held-out | `output/ner_dataset_golden_heldout.jsonl` | 200 | golden-style outside training (leakage-free) |
 
-Algorytm dla encji z pulą mieszaną:
-1. Losuj `r = random.random()`
-2. Jeśli `r < P(common)` → wybierz losowo z listy popularnej (uniform lub weighted)
-3. W przeciwnym razie → wybierz z głównej puli (weighted lub uniform)
+## Training
 
-Wszystkie wystąpienia tego samego placeholdera w jednym template otrzymują tę samą wartość (cache'owanie).
-
-## Skrypty ekstrakcji
-
-| Skrypt | Opis |
-|---|---|
-| `data/raw/extract.py` | Ekstrakcja DRUG (CSV), DISEASE (XML ICD-11), TEST (XLSX ICD-9) z gov.pl |
-| `data/raw/extract_persons.py` | Ekstrakcja PERSON z list PESEL + generowanie wariantów |
-| `data/raw/extract_hospitals.py` | Ekstrakcja HOSPITAL z 3 źródeł (top50, spis2, spis1) |
-| `data/raw/normalize_hospitals.py` | Normalizacja wielkości liter w nazwach szpitali |
-| `data/raw/extract_drugs_weighted.py` | Pobranie wag leków z API NFZ (refundacja apteczna 2024) + cache |
-
-## Użycie
+Fine-tuning an encoder (`AutoModelForTokenClassification`). We compare 3 Polish/multilingual base models.
 
 ```bash
-# Generowanie datasetu (domyślnie 100 próbek)
-python -m src.main
-
-# Z własnymi parametrami
-python -c "from src.main import run; run(num_samples=50, pause=0.5, seed=42)"
-```
-
-### Parametry `run()`
-
-| Parametr | Domyślnie | Opis |
-|---|---|---|
-| `num_samples` | 100 | Liczba wygenerowanych próbek |
-| `pause` | 1.0 | Przerwa (s) między zapytaniami do Ollama |
-| `seed` | `None` | Ziarno losowości (dla reprodukowalności) |
-
-## Format wyjściowy
-
-`output/ner_dataset.json` — lista obiektów:
-
-```json
-[
-  {
-    "text": "Pacjent PAULINA KACZMAREK przyjety do Szpital Śląski ...",
-    "tokens": ["Pacjent", "PAULINA", "KACZMAREK", "przyjety", ...],
-    "tags": ["O", "B-PERSON", "I-PERSON", "O", ...]
-  }
-]
-```
-
-Tagowanie w notacji BIOU (`B-` początek, `I-` wewnątrz/koniec, `U-` jedno-tokenowa, `O` poza encją). Uwaga: generator **nie** emituje tagów `L-` — przy treningu schemat jest konwertowany do IOB2 (`U-X` → `B-X`), zob. `training/dataset.py`.
-
-## Konfiguracja
-
-- `src/prompt.py` — template promptu, lista placeholderów, typy dokumentów, tony wypowiedzi
-- `src/generator.py` — `MODEL_NAME` do zmiany modelu Ollama
-- `src/main.py` — `DATA_DIR`, `OUTPUT_DIR`, progi mieszanych pul
-
-## Trening NER
-
-Fine-tuning polskiego encodera (domyślnie `allegro/herbert-base-cased`) na wygenerowanym
-datasecie. Dataset wejściowy: `output/ner_dataset.jsonl` (JSONL, format jak wyżej;
-9 typów encji — angielskie etykiety: PERSON, DISEASE, DRUG, TEST, HOSPITAL + PII:
-ADDRESS, DATE, PESEL, PHONE).
-
-Generator (`src/`) produkuje etykiety po polsku — `training/relabel.py` podmienia je
-na angielskie (boundary PL→EN). Test sety w `test/` analogicznie (tryb `--markup`).
-
-```bash
-# Środowisko
-mamba create -n nlp-ner python=3.12 -y
-mamba activate nlp-ner
+mamba create -n nlp-ner python=3.12 -y && mamba activate nlp-ner
 pip install -r requirements.txt
-
-# Logowanie eksperymentów (jednorazowo)
 wandb login
 
-# Pełny trening (HerBERT-base, 3 epoki, W&B project: nlp-ner)
-python -m training.train
+# full training (default HerBERT-base, on the mix); eval on split/golden/held-out
+python -m training.train --data output/ner_dataset_mixed.jsonl
+python -m training.evaluate --checkpoint models/herbert-base-cased/best --test-file output/ner_dataset_golden_heldout.jsonl
 
-# Inny model do porównania
-python -m training.train --model sdadas/polish-roberta-base-v2
-
-# Pełne porównanie 4 modeli na GPU (Colab T4): notebooks/train_colab.ipynb
-
-# Smoke test bez W&B
-python -m training.train --limit 64 --max-steps 20 --no-wandb
-
-# Ewaluacja na odłożonym test splicie (10%, model go nigdy nie widział)
-python -m training.evaluate --checkpoint models/herbert-base-cased/best
+# ready-to-go on Colab T4:
+#   notebooks/train_colab.ipynb  (builds the mix, trains 3 models, evaluates, pushes to Hub)
 ```
 
-### Pipeline treningu
-
-| Krok | Plik | Opis |
+| Step | File | Description |
 |---|---|---|
-| Konwersja tagów | `training/dataset.py` | BIOU → IOB2 (`U-X` → `B-X`), 19 klas (9 typów encji) |
-| Split | `training/dataset.py` | 80/10/10 train/val/test, deterministyczny (seed 42) |
-| Label alignment | `training/dataset.py` | pierwszy subword niesie etykietę słowa, reszta `-100` |
-| Trening | `training/train.py` | lr 2e-5, warmup 10%, najlepszy checkpoint wg F1 na walidacji |
-| Metryki | `training/metrics.py` | entity-level P/R/F1 (seqeval, strict, IOB2), per typ encji |
+| Build dataset | `tools/build_training_set.py` | mix injection + golden-style, leakage-free held-out |
+| Cleaning | `tools/clean_generated.py` | drop corruption / strip titles / trim lab values |
+| Tag conversion + split | `training/dataset.py` | BIOU→IOB2, 80/10/10 split (seed 42), subword alignment |
+| Training | `training/train.py` | lr 2e-5, warmup 10%, fp16, best-checkpoint by F1, W&B artifact |
+| Metrics | `training/metrics.py` | entity-level P/R/F1 (seqeval, strict, IOB2) |
+| Evaluation | `training/evaluate.py` | split or `--test-file`; `eval_set.py` for golden (markup) |
 
-Artefakty: `models/<nazwa>/best` (model + tokenizer), raport JSON z ewaluacji obok checkpointu.
-Wyniki eksperymentów: [W&B project `nlp-ner`](https://wandb.ai).
+## Results
+
+HerBERT-base, **golden micro F1** (independent test) — the effect of adding golden-style to training:
+
+| Type | injection only | + golden-style |
+|---|---|---|
+| PESEL / PHONE | ~1.0 | ~1.0 |
+| ADDRESS | 0.25 | **0.99** |
+| DATE | 0.08 | **0.95** |
+| DRUG | 0.29 | **0.79** |
+| HOSPITAL | 0.87 | 0.96 |
+| PERSON | 0.67 | 0.77 |
+| **micro F1** | **0.39** | **0.61** |
+
+PII identifiers (the ones that matter for anonymization) jumped dramatically. DISEASE/TEST stay
+low on golden — mostly due to label noise in the golden set itself (uncleaned, long descriptive
+spans); on the clean held-out the model reaches DISEASE 0.62 / TEST 0.68. Model choice (HerBERT
+vs RoBERTa vs XLM-R) is secondary — the bottleneck is data, not architecture.
+
+## Application
+
+A Gradio app on HF Spaces — paste Polish medical text, pick an anonymization mode:
+**mask** (`****`), **tag** (`[PERSON_1]`), or **realistic placeholder** (repo pools + Faker),
+with an optional consistency toggle (same entity → same replacement). A regex catch-net backs
+up PESEL/phone/date. Code: `app/`.
+
+👉 https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
+
+## Repo structure
+
+```
+data/          entity dictionaries (CSV) + extraction scripts (data/raw/)
+src/           injection generator (Ollama/Gemma) + pools (src/pools.py)
+prompts/       prompt for golden-style generation (test_set_generation.md)
+training/      dataset, train, evaluate, metrics, relabel, eval_set
+tools/         clean_generated, build_training_set, push_to_hub
+app/           anonymizer (Gradio): anonymizer, replacements, app
+test/          independent golden test sets (markup)
+notebooks/     train_colab.ipynb (ready-to-go)
+```
+
+Experiments: [W&B project `nlp-ner`](https://wandb.ai/ocr-pl-med/nlp-ner).
