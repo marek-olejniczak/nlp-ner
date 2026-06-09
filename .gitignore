@@ -20,3 +20,4 @@ wandb/
 # macOS
 .DS_Storeoutput/_gen/
 output/ner_dataset_mixed.jsonl
+output/_gen2/
