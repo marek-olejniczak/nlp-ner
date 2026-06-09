@@ -1,7 +1,6 @@
 import random
 import re
 import time
-import ollama
 from .prompt import PROMPT_TEMPLATE, SCENARIOS, SPECIALIZATIONS, TONES
 
 
@@ -39,6 +38,7 @@ def validate_template(template: str, required_tags: list[str]) -> bool:
 
 
 def generate_template(max_retries: int = 3) -> tuple[str, list[str]] | None:
+    import ollama  # lazy — potrzebny tylko przy realnej generacji, nie przy imporcie modułu
     for attempt in range(max_retries):
         prompt, required_tags = build_prompt()
         try:

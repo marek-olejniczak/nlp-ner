@@ -1,0 +1,89 @@
+"""Gradio UI do anonimizacji polskiej dokumentacji medycznej.
+
+Wklej tekst -> model NER wykrywa encje -> wybierasz jak je zanonimizować.
+Model ładowany z HF Hub (NER_MODEL_ID env var). Uruchom: python -m app.app
+"""
+
+from __future__ import annotations
+
+import gradio as gr
+
+from app.anonymizer import ALL_TYPES, DEFAULT_TYPES, MODEL_ID, anonymize
+from app.replacements import ReplacementProvider
+
+STRATEGIES = {
+    "Maska (gwiazdki)": "mask",
+    "Tag typu ([PERSON_1])": "tag",
+    "Realistyczny placeholder": "placeholder",
+}
+
+_provider: ReplacementProvider | None = None
+
+
+def _get_provider() -> ReplacementProvider:
+    global _provider
+    if _provider is None:
+        _provider = ReplacementProvider()
+    return _provider
+
+
+def to_highlight(text: str, ents) -> list[tuple[str, str | None]]:
+    """Buduj segmenty (fragment, etykieta|None) dla gr.HighlightedText."""
+    segments, cursor = [], 0
+    for e in sorted(ents, key=lambda e: e.start):
+        if e.start > cursor:
+            segments.append((text[cursor:e.start], None))
+        segments.append((text[e.start:e.end], e.label))
+        cursor = e.end
+    if cursor < len(text):
+        segments.append((text[cursor:], None))
+    return segments
+
+
+def run(text, strategy_label, consistent, types, threshold, use_regex):
+    if not text.strip():
+        return [("(wklej tekst)", None)], "", []
+    strategy = STRATEGIES[strategy_label]
+    provider = _get_provider() if strategy == "placeholder" else None
+    try:
+        result, ents = anonymize(
+            text, types=types, strategy=strategy, consistent=consistent,
+            threshold=threshold, use_regex=use_regex, provider=provider, model_id=MODEL_ID,
+        )
+    except Exception as e:  # model niedostępny / błąd ładowania
+        return [(f"Błąd: {e}", None)], "", []
+    table = [[e.label, e.text, round(e.score, 3), e.source] for e in ents]
+    return to_highlight(text, ents), result, table
+
+
+def build_ui() -> gr.Blocks:
+    with gr.Blocks(title="Anonimizacja dokumentacji medycznej") as demo:
+        gr.Markdown(
+            "# Anonimizacja polskiej dokumentacji medycznej\n"
+            "Wklej tekst, wybierz tryb i typy encji do ukrycia. "
+            f"Model: `{MODEL_ID}`. Regex catch-net domyka PESEL/telefon/datę "
+            "(model ma tam niski recall)."
+        )
+        with gr.Row():
+            with gr.Column(scale=3):
+                inp = gr.Textbox(label="Tekst medyczny", lines=12,
+                                 placeholder="Wklej wypis / notatkę...")
+            with gr.Column(scale=2):
+                strategy = gr.Radio(list(STRATEGIES), value="Maska (gwiazdki)", label="Tryb anonimizacji")
+                consistent = gr.Checkbox(value=True, label="Spójnie (ta sama encja → ten sam zamiennik)")
+                types = gr.CheckboxGroup(ALL_TYPES, value=DEFAULT_TYPES, label="Typy encji do anonimizacji")
+                threshold = gr.Slider(0.0, 1.0, value=0.5, step=0.05, label="Próg pewności modelu")
+                use_regex = gr.Checkbox(value=True, label="Regex catch-net (PESEL/telefon/data)")
+                btn = gr.Button("Anonimizuj", variant="primary")
+        gr.Markdown("### Wykryte encje")
+        highlighted = gr.HighlightedText(label="Podgląd (oryginał z zaznaczeniem)")
+        out = gr.Textbox(label="Tekst zanonimizowany", lines=12)
+        table = gr.Dataframe(headers=["typ", "tekst", "score", "źródło"], label="Lista encji")
+
+        btn.click(run, [inp, strategy, consistent, types, threshold, use_regex],
+                  [highlighted, out, table])
+    return demo
+
+
+if __name__ == "__main__":
+    build_ui().launch()

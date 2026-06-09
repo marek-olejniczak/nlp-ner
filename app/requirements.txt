@@ -1,0 +1,5 @@
+# Zależności appki anonimizacyjnej (minimalny zestaw pod HF Spaces)
+gradio
+transformers
+torch
+faker
