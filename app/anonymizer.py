@@ -87,7 +87,11 @@ def detect_model(text: str, threshold: float = 0.5, model_id: str = MODEL_ID) ->
         for e in pipe(chunk):
             if e["score"] < threshold:
                 continue
-            s, en = _trim_span(text, offset + e["start"], offset + e["end"])
+            s, en = offset + e["start"], offset + e["end"]
+            nl = text.find("\n", s, en)  # encja nie powinna przechodzić przez nową linię
+            if nl != -1:
+                en = nl
+            s, en = _trim_span(text, s, en)
             if s >= en:  # span był samą interpunkcją
                 continue
             out.append(Entity(
