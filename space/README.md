@@ -1,5 +1,5 @@
 ---
-title: Anonimizator dokumentacji medycznej
+title: Medical Text Anonymizer
 emoji: 🩺
 colorFrom: blue
 colorTo: green
@@ -8,11 +8,11 @@ app_file: app.py
 pinned: false
 ---
 
-# Anonimizator polskiej dokumentacji medycznej
+# Medical Text Anonymizer
 
-Wklej tekst medyczny → model NER wykrywa wrażliwe encje (osoba, PESEL, telefon,
-adres, data, szpital + choroby/leki/badania) → anonimizacja: maska, numerowany tag
-albo realistyczny placeholder. Model: [`michaelo-ponteski/ner-medical-pl`](https://huggingface.co/michaelo-ponteski/ner-medical-pl).
+**Anonymizes Polish medical text.** Paste a document → the NER model detects sensitive
+entities (person, PESEL, phone, address, date, hospital + disease/drug/test) → anonymize:
+mask, typed tag, or realistic placeholder. Model: [`michaelo-ponteski/ner-medical-pl`](https://huggingface.co/michaelo-ponteski/ner-medical-pl).
 
-Regex catch-net domyka PESEL/telefon/datę (model ma tam niski recall). Plik ten
-jest README **Space'a** — przy deployu nadpisuje README repo (zob. `space/DEPLOY.md`).
+A regex catch-net backs up PESEL / phone / date (where the model's recall is low). This file
+is the **Space** README — at deploy it overwrites the repo README (see `space/DEPLOY.md`).
