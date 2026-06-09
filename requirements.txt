@@ -9,3 +9,7 @@ seqeval
 accelerate
 wandb
 tqdm
+
+# Appka anonimizacyjna (app/) — też używane przez HF Spaces
+gradio
+faker
