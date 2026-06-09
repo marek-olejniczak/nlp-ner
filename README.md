@@ -5,7 +5,7 @@ medical text, for **anonymization**: paste a discharge note → the model finds 
 medical entities → replace them with a mask, a tag, or a realistic placeholder.
 
 **Live demo:** https://huggingface.co/spaces/michaelo-ponteski/medical-text-anonymizer
-**Model:** https://huggingface.co/michaelo-ponteski/ner-medical-pl
+**Model:** https://huggingface.co/michaelo-ponteski/ner-medical-pl (HerBERT-base, best)
 
 ```
 ┌─────────────┐   ┌──────────────────────┐   ┌─────────────┐   ┌──────────────┐
@@ -129,19 +129,23 @@ Entity-level micro F1 (seqeval, strict, IOB2). Three eval sets (see *Datasets*):
 | Model | injection only | + golden-style |
 |---|---|---|
 | HerBERT-base | 0.39 | **0.61** |
-| polish-roberta-base-v2 | 0.40 | _pending_ |
-| XLM-R-base | 0.40 | _pending_ |
+| polish-roberta-base-v2 | 0.40 | 0.60 |
+| XLM-R-base | 0.40 | 0.60 |
 
 Adding short clinical forms to training lifts the independent golden F1 by ~0.22 — confirming the
 bottleneck was the training distribution, not the model.
 
-### HerBERT-base across eval sets
+### Model comparison (micro F1, trained on the mix)
 
-| Eval set | micro F1 | macro F1 |
-|---|---|---|
-| split (in-distribution) | 0.954 | 0.961 |
-| golden (independent) | 0.611 | 0.757 |
-| held-out (golden-style) | 0.870 | 0.895 |
+| Model | split | golden | held-out | >512 tok |
+|---|---|---|---|---|
+| **HerBERT-base** | 0.954 | **0.611** | **0.870** | 9% |
+| polish-roberta-base-v2 | 0.933 | 0.603 | 0.846 | 31% |
+| XLM-R-base | 0.953 | 0.597 | 0.860 | 21% |
+
+**HerBERT-base wins** on both independent sets (golden, held-out) and truncates the fewest
+samples (best Polish subword fit) — it is the model deployed in the app. Differences on golden
+are small (~0.01), confirming the bottleneck is data, not architecture.
 
 ### HerBERT-base — F1 per entity
 
