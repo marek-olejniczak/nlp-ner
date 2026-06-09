@@ -27,7 +27,7 @@ Dozwolone znaczniki (WYŁĄCZNIE te — nazwy etykiet po angielsku, treść po p
 - `<DRUG>`      — nazwa leku lub substancji czynnej
 - `<TEST>`      — badanie, zabieg, procedura (EKG, morfologia, rtg klatki, USG jamy brzusznej...)
 - `<HOSPITAL>`  — nazwa szpitala / placówki (sama nazwa, bez oddziału)
-- `<ADDRESS>`   — adres (ulica/al. + numer, opcjonalnie kod pocztowy + miasto)
+- `<ADDRESS>`   — adres pocztowy/zamieszkania. WYŁĄCZNIE adres — NIGDY lokalizacja anatomiczna ani miejsce na ciele ("lewego przedramienia", "górny płat płuca" to NIE adres). Numer budynku obowiązkowy; reszta zmienna.
 - `<DATE>`      — data w dowolnym formacie
 - `<PESEL>`     — 11-cyfrowy numer PESEL
 - `<PHONE>`     — polski numer telefonu (9 cyfr)
@@ -36,7 +36,7 @@ Realizm danych PII:
 - PESEL: dokładnie 11 cyfr.
 - PHONE: realistyczny 9-cyfrowy numer, mieszaj formaty zapisu (601234567, 601 234 567, +48 601 234 567).
 - DATE: mieszaj formaty (15.10.2023, 20 marca 2018 r., 2023-10-15).
-- ADDRESS: ul./al. + nazwa + numer, czasem kod pocztowy + miasto.
+- ADDRESS: realistycznie różne formaty — z kodem pocztowym lub bez, czasem bez „ul." (sama nazwa ulicy + numer), różna kolejność (miasto przed ulicą lub po, np. „ul. Polna 7, 30-001 Kraków" / „Poznań, Nowe Miasto 15/7" / „Marszałkowska 42/5, Warszawa"). Zawsze z numerem budynku.
 
 Struktura JSON ma wyglądać dokładnie tak (to jest tylko przykład formatowania, nie kopiuj tej treści):
 [

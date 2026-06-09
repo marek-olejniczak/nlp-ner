@@ -1,22 +1,17 @@
-# Usunięte próbki (57 flag, 55 próbek) — NIE ma ich w czystej puli
+# Usunięte próbki (54 flag, 52 próbek) — NIE ma ich w czystej puli
 
-Te próbki USUNIĘTO z `ner_dataset_generated_clean.jsonl` (dogenerujemy, zamiast poprawiać ręcznie).
-Lista służy jako rejestr błędów do uniknięcia przy regeneracji — zaostrzyć prompt: polski only (bez
-angielskich leków), ADDRESS tylko adres pocztowy (nie anatomia), span = sama nazwa bez wartości/jednostek.
-Numer = indeks w output/generated_review.md.
+USUNIĘTE z czystej puli (dogenerujemy zamiast poprawiać ręcznie). Rejestr błędów do uniknięcia przy regeneracji. Numer = indeks w output/generated_review.md.
 
 - [0001] **wartosc-wewnatrz-spanu** DISEASE: «Zwężenie 50% w RCA,»
 - [0001] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 70% w LAD,»
 - [0001] **wartosc-wewnatrz-spanu** DISEASE: «zwężenie 85% w CX.»
-- [0002] **ADDRESS-bez-markera** ADDRESS: «lewego przedramienia»
+- [0002] **ADDRESS-bez-numeru** ADDRESS: «lewego przedramienia»
 - [0008] **wartosc-wewnatrz-spanu** TEST: «Glikemia 356 mg/dl, ketonemia»
 - [0024] **wartosc-wewnatrz-spanu** DISEASE: «kaszel trwający 3 tygodnie z odkrztuszaniem krwi.»
 - [0063] **wartosc-wewnatrz-spanu** TEST: «Amylase 520 j/l, lipase 780 j/l.»
-- [0137] **ADDRESS-bez-markera** ADDRESS: «Poznań, Nowe Miasto 15/7.»
 - [0146] **wartosc-wewnatrz-spanu** TEST: «Wymaga miary TSH, wolnego T4, testosteronu.»
 - [0155] **wartosc-wewnatrz-spanu** TEST: «USG kontrolne za 2 miesiące.»
 - [0160] **angielski-lek** «Vitamin»
-- [0171] **ADDRESS-bez-markera** ADDRESS: «Marszałkowska 42/5, Warszawa,»
 - [0185] **wartosc-wewnatrz-spanu** TEST: «(glikoza na czczo 118 mg/dl).»
 - [0211] **wartosc-wewnatrz-spanu** TEST: «Lipaza 1200 j.m.»
 - [0235] **wartosc-wewnatrz-spanu** DISEASE: «otyłość klasa II (BMI 37), prediabetes.»
@@ -39,7 +34,6 @@ Numer = indeks w output/generated_review.md.
 - [0519] **wartosc-wewnatrz-spanu** DISEASE: «HbA1c»
 - [0537] **wartosc-wewnatrz-spanu** TEST: «MRI za 3 m-ce, pomiar stężenia prolaktyny.»
 - [0551] **wartosc-wewnatrz-spanu** TEST: «wymianę zastawki aorty BioCor 25mm + plastykę zastawki mitralnej.»
-- [0582] **ADDRESS-bez-markera** ADDRESS: «Warszawa, Wierzbno 50/3.»
 - [0583] **angielski-lek** «Vitamin»
 - [0593] **wartosc-wewnatrz-spanu** DISEASE: «DM2 z powikłaniami, hiperlipidemia.»
 - [0618] **wartosc-wewnatrz-spanu** TEST: «USG co 1 tydzień.»
