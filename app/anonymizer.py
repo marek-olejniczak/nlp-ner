@@ -70,6 +70,16 @@ def _chunks(text: str, max_chars: int = _MAX_CHARS) -> list[tuple[int, str]]:
     return chunks
 
 
+def _trim_span(text: str, start: int, end: int) -> tuple[int, int]:
+    """Obetnij wiodącą/końcową interpunkcję i spacje ze spanu (dane treningowe je
+    przyklejały, więc model łapie 'Jan Kowalski,' z przecinkiem). Wnętrze zostaje."""
+    while start < end and not text[start].isalnum():
+        start += 1
+    while end > start and not text[end - 1].isalnum():
+        end -= 1
+    return start, end
+
+
 def detect_model(text: str, threshold: float = 0.5, model_id: str = MODEL_ID) -> list[Entity]:
     pipe = load_pipeline(model_id)
     out: list[Entity] = []
@@ -77,11 +87,14 @@ def detect_model(text: str, threshold: float = 0.5, model_id: str = MODEL_ID) ->
         for e in pipe(chunk):
             if e["score"] < threshold:
                 continue
+            s, en = _trim_span(text, offset + e["start"], offset + e["end"])
+            if s >= en:  # span był samą interpunkcją
+                continue
             out.append(Entity(
                 label=e["entity_group"],
-                start=offset + e["start"],
-                end=offset + e["end"],
-                text=text[offset + e["start"]: offset + e["end"]],
+                start=s,
+                end=en,
+                text=text[s:en],
                 score=float(e["score"]),
                 source="model",
             ))
