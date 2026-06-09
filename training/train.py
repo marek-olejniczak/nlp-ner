@@ -30,7 +30,7 @@ from .dataset import ID2LABEL, LABEL2ID, LABELS, build_datasets, load_jsonl, rep
 from .metrics import compute_metrics
 
 REPO_ROOT = Path(__file__).parent.parent
-DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset_new.jsonl"
+DEFAULT_DATA = REPO_ROOT / "output" / "ner_dataset.jsonl"
 DEFAULT_MODEL = "allegro/herbert-base-cased"
 
 
@@ -145,6 +145,27 @@ def main() -> None:
 
     metrics = trainer.evaluate()
     print(f"Walidacja (najlepszy checkpoint): {metrics}")
+
+    # Najlepszy checkpoint jako artefakt W&B — sesja Colaba jest ulotna, model nie może zginąć.
+    # Logujemy w aktywnym runie (ten proces go stworzył przez WandbCallback).
+    if report_to == "wandb":
+        import wandb
+        if wandb.run is not None:
+            artifact = wandb.Artifact(
+                name=f"{model_short}-ner",
+                type="model",
+                metadata={
+                    "base_model": args.model,
+                    "eval_f1": metrics.get("eval_f1"),
+                    "num_labels": len(LABELS),
+                    "dataset": args.data.name,
+                },
+            )
+            artifact.add_dir(str(final_dir))
+            wandb.log_artifact(artifact)
+            print(f"Artefakt W&B: {model_short}-ner (eval_f1={metrics.get('eval_f1'):.4f})")
+        else:
+            print("UWAGA: brak aktywnego runu W&B — artefakt nie zalogowany")
 
 
 if __name__ == "__main__":

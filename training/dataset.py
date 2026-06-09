@@ -18,15 +18,15 @@ from datasets import Dataset
 from tqdm.auto import tqdm
 
 ENTITY_TYPES = [
-    "ADRES",
-    "BADANIE",
-    "CHOROBA",
-    "DATA",
-    "LEK",
+    "ADDRESS",
+    "DATE",
+    "DISEASE",
+    "DRUG",
+    "HOSPITAL",
     "PERSON",
     "PESEL",
-    "SZPITAL",
-    "TELEFON",
+    "PHONE",
+    "TEST",
 ]
 LABELS = ["O"] + [f"{prefix}-{ent}" for ent in ENTITY_TYPES for prefix in ("B", "I")]
 LABEL2ID = {label: i for i, label in enumerate(LABELS)}

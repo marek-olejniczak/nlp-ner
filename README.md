@@ -119,8 +119,12 @@ Tagowanie w notacji BIOU (`B-` początek, `I-` wewnątrz/koniec, `U-` jedno-toke
 ## Trening NER
 
 Fine-tuning polskiego encodera (domyślnie `allegro/herbert-base-cased`) na wygenerowanym
-datasecie. Dataset wejściowy: `output/ner_dataset_new.jsonl` (JSONL, format jak wyżej;
-9 typów encji — 5 medycznych + PII: ADRES, DATA, PESEL, TELEFON).
+datasecie. Dataset wejściowy: `output/ner_dataset.jsonl` (JSONL, format jak wyżej;
+9 typów encji — angielskie etykiety: PERSON, DISEASE, DRUG, TEST, HOSPITAL + PII:
+ADDRESS, DATE, PESEL, PHONE).
+
+Generator (`src/`) produkuje etykiety po polsku — `training/relabel.py` podmienia je
+na angielskie (boundary PL→EN). Test sety w `test/` analogicznie (tryb `--markup`).
 
 ```bash
 # Środowisko

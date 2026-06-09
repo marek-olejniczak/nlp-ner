@@ -16,3 +16,6 @@ src/__pycache__/
 # Training artifacts
 models/
 wandb/
+
+# macOS
+.DS_Store
