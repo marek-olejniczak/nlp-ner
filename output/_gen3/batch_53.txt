@@ -1,0 +1,66 @@
+Notatka z pobytu na <HOSPITAL>Oddziale Psychiatrii Dorosłych</HOSPITAL>, <DATE>17.05.2024</DATE>. Pacjent <PERSON>Marek Kowalski</PERSON>, PESEL <PESEL>78092145672</PESEL>, zam. <ADDRESS>ul. Żelazna 23/4, 00-865 Warszawa</ADDRESS>. Przyjęty z <DISEASE>depresją ciężką</DISEASE> z ideacją samobójczą. <TEST>Skala MADRS</TEST> 32 pkt. Zalecono <DRUG>Sertralinę</DRUG> 100 mg/dz., <DRUG>Haloperidol</DRUG> 5 mg/wiecz. Hospitalizacja 14 dni.
+<<<SAMPLE>>>
+Wizyta ambulatoryjna <DATE>03.06.2024</DATE>, <HOSPITAL>Poradnia Zdrowia Psychicznego nr 2</HOSPITAL>. <PERSON>Anna Lewandowska</PERSON>, tel. <PHONE>722 456 890</PHONE>, PESEL <PESEL>92110867543</PESEL>. Choroba psychiczna: <DISEASE>zaburzenia lękowe uogólnione</DISEASE>. Przebywa <ADDRESS>Puławska 41, 02-509 Warszawa</ADDRESS>. <TEST>Test ankiety GAD-7</TEST> 16 pkt. Kontynuacja <DRUG>Paroxetyny</DRUG> 20 mg.
+<<<SAMPLE>>>
+Epikryza psychiatryczna z <HOSPITAL>Szpitala Psychiatrycznego Wawer</HOSPITAL>. <PERSON>Jan Michalski</PERSON>, PESEL <PESEL>85121567890</PESEL>. Rozpoznanie: <DISEASE>schizofrenia paranoidalna</DISEASE>, <DISEASE>zaburzenie osobowości obsesyjno-kompulsywne</DISEASE>. Data wypisu: <DATE>12.04.2024</DATE>. Adr. pobytu: <ADDRESS>Zwycięzców 89, 53-033 Wrocław</ADDRESS>. Zaleceno <DRUG>Clozapinę</DRUG> 300 mg p.o., <DRUG>Biperydenu</DRUG> 2 mg.
+<<<SAMPLE>>>
+Raport SOR z <DATE>25.11.2024</DATE>. Pacjent <PERSON>Piotr Nowak</PERSON>, PESEL <PESEL>80053178234</PESEL>, kontakt <PHONE>661 234 567</PHONE>. Zgłosił się z <DISEASE>zaburzeniami snu</DISEASE> i <DISEASE>lękiem generalnym</DISEASE>. <TEST>Skala PSQI</TEST> 18. W <TEST>EKG</TEST> bez zmian. Wysłano na <HOSPITAL>Poradnię Zdrowia Psychicznego</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka pobytu dnia <DATE>08.03.2024</DATE>. <PERSON>Krystyna Szewczyk</PERSON>, zam. <ADDRESS>Krakowskie Przedmieście 15/2, 00-071 Warszawa</ADDRESS>, PESEL <PESEL>49120256789</PESEL>. <DISEASE>Depresja poporodowa</DISEASE> o nasileniu umiarkowanym. <TEST>Skala EPDS</TEST> 18 pkt. Zastosowano <DRUG>Sertralinę</DRUG> 50 mg rano. Psychoterapia indywidualna 1x tygodniowo.
+<<<SAMPLE>>>
+E-recepta z <HOSPITAL>Przychodni POZ nr 5</HOSPITAL> wystawiona <DATE>01.06.2024</DATE>. <PERSON>Ewa Kowalczyk</PERSON>, PESEL <PESEL>88051223456</PESEL>, tel. <PHONE>798 567 234</PHONE>. Rozpoznanie: <DISEASE>zaburzenia depresyjne nawracające</DISEASE>. Zalecono <DRUG>Escitalopram</DRUG> 10 mg 1xdz., <DRUG>Melatoninę</DRUG> 2 mg na noc.
+<<<SAMPLE>>>
+Konsultacja psychiatryczna z dr <PERSON>Adamem Lewandowskim</PERSON> z dnia <DATE>19.05.2024</DATE>. Pacjent <PERSON>Tomasz Kruk</PERSON>, PESEL <PESEL>91032445678</PESEL>, mieszkaniec <ADDRESS>Wrzeszcza 34/9, 80-002 Gdańsk</ADDRESS>. Podejrzenie <DISEASE>bipolarnego zaburzenia afektywnego fazy maniakalnej</DISEASE>. <TEST>Skala YMRS</TEST> 28. Propozycja hospitalizacji.
+<<<SAMPLE>>>
+Pismo ze <HOSPITAL>Szpitala Psychiatrycznego Jaworzno</HOSPITAL> z <DATE>14.02.2024</DATE>. <PERSON>Jolanta Borkowska</PERSON>, PESEL <PESEL>74082567890</PESEL>, <ADDRESS>Sobieskiego 12, 43-600 Jaworzno</ADDRESS>. Powód przyjęcia: <DISEASE>psychoza maniakalna</DISEASE> z agresywnym zachowaniem. Leczenie: <DRUG>Olanzapina</DRUG> 20 mg, <DRUG>Lithium</DRUG> 900 mg, <DRUG>Propranolol</DRUG> 80 mg.
+<<<SAMPLE>>>
+Notatka z wizyty kontrolnej, <DATE>22.04.2024</DATE>. <PERSON>Robert Stępień</PERSON>, PESEL <PESEL>83071189234</PESEL>, tel. <PHONE>881 234 567</PHONE>. Diagnoza: <DISEASE>zaburzenia adaptacyjne ze zmięszaniem emocji i zachowania</DISEASE>. Pacjent zgłasza poprawę po <DRUG>Mirtazapinie</DRUG> 15 mg. Złecono <TEST>badania krwi</TEST> (lipidy, glukoza).
+<<<SAMPLE>>>
+Kwestionariusz samooceny z <HOSPITAL>Poradni Zdrowia Psychicznego dla Dzieci i Młodzieży</HOSPITAL>, <DATE>06.05.2024</DATE>. <PERSON>Kamil Nowicki</PERSON> lat 16, PESEL <PESEL>08051445678</PESEL>. Objawy: <DISEASE>niepokój szkolny</DISEASE>, <DISEASE>zaburzenia snu</DISEASE>. <TEST>Skala SCARED</TEST> 32. Rekomendacja: psychoterapia poznawczo-behawioralna.
+<<<SAMPLE>>>
+Epikryza z <HOSPITAL>Kliniki Psychiatrycznej Uniwersytetu Medycznego</HOSPITAL> z <DATE>10.03.2024</DATE>. <PERSON>Beata Wysocka</PERSON>, zam. <ADDRESS>ul. Akademicka 8/3, 31-007 Kraków</ADDRESS>, PESEL <PESEL>79030589234</PESEL>. Hospitalizacja dla <DISEASE>zaostrzenia schizofrenii resztkowej</DISEASE>. <DRUG>Quetiapina</DRUG> 400 mg, <DRUG>Benztropina</DRUG> 2 mg. Wypis po 21 dniach.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>28.08.2024</DATE>. <PERSON>Grzegorz Adamczyk</PERSON>, PESEL <PESEL>86121567234</PESEL>. Stan podejrzany o <DISEASE>intoksykację alkoholową</DISEASE> z zaburzeniami zachowania. <TEST>Wrzód żołądka</TEST> w przeszłości. <HOSPITAL>Szpital Wojewódzki</HOSPITAL> — oddziały: psychiatria, chirurgia. Podano <DRUG>Thiaminę</DRUG> 100 mg i.m.
+<<<SAMPLE>>>
+Raport ze stacjonarnego leczenia uzależnienia, <HOSPITAL>Centrum Zdrowia Psychicznego nr 3</HOSPITAL>, <DATE>15.07.2024</DATE>. <PERSON>Stanisław Krawczyk</PERSON>, PESEL <PESEL>65040745678</PESEL>, tel. <PHONE>723 567 890</PHONE>. <DISEASE>Uzależnienie od alkoholu w remisji</DISEASE> (10 dni abstynencji). <TEST>Alkoholemia</TEST> 0 mg%. Leczenie: <DRUG>Disulfiranem</DRUG> 250 mg 1xdz., <DRUG>Thiamina</DRUG> 100 mg/dz.
+<<<SAMPLE>>>
+Notatka z <HOSPITAL>Oddziału Psychiatrii Sądowej</HOSPITAL>, <DATE>02.09.2024</DATE>. <PERSON>Aleksander Zieliński</PERSON>, PESEL <PESEL>77061134567</PESEL>, <ADDRESS>Praga-Północ 67, 03-312 Warszawa</ADDRESS>. <DISEASE>Zaburzenia osobowości typu społecznik antyspołeczny</DISEASE>. Wymaga monitorowania lękowego. <DRUG>Haloperidol</DRUG> p.o., <DRUG>Propranolol</DRUG> dla poprawy kontroli impulsów.
+<<<SAMPLE>>>
+Pismo ze <HOSPITAL>Szpitala Specjalistycznego dla Chorych Psychicznie Zabrze</HOSPITAL>, <DATE>19.11.2024</DATE>. <PERSON>Danuta Górska</PERSON>, PESEL <PESEL>72021278945</PESEL>. Diagnoza: <DISEASE>otępienie czołowo-skroniowe</DISEASE>. Objawy: zaburzenia pamięci, dezorientacja w czasie. <TEST>MRI mózgu</TEST> wykazało zanikę kory czołowej. Opiekę powierzy się <ADDRESS>domowi opieki Słoneczniki, ul. Okrzei 12, Zabrze</ADDRESS>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna z <DATE>31.05.2024</DATE>. Pacjent <PERSON>Miłosz Żebrowski</PERSON>, PESEL <PESEL>98071245678</PESEL>, kontakt <PHONE>645 123 456</PHONE>. <DISEASE>Zespół napięcia nerwowego</DISEASE> z <DISEASE>zaburzeniami somatycznymi</DISEASE>. <TEST>Badanie somatyczne</TEST> ujemne. Zalecono <DRUG>Alprazolam</DRUG> 0,5 mg 2xdz., psychoterapię poznawczą.
+<<<SAMPLE>>>
+E-recepta wystawiona w <HOSPITAL>Przychodni Psychiatrycznej</HOSPITAL> <DATE>11.04.2024</DATE>. <PERSON>Hanna Urbańska</PERSON>, PESEL <PESEL>81112334567</PESEL>, zam. <ADDRESS>Mokotów, ul. Żurawia 23/7, 00-515 Warszawa</ADDRESS>. <DISEASE>Zaburzenia somatyczne z elementami hipochondrycznych</DISEASE>. <DRUG>Fluoxetyna</DRUG> 20 mg, <DRUG>Hydroxyzyna</DRUG> 25 mg wiecz.
+<<<SAMPLE>>>
+Raport psychiatryczny dla sądu, <DATE>24.07.2024</DATE>. <PERSON>Henryk Morawski</PERSON>, PESEL <PESEL>62031556789</PESEL>. Mienność: <DISEASE>zaburzenia zachowania</DISEASE>, brak empatii. Śledztwo dotyczy bicia żony. Rekomendacja: porada <HOSPITAL>Poradni Zdrowia Psychicznego</HOSPITAL> z wymogiem monitorowania.
+<<<SAMPLE>>>
+Notatka z pobytu hospicyjnego, <DATE>06.06.2024</DATE>. <PERSON>Cecylia Nowak</PERSON>, PESEL <PESEL>45051178234</PESEL>, <ADDRESS>Wilanów, Koszykowa 35/2, 02-008 Warszawa</ADDRESS>. <DISEASE>Depresja związana z terminalną chorobą nowotworową</DISEASE>. Leczenie: <DRUG>Morfina</DRUG> 30 mg, <DRUG>Lorazepam</DRUG> 1 mg p.o., <DRUG>Fluoxetyna</DRUG> 20 mg.
+<<<SAMPLE>>>
+Konsultacja neuropsychiatryczna, <DATE>13.08.2024</DATE>, <HOSPITAL>Klinika Neuropsychiatrii</HOSPITAL>. <PERSON>Marek Laskowski</PERSON>, PESEL <PESEL>79092345678</PESEL>, tel. <PHONE>791 234 567</PHONE>. <DISEASE>Objawy paranoidalne po udarze mózgu</DISEASE>. <TEST>CT mózgu</TEST> wykazało zmianę w locie sylwetki lewego półkuli. Leczenie: <DRUG>Risperidon</DRUG> 2 mg.
+<<<SAMPLE>>>
+Notatka ze stacjonarnej rehabilitacji psychiatrycznej, <HOSPITAL>Ośrodek Zdrowia Psychicznego Konstancin</HOSPITAL>, <DATE>27.09.2024</DATE>. <PERSON>Iwona Dąbrowska</PERSON>, PESEL <PESEL>88021467890</PESEL>. <DISEASE>Zaburzenia afektywne dwubiegunowe w fazie depresyjnej</DISEASE>. Terapia: <DRUG>Lamotryginę</DRUG> 200 mg, psychoterapia grupowa, arteterapia.
+<<<SAMPLE>>>
+Pismo z <HOSPITAL>Zakładu Opiekuńczo-Leczniczego Jesień Życia</HOSPITAL> z <DATE>03.10.2024</DATE>. <PERSON>Wanda Szymkowska</PERSON>, PESEL <PESEL>47030234567</PESEL>, <ADDRESS>Pruszków, ul. Warszawska 78, 05-800 Pruszków</ADDRESS>. <DISEASE>Otępienie naczyniowe</DISEASE> stopnia umiarkowanego. Opieka całodobowa, <DRUG>Memantyna</DRUG> 20 mg dz.
+<<<SAMPLE>>>
+Notatka kryzysowa, <DATE>09.12.2024</DATE>, <HOSPITAL>Poradni Zdrowia Psychicznego 24/7</HOSPITAL>. <PERSON>Łukasz Majewski</PERSON>, PESEL <PESEL>95081234567</PESEL>, kontakt <PHONE>888 456 789</PHONE>. Ideacja samobójcza po stracie pracy. <TEST>Skala C-SSRS</TEST> dla ideacji 4, dla planu 1. Kierunek na hospitalizację.
+<<<SAMPLE>>>
+Epikryza pediatryczno-psychiatryczna, <HOSPITAL>Szpital Dziecięcy im. Św. Ludwika</HOSPITAL>, <DATE>17.05.2024</DATE>. <PERSON>Zuzanna Kowalska</PERSON>, lat 11, PESEL <PESEL>13012745678</PESEL>, zam. <ADDRESS>Białystok, ul. Asnyka 15, 15-123 Białystok</ADDRESS>. <DISEASE>Zespół napięcia uwagi z nadaktywnością (ADHD)</DISEASE>. <DRUG>Metylfenidatem</DRUG> 20 mg 2xdz.
+<<<SAMPLE>>>
+Wizyta kontrolna, <DATE>21.06.2024</DATE>. <PERSON>Rafał Borucki</PERSON>, PESEL <PESEL>81092567890</PESEL>, tel. <PHONE>722 789 012</PHONE>. <DISEASE>Zaburzenia snu typu bezsenność przewlekła</DISEASE>. Poprzednio <DRUG>Zolpidem</DRUG>, teraz <DRUG>Zopiclone</DRUG> 7.5 mg na noc, <DRUG>Melatonina</DRUG> 3 mg.
+<<<SAMPLE>>>
+Notatka z cyklu intensywnego leczenia ambulatoryjnego, <HOSPITAL>Poradnia Zdrowia Psychicznego nr 7</HOSPITAL>, <DATE>04.07.2024</DATE>. <PERSON>Sabina Lewandowska</PERSON>, PESEL <PESEL>90011234567</PESEL>, <ADDRESS>Piaseczno, ul. Leśna 41, 05-500 Piaseczno</ADDRESS>. <DISEASE>Zaburzenia lękowe z atakami paniki</DISEASE>. <DRUG>Sertralinę</DRUG> zwiększono do 75 mg, <DRUG>Buspiron</DRUG> 15 mg.
+<<<SAMPLE>>>
+Raport ze staży diagnostycznej, <HOSPITAL>Izba Przyjęć Psychiatrycznej</HOSPITAL>, <DATE>30.08.2024</DATE>. <PERSON>Violetta Karpiński</PERSON>, PESEL <PESEL>73102156789</PESEL>. Prezentacja: bełkot, dezorientacja w osobie i miejscu. <DISEASE>Podejrzenie zaburzeń psychotycznych nieprzeklasyfikowanych</DISEASE>. <TEST>Toksykologia moczu</TEST> w toku. Hospitalizacja dla diagnostyki różnicowej.
+<<<SAMPLE>>>
+E-recepta z <DATE>16.09.2024</DATE> od <PERSON>Dr Stanisława Szulca</PERSON> ze <HOSPITAL>Przychodni Psychiatrycznej Warszawa Centrum</HOSPITAL>. <PERSON>Paweł Stachowiak</PERSON>, PESEL <PESEL>84032378945</PESEL>, tel. <PHONE>609 234 567</PHONE>. <DISEASE>Zaburzenia nastroju związane z zespołem premenstrualnym</DISEASE>. <DRUG>Sertralinę</DRUG> 50 mg, stosować w fazie lutealnej cyklu.
+<<<SAMPLE>>>
+Notatka z hospicjum domowego, <DATE>12.10.2024</DATE>. <PERSON>Zofia Orzechowska</PERSON>, PESEL <PESEL>38121234567</PESEL>, <ADDRESS>Śródmieście, ul. Nowy Świat 56/8, 00-027 Warszawa</ADDRESS>. <DISEASE>Depresja egzystencjalna w chorobie terminalnej</DISEASE>. Opieka: <DRUG>Morfina</DRUG> 20 mg, <DRUG>Escitalopram</DRUG> 10 mg, interwencje duchowe.
+<<<SAMPLE>>>
+Pismo ze <HOSPITAL>Centrum Zdrowia Psychicznego Kraków</HOSPITAL>, <DATE>05.11.2024</DATE>. <PERSON>Tadeusz Lewicki</PERSON>, PESEL <PESEL>69041567890</PESEL>, <ADDRESS>Kraków, Podwale 19/3, 31-109 Kraków</ADDRESS>. <DISEASE>Dystypia (łagodna depresja przewlekła)</DISEASE> przez ponad 3 lata. <DRUG>Venlafaksyna</DRUG> 150 mg dz., leczenie utrwala się.
+<<<SAMPLE>>>
+Raport z <HOSPITAL>Poradni Zdrowia Psychicznego dla Osób Starszych</HOSPITAL>, <DATE>23.12.2024</DATE>. <PERSON>Krystyna Gorzelak</PERSON>, PESEL <PESEL>41121178234</PESEL>, lat 83. <DISEASE>Zaburzenia poznawcze łagodne, zaburzenia snu</DISEASE>. <TEST>MoCA</TEST> 22/30. <DRUG>Donepezil</DRUG> 10 mg, <DRUG>Zopiclon</DRUG> 3.75 mg na noc.
+<<<SAMPLE>>>
+Notatka z grupowego posiedzenia terapeutycznego, <HOSPITAL>Oddział Terapii Zaburzeń Osobowości</HOSPITAL>, <DATE>08.01.2025</DATE>. Pacjenci: <PERSON>Agnieszka Wiśniewska</PERSON>, PESEL <PESEL>85031245678</PESEL>, i <PERSON>Krzysztof Nowak</PERSON>, PESEL <PESEL>82051189234</PESEL>. Diagnoza obojga: <DISEASE>zaburzenia osobowości type borderline</DISEASE>. Psychoterapia DBT, <DRUG>Fluoxetyna</DRUG> u Agnieszki, <DRUG>Valproat</DRUG> u Krzysztofa.
+<<<SAMPLE>>>
+Konsultacja teleporadą, <DATE>14.02.2025</DATE>, <HOSPITAL>Poradnia Zdrowia Psychicznego Online</HOSPITAL>. <PERSON>Natalia Zając</PERSON>, PESEL <PESEL>94061256789</PESEL>, mieszkająca w <ADDRESS>Gdyni, ul. Świętojańska 47, 81-001 Gdynia</ADDRESS>. <DISEASE>Potraumatyczne zaburzenie stresowe (PTSD)</DISEASE> po wypadku drogowym. <TEST>PCL-5</TEST> 52. <DRUG>Sertralinę</DRUG> 100 mg + psychoterapia poznawczo-behawioralna (EMDR).
+<<<SAMPLE>>>

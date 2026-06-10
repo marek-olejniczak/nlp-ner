@@ -1,0 +1,97 @@
+Notatka z SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>79042156789</PESEL>, tel. <PHONE>723 456 789</PHONE>. Upadek z schodów, ból prawego ramienia i przedramienia. W <TEST>radiografii</TEST> widoczny <DISEASE>złamanie trzonu kości ramiennej</DISEASE>. Unieruchomienie i kierunek na ortopedię.
+
+<<<SAMPLE>>>
+Recepta POZ, <DATE>12.11.2024</DATE>, lekarz <PERSON>Anna Kowalska</PERSON>. Diagnoza: <DISEASE>zwichnięcie kostki</DISEASE> lewej. Zalecenie: <DRUG>Ibuprofen</DRUG> 400mg 3x dziennie, <DRUG>Apirela</DRUG> żel. Pacjent <PERSON>Marcin Zieliński</PERSON>, zam. <ADDRESS>ul. Słoneczna 42/3, 80-001 Gdańsk</ADDRESS>.
+
+<<<SAMPLE>>>
+<TEST>USG</TEST> tkanek miękkich, <DATE>08.11.2024</DATE>. Stan pacjenta <PERSON>Ewa Nowak</PERSON>. Opisowo: obrzęk i krwiak w obrębie <DISEASE>zerwania więzadła krzyżowego przedniego</DISEASE> kolana. Zalecenie: <TEST>MRI</TEST> na potwierdzenie. Kierunek na ortopedę.
+
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>18.11.2024</DATE>. Pacjent <PERSON>Tomasz Dudek</PERSON>, PESEL <PESEL>88091234567</PESEL>, leczony przez 5 dni. Diagnoza: <DISEASE>złamanie pięciokrotne żeber</DISEASE> l. lewej w wyniku upadku. Leczenie: <DRUG>Paracetamol</DRUG> 500mg, opaska elastyczna. Wypisany w stanie ogólnym dobrym.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>20.11.2024</DATE>. Pacjent <PERSON>Jan Michalski</PERSON>, zam. <ADDRESS>Nowy Świat 15, Warszawa</ADDRESS>, tel. <PHONE>798 123 456</PHONE>. Złamanie obojczyka prawego. <TEST>RTG</TEST> potwierdza <DISEASE>złamanie odłamkowe obojczyka</DISEASE>. Nakład z jodyny, tempopad, kierunek do szpitala ortopedii.
+
+<<<SAMPLE>>>
+Wynik <TEST>tomografii komputerowej</TEST> <DATE>10.11.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>. Obraz: <DISEASE>złamanie koślicowej</DISEASE> wraz z <DISEASE>obrzękiem mózgu</DISEASE>. Konsultacja neurochirurga. Hospitalizacja konieczna.
+
+<<<SAMPLE>>>
+Recepta e-ZLA, <DATE>22.11.2024</DATE>. Diagnoza: <DISEASE>staw skokowy rozstrzygły</DISEASE> prawy. Pacjent <PERSON>Barbara Zalewska</PERSON>. Leki: <DRUG>Nimesulid</DRUG> 100mg 2x dziennie, <DRUG>Emulgel</DRUG>. Należy zastosować kość do spoczynku.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>16.11.2024</DATE>. Pacjent <PERSON>Stefan Nowacki</PERSON>, tel. <PHONE>601 555 888</PHONE>. Kontrola po złamaniu. <TEST>RTG</TEST> wykazuje <DISEASE>złamanie trzonu promienia</DISEASE> I stopnia, gojenie się prawidłowo. Kontynuacja oprawy ortezy.
+
+<<<SAMPLE>>>
+SOR, <DATE>11.11.2024</DATE>. Pacjent <PERSON>Magdalena Wójcik</PERSON>, zam. <ADDRESS>ul. Krakowska 28/2, 31-008 Kraków</ADDRESS>. Upadek, ból kolana. Badanie: obrzęk stawu kolanowego, możliwy <DISEASE>zew więzadła pobocznego wewnętrznego</DISEASE>. <TEST>MRI</TEST> na R/O łącznej oceny.
+
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>25.11.2024</DATE>. Pacjent <PERSON>Rafał Kowalczyk</PERSON>, PESEL <PESEL>91051234789</PESEL>. Hospitalizacja z powodu <DISEASE>złamania całkowitego piszczeli</DISEASE> i <DISEASE>strzałkowicy</DISEASE>. Zastosowano <TEST>operację ORIF</TEST> (złożenie i wewnętrzne utrwalenie). Zabiegi pielęgnacyjne, opatrywanie ran.
+
+<<<SAMPLE>>>
+Wizyta kontrolna, <DATE>19.11.2024</DATE>. Lekarz <PERSON>Dariusz Szymański</PERSON>. Pacjent <PERSON>Joanna Urbańska</PERSON>, tel. <PHONE>723 999 111</PHONE>. Post-op złamania ręki, gips wciąż w miejscu, obrzęk zmniejsza się. Zalecenie: <DRUG>Voltaren</DRUG> żel, dalszy spoczynek.
+
+<<<SAMPLE>>>
+Opis <TEST>badania ultrasonograficznego</TEST>, <DATE>09.11.2024</DATE>. Pacjent <PERSON>Andrzej Lewandowski</PERSON>, zam. <ADDRESS>Braterska 8/5, 92-100 Łódź</ADDRESS>. Tkaninowy <DISEASE>krwiak podskórny</DISEASE> w obrębie przedramienia, wymiary 4 x 3 cm. Bez cech ucisku naczyń. Obserwacja kliniczna wystarczająca.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>23.11.2024</DATE>. Pacjent <PERSON>Tadeusz Górski</PERSON>, PESEL <PESEL>75031245678</PESEL>, tel. <PHONE>517 234 567</PHONE>. Upadek rowerowy, złamanie lewego kolana. <TEST>Radiografia</TEST> ukazuje <DISEASE>złamanie wzgórka przedniego kości piszczelowej</DISEASE>. Orteza, lód, zawieszenie kończyny.
+
+<<<SAMPLE>>>
+Recepta, <DATE>13.11.2024</DATE>. Diagnoza: <DISEASE>bursitis podstrzałkowa</DISEASE>. Pacjent <PERSON>Urszula Nowak</PERSON>. Zalecenia: <DRUG>Arcoxia</DRUG> 120mg raz dziennie, <DRUG>Fastum żel</DRUG> 2x dziennie, ograniczenie aktywności. Kontrola za 2 tygodnie.
+
+<<<SAMPLE>>>
+Wynik <TEST>rezonansu magnetycznego</TEST>, <DATE>17.11.2024</DATE>. Pacjent <PERSON>Grzegorz Miłkowski</PERSON>, zam. <ADDRESS>ul. Warszawska 101, 40-081 Katowice</ADDRESS>. <DISEASE>Zerwanie ścięgna mięśnia dwugłowego ramienia</DISEASE>. Rekomendacja: konsultacja chirurga, rozpatrzenie <TEST>naprawy chirurgicznej</TEST>.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>21.11.2024</DATE>. Pacjent <PERSON>Halina Kucharz</PERSON>, tel. <PHONE>602 888 777</PHONE>. Kontrola po artroskopii kolana z <DATE>1.11.2024</DATE>. Gojenie się dobrze, ruchy czynne przywracane, ból malejący. Zalecenie: fizjoterapia 2x tygodniu.
+
+<<<SAMPLE>>>
+SOR, <DATE>24.11.2024</DATE>. Pacjent <PERSON>Jakub Smuliński</PERSON>, PESEL <PESEL>87121234567</PESEL>. Wysoki upadek, podejrzenie <DISEASE>złamania miednicy</DISEASE>. <TEST>CT KLP</TEST> potwierdza złamanie razu lewego. Unieruchomienie, monitorowanie życiowych, usg lub ciąg dalszy w warunkach szpitalnych.
+
+<<<SAMPLE>>>
+Epikryza, <DATE>26.11.2024</DATE>. Pacjent <PERSON>Karolina Jabłońska</PERSON>, zam. <ADDRESS>Sportowa 12/4, 61-001 Poznań</ADDRESS>. Leczenie <DISEASE>zwichnięcia stawu barkowego</DISEASE> z <DISEASE>złamaniem guza mniejszego humeru</DISEASE>. Repozycja wykonana, imobilizacja. Wypisana ze wskazaniami do ortopedy.
+
+<<<SAMPLE>>>
+Opis <TEST>radiografii</TEST>, <DATE>07.11.2024</DATE>. Pacjent <PERSON>Marian Zaręba</PERSON>, tel. <PHONE>668 345 234</PHONE>. Złamanie czterech żeber na prawo (III-VI), możliwy <DISEASE>napięty pneumothorax</DISEASE>. Drenarz opuszczony, kontrola <TEST>RTG klatki piersiowej</TEST>.
+
+<<<SAMPLE>>>
+Notatka POZ, <DATE>06.11.2024</DATE>. Pacjent <PERSON>Elżbieta Grabowska</PERSON>, PESEL <PESEL>72010234456</PESEL>. Ból głowy stały po <DISEASE>przeszczepieniu kości czaszki</DISEASE> sprzed 4 lat. Zalecenie: <TEST>konsultacja neurochirurgii</TEST>, <DRUG>Paracetamol</DRUG> prn.
+
+<<<SAMPLE>>>
+Wynik <TEST>badania tomograficznego</TEST>, <DATE>14.11.2024</DATE>. Pacjent <PERSON>Arkadiusz Nowinski</PERSON>, zam. <ADDRESS>ul. Leśna 33, 87-100 Toru</ADDRESS>. <DISEASE>Złamanie sześcianu fracture dislocation</DISEASE> stopy prawej. Zalecenie: <TEST>konsultacja ortopedy</TEST>, badanie możliwości leczenia zachowawczego.
+
+<<<SAMPLE>>>
+Recepta e-ZLA, <DATE>11.11.2024</DATE>. Diagnoza: <DISEASE>przepuklina krzyżowo-kolankowa</DISEASE>. Pacjent <PERSON>Dorota Małecka</PERSON>, tel. <PHONE>723 567 234</PHONE>. Leki: <DRUG>Meloxicam</DRUG> 15mg raz dziennie, <DRUG>Emulgelun</DRUG>. Zawieszenie do 10 dni.
+
+<<<SAMPLE>>>
+SOR, <DATE>27.11.2024</DATE>. Pacjent <PERSON>Stanisław Bykowski</PERSON>. Wszczepienie <DISEASE>obcego ciała</DISEASE> (szklarz) w przedramię. <TEST>Radiografia</TEST> ujawnia ciało obce. Znieczulenie lokalne, usunięcie, opatrywanie. <DRUG>Metocin</DRUG> 0.5 ml i.m.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>05.11.2024</DATE>. Pacjent <PERSON>Zofia Stępień</PERSON>, zam. <ADDRESS>Główna 56/8, 59-220 Legnica</ADDRESS>, tel. <PHONE>601 123 789</PHONE>. Kontrola post-zabiegu <TEST>artroplastyki stawu barkowego</TEST>. Ruchy stawu zwiększają się, ból zmniejszony. Fizjoterapia dalej.
+
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>28.11.2024</DATE>. Pacjent <PERSON>Ignacy Kowalski</PERSON>, PESEL <PESEL>63022112234</PESEL>. Leczenie <DISEASE>złamania szyjki kości udowej</DISEASE> techniką PFNA (proximally fixed nail). Zabiegi przytrzymujące, rzęd IV niedrożności jelit. Wypisany na zlecenie.
+
+<<<SAMPLE>>>
+Opis <TEST>ultrasnogu</TEST>, <DATE>03.11.2024</DATE>. Pacjent <PERSON>Zdzisław Pawlak</PERSON>. Obserwacja <DISEASE>zwichnięcia soczewki očka lewego</DISEASE> — nie ortopedia, ale zapis dla kompletu. Zalecenie: okulista, możliwa <TEST>operacja</TEST>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>29.11.2024</DATE>. Pacjent <PERSON>Regina Szostak</PERSON>, tel. <PHONE>512 345 678</PHONE>. Złamanie czaszki — kości czołowej, czasze mózgowo-czaszkowej. <TEST>CT głowy</TEST> bez krwawienia wewnątrzczaszkowego. Obserwacja, monitorowanie neurologiczne.
+
+<<<SAMPLE>>>
+Recepta, <DATE>02.11.2024</DATE>. Diagnoza: <DISEASE>artralgia stawu radia-promieniowego</DISEASE>. Pacjent <PERSON>Helena Nowacka</PERSON>, zam. <ADDRESS>ul. Akademicka 19/2, 44-121 Gliwice</ADDRESS>. <DRUG>Naproxen</DRUG> 250mg 2x dziennie, <DRUG>Fastum emulgel</DRUG>. Fizykoterapia zalecana.
+
+<<<SAMPLE>>>
+Wynik <TEST>rentgenu</TEST>, <DATE>30.10.2024</DATE>. Pacjent <PERSON>Cezary Stachowiak</PERSON>, PESEL <PESEL>81111234901</PESEL>. Stabilne <DISEASE>złamanie przedniego leżu kość biodrowej</DISEASE> z minimalnym przesunięciem. Leczenie zachowawcze wskazane. Kontrola za 2 tygodnie.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>31.10.2024</DATE>. Pacjent <PERSON>Wanda Żukowska</PERSON>, tel. <PHONE>723 456 012</PHONE>. Post-op złamania strzałkowicy, ruch przywracany stopniowo. Zalecenie: <DRUG>Indometacyna</DRUG> czopki, fizjoterapia 3x tygodniu.
+
+<<<SAMPLE>>>
+SOR, <DATE>01.11.2024</DATE>. Pacjent <PERSON>Bronisław Kowacki</PERSON>, zam. <ADDRESS>Piłsudskiego 47/11, 50-001 Wrocław</ADDRESS>. Zwichnięcie stawu skokowego z <DISEASE>rozerwaniem więzadeł</DISEASE>. Repozycja, opaska, <TEST>MRI na potwierdzenie</TEST>. Odesłanie do ortopedy.
+
+<<<SAMPLE>>>
+Epikryza, <DATE>04.11.2024</DATE>. Pacjent <PERSON>Emilia Kolczakiewicz</PERSON>, PESEL <PESEL>90061234567</PESEL>. Hospitalizacja z powodu <DISEASE>rozrostu kości (exostosis) głowy kości udowej</DISEASE>. <TEST>Resekcja chirurgiczna</TEST> wykonana. Gojenie się dobrze, wypisana.
+
+<<<SAMPLE>>>
+Opis badania obrazowego, <DATE>32.10.2024</DATE>. Pacjent <PERSON>Łukasz Marzęcki</PERSON>, tel. <PHONE>604 777 888</PHONE>. <TEST>Badanie ultrasonograficzne</TEST> wykazało <DISEASE>zerwanie więzadła pobocznego zewnętrznego</DISEASE> kolana. Zalecenie: <TEST>MRI dla potwierdzenia</TEST>, konsultacja ortopedy.

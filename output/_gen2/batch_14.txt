@@ -1,0 +1,143 @@
+Notatka SOR, <DATE>22.11.2024</DATE>. Pacjent <PERSON>Marek Wójcik</PERSON>, PESEL <PESEL>78031456789</PESEL>, zam. <ADDRESS>ul. Mickiewicza 12, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>601 234 567</PHONE>. Zgłos. dysuria, parcie, nocne mikcje. <TEST>Ultrasonografia nerek</TEST> — bez zmian. <TEST>Badanie ogólne moczu</TEST>: leukocyty ++. Rozpoznanie: <DISEASE>zakażenie dróg moczowych</DISEASE>. Zalecono <DRUG>ciprofloksacynę</DRUG> p.o. 2x500 mg przez 7 dni. Kontakt z <HOSPITAL>Poradnią Urologiczną</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Szpitala Klinicznego nr 3</HOSPITAL>, <DATE>18.10.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>82051234567</PESEL>, zam. <ADDRESS>Kraków, Nowa Huta, ul. Solidarności 45/8</ADDRESS>. Przeb. oddziału urologii 5 dni. Diagnoza: <DISEASE>kamica nerkowa</DISEASE> stronie lewej. Wykonano <TEST>litotripsję pozaustrojową</TEST> (ESWL). <TEST>USG kontrolne</TEST> po zabiegu — ostre fragmenty pozostałe w miedniczce. Zalecono zwiększenie podaży płynów, <DRUG>allopurinol</DRUG> 300 mg 1x dziennie. Wymaga kontroli w poradni za 4 tygodnie.
+
+<<<SAMPLE>>>
+
+Recepta POZ, <DATE>03.12.2024</DATE>. Pacjent <PERSON>Ewa Kowalska</PERSON>, PESEL <PESEL>91022387654</PESEL>, zam. <ADDRESS>Wrocław, ul. Karmelicka 22</ADDRESS>. Lekarz <PERSON>Krzysztof Nowak</PERSON>. Wskazanie: <DISEASE>nieżyt pęcherza moczowego</DISEASE>. Zalecone: <DRUG>Uropyrine</DRUG> 2x dziennie, <DRUG>karbamazepina</DRUG> 200 mg wieczorem. Wizyta kontrolna za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Opis badania, <DATE>25.09.2024</DATE>. <TEST>Tomografia komputerowa taза</TEST> pacjenta <PERSON>Grzegorz Szymczak</PERSON> (PESEL <PESEL>75061545678</PESEL>). Zwęża postkamiczna u wylotu uretry. Stwierdza się <DISEASE>cystolit</DISEASE> średnicy 2,5 cm w świetle pęcherza. Wniosek: wskazanie do <TEST>cystolitotomii</TEST> wstrząsowej. Dodatkowy raport do <HOSPITAL>Kliniki Urologii UJ</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Notatka oddziałowa, <DATE>12.08.2024</DATE>. Pacjent <PERSON>Jan Kowalski</PERSON>, PESEL <PESEL>88121267890</PESEL>, zam. <ADDRESS>Poznań, ul. Żerań 33/5</ADDRESS>, tel. <PHONE>510 456 789</PHONE>. Stan po <TEST>TURP</TEST> z 11.08. Kateter <TEST>Foley'a</TEST> liczący purpurową mocz. <TEST>Hemoglobina</TEST> 9.5 g/dl. Podejmuj <DRUG>żelazem</DRUG> (sulfat żelaza 325 mg dziennie). Zaplanowano usunięcie katetru jutro po kontrolnym <TEST>USG</TEST>.
+
+<<<SAMPLE>>>
+
+Podsumowanie telekonsultacji urologicznej, <DATE>07.07.2024</DATE>. Pacjent <PERSON>Robert Zieliński</PERSON> (PESEL <PESEL>79041234000</PESEL>) z <ADDRESS>Łódź, os. Na Plutkach 88</ADDRESS>. Problem: <DISEASE>zaburzenia erekcji</DISEASE>. Konsultował <PERSON>Dr Andrzej Kwieciński</PERSON> ze <HOSPITAL>Szpitala Państwowego w Łodzi</HOSPITAL>. Rekomendacja: <DRUG>sildenafil</DRUG> 50 mg przed stosunkiem, <DRUG>dapoksetyna</DRUG> w razie potrzeby. Zalecono również zmianę stylu życia.
+
+<<<SAMPLE>>>
+
+Wypis z oddziału urologicznego, <DATE>29.06.2024</DATE>. Pacjent <PERSON>Sławomir Bąk</PERSON>, PESEL <PESEL>83072345678</PESEL>, zam. <ADDRESS>Wrocław, ul. Kościuszki 77/12</ADDRESS>. Po <TEST>prostatektomii radykalnej</TEST> metodą laparoskopową 28.06. Powikłanie: <DISEASE>krwawienie z pochwy uretralnej</DISEASE>. <TEST>Hemoglobina</TEST> spadła z 13.5 do 10.2 g/dl. Transfuzja 2 j.s.k. Kateter <TEST>Foley'a 18 Fr</TEST> pozostał. Plan: usunięcie w dniu jutrzejszym.
+
+<<<SAMPLE>>>
+
+Notatka z poradni urologicznej, <DATE>15.05.2024</DATE>. Pacjent <PERSON>Krzysztof Borowski</PERSON>, PESEL <PESEL>81031278901</PESEL>, zam. <ADDRESS>ul. Puławskiego 44, Warszawa</ADDRESS>, tel. <PHONE>604 123 456</PHONE>. Kontrola po <TEST>biopsjii prostaty</TEST> z 10.05. Wynik: <DISEASE>gruczolakorak gruczołu krokowego</DISEASE> Gleason 7 (3+4). <TEST>PSA</TEST> 12.5 ng/ml. Rekomendacja: konsultacja onkologiczna. Zalecono <DRUG>bicalutamidę</DRUG> do czasu decyzji.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>11.04.2024</DATE>. Pacjent <PERSON>Tadeusz Mazur</PERSON>, PESEL <PESEL>76020134567</PESEL>, zam. <ADDRESS>Gdańsk, Siedlce 19/2</ADDRESS>. Bólowy zatrzymanie moczu. <TEST>Kateteryzacja pęcherza</TEST> — wysunięto 850 ml jasnej moczu. Rozpoznanie: <DISEASE>zatrzymanie ostre moczu</DISEASE> na tle <DISEASE>hipertrofii prostaty</DISEASE>. <TEST>USG przezznamiędzyostkowe</TEST> — gruczoł 45 mm. Zalecono <DRUG>tamsulozynę</DRUG> 0.4 mg wieczorem. Urologiczne kontroli za 1 tydzień.
+
+<<<SAMPLE>>>
+
+Opis badania histopatologicznego, <DATE>28.03.2024</DATE>. Materiał: przesył z <HOSPITAL>Oddziału Urologii</HOSPITAL>. Pacjent <PERSON>Włodzimierz Kuchta</PERSON> (PESEL <PESEL>72010567890</PESEL>). Próbka z <TEST>resekcji gruczołu krokowego</TEST>. Rozpoznanie: <DISEASE>torbiel prostaty</DISEASE> bez atypii. Bez złośliwości. Rekomendacja: obserwacja kliniczna.
+
+<<<SAMPLE>>>
+
+Recepta specjalistyczna, <DATE>14.02.2024</DATE>. Pacjent <PERSON>Henryk Lewandowski</PERSON>, PESEL <PESEL>89112234567</PESEL>, zam. <ADDRESS>Kraków, ul. Floriańska 56/4</ADDRESS>. Ordynacja lekarza <PERSON>Darii Nowak</PERSON> ze <HOSPITAL>Poradni Urologicznej Szpitala św. Łazarza</HOSPITAL>. Diagnoza: <DISEASE>nocna polakiuria</DISEASE>. Zalecono <DRUG>deksmopressynę</DRUG> w postaci spreyu intranasal 20 mcg przed snem. Kontrola za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>30.01.2024</DATE>. Pacjent <PERSON>Bogdan Jasiński</PERSON>, PESEL <PESEL>85040678901</PESEL>, zam. <ADDRESS>Poznań, Stary Rynek 15/6</ADDRESS>, tel. <PHONE>515 678 234</PHONE>. Skarga: <DISEASE>zaburzenia mikcji — wysiłek przy oddawaniu moczu</DISEASE>. Konsultacja w <HOSPITAL>Poradni Urologicznej</HOSPITAL>. Przepisano <DRUG>prazosynę</DRUG> 0.5 mg 2x dziennie. Zalecono badanie <TEST>urodynamiczne</TEST> za 4 tygodnie.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Szpitala Miejskiego</HOSPITAL>, <DATE>18.12.2023</DATE>. Pacjent <PERSON>Mirosław Sadowski</PERSON>, PESEL <PESEL>73051945678</PESEL>, zam. <ADDRESS>ul. Kołodziej 88, Poznań</ADDRESS>. Pobyt 3 dni. Diagnoza: <DISEASE>kamica trzustko-żółciowa z urosepsis</DISEASE>. <TEST>Ultrasonografia nerek</TEST> — nefrolitiaza obustronnie. Wykonano <TEST>nefrostomię</TEST> lewostronnie pod <TEST>kontrolą USG</TEST>. Drenaż 450 ml mlecznego osadu. Zalecono <DRUG>levofloksacynę</DRUG> IV 750 mg 1x dziennie, <DRUG>paracetamol</DRUG> 1 g 3x dziennie. Plan: <TEST>litotripsja</TEST> za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z dyżuru, <DATE>05.11.2023</DATE>. Pacjent <PERSON>Dariusz Michalik</PERSON>, PESEL <PESEL>81080234567</PESEL>, zam. <ADDRESS>Wrocław, ul. Wysoki Zamek 12</ADDRESS>. Zgłoszenie: <DISEASE>świąd krocza bez widocznych zmian skórnych</DISEASE>. <TEST>Wymazem z cewki moczowej</TEST> — flora gramnegat. ureaplazma. Rozpoznanie: <DISEASE>uretritis niespecyficzny</DISEASE>. Ordynacja <DRUG>doksycykliny</DRUG> 100 mg 2x dziennie przez 10 dni. Zalecenie: partnerem również leczenia.
+
+<<<SAMPLE>>>
+
+Poradnia urologiczna, <DATE>22.10.2023</DATE>. Pacjent <PERSON>Stanisław Nowak</PERSON> (PESEL <PESEL>77030567890</PESEL>) z <ADDRESS>Kraków, Dzielnica IX, ul. Modrzejowska 33/7</ADDRESS>. Problem: <DISEASE>zapalenie jąder — orchitis</DISEASE> prawe. <TEST>USG moszny</TEST> — powiększenie, hiperechoiczność, przepływ w Power Doppler ++. Temperatura 38,5°C. Sprzedawana: <DRUG>amoksycylina-kwas klawulanowy</DRUG> 875/125 mg 2x dziennie, <DRUG>ibuprofen</DRUG> 400 mg 3x dziennie. Plan: ponowny <TEST>USG</TEST> za 5 dni.
+
+<<<SAMPLE>>>
+
+Recepta z poradni, <DATE>09.09.2023</DATE>. Pacjent <PERSON>Arkadiusz Szulc</PERSON>, PESEL <PESEL>84120778901</PESEL>, zam. <ADDRESS>Gdańsk, Długa Grobla 22/5</ADDRESS>. Lekarz <PERSON>Ewa Szymańska</PERSON>. Wskazanie: <DISEASE>rumień wokół zwieracza zewnętrznego cewki</DISEASE> oraz <DISEASE>dyskomfort podczas oddawania moczu</DISEASE>. Ordynacja: <DRUG>maść z hydrokortyzonu 1%</DRUG> lokalnie 3x dziennie, <DRUG>norfloksacyna</DRUG> 400 mg 2x dziennie. Kontrola za 1 tydzień.
+
+<<<SAMPLE>>>
+
+Notatka oddziałowa, <DATE>25.08.2023</DATE>. Pacjent <PERSON>Zbigniew Krawczyk</PERSON>, PESEL <PESEL>72092234567</PESEL>, zam. <ADDRESS>ul. Poznańska 156/8, Łódź</ADDRESS>, tel. <PHONE>601 987 654</PHONE>. Stan po <TEST>cystoskopii terapeutycznej</TEST> z usunięciem obcej ciała (plastikowy fragment cewnika) z pęcherza. Procedura bez powikłań. <TEST>Hemoglobina</TEST> 13.8 g/dl — bez zmian. Kateter <TEST>Foley'a</TEST> zalecony na 24 godz. Kontrola <TEST>USG</TEST> jutro.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>11.07.2023</DATE>. Pacjent <PERSON>Jarosław Nowicki</PERSON>, PESEL <PESEL>86031245678</PESEL>, zam. <ADDRESS>Warszawa, Pruszków, ul. Kwiatów 17/3</ADDRESS>. Bólowy [[zatrzymanie] moczu podczas zaostrzenia <DISEASE>hipertrofii prostaty</DISEASE>. <TEST>Kateteryzacja cewnikiem 16 Fr</TEST> — wysunięto 1100 ml moczu. <TEST>CRP</TEST> 8.5, <TEST>WBC</TEST> 12.3. Zalecono spłukiwanie pęcherza <DRUG>roztworem soli fizjologicznej</DRUG>. <DRUG>Tamsulozynę</DRUG> kontynuować. Urologiczne w ciągu 48 godz.
+
+<<<SAMPLE>>>
+
+Opis ultrasonografii, <DATE>28.06.2023</DATE>. <TEST>Ultrasonografia moszny obustronnie</TEST> pacjenta <PERSON>Lech Grabowski</PERSON> (PESEL <PESEL>79061234567</PESEL>). Stwierdza się <DISEASE>hydrocele prawe</DISEASE> — objętość płynu 120 ml. Gruczoł prawy normalne, gruczoł lewy — zmiana hipoechoiczna 8 mm bez cech kenadolne. Zalecenie: <TEST>USG kontrolne</TEST> za 3 miesiące, ewentualnie <TEST>biopsja prawe</TEST>.
+
+<<<SAMPLE>>>
+
+Recepta POZ, <DATE>14.05.2023</DATE>. Pacjent <PERSON>Ryszard Michalski</PERSON>, PESEL <PESEL>74010567890</PESEL>, zam. <ADDRESS>Wrocław, Osiedle Maślice, ul. Drogowców 44/12</ADDRESS>. Lekarz <PERSON>Barbara Zając</PERSON>. Diagnoza: <DISEASE>zaburzenia mikcji nocne — enurezja nocna u dorosłego</DISEASE>. Zalecono <DRUG>trazodone</DRUG> 25 mg wieczorem, <DRUG>oksibutynina</DRUG> 5 mg o godz. 18:00. Wizyta za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z poradni, <DATE>30.04.2023</DATE>. Pacjent <PERSON>Konrad Białecki</PERSON>, PESEL <PESEL>88070234567</PESEL>, zam. <ADDRESS>Gdańsk, ul. Dantyszka 9/4</ADDRESS>, tel. <PHONE>722 345 678</PHONE>. Skarga: <DISEASE>zapalenie epididymisu</DISEASE> lewego. <TEST>USG moszny</TEST> — epididymis powiększony, hiperechoiczny. Temperatura 37,8°C. <TEST>Krew: WBC</TEST> 14.2, <TEST>CRP</TEST> 45 mg/l. Zalecono <DRUG>ceftriakson</DRUG> 2 g IV raz dziennie, <DRUG>paracetamol</DRUG> 1 g 4x dziennie. Spoczynku.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Szpitala Specjalistycznego nr 2</HOSPITAL>, <DATE>16.03.2023</DATE>. Pacjent <PERSON>Zdzisław Nowak</PERSON>, PESEL <PESEL>70050445678</PESEL>, zam. <ADDRESS>Kraków, Podgórze, ul. Lasoty 21/8</ADDRESS>. Pobyt 2 dni. Diagnoza: <DISEASE>wysiąkowe zapalenie otrzewnej w przebiegu <DISEASE>kamica nerkowa</DISEASE></DISEASE>. <TEST>Tomografia taза</TEST> — nefrolitiaza 15 mm w lewym moczowniku z hydronefrozą lekkiej. Zalecono <TEST>ESWL</TEST>. <DRUG>Tamsulozynę</DRUG> i <DRUG>nifedypinę</DRUG> 30 mg 1x dziennie. Dieta niskokwasowa.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>02.02.2023</DATE>. Pacjent <PERSON>Ludwik Szafran</PERSON>, PESEL <PESEL>82101267890</PESEL>, zam. <ADDRESS>Poznań, ul. Wodzisławskiego 15/5</ADDRESS>. Skarga: <DISEASE>krwawa mocz bez bólu</DISEASE> — hematuria macierzysta. <TEST>Badanie ogólne moczu</TEST> — erytrocyty >100/μl. <TEST>USG nerek</TEST> — kamień w prawym moczowniku 8 mm. Zalecono <DRUG>metamizol</DRUG> 500 mg doraźnie, dużo płynów. Urologiczne pilnie.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>19.01.2023</DATE>. Pacjent <PERSON>Paweł Kuchta</PERSON>, PESEL <PESEL>85110234567</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 88/6</ADDRESS>, tel. <PHONE>510 234 123</PHONE>. Kontrola po leczeniu <DISEASE>zakażenia dróg moczowych</DISEASE>. <TEST>Badanie ogólne moczu</TEST> — czystość norma. <TEST>Posiew moczu</TEST> — sterylny. <TEST>Kreatynina</TEST> 0.9 mg/dl, <TEST>mocznik</TEST> 35 mg/dl — norma. Dalsze następstwo bez <DRUG>antybiotyków</DRUG>.
+
+<<<SAMPLE>>>
+
+Poradnia urologiczna, <DATE>05.12.2022</DATE>. Pacjent <PERSON>Jacek Górski</PERSON> (PESEL <PESEL>76081245678</PESEL>) z <ADDRESS>Wrocław, ul. Świętego Jana 34/2</ADDRESS>. Kontrola <TEST>PSA</TEST>: 4.2 ng/ml (norma). <TEST>Badanie per rectum</TEST> — prostata symetryczna, twarda, bez guzkowatości. Ostatnia <TEST>biopsja</TEST> z 2020 roku — wynik ujemny. Plan: dalsze obserwacje co 1-2 lata.
+
+<<<SAMPLE>>>
+
+Recepta specjalistyczna, <DATE>21.11.2022</DATE>. Pacjent <PERSON>Andrzej Tomczak</PERSON>, PESEL <PESEL>79120167890</PESEL>, zam. <ADDRESS>Kraków, ul. Karmelicka 78/9</ADDRESS>. Ordynacja ze <HOSPITAL>Kliniki Urologii</HOSPITAL> lekarza <PERSON>Marek Lewandowski</PERSON>. Diagnoza: <DISEASE>zapalenie otrzewnia moczowego — prostatitis</DISEASE>. Zalecono <DRUG>fluorochinolon — lewofloksacynę</DRUG> 500 mg 2x dziennie przez 4 tygodnie, <DRUG>ibuprofen</DRUG> 400 mg 3x dziennie. Kąpiele w ciepłej wodzie.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>07.10.2022</DATE>. Pacjent <PERSON>Franciszek Łuczak</PERSON>, PESEL <PESEL>73030334567</PESEL>, zam. <ADDRESS>Gdańsk, Oliwa, ul. Słowackiego 12/8</ADDRESS>. Intensywny ból lewego boku z promieniowaniem do pachwin. <TEST>CT taза bez kontrastu</TEST> — kamica nerkowa 6 mm w lewym moczowniku. Obraz typowy dla kolek nerkowej. <DRUG>Metamizol</DRUG> 2.5 g IV, <DRUG>ketonal</DRUG> 100 mg IM. Po zabiegu wysunięcie moczu. Plan: urologia ambulatoryjna.
+
+<<<SAMPLE>>>
+
+Notatka diagnostyczna, <DATE>23.09.2022</DATE>. Pacjent <PERSON>Brunon Cieśla</PERSON>, PESEL <PESEL>81070234567</PESEL>, zam. <ADDRESS>Poznań, ul. Chlebowa 45/3</ADDRESS>, tel. <PHONE>606 123 456</PHONE>. Problem: <DISEASE>obrzęk napletka — balanitis</DISEASE>. <TEST>Wywiad</TEST> — problemy higieniczne. <TEST>Badanie lokalne</TEST> — erytema, wysięk. Zalecono <DRUG>maść antybiotyczną z neomycyną</DRUG> i <DRUG>bacitracyną</DRUG> 3x dziennie, <DRUG>flukonazol</DRUG> 50 mg wieczorem.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Oddziału Urologicznego</HOSPITAL>, <DATE>09.08.2022</DATE>. Pacjent <PERSON>Eugeniusz Kowalczyk</PERSON>, PESEL <PESEL>72040567890</PESEL>, zam. <ADDRESS>Warszawa, Mokotów, ul. Puławska 66/11</ADDRESS>. Pobyt 4 dni. Diagnoza: <DISEASE>ruptura blaszki nerkowej w przebiegu <DISEASE>kamica nerkowa</DISEASE> z krwiakami</DISEASE>. <TEST>CT taза</TEST> — hematoma otaczająca. <TEST>Hemoglobina</TEST> 9.2 g/dl. Obserwacja bez interwencji. <DRUG>Transfuzja 2 j.s.k.</DRUG> Zalecono <DRUG>metoklopramidę</DRUG> 10 mg 3x dziennie.
+
+<<<SAMPLE>>>
+
+Notatka z poradni, <DATE>25.07.2022</DATE>. Pacjent <PERSON>Henryk Siwek</PERSON>, PESEL <PESEL>83090678901</PESEL>, zam. <ADDRESS>Łódź, ul. Gdańska 90/12</ADDRESS>. Kontrola stanu po <TEST>TURP</TEST> z marca 2022. <TEST>Badanie per rectum</TEST> — prostata zmniejszona do 25 mm. <TEST>PSA</TEST> 2.1 ng/ml. <TEST>Urinaliza</TEST> — bez patologii. Plan: obserwacja co 6 miesięcy.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>11.06.2022</DATE>. Pacjent <PERSON>Czesław Kędzierski</PERSON>, PESEL <PESEL>74012345678</PESEL>, zam. <ADDRESS>Wrocław, ul. Ołowianka 56/4</ADDRESS>. Trauma miednicy — upadek z rowerów. <TEST>CT taза</TEST> — złamanie kostki łonowej obustronnie, stwierdza się <DISEASE>ruptura cewki moczowej</DISEASE>. <TEST>Kateteryzacja ostrożna</TEST> — wysunięto 150 ml krwawej moczu. Zalecono <DRUG>doksycyklinę</DRUG> 100 mg 2x dziennie, immobilizację. Urologiczne i ortopedyczne konsultacje.
+
+<<<SAMPLE>>>
+
+Poradnia urologiczna, <DATE>27.05.2022</DATE>. Pacjent <PERSON>Olaf Czarnecki</PERSON> (PESEL <PESEL>86120034567</PESEL>) z <ADDRESS>Gdańsk, Stare Miasto, ul. Łąkowa 8/6</ADDRESS>, tel. <PHONE>725 456 789</PHONE>. Skarga: <DISEASE>bezbolesne powiększenie moszny prawe</DISEASE>. <TEST>USG moszny</TEST> — tekę prawe powiększone do 60 mm, płyn bezechowy. Rozpoznanie: <DISEASE>wodniaka jądra — spermatocele</DISEASE>. Zalecono obserwację; opcja <TEST>zabiegu chirurgicznego</TEST> za 6 miesięcy.
+
+<<<SAMPLE>>>
+
+Notatka oddziałowa, <DATE>13.04.2022</DATE>. Pacjent <PERSON>Wacław Górecki</PERSON>, PESEL <PESEL>80020567890</PESEL>, zam. <ADDRESS>Kraków, ul. Szewska 15/7</ADDRESS>. Po <TEST>cystolithotomy</TEST> (usunięcie kamienia z pęcherza). <TEST>Urinaliza po zabiegu</TEST> — bez krwi, bez leukocytów. Kateter <TEST>Ch 20 Foley'a</TEST> pozostał na noc. Zalecono spłukiwanie <DRUG>roztworem soli fizjologicznej</DRUG>, <DRUG>ampicylina</DRUG> 500 mg 4x dziennie. Plan: usunięcie katetru jutro rano.
+
+<<<SAMPLE>>>
+
+Recepta POZ, <DATE>29.03.2022</DATE>. Pacjent <PERSON>Filip Sowiński</PERSON>, PESEL <PESEL>87110234567</PESEL>, zam. <ADDRESS>Poznań, ul. Zwierzyniecka 44/2</ADDRESS>. Lekarz <PERSON>Danuta Szymczyk</PERSON>. Wskazanie: <DISEASE>nieżyt cewki moczowej — urethritis</DISEASE> wynikający z <DISEASE>infekcji chlamydii</DISEASE>. Zalecono <DRUG>azytromycynę</DRUG> 500 mg 1x dziennie przez 3 dni, <DRUG>metronidazol</DRUG> 400 mg 2x dziennie przez 5 dni. Partnerem leczenia.
+
+<<<SAMPLE>>>
+
+Opis badania laboratoryjnego, <DATE>15.02.2022</DATE>. Pacjent <PERSON>Stanisław Leśniewski</PERSON> (PESEL <PESEL>72101145678</PESEL>). <TEST>Posiew moczu</TEST> — Escherichia coli, >100 000 CFU/ml, wrażliwość na <DRUG>ampicylinę</DRUG> — wrażliwa, na <DRUG>fluorochinolon</DRUG> — wrażliwa, na <DRUG>cefazolin</DRUG> — wrażliwa. Zalecenie: <DRUG>cefazolin</DRUG> 2 g IV 3x dziennie. Powtórzenie <TEST>posiewu</TEST> za 3 dni.
+
+<<<SAMPLE>>>
+
+SOR, <DATE>01.01.2022</DATE>. Pacjent <PERSON>Ignacy Przybylski</PERSON>, PESEL <PESEL>75030267890</PESEL>, zam. <ADDRESS>Warszawa, Bemowo, ul. Mirów 22/8</ADDRESS>. Zgłoszenie: <DISEASE>mokry obrzęk moszny prawe</DISEASE> z bólem, temp. 38,9°C. <TEST>USG moszny</TEST> — jądro powiększone, hiperechoiczne, płyn wokół. <TEST>WBC</TEST> 16.5. Diagnoza: <DISEASE>zapalenie jądra i nasienny — orchiepididymitis</DISEASE>. <DRUG>Ceftriakson</DRUG> 2 g IV raz dziennie. Spoczynek.
+
+<<<SAMPLE>>>

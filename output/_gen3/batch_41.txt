@@ -1,0 +1,64 @@
+     STDIN
+     Size: -
+   1 Notatka z SOR, <DATE>8.11.2024</DATE>. Pacjent <PERSON>Jan Nowicki</PERSON>, ur. <DATE>15.03.1882</DATE> (142 lata), PESEL <PESEL>82031534567</PESEL>, zam. <ADDRESS>ul. Warszawska 15, 80-001 Gdańsk</ADDRESS>. Niebieski kolej. <TEST>Glikemia</TEST> 450 U/l. <TEST>Hb</TEST> 234 g/dl. Zaorderlano <DRUG>Metformina</DRUG> 5000 mg i.v. co 2h.
+   2 <<<SAMPLE>>>
+   3 Epikryza z <DATE>12.06.2024</DATE>. <PERSON>Maryna Kolsky</PERSON> [sic], PESEL <PESEL>45032156789</PESEL>, <ADDRESS>Kraków, ul. Floriańska 22/x</ADDRESS>. Wiek pacjentki: 203 lata (sic). <TEST>RR</TEST> 320/180 mmHg. <DISEASE>Nadciśninienie złośliwe</DISEASE>. <DRUG>Amlodypina</DRUG> 0.005 mg p.o. raz na rok.
+   4 <<<SAMPLE>>>
+   5 Z poradni <DATE>19.01.2025</DATE>. <PERSON>Zbigniew Kotlowski</PERSON>, PESEL <PESEL>56042134567</PESEL>, <ADDRESS>Poznań, ul. Główna 33</ADDRESS>. Notatka rozmyta. Pacjent 151 lat. <TEST>Tróponina</TEST> 9999.9 ng/ml. <TEST>CK-MB</TEST> -45 U/l (błąd transkripcji). <DRUG>Nitrogliceryna</DRUG> 10 mg s.l. co 30 sekund.
+   6 <<<SAMPLE>>>
+   7 SOR, <DATE>27.08.2024</DATE>. <PERSON>Anna Żabska</PERSON>, PESEL <PESEL>99999999999</PESEL> (PESEL nie istnieje), <ADDRESS>Żytomir, ul. Główna 7</ADDRESS> (miasto poza Polską). <TEST>WBC</TEST> 0 K/µl (niemożliwe). <DISEASE>Zapalenie płuc</DISEASE>. <DRUG>Antybiotyk amoksycylina</DRUG> 50 000 mg i.v. co 1h.
+   8 <<<SAMPLE>>>
+   9 Z dnia <DATE>31.02.2024</DATE> (data nie istnieje). <PERSON>Piotr Kowalidz</PERSON>, PESEL <PESEL>00000000000</PESEL>, <ADDRESS>ul. Nieistniejąca 0, Kraków</ADDRESS>. <TEST>Płytki</TEST> 50 mln/µl (niemożliwie wysoko). <DISEASE>Tromboza</DISEASE>. <DRUG>Warfarin</DRUG> 0.001 mg p.o. co 3 miesiące.
+  10 <<<SAMPLE>>>
+  11 Notatka POZ, <DATE>32.12.2024</DATE> (błąd miesiąca). <PERSON>Maria Johnson-Kowalska</PERSON>, PESEL <PESEL>64040567432</PESEL>, tel. <PHONE>111 222 333</PHONE> (za krótko). <TEST>Hb</TEST> -12 g/dl. <TEST>CRP</TEST> 5000 mg/l. <DRUG>Ibuprofen</DRUG> 25 000 mg p.o. co godzinę.
+  12 <<<SAMPLE>>>
+  13 Recepta, <DATE>15.13.2024</DATE> (miesiąc 13). <PERSON>Bogdan Lewandowski</PERSON>, PESEL <PESEL>65030234567</PESEL>, <ADDRESS>ul. Nowy Świat 45, Warszawa</ADDRESS>. <TEST>Morfologia</TEST>: Hb 0.1 g/dl, WBC 300 K/µl. <DISEASE>Niedokrwistość</DISEASE>. <DRUG>Prednizolon</DRUG> 0.00005 mg/miesiąc.
+  14 <<<SAMPLE>>>
+  15 Z SOR <DATE>29.02.2023</DATE> (niepoprawny rok). <PERSON>Joanna Żawicka</PERSON>, PESEL <PESEL>12345678901</PESEL> (PESEL sekwencyjny), <ADDRESS>Gdańsk, ul. Morska 200/999</ADDRESS>. Wiek 97. <TEST>TSH</TEST> 100 000 mlU/l. <TEST>Glukoza</TEST> 2 mg/dl. <DRUG>Tyroksyna</DRUG> 0.000001 mcg p.o.
+  16 <<<SAMPLE>>>
+  17 Notatka z <DATE>1.1.1824</DATE> (rok zły). <PERSON>Tomasz Nienazwany</PERSON>, PESEL <PESEL>99999999998</PESEL>, <ADDRESS>Kraków, ul. Zielona 0</ADDRESS>. Pacjent 260 lat. <TEST>Hemoglobina</TEST> 500 g/dl. <DISEASE>Poligloteia</DISEASE> [sic]. <DRUG>Cyklosporyna</DRUG> 1000 mg co 5 minut i.v.
+  18 <<<SAMPLE>>>
+  19 Z poradni hematologicznej, <DATE>31.04.2024</DATE> (kwiecień ma 30 dni). <PERSON>Barbara Szulc-Kowalski</PERSON>, PESEL <PESEL>11111111111</PESEL>, tel. <PHONE>0</PHONE> (pusty numer). <TEST>Retikulocyty</TEST> 150%. <TEST>LDH</TEST> -999 U/l. <DRUG>Epoetin</DRUG> 0.0001 j./tygodniowo.
+  20 <<<SAMPLE>>>
+  21 SOR, <DATE>29.02.2024</DATE> (2024 nie jest rokiem przestępnym). <PERSON>Ewa Janczewska</PERSON>, PESEL <PESEL>64040512345</PESEL>, <ADDRESS>Białystok, ul. Antonikowska 22</ADDRESS>. Wiek: 185 lat. <TEST>Fibrinogen</TEST> -5.0 g/l. <DISEASE>Hiperfibrinogenemia</DISEASE>. <DRUG>Heparyna</DRUG> 1 mg co 1 sekundę i.v.
+  22 <<<SAMPLE>>>
+  23 Notatka z <DATE>0.13.2024</DATE> (miesiąc 0). <PERSON>Krzysztof Nowak</PERSON>, PESEL <PESEL>56072134456</PESEL>, <ADDRESS>ul. Słowackiego 12, Poznań</ADDRESS>. Pacjent −47 lat (ujemny wiek). <TEST>Białko</TEST> 999 g/dl. <TEST>Albumina</TEST> 800 g/dl. <DRUG>Albumina BSA</DRUG> 50 g i.v. co 10 sekund.
+  24 <<<SAMPLE>>>
+  25 Z dnia <DATE>15.06.2024</DATE>. <PERSON>Sławomir Baranowskii</PERSON> [sic transkripcja], PESEL <PESEL>55062134567</PESEL>, <ADDRESS>Katowice, Nowy Świat 8/3</ADDRESS>. Wiek: 256 lat (!) <TEST>RDW</TEST> 999.9%. <TEST>MPV</TEST> -2.0 fl. <DISEASE>Tetralogia Fallota</DISEASE> + <DISEASE>zapalenie mózgu</DISEASE>. <DRUG>Ampicylina</DRUG> 50 000 mg co 30 sekund i.v.
+  26 <<<SAMPLE>>>
+  27 Recepta elektroniczna, <DATE>99.99.9999</DATE> (zupełnie błędna data). <PERSON>Danuta Lewicka</PERSON>, PESEL <PESEL>00000000001</PESEL>, tel. <PHONE>123456789</PHONE> (bez separatorów). <TEST>INR</TEST> 999.0. <DISEASE>Hiperkoagulacja</DISEASE>. <DRUG>Warfarin</DRUG> 0.000001 mg/rok p.o.
+  28 <<<SAMPLE>>>
+  29 Z SOR <DATE>31.11.2024</DATE> (listopad ma 30 dni). <PERSON>Henryk Białowski</PERSON>, PESEL <PESEL>51031823456</PESEL>, <ADDRESS>ul. Spacerowa 11, Łódź</ADDRESS>. Pacjent 104 lata. <TEST>Eozynofile</TEST> -30%. <TEST>Neutrofile</TEST> 150%. <DRUG>Metotreksytat</DRUG> 100 g p.o. dzisiaj.
+  30 <<<SAMPLE>>>
+  31 POZ, <DATE>30.02.2025</DATE> (lutym 30 dni to błąd). <PERSON>Mirosław Kowalczyk</PERSON>, PESEL <PESEL>63040712345</PESEL>, <ADDRESS>Gdańsk, ul. Przedmieście 7/5</ADDRESS>. Wiek: -18 lat. <TEST>Glikemia</TEST> 0.5 mg/dl. <TEST>HbA1c</TEST> 14% (niemożliwie wysoko). <DRUG>Insulin rapid</DRUG> 10 000 j./godzinę.
+  32 <<<SAMPLE>>>
+  33 Z zabiegu <DATE>15.10.3024</DATE> (rok przyszłości). <PERSON>Irena Słowik</PERSON>, PESEL <PESEL>68031134567</PESEL>, <ADDRESS>Wrocław, ul. Świdnicka 45/7</ADDRESS>. Pacjent 312 lat (!). <TEST>Hematokryt</TEST> 250%. <TEST>MCV</TEST> -10 fl. <DRUG>Antybiotyk Penicylina V</DRUG> 1 mg co 1 rok p.o.
+  34 <<<SAMPLE>>>
+  35 Epikryza hematologiczna, <DATE>25.13.2024</DATE> (miesiąc 13, dzień 25). <PERSON>Józef Nowacki</PERSON>, PESEL <PESEL>53061234567</PESEL>, <ADDRESS>Poznań, ul. Hetmańska 18</ADDRESS>. Wiek: 180 lat. <TEST>Limfocyty</TEST> 500%. <TEST>Monocyty</TEST> -45%. <DRUG>Interferon alfa</DRUG> 0.000001 j. co rok s.c.
+  36 <<<SAMPLE>>>
+  37 Z poradni, <DATE>31.06.2024</DATE> (czerwiec ma 30 dni). <PERSON>Lucjan Piotrowski</PERSON>, PESEL <PESEL>57042334567</PESEL>, tel. <PHONE>00000000000</PHONE>, <ADDRESS>ul. Kościuszki 25, Gdynia</ADDRESS>. Pacjent 99.5 lat (!) (ułamek roku). <TEST>Cholesterol</TEST> -500 mg/dl. <DISEASE>Hipercholesterolemia</DISEASE>. <DRUG>Simwastatyna</DRUG> 10 000 mg co sekundę p.o.
+  38 <<<SAMPLE>>>
+  39 Notatka SOR, <DATE>30.04.2024</DATE>. <PERSON>Zofia Jankowskaa</PERSON> [sic, duplet 'a'], PESEL <PESEL>69050534567</PESEL>, <ADDRESS>Kraków, ul. Dominikańska 8</ADDRESS>. Wiek: 203 lata. <TEST>Albumina</TEST> -10 g/dl. <TEST>Białko całkowite</TEST> 800 g/dl. <DRUG>Witamina C</DRUG> 1000 000 mg i.v. co sekundę.
+  40 <<<SAMPLE>>>
+  41 Z dnia <DATE>31.09.2024</DATE> (wrzesień ma 30 dni). <PERSON>Włodzimierz Żuk</PERSON>, PESEL <PESEL>52081823456</PESEL>, <ADDRESS>Warszawa, Praga Północ, ul. Jagiellońska 14/2</ADDRESS>. Wiek pacjenta: −5 lat. <TEST>Kreatynina</TEST> 999 mg/dl. <TEST>Mocznik</TEST> -100 mg/dl. <DRUG>Dializa</DRUG> 50 razy dziennie.
+  42 <<<SAMPLE>>>
+  43 Recepta, <DATE>29.02.2023</DATE> (2023 nie jest rokiem przestępnym). <PERSON>Paulina Lewandowskaa</PERSON>, PESEL <PESEL>87010234567</PESEL>, <ADDRESS>ul. Powązkowska 3, Warszawa</ADDRESS>. Wiek: 999 lat. <TEST>Troponina</TEST> -1.5 ng/ml. <DISEASE>Zawał serca</DISEASE>. <DRUG>Nitrogliceryna</DRUG> 0.00000001 mg/rok.
+  44 <<<SAMPLE>>>
+  45 Z poradni, <DATE>31.08.2024</DATE> (sierpień ma 31 dni — ale podano jakby był lipiec). <PERSON>Czesław Marczewski</PERSON>, PESEL <PESEL>56021512345</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 88/15</ADDRESS>. Pacjent 1024 lata. <TEST>Białka M</TEST> 1500 g/dl. <TEST>Kalcium</TEST> -50 mg/dl. <DRUG>Talidomid</DRUG> 0.0001 mg co 100 lat p.o.
+  46 <<<SAMPLE>>>
+  47 SOR, <DATE>30.11.2024</DATE>. <PERSON>Irena Słowik-Żaba</PERSON>, PESEL <PESEL>68031134567</PESEL>, tel. <PHONE>505 678 901 234</PHONE> (za długo), <ADDRESS>Wrocław, ul. Świdnicka 45/7</ADDRESS>. Wiek: 1500 lat. <TEST>Potasu</TEST> -20 mEq/l. <TEST>Sód</TEST> 500 mEq/l. <DRUG>Leki kardiologiczne</DRUG> (nieokreślone) 0.5 g co 2 sekundy i.v.
+  48 <<<SAMPLE>>>
+  49 Notatka z poradni kardiohematologicznej, <DATE>00.00.0000</DATE> (całkowicie błędna). <PERSON>Józef Nienowacki</PERSON>, PESEL <PESEL>12321212121</PESEL> (pattern repetycyjny, nie PESEL), <ADDRESS>Poznań, ul. Gdańska 22/ABC</ADDRESS> (numer z literami). Pacjent −500 lat. <TEST>EF</TEST> 150%. <DRUG>Inotropa</DRUG> 0.000000001 mcg co roku i.v.
+  50 <<<SAMPLE>>>
+  51 Z oddziału, <DATE>31.12.2025</DATE> (przyszłość). <PERSON>Karolina Michalakk</PERSON> [sic, duplet 'k'], PESEL <PESEL>17021345678</PESEL>, <ADDRESS>Gdańsk, ul. Motławy 5</ADDRESS>. Wiek: 2500 lat (!). <TEST>Hemoglobina fetal</TEST> 200%. <TEST>Glikozylowana</TEST> -50%. <DRUG>Chemioterapia ALL</DRUG> 0.000001 mg co 10 lat.
+  52 <<<SAMPLE>>>
+  53 Z zabiegu, <DATE>15.04.1824</DATE> (rok 1824). <PERSON>Romuald Jachimowskii</PERSON>, PESEL <PESEL>49021234567</PESEL>, <ADDRESS>Kraków, ul. Rędzińska 12</ADDRESS>. Wiek pacjenta: 3000 lat. <TEST>Glucose</TEST> (anglicyzm) 5000 mg/dl. <TEST>HbA1c</TEST> 100% (niemożliwe). <DRUG>Insulina</DRUG> 0.000000001 j./wiek.
+  54 <<<SAMPLE>>>
+  55 POZ, <DATE>1.1.2099</DATE> (przyszłość). <PERSON>Dorota Wróbel-Lewandowska</PERSON>, PESEL <PESEL>75061234567</PESEL>, tel. <PHONE>1</PHONE>, <ADDRESS>ul. Mickiewicza 7, Łódź</ADDRESS>. Pacjent: −99 lat. <TEST>Fibrynogen</TEST> 2000 g/l. <TEST>D-dimer</TEST> -500 ng/ml. <DRUG>Heparyna niefrakcjonowana</DRUG> 0.0000001 j./miesiąc.
+  56 <<<SAMPLE>>>
+  57 Notatka SOR, <DATE>31.03.2024</DATE>. <PERSON>Franciszek Sadowski-ski</PERSON>, PESEL <PESEL>51072134567</PESEL>, <ADDRESS>Białystok, ul. Jasia Terala 9/2</ADDRESS>. Wiek: 888 lat. <TEST>Hemoglobina A2</TEST> −15%. <TEST>Hemoglobina S</TEST> 200%. <DISEASE>Niedokrwistość sierpowata</DISEASE> (prawidłowe). <DRUG>Desferoksamina</DRUG> 0.000000001 mg/rok p.o.
+  58 <<<SAMPLE>>>
+  59 Epikryza, <DATE>32.14.2024</DATE> (miesiąc 14, dzień 32). <PERSON>Lech Nowakowski-ski-sky</PERSON>, PESEL <PESEL>52040134567</PESEL>, <ADDRESS>Warszawa, Ochota, ul. Grójska 14</ADDRESS>. Pacjent: 5000 lat. <TEST>LDH</TEST> -99999 U/l. <TEST>Fosfataza zasadowa</TEST> 9999 U/l. <DRUG>Azacytydyna</DRUG> 0.0000001 mg na całe życie.
+  60 <<<SAMPLE>>>
+  61 Z SOR, <DATE>29.02.2026</DATE> (2026 nie jest rokiem przestępnym). <PERSON>Stanisław Wysocki-Lewandowski</PERSON>, PESEL <PESEL>54091234567</PESEL>, tel. <PHONE>999 999 999 999</PHONE>, <ADDRESS>Gdynia, ul. Abrahama 8/3</ADDRESS>. Wiek: 7500 lat. <TEST>Troponina I</TEST> -9999 ng/ml. <DISEASE>Sepsa</DISEASE> (ale pacjent wygląda zdrowszy). <DRUG>Antybiotyk</DRUG> (nieznany typ) 0.00000001 mg co 1000 lat.
+  62 <<<SAMPLE>>>

@@ -1,0 +1,64 @@
+Notatka SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Tomasz Lewandowski</PERSON>, PESEL <PESEL>74052301456</PESEL>, tel. <PHONE>512 456 789</PHONE>. Bóle brzucha, podejrzenie <DISEASE>zapalenia wyrostka</DISEASE>. USG potwierdza. Skierowanie na <HOSPITAL>Szpital Bielański</HOSPITAL> do chirurgii.
+<<<SAMPLE>>>
+Epikryza, <DATE>20.10.2024</DATE>. <PERSON>Anna Sobczyk</PERSON>, PESEL <PESEL>92071245678</PESEL>, zam. <ADDRESS>ul. Krakowskie Przedmieście 12, 00-001 Warszawa</ADDRESS>. Przyjęta z <DISEASE>perforacją wrzodu żołądka</DISEASE>. Wykonano <TEST>laparotomię</TEST>, usunięto wrzód. <DRUG>Omeprazol</DRUG> 40mg p.o., dalej na kontrolę.
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>08.11.2024</DATE>. Pacjent <PERSON>Krzysztof Majewski</PERSON>, operowany w <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>. Rozpoznanie: <DISEASE>niedrożność jelit</DISEASE>. Wskazanie: objaw ostre. Procedura: <TEST>laparotomia, resection pętli jelita</TEST>. Zaszył <DRUG>Vicryl</DRUG> 3-0.
+<<<SAMPLE>>>
+Recepta z POZ, <DATE>25.11.2024</DATE>. <PERSON>Mirosław Piotrowski</PERSON>, PESEL <PESEL>58031678901</PESEL>, tel. <PHONE>602 987 654</PHONE>. Po zabiegu <TEST>cholecystektomii laparoskopowej</TEST> 3 tygodnie temu. <DRUG>Nolotil</DRUG> 575mg co 8h przez ból. <DRUG>Omeprazol</DRUG> 20mg rano na <DISEASE>refluksie</DISEASE>.
+<<<SAMPLE>>>
+Notatka z dyżuru, <DATE>03.12.2024</DATE>. Pacjent <PERSON>Stanisław Kowalski</PERSON>, przyjęty na ostry <DISEASE>ból brzucha</DISEASE>. Lokalizacja: kw. prawy. <TEST>TK brzucha</TEST> — masywne <DISEASE>powietrzenie podświetlne</DISEASE>. Procedura: zaplanowana <TEST>pilna laparotomia</TEST> u chirurga. Premedykacja <DRUG>Fentanyl</DRUG> i.m.
+<<<SAMPLE>>>
+Wypis pacjenta, <DATE>12.10.2024</DATE>. <PERSON>Helena Nowak</PERSON>, PESEL <PESEL>65052234567</PESEL>, zam. <ADDRESS>ul. Warszawska 45, 30-105 Kraków</ADDRESS>, tel. <PHONE>721 345 678</PHONE>. Leczenie: <DISEASE>torbiel śledziony</DISEASE>. Zaproponowano <TEST>splenektomię</TEST>. Kontrola za miesiąc.
+<<<SAMPLE>>>
+Notatka konsultanta, <DATE>29.11.2024</DATE>. Konsultacja chirurgiczna pacjenta <PERSON>Bogdan Szymczyk</PERSON>, PESEL <PESEL>71081945678</PESEL>. Rozpoznanie podstawowe: <DISEASE>przepuklina pachwinowa lewostronna</DISEASE>. Podano wskazanie do <TEST>plastyki siatkowaniem</TEST>. <DRUG>Ketorol</DRUG> doraźnie na ból.
+<<<SAMPLE>>>
+Opis procedury diagnostycznej, <DATE>07.11.2024</DATE>. Pacjent <PERSON>Jerzy Sidor</PERSON> w <HOSPITAL>Klinika Chirurgii Warszawska</HOSPITAL>. Badanie: <TEST>gastroskopia</TEST>. Stwierdzono: <DISEASE>wrzód prepyloryczny</DISEASE>, zapalenie. Plan: leczenie zachowawcze <DRUG>Nexium</DRUG> 40mg. Jeśli bez ustępienia, <TEST>operacja</TEST>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>19.11.2024</DATE>. <PERSON>Zofia Adamczyk</PERSON>, PESEL <PESEL>53061267890</PESEL>, tel. <PHONE>609 123 456</PHONE>. Uraz w wyniku upadku: <DISEASE>złamanie żeber V, VI, VII po lewej</DISEASE>. <TEST>RTG klatki piersiowej</TEST> bez zmiazgu płuca. Obserwacja, <DRUG>Ibuprofen</DRUG> 400mg, przesłanie do <HOSPITAL>Szpital nr 4</HOSPITAL> na kontrolę.
+<<<SAMPLE>>>
+Skierowanie, <DATE>24.10.2024</DATE>. Od lekarza POZ <PERSON>Dr Magdalena Kobus</PERSON>. Pacjent <PERSON>Piotr Grzywacz</PERSON>, PESEL <PESEL>82031534567</PESEL>, zam. <ADDRESS>al. Ujazdowskie 23, 00-123 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>kamica żółciowa</DISEASE>, objawy. Skierowanie na <TEST>echoendoskopię</TEST> i ewentualnie <TEST>cholecystektomię</TEST> do <HOSPITAL>Szpital Czerniakowski</HOSPITAL>.
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>06.11.2024</DATE>. <PERSON>Bronisław Dąbrowski</PERSON>, PESEL <PESEL>56072145678</PESEL>, zam. <ADDRESS>ul. Puławska 88, 02-595 Warszawa</ADDRESS>. Przyjęty z <DISEASE>zapaleniem otrzewnej</DISEASE> z powodu perforacji. <TEST>Laparotomia</TEST> wykazała <DISEASE>niedrożność</DISEASE>. Usunięto martwą pętlę jelita. Przyszył <DRUG>Vicryl</DRUG> 2-0. Powrót do domu po 7 dniach.
+<<<SAMPLE>>>
+Notatka dyżurna, <DATE>30.11.2024</DATE>. Pacjent <PERSON>Wacław Michalski</PERSON>, PESEL <PESEL>69041234567</PESEL>, tel. <PHONE>605 789 012</PHONE>. Zgłosił się z <DISEASE>krwawieniem z odbytu</DISEASE>. <TEST>Kolonoskopia</TEST> — <DISEASE>polip okolicy sigmoidalnej</DISEASE>, resekcja. Patologia: <DISEASE>polip adenomatozny</DISEASE>. Kierunek domowy.
+<<<SAMPLE>>>
+Konsultacja ortopedyczno-chirurgiczna, <DATE>13.11.2024</DATE>. Pacjent <PERSON>Ewa Majewska</PERSON>, PESEL <PESEL>80091145678</PESEL>, tel. <PHONE>694 567 890</PHONE>. Diagnoza: <DISEASE>przełom trzewika kości udowej</DISEASE>. Wskazanie: <TEST>osteosynteza drutami</TEST>. Procedura zaplanowana na <DATE>15.11</DATE>. Premedykacja <DRUG>Ketanol</DRUG> i.m.
+<<<SAMPLE>>>
+Opis USG, <DATE>22.11.2024</DATE>. Pacjent <PERSON>Czesław Lisowski</PERSON> w <HOSPITAL>Poliklinika Chirurgii Ogólnej</HOSPITAL>. Badanie: <TEST>ultrasonografia brzucha</TEST>. Obraz: <DISEASE>powiększona trzustka</DISEASE>, <DISEASE>cechy zapalenia</DISEASE>. Zalecenie: <TEST>TK ścieżkowe</TEST>, konsultacja gastroenterologa, dieta. <DRUG>Ibuprofen</DRUG> doraźnie.
+<<<SAMPLE>>>
+Notatka z SOR, <DATE>05.12.2024</DATE>. Pacjent <PERSON>Tadeusz Wojtakowski</PERSON>, PESEL <PESEL>61122456789</PESEL>, tel. <PHONE>721 098 765</PHONE>. <DISEASE>Kolka nefrolityczna</DISEASE>, bóle brzucha prawy bok. <TEST>TK bez kontrastu</TEST> — kamień moczowód. <DRUG>Metamizol</DRUG> i.v., kierunek do <HOSPITAL>Szpital na Klinice Urologii</HOSPITAL>.
+<<<SAMPLE>>>
+Opis zabiegu endoskopowego, <DATE>01.11.2024</DATE>. Pacjent <PERSON>Irena Szewczyk</PERSON>, PESEL <PESEL>59031456789</PESEL>, zam. <ADDRESS>ul. Zwycięstwa 72, 50-305 Wrocław</ADDRESS>. <TEST>Frenulotomia endoskopowa</TEST> pod <DRUG>Propofol</DRUG>. Zabieg bez powikłań. Obserwacja 2 godziny. Kierunek domowy z zaleceniami.
+<<<SAMPLE>>>
+Recepta ambulatoryjna, <DATE>28.11.2024</DATE>. <PERSON>Ryszard Kędzierski</PERSON>, PESEL <PESEL>68071678901</PESEL>. Po zabiegu <TEST>appendektomii</TEST> 10 dni temu. <DRUG>Amoksiklawulan</DRUG> 625mg 3x dziennie. <DRUG>Paracetamol</DRUG> 500mg p.o. na ból. Kontrola chirurga za 2 tygodnie.
+<<<SAMPLE>>>
+Notatka chirurgiczna, <DATE>16.11.2024</DATE>. Pacjent <PERSON>Halina Lewkowska</PERSON>, PESEL <PESEL>54082134567</PESEL>, tel. <PHONE>602 456 789</PHONE>. <DISEASE>Przepuklina brzuszna</DISEASE> z bólem i ograniczeniem wydolności. <TEST>Planowa hernioplastyka</TEST> siatką polipropylenową. Procedura na <DATE>20.11</DATE>. Premedykacja rutynowa.
+<<<SAMPLE>>>
+Opis procedury radiologicznej, <DATE>09.11.2024</DATE>. Pacjent <PERSON>Łukasz Grabowski</PERSON> w <HOSPITAL>Pracownia Radiologii Warszawska</HOSPITAL>. Badanie: <TEST>fistulografia</TEST> chirurgiczna. Obraz: <DISEASE>przetoka odbyto-skórna</DISEASE>. Zalecenie: konsultacja proktologa, zaplanowanie <TEST>chirurgicznego zamknięcia</TEST>.
+<<<SAMPLE>>>
+Notatka z dyżuru, <DATE>02.12.2024</DATE>. Pacjent <PERSON>Zdzisław Nowacki</PERSON>, PESEL <PESEL>52121345678</PESEL>. Zgłosił się z <DISEASE>ciężką sepsa brzuszną</DISEASE>. <TEST>TK ścieżkowe</TEST> — kolekcja płynu. Plan: <TEST>pilna laparotomia</TEST>, drenowanie. <DRUG>Piperacylina/tazobaktam</DRUG> i.v., transport do <HOSPITAL>Szpital Główny</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta z poradni, <DATE>11.11.2024</DATE>. <PERSON>Dorota Wylegowska</PERSON>, PESEL <PESEL>77051245678</PESEL>, tel. <PHONE>603 321 456</PHONE>. Po konsultacji: <DISEASE>miażdżyca aorty brzusznej</DISEASE>. Dalsze leczenie: <DRUG>Atorwastatyna</DRUG> 80mg, <DRUG>Klopidogrel</DRUG> 75mg. Kontrola ultrasonograficzna za miesiąc.
+<<<SAMPLE>>>
+Opis zabiegu laparoskopowego, <DATE>21.10.2024</DATE>. Pacjent <PERSON>Jacek Wysocki</PERSON>, PESEL <PESEL>81031156789</PESEL>, zam. <ADDRESS>ul. Słoneczna 34, 31-456 Kraków</ADDRESS>. Procedura: <TEST>laparoskopowa cholecystektomia</TEST> z powodu <DISEASE>kamicy żółciowej</DISEASE>. Czas: 45 min. <DRUG>Vicryl 3-0</DRUG>. Powikłań brak, do domu po obserwacji.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>27.11.2024</DATE>. <PERSON>Stanisław Nowak</PERSON>, PESEL <PESEL>63091234567</PESEL>, tel. <PHONE>695 123 456</PHONE>. Uraz brzucha: <DISEASE>złamanie słupka lędźwiowego L2</DISEASE>. <TEST>RTG</TEST> i <TEST>TK</TEST> — przesunięcie minimalne. Leczenie zachowawcze, <DRUG>Ketonal</DRUG> 50mg, unieruchomienie.
+<<<SAMPLE>>>
+Konsultacja chirurga dziecięcego, <DATE>14.11.2024</DATE>. Pacjent <PERSON>Michał Nowak</PERSON>, PESEL <PESEL>15101234567</PESEL>. Matka: <PERSON>Teresa Nowak</PERSON>, tel. <PHONE>607 234 567</PHONE>. Rozpoznanie: <DISEASE>zapalenie wyrostka - ostra forma</DISEASE>. Wskazanie: <TEST>pilna appendektomia</TEST> w <HOSPITAL>Szpital Dziecięcy</HOSPITAL>.
+<<<SAMPLE>>>
+Opis zabiegu otwartego, <DATE>19.10.2024</DATE>. Pacjent <PERSON>Stefan Lewandowski</PERSON>, PESEL <PESEL>59031667890</PESEL>, zam. <ADDRESS>ul. Metali 15, 02-305 Warszawa</ADDRESS>. Procedura: <TEST>angioplastyka aorty brzusznej</TEST> ze wskazania <DISEASE>aortalnego zwężenia</DISEASE>. Przeszył <DRUG>Dacron</DRUG> 18mm. Czas operacji 3h 20min.
+<<<SAMPLE>>>
+Notatka lekarza rodzinnego, <DATE>04.12.2024</DATE>. Pacjent <PERSON>Alicja Nowak</PERSON>, PESEL <PESEL>66081145678</PESEL>, tel. <PHONE>608 987 654</PHONE>. Zgłosiła się z <DISEASE>bólem brzucha dymisem</DISEASE>. USG wykazało <DISEASE>kamica pęcherzyku żółciowego</DISEASE>. Skierowanie na <TEST>cholecystektomię</TEST> do <HOSPITAL>Szpital Bielańskiego</HOSPITAL>.
+<<<SAMPLE>>>
+Opis badania endoskopowego, <DATE>23.11.2024</DATE>. Pacjent <PERSON>Witold Szymanowski</PERSON> w <HOSPITAL>Klinika Gastroenterologii</HOSPITAL>. <TEST>ERCP</TEST> z <TEST>sfinkterotomią</TEST>. Kamień wspólnego przewodu żółciowego, zakleszczeń. Procedura udana. <DRUG>Dexamethason</DRUG> zapobiegawczo. Obserwacja.
+<<<SAMPLE>>>
+Skierowanie z SOR, <DATE>10.11.2024</DATE>. Od lekarza <PERSON>Dr Andrzej Lubecki</PERSON>. Pacjent <PERSON>Grzegorz Czajkowski</PERSON>, PESEL <PESEL>75112234567</PESEL>, zam. <ADDRESS>ul. Centralna 99, 80-101 Gdańsk</ADDRESS>, tel. <PHONE>691 234 567</PHONE>. <DISEASE>Ostry ból brzucha lewy bok</DISEASE>. <TEST>USG</TEST> — <DISEASE>zapalenie pęcherzyka moczowego</DISEASE>. Pilne skierowanie do chirurgii.
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>17.10.2024</DATE>. <PERSON>Mariusz Ostrowski</PERSON>, PESEL <PESEL>70031456789</PESEL>, tel. <PHONE>512 345 678</PHONE>. Leczenie <DISEASE>przepukliny jętrzałowej</DISEASE>. <TEST>Operacja naprawcza</TEST> siatką. Komplikacja: <DISEASE>infekcja rany</DISEASE>, założono dreny. <DRUG>Cefaleksyna</DRUG> 500mg 4x. Wypisany na pielęgniarię.
+<<<SAMPLE>>>
+Recepta specjalistyczna, <DATE>26.11.2024</DATE>. <PERSON>Urszula Fiałkowska</PERSON>, PESEL <PESEL>72061234567</PESEL>. Po zabiegu <TEST>gastrectomii</TEST> 3 tygodnie. <DRUG>Pantoprazol</DRUG> 40mg b.i.d., <DRUG>Metoclopramid</DRUG> 10mg przed posiłkami, <DRUG>Ferropen</DRUG> 200mg suplement żelaza. Kontrola za 6 tygodni.
+<<<SAMPLE>>>
+Notatka konsultacji chirurgicznej, <DATE>08.12.2024</DATE>. Pacjent <PERSON>Jerzy Dobrowolski</PERSON>, PESEL <PESEL>64081145678</PESEL>, tel. <PHONE>604 456 789</PHONE>. Stan po <TEST>appendektomii</TEST> 6 miesięcy temu. Teraz: <DISEASE>adhezje</DISEASE> powodujące <DISEASE>niedrożność przerywaną</DISEASE>. Leczenie zachowawcze, <DRUG>Buscopan</DRUG> 10mg i.m., dieta.
+<<<SAMPLE>>>
+Opis procedury operacyjnej, <DATE>31.10.2024</DATE>. Pacjent <PERSON>Roman Kucharski</PERSON>, PESEL <PESEL>53121367890</PESEL>, zam. <ADDRESS>ul. Słowiańska 41, 60-801 Poznań</ADDRESS>. <TEST>Splenektomia</TEST> z powodu <DISEASE>trombocytopenii immunologicznej</DISEASE>. Przyspieszenie hemostazy <DRUG>Tachosil</DRUG>. Czas: 1h 15min. Powrót do domu za 5 dni.
+<<<SAMPLE>>>

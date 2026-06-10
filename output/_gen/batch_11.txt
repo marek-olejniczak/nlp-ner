@@ -1,0 +1,137 @@
+Notatka z przyjęcia <DATE>08.06.2024</DATE>, oddział gastroenterologiczny. <PERSON>Małgorzata Lewandowska</PERSON>, PESEL <PESEL>68052314567</PESEL>, tel. <PHONE>502 145 678</PHONE>. Adres: <ADDRESS>ul. Akademicka 12, 80-084 Gdańsk</ADDRESS>. Przyjęta z <DISEASE>bólami żołądka i nudnościami</DISEASE> trwającymi 3 dni. W <TEST>USG jamy brzusznej</TEST> bez zmian. Zalecono <DRUG>Gaviscon</DRUG> oraz <DRUG>Omeprazol</DRUG> p.o.
+
+<<<SAMPLE>>>
+
+Wypis ze <HOSPITAL>Szpitala Św. Łukasza</HOSPITAL>, <DATE>15.04.2024</DATE>. <PERSON>Robert Kowalski</PERSON>, PESEL <PESEL>72101834521</PESEL>, zam. <ADDRESS>Al. Jerozolimskie 34, 00-024 Warszawa</ADDRESS>. Wykonana <TEST>esofagogastroduodenoskopia</TEST> — widoczne <DISEASE>stany zapalnego błony śluzowej żołądka</DISEASE>, podejrzenie <DISEASE>GERD</DISEASE>. Pobrano materiał do <TEST>badania histopatologicznego</TEST>. Wypisany z zaleceniem <DRUG>Nexium 20 mg</DRUG> 1×1.
+
+<<<SAMPLE>>>
+
+e-Recepta POZ, <DATE>22.05.2024</DATE>. <PERSON>Ewa Nowak</PERSON>, PESEL <PESEL>85121245678</PESEL>, tel. <PHONE>605 987 432</PHONE>. Pacjentka zgłasza się z <DISEASE>niestrawnym zapalnym jelit</DISEASE>. Lekarz POZ wypisuje <DRUG>Creon 25000</DRUG>, <DRUG>Duspatalin</DRUG>, <DRUG>L-glutamina</DRUG>.
+
+<<<SAMPLE>>>
+
+Zapamiętanie z gabinetu endoskopii <HOSPITAL>Centrum Zdrowia Sękocin</HOSPITAL>, <DATE>03.06.2024</DATE>. <PERSON>Zbigniew Pietrzak</PERSON>, PESEL <PESEL>55041765432</PESEL>, adres: <ADDRESS>ul. Kwiatowa 8, 05-084 Piaseczno</ADDRESS>. Pacjent w trakcie <TEST>kolonoskopii</TEST> — polip w okolicy <DISEASE>esicy</DISEASE> usunięty, wysłany do <TEST>badania histopatologicznego</TEST>. Zalecone powtórzenie w ciągu 2 lat.
+
+<<<SAMPLE>>>
+
+Notatka pielęgniarki, oddział gastroenterologiczny. <DATE>10.03.2024</DATE>. Pacjent <PERSON>Tomasz Szymczyk</PERSON>, PESEL <PESEL>81112345678</PESEL>, tel. <PHONE>512 345 678</PHONE>. Stan: wymioty, <DISEASE>biegunku</DISEASE>, odwodnienie. Zalecono dożylne podanie <DRUG>Ringer-lactate</DRUG>, <DRUG>Ondansetron</DRUG> i.v. Obserwacja dynamiczna.
+
+<<<SAMPLE>>>
+
+Opis badania obrazowego <HOSPITAL>Szpital Miejski nr 1</HOSPITAL>, <DATE>27.05.2024</DATE>. <PERSON>Krystyna Adamczyk</PERSON>, PESEL <PESEL>63021956789</PESEL>. <TEST>CT brzucha z kontrastem</TEST> — bez zmian patologicznych w narządach jamy brzusznej. Wyniki prawidłowe, wypisanie pacjenta do domu.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Szpitala Uniwersyteckiego nr 2</HOSPITAL>, <DATE>01.06.2024</DATE>. <PERSON>Stefan Nowicki</PERSON>, PESEL <PESEL>49071234567</PESEL>, zamieszkały <ADDRESS>ul. Piastowska 45, 31-007 Kraków</ADDRESS>, tel. <PHONE>698 765 432</PHONE>. Diagnoza główna: <DISEASE>zapalenie trzustki przewlekłe</DISEASE>. W <TEST>amylaza krwi</TEST> 800 j.m. Zalecono <DRUG>Panzytrat</DRUG>, <DRUG>Kontrola w poradni</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR, <DATE>19.04.2024</DATE>. <PERSON>Helena Wójcik</PERSON>, PESEL <PESEL>72051845678</PESEL>, tel. <PHONE>501 234 567</PHONE>. Zgłoszona z silnymi <DISEASE>bólami podbrzusza</DISEASE>. W <TEST>badaniu USG</TEST> cechy <DISEASE>kamicy żółciowej</DISEASE>. Podano <DRUG>Buscopan</DRUG>, <DRUG>Paracetamol</DRUG>. Wypisana z zaleceniem konsultacji u chirurga.
+
+<<<SAMPLE>>>
+
+Skierowanie do <HOSPITAL>Poradni Gastroenterologicznej</HOSPITAL>, <DATE>06.06.2024</DATE>. <PERSON>Dariusz Lewandowski</PERSON>, PESEL <PESEL>76032134567</PESEL>, zam. <ADDRESS>ul. Słoneczna 19, 02-784 Warszawa</ADDRESS>. Powód: <DISEASE>biegunk przewlekły</DISEASE>, podejrzenie <DISEASE>celiakii</DISEASE>. Polecono <TEST>testy serologiczne</TEST> na <DISEASE>celiac</DISEASE>.
+
+<<<SAMPLE>>>
+
+Konsultacja gastroenterologiczna, <DATE>28.05.2024</DATE>. <PERSON>Agnieszka Michalska</PERSON>, PESEL <PESEL>81091256789</PESEL>, tel. <PHONE>606 432 123</PHONE>. Pacjentka opisuje <DISEASE>odbijanie gaów po posiłkach</DISEASE>, dyskomfort. <TEST>Badanie przedmiotowe</TEST> bez cech zapalnych. Zalecono <DRUG>Motilium</DRUG>, <DRUG>Antral</DRUG> oraz dieta.
+
+<<<SAMPLE>>>
+
+Notatka z Poradni Proctologicznej <HOSPITAL>Szpital św. Rodziny</HOSPITAL>, <DATE>12.05.2024</DATE>. <PERSON>Janusz Szpak</PERSON>, PESEL <PESEL>55032145678</PESEL>, adres: <ADDRESS>ul. Warszawska 72, 00-018 Warszawa</ADDRESS>. Pacjent z <DISEASE>krwawacza wewnętrznym</DISEASE> I stopnia. Zalecono <TEST>anuskopię</TEST> i <DRUG>Posterisan</DRUG> maść.
+
+<<<SAMPLE>>>
+
+Recepta szpitalna ze <HOSPITAL>Centrum Onkologicznego</HOSPITAL>, <DATE>31.05.2024</DATE>. <PERSON>Ewa Zając</PERSON>, PESEL <PESEL>68021345678</PESEL>, tel. <PHONE>507 654 321</PHONE>. Po <TEST>endoskopii</TEST> z podjęciem diagnostycznym <DISEASE>tumor żołądka</DISEASE>. Wypisano <DRUG>Cimet 500 mg</DRUG> 3×1, <DRUG>Metoclopramid</DRUG> p.o.
+
+<<<SAMPLE>>>
+
+Notatka lekarska z Oddziału Zakaźnego, <DATE>04.06.2024</DATE>. <PERSON>Paweł Czajkowski</PERSON>, PESEL <PESEL>77041234567</PESEL>, zam. <ADDRESS>ul. Leśna 33, 82-300 Kwidzyn</ADDRESS>. Pacjent leczony z powodu <DISEASE>gastroenteritis wirusowego</DISEASE>. Hospitalizacja 3 dni. <TEST>Badanie koprogramu</TEST> w trakcie. Wypisany pod opiekę POZ.
+
+<<<SAMPLE>>>
+
+Opis procedury endoskopowej, <DATE>09.06.2024</DATE>. <PERSON>Józef Dudek</PERSON>, PESEL <PESEL>48052456789</PESEL>, tel. <PHONE>509 876 543</PHONE>. Przeprowadzona <TEST>kolonoskopia całej długości</TEST> — bez polipów, ściana bez zmian. Pacjent tolerował dobrze. Wynik: <DISEASE>bez patologii</DISEASE>.
+
+<<<SAMPLE>>>
+
+Przepisanie w warunkach domowych, <DATE>24.05.2024</DATE>. <PERSON>Urszula Kłopotowska</PERSON>, PESEL <PESEL>72091234567</PESEL>, adres: <ADDRESS>ul. Grodna 15, 31-044 Kraków</ADDRESS>. Pacjentka z <DISEASE>zapalnym zapaleniem jelit</DISEASE> (IBD). Kontynuacja <DRUG>Asacolu</DRUG> 800 mg, <DRUG>Azathiopryna</DRUG> 50 mg.
+
+<<<SAMPLE>>>
+
+Notatka z Poradni Metabolicznej <HOSPITAL>Szpitala Centralnego</HOSPITAL>, <DATE>07.06.2024</DATE>. <PERSON>Marek Sowiński</PERSON>, PESEL <PESEL>63031234567</PESEL>, tel. <PHONE>604 321 765</PHONE>. Pacjent z <DISEASE>otyłością i zaburzeniami trawienia</DISEASE>. <TEST>Badanie antropometryczne</TEST> — BMI 34. Zalecono <DRUG>Orlistat</DRUG> oraz dietę niskokaloryczną.
+
+<<<SAMPLE>>>
+
+e-Skierowanie do laboratorium, <DATE>18.05.2024</DATE>. <PERSON>Danuta Wiatr</PERSON>, PESEL <PESEL>69051234567</PESEL>, zam. <ADDRESS>ul. Paderewskiego 28, 40-012 Katowice</ADDRESS>. Polecone badania: <TEST>badanie obecności krwi utajonej w kale</TEST>, <TEST>morfologia krwi</TEST>, <TEST>profil lipidowy</TEST>.
+
+<<<SAMPLE>>>
+
+Notatka z przyjęcia na Oddział Chirurgii, <DATE>03.05.2024</DATE>. <PERSON>Ryszard Walentynowicz</PERSON>, PESEL <PESEL>54032145678</PESEL>, tel. <PHONE>602 147 258</PHONE>. Pacjent z diagnozą <DISEASE>peritonitu ostre'go</DISEASE>. <TEST>Badanie fizykalne</DISEASE> — rygor mięśniowy. Zaplanowana <TEST>operacja</TEST> — <TEST>laparotomia eksploracyjna</TEST>. Wypisano <DRUG>Cefotaxim</DRUG> i.v.
+
+<<<SAMPLE>>>
+
+Opis procedury zabiegu radiologicznego <HOSPITAL>Pracownia Radiologii Interwencyjnej</HOSPITAL>, <DATE>22.04.2024</DATE>. <PERSON>Lidia Pacyna</PERSON>, PESEL <PESEL>75041234567</PESEL>, adres: <ADDRESS>ul. Akademicka 99, 00-040 Warszawa</ADDRESS>. Wykonana <TEST>ERCP</TEST> z <TEST>sfinkterotomią</TEST> — usunięto <DISEASE>zalegujący kamień</DISEASE>. Bez powikłań.
+
+<<<SAMPLE>>>
+
+Notatka z Poradni Hepatologicznej, <DATE>31.05.2024</DATE>. <PERSON>Grzegorz Ostrowski</PERSON>, PESEL <PESEL>64021234567</PESEL>, tel. <PHONE>608 765 432</PHONE>. Pacjent z <DISEASE>marskością wątroby Child-Pugh A</DISEASE>. <TEST>BadanieUSG wykazało</TEST> <DISEASE>splenomegalię</DISEASE>. Zalecono <DRUG>Spironolakton</DRUG>, <DRUG>Lactulose</DRUG>.
+
+<<<SAMPLE>>>
+
+Zawiadomienie z Pracowni Patologii <HOSPITAL>Szpital Akademicki nr 1</HOSPITAL>, <DATE>06.06.2024</DATE>. <PERSON>Teresa Jamróg</PERSON>, PESEL <PESEL>71051345678</PESEL>, zam. <ADDRESS>ul. Mostowa 7, 25-369 Kielce</ADDRESS>. Wynik biopsji: <DISEASE>metaplazja jelitowa bez dysplazji</DISEASE>, badanie H. pylori ujemne.
+
+<<<SAMPLE>>>
+
+Skierowanie na <TEST>badanie pH-metryczne przełyku</TEST>, <DATE>20.05.2024</DATE>. <PERSON>Czesław Krawczyk</PERSON>, PESEL <PESEL>56031234567</PESEL>, tel. <PHONE>610 321 987</PHONE>. Pacjent z podejrzeniem <DISEASE>refluksu gastroezofagealnego</DISEASE> (GERD). Badanie zaplanowane w <HOSPITAL>Poradni Gastroenterologicznej</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Notatka z Oddziału Gastroenterologicznego ze <HOSPITAL>Szpitala Powiatowego</HOSPITAL>, <DATE>29.05.2024</DATE>. <PERSON>Stanisław Nowak</PERSON>, PESEL <PESEL>57032134567</PESEL>, adres: <ADDRESS>ul. Słowacki 14, 96-100 Radzanów</ADDRESS>. Hospitalizacja 5 dni z powodu <DISEASE>zapalenia trzustki ostre'go</DISEASE>. <TEST>Lipaza 1200 j.m.</TEST> Wypisany w stanie ogólnym dobrym.
+
+<<<SAMPLE>>>
+
+e-Recepta ze specjalizmu gastroenterologia, <DATE>17.05.2024</DATE>. <PERSON>Zuzanna Kołodziej</PERSON>, PESEL <PESEL>80041234567</PESEL>, tel. <PHONE>605 876 543</PHONE>. <DRUG>Pantoprazol</DRUG> 40 mg, <DRUG>Domperidon</DRUG> 10 mg, <DRUG>Herbata rumianku</DRUG> — zalecenia dietetyczne.
+
+<<<SAMPLE>>>
+
+Zawiadomienie o wynikach <TEST>testu oddechowego na H. pylori</TEST>, <DATE>24.05.2024</DATE>. <PERSON>Joanna Kędzierska</PERSON>, PESEL <PESEL>82051234567</PESEL>, zam. <ADDRESS>ul. Polna 56, 30-122 Kraków</ADDRESS>. Wynik: pozytywny. Zalecono terapię eradykacyjną. Wdrożyć <DRUG>Amoxycilinę</DRUG>, <DRUG>Klarytromycynę</DRUG>, <DRUG>Omeprazol</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka z zaburzeń trawienia, <DATE>02.06.2024</DATE>. <PERSON>Tadeusz Niemiec</PERSON>, PESEL <PESEL>59011234567</PESEL>, tel. <PHONE>603 456 789</PHONE>. Pacjent zgłasza <DISEASE>bóle epigastryczne i wzdęcia</DISEASE>. <TEST>Badanie przedmiotowe</TEST> bez zmian. Zalecono <DRUG>Ranitydynę</DRUG>, <DRUG>Dimenhydrinat</DRUG> oraz zmianę diety.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>badania obrazowego MR brzucha</TEST>, <DATE>28.05.2024</DATE>. <PERSON>Beata Sołtyska</PERSON>, PESEL <PESEL>73021345678</PESEL>, adres: <ADDRESS>ul. Kopernika 8, 31-034 Kraków</ADDRESS>. Wykazano <DISEASE>przepuklinę przełyku</DISEASE> o wielkości 5 cm, bez cech obstrukcji. Konsultacja chirurgiczna.
+
+<<<SAMPLE>>>
+
+Notatka z Poradni Dla Pacjentów Po Operacjach, <DATE>10.05.2024</DATE>. <PERSON>Witold Szymański</PERSON>, PESEL <PESEL>52031234567</PESEL>, tel. <PHONE>607 234 567</PHONE>. Po <TEST>bariatric surgery</TEST> — <DISEASE>opóźnione opróżnianie żołądka</DISEASE>. Zalecono <DRUG>Metoclopramid</DRUG> p.o., zwiększenie częstotliwości małych posiłków.
+
+<<<SAMPLE>>>
+
+Zawiadomienie ze <HOSPITAL>Laboratorium Centralne</HOSPITAL>, <DATE>09.06.2024</DATE>. <PERSON>Marcelina Ziaja</PERSON>, PESEL <PESEL>75061234567</PESEL>, zam. <ADDRESS>ul. Mickiewicza 21, 50-077 Wrocław</ADDRESS>. <TEST>Transaminazy AST/ALT</TEST> podwyższone 2-krotnie. Zalecono badania hepatologiczne.
+
+<<<SAMPLE>>>
+
+Notatka z zabiegu z sedacją, <DATE>15.05.2024</DATE>. <PERSON>Kazimierz Leśniak</PERSON>, PESEL <PESEL>48021345678</PESEL>, tel. <PHONE>601 765 432</PHONE>. Wykonana <TEST>esofagogastroduodenoskopia</TEST> — bez patologii. Pacjent tolerował dobrze <DRUG>Propofol</DRUG>. Bez powikłań. Wypisany w dobrym stanie ogólnym.
+
+<<<SAMPLE>>>
+
+Zalecenia dietetyczne po <TEST>zabiegu endoskopowym</TEST>, <DATE>25.05.2024</DATE>. <PERSON>Irena Szmidt</PERSON>, PESEL <PESEL>69031234567</PESEL>, adres: <ADDRESS>ul. Szkolna 44, 87-100 Tory</ADDRESS>. Dieta płynna przez 24h, następnie zwykła. Unikać ostrych pokarmów, alkoholu. Kontrola za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Epikryza ze <HOSPITAL>Szpital Specjalistyczny Gdańsk</HOSPITAL>, <DATE>01.06.2024</DATE>. <PERSON>Andrzej Smoleń</PERSON>, PESEL <PESEL>51041234567</PESEL>, tel. <PHONE>609 123 456</PHONE>. Diagnoza: <DISEASE>zapalenie żołądka i dwunastnika typu A</DISEASE> (autoimmune). <TEST>Badanie serologiczne</TEST> — przeciwciała przeciw komórkom pariatalnym +. Zalecono <DRUG>Cyanocobalamine</DRUG> i.m. 1000 j.m. co miesiąc.
+
+<<<SAMPLE>>>
+
+Skierowanie do <HOSPITAL>Instytutu Żywienia</HOSPITAL>, <DATE>30.05.2024</DATE>. <PERSON>Sylwia Nowotna</PERSON>, PESEL <PESEL>74051234567</PESEL>, zam. <ADDRESS>ul. Willowa 18, 02-494 Warszawa</ADDRESS>. Pacjentka z <DISEASE>nietolerancją laktozy</DISEASE>. Zaplanowana konsultacja dietetyka. Zalecono laktozę, przygotowanie diety indywidualnej.
+
+<<<SAMPLE>>>
+
+Notatka pielęgnacyjna z Oddziału, <DATE>04.06.2024</DATE>. <PERSON>Sławomir Gątkowski</PERSON>, PESEL <PESEL>61021234567</PESEL>, tel. <PHONE>512 876 543</PHONE>. Stan pacjenta stabilny, toleruje posiłki, brak wymiotu. Zalecono <DRUG>Levadura</DRUG> — probiotyk, <DRUG>Biomag</DRUG> żel. Opuszczenie szpitala w dniu <DATE>05.06.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Zaświadczenie z <HOSPITAL>Poradni Pediatrycznej</HOSPITAL>, <DATE>22.05.2024</DATE>. <PERSON>Aleksander Kowalczyk</PERSON> (pacjent 9-letni), PESEL <PESEL>15040734567</PESEL>, adres: <ADDRESS>ul. Stokrotek 12, 03-734 Warszawa</ADDRESS>. <DISEASE>Ból brzucha nawracający</DISEASE> — badania bez zmian. Zalecono eliminacyjną dietę. Kontrola za miesiąc.

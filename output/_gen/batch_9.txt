@@ -1,0 +1,62 @@
+Notatka SOR, <DATE>8.06.2024</DATE>. Pacjent <PERSON>Krzysztof Dąbrowski</PERSON>, PESEL <PESEL>78051234567</PESEL>, zam. <ADDRESS>ul. Nowy Świat 15, 00-020 Warszawa</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Stanów lękowych, bez snu od 3 dni. W <TEST>rozmowie psychiatrycznej</TEST> ujawnia myśli samobójcze. <DRUG>Lorazepam</DRUG> 2 mg i.m., hospitalizacja na oddział zamknięty.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>22.05.2024</DATE>. <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>92041567890</PESEL>. <DISEASE>Depresja umiarkowana</DISEASE>. Ordynuję: <DRUG>Seroxat</DRUG> 20 mg 1x dziennie p.o., <DRUG>Anafranil</DRUG> 25 mg wieczorem. Refundacja NFZ, termin ważności 30 dni.
+<<<SAMPLE>>>
+Epikryza, <HOSPITAL>Szpital Psychiatryczny nr 2</HOSPITAL>, <DATE>15.06.2024</DATE>. Leczący: dr <PERSON>Agnieszka Kowalski</PERSON>. Pacjent <PERSON>Piotr Szymański</PERSON>, <PESEL>81072345678</PESEL>, l. 42. Przyjęty z <DISEASE>ostrym epizodem psychotycznym</DISEASE>. Rozpoznanie: <DISEASE>schizofrenia paranoidalna</DISEASE>. Leczenie: <DRUG>Risperdal</DRUG> 6 mg dziennie, <DRUG>Aripriprazol</DRUG> 15 mg. Wypisany w stanie stabilnym, zalecona ambulatoryjna opieka.
+<<<SAMPLE>>>
+Notatka z wizyty, <DATE>03.06.2024</DATE>. <PERSON>Jolanta Nowak</PERSON>, zam. <ADDRESS>Pl. Konstytucji 5, 31-004 Kraków</ADDRESS>, tel. <PHONE>501 234 567</PHONE>. Pacjentka relacjonuje poprawę nastroju. <DISEASE>Zaburzenie depresyjne</DISEASE> w trakcie remisji. Kontynuacja <DRUG>Cipramilu</DRUG> 20 mg i <DRUG>Lamictal</DRUG> 100 mg. Następna wizyta za 4 tyg.
+<<<SAMPLE>>>
+Opis badania neuropsychologicznego, <DATE>09.05.2024</DATE>, <HOSPITAL>Klinika Neuropsychiatrii</HOSPITAL>. Badany: <PERSON>Tomasz Wójtowicz</PERSON>, PESEL <PESEL>75031187654</PESEL>. Badania poznawcze: niska wydajność w <TEST>MMSE</TEST> (18 pkt), <TEST>FAB</TEST> (11 pkt). Pytanie diagnostyczne: <DISEASE>demencja frontalna czy zespół otępienia waskularnego</DISEASE>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna POZ, <DATE>20.05.2024</DATE>. Pacjent <PERSON>Bartosz Kucharski</PERSON>, PESEL <PESEL>88041223344</PESEL>, zam. <ADDRESS>ul. Długa 22, 80-850 Gdańsk</ADDRESS>. <DISEASE>Zaburzenia lękowe uogólnione</DISEASE> z napięciem fizycznym. Zwiększę dawkę <DRUG>Cipramilu</DRUG> z 10 do 20 mg. Zalecam <TEST>badania morfologiczne</TEST> i <TEST>EKG</TEST> dla bezpieczeństwa.
+<<<SAMPLE>>>
+Wznowienie leczenia, <DATE>27.05.2024</DATE>. <PERSON>Katarzyna Michalska</PERSON>, wiek 38 l., zam. <ADDRESS>ul. Warszawska 8, 02-540 Warszawa</ADDRESS>, tel. <PHONE>664 123 456</PHONE>. Po przerwaniu leczenia 2 m-ce obserwuję powrót objawów <DISEASE>depresji.</DISEASE> Wznawiam <DRUG>Ixel</DRUG> 75 mg wieczorem + <DRUG>Lorazepam</DRUG> 1 mg na noc. Skierowanie na <TEST>psychoterapię poznawczo-behawioralną</TEST>.
+<<<SAMPLE>>>
+Notatka z dyżuru nocnego, <DATE>05.06.2024 godz. 23:45</DATE>, <HOSPITAL>Oddział Psychiatrii SOR</HOSPITAL>. <PERSON>Marek Brzozowski</PERSON>, PESEL <PESEL>72051567890</PESEL>. Pacjent sprowadzony przez policję w stanie delirium. <DISEASE>Ostra intoksykacja alkoholowa ze zjawiskami psychotycznymi</DISEASE>. <TEST>poziom alkoholu</TEST> 340 mg/100ml. Zastosowano <DRUG>Haloperidol</DRUG> 5 mg i.m., <DRUG>Diazepam</DRUG> 10 mg i.v.
+<<<SAMPLE>>>
+Recepta, <DATE>01.06.2024</DATE>. <PERSON>Beata Okonkwo</PERSON>, PESEL <PESEL>90011234567</PESEL>. <DISEASE>Zaburzenie pogranicznego spektrum osobowości.</DISEASE> <DRUG>Efexor XR</DRUG> 150 mg 1x dziennie, <DRUG>Buspiron</DRUG> 15 mg 2x dziennie. Liczba opakowań: 2, refundacja pełna.
+<<<SAMPLE>>>
+Skierowanie na <TEST>hospitalizację psychiatryczną</TEST>, <DATE>18.05.2024</DATE>. Od: <PERSON>dr Elżbieta Grabowska</PERSON>, POZ <HOSPITAL>Przychownia Zdrowia Psychicznego nr 5</HOSPITAL>. Pacjent <PERSON>Grzegorz Szafirski</PERSON>, l. 51, zam. <ADDRESS>ul. Zielona 44, 50-001 Wrocław</ADDRESS>. Wskazanie: <DISEASE>zaburzenia afektywne dwubiegunowe, faza maniakalnej</DISEASE>, ryzyko samookaleczenia. Zaproponowany <HOSPITAL>Szpital Psychiatryczny przy ul. Sowińskiego</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka zdalna, <DATE>31.05.2024</DATE>. <PERSON>Dominika Lewandowska</PERSON>, tel. <PHONE>789 456 123</PHONE>. Teleporada gg. pacjentki płacz, bezsenność od 5 dni. <DISEASE>Epizod depresyjny</DISEASE> po stracie pracy. Porad psychologicznej, <DRUG>Fluoxetynę</DRUG> 20 mg zacznąć. E-recepta wysłana.
+<<<SAMPLE>>>
+Raport z <TEST>sesji psychoterapii grupowej</TEST>, <DATE>10.06.2024</DATE>, <HOSPITAL>Ośrodek Zdrowia Psychicznego</HOSPITAL>, <ADDRESS>ul. Słoneczna 10, Poznań</ADDRESS>. Uczestnicy: m.in. <PERSON>Zofia Krawczyk</PERSON>, <PERSON>Robert Cichy</PERSON>. Tematy: radzenie sobie z <DISEASE>zaburzeniami snu, lękami społecznym</DISEASE>. Zaobserwowano postęp w <PERSON>Zofii</PERSON>.
+<<<SAMPLE>>>
+E-recepta z apteki internetowej, <DATE>24.05.2024</DATE>. Pacjent <PERSON>Stanisław Adamowski</PERSON>, PESEL <PESEL>65031445566</PESEL>, zam. <ADDRESS>ul. Kościelna 3, 87-100 Toru</ADDRESS>. <DRUG>Velafaxin</DRUG> 37.5 mg 2x dziennie. Kod QR zatwierdzony, wysyłka 24-48 h.
+<<<SAMPLE>>>
+Notatka SOR z próbą samobójczą, <DATE>07.06.2024 godz. 14:20</DATE>. <PERSON>Iwona Jurczyk</PERSON>, l. 34, PESEL <PESEL>89080212345</PESEL>, przywiozła karetka z <ADDRESS>ul. Puławskiego 19, Warszawa</ADDRESS>. Próba połknięcia lekarstw. Stan psychiczny: <DISEASE>depresja ciężka z myślami samobójczymi</DISEASE>. <TEST>Gastroenterologia</TEST> — wymiana żołądka, później psychiatria.
+<<<SAMPLE>>>
+Zwolnienie lekarskie z SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Cezary Nowakiewicz</PERSON>, PESEL <PESEL>80012534567</PESEL>, zatrudniony w <HOSPITAL>Uniwersytecie Warszawskim</HOSPITAL>. Przyczyna: <DISEASE>epizod depresyjny umiarkowany</DISEASE>. Zwolnienie na 10 dni od <DATE>06.06.2024</DATE>. Prowadzący: dr <PERSON>Jan Borowski</PERSON>.
+<<<SAMPLE>>>
+Notatka z konsultacji neuropsychiatrycznej, <DATE>02.06.2024</DATE>. Pacjent: <PERSON>Janusz Kowalaski</PERSON>, l. 67, PESEL <PESEL>56091212567</PESEL>. Stan: zaburzenia pamieci, nerwowość. <TEST>MRI głowy</TEST> — zmianach na tle zanikowym. Rozpoznanie: <DISEASE>otępienie typu Alzheimera we wczesnym stadium</DISEASE>. Ordynacja <DRUG>Aricepitu</DRUG> 10 mg.
+<<<SAMPLE>>>
+Notatka pielęgniarki, <DATE>03.06.2024</DATE>, <HOSPITAL>Oddział Psychiatrii nr 3</HOSPITAL>. Pacjent <PERSON>Łukasz Szczepanowski</PERSON>, przebywający od <DATE>01.06</DATE>. Obserwacja: pacjent spokojny, bierze leki bez problemów, śpi 6-7 godzin. Wizyta lekarza przewidziana na <DATE>04.06</DATE>. Tlen satyracja 97%.
+<<<SAMPLE>>>
+Opis badania <TEST>EEG</TEST>, <DATE>28.05.2024</DATE>, <HOSPITAL>Poradnia Neuropsychiatryczna</HOSPITAL>. <PERSON>Anna Szpaderska</PERSON>, PESEL <PESEL>83040156789</PESEL>. Nagranie 30 min. Wynik: żawary dysfunkcji frontalno-skroniowej, bez cech padaczki. Wniosek: możliwe <DISEASE>zaburzenie pogranicznego spektrum osobowości z impulsywnością</DISEASE>.
+<<<SAMPLE>>>
+Ponaglenie do lekarza, <DATE>25.05.2024</DATE>. Pacjent <PERSON>Henryk Kosiński</PERSON>, PESEL <PESEL>74020345678</PESEL>, zam. <ADDRESS>ul. Młodzieżowa 7, 00-500 Warszawa</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Pacjent nie pojawił się na wizytę <DATE>22.05</DATE>. <DISEASE>Zaburzenie afektywne dwubiegunowe</DISEASE> wymaga regularnego monitorowania. Proszę skontaktować się jak najszybciej.
+<<<SAMPLE>>>
+Zaświadczenie o wyleczeniu, <DATE>10.05.2024</DATE>. <PERSON>Krystyna Marciniak</PERSON>, PESEL <PESEL>58030167890</PESEL>. Po 18 miesiącach leczenia ambulatoryjnego <DISEASE>depresji poreaktywnej</DISEASE> pacjentka osiągnęła pełną remisję. Rekomendacja: kontynuacja <DRUG>Cipramilu</DRUG> 10 mg przez kolejne 6 m-cy, co 3 m-ce wizyta kontrolna.
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Włodzimierz Gajek</PERSON>, l. 72, <ADDRESS>ul. Katowicka 21/4, Katowice</ADDRESS>. <DISEASE>Depresja postarza, zaburzenia lękowe</DISEASE>, trudności w mobilności. Zalecenie: <DRUG>Escitalopram</DRUG> 10 mg, <DRUG>Diazepam</DRUG> 2 mg na noc. Zostawiam kontakt do ambulansu psychiatrycznego.
+<<<SAMPLE>>>
+E-skierowanie do szpitala, <DATE>19.05.2024</DATE>. Lekarz POZ: <PERSON>dr Dorota Szmit</PERSON>, <HOSPITAL>Ośrodek Zdrowia nr 3, ul. Zielona 5, Łódź</HOSPITAL>. Pacjent <PERSON>Rafał Michalak</PERSON>, PESEL <PESEL>79041267890</PESEL>. Powód: <DISEASE>ostra faza psychozy afektywnej</DISEASE>. Szpital docelowy: <HOSPITAL>Szpital Psychiatryczny "Pod Lipami"</HOSPITAL>, <ADDRESS>ul. Leśna 12, Łódź</ADDRESS>.
+<<<SAMPLE>>>
+Notatka ze szkoły specjalnej, <DATE>15.05.2024</DATE>. Pacjent <PERSON>Michał Borkowski</PERSON>, l. 16, uczeń. Problemy: <DISEASE>ADHD, zaburzenia zachowania</DISEASE>, bójki w szkole. Zalecone zabiegi <TEST>psychologiczne</TEST> i <DRUG>Strattera</DRUG> 40 mg. Rodzic poinformowany, zgodę wyraził.
+<<<SAMPLE>>>
+Notatka SOR bez pojawienia się na leczeniu, <DATE>04.06.2024</DATE>. <PERSON>Patryk Nowosielski</PERSON>, PESEL <PESEL>98050534567</PESEL>, zam. <ADDRESS>ul. Główna 77, 41-500 Chorzów</ADDRESS>, tel. <PHONE>723 789 456</PHONE>. Pacjent opuszczył oddział bez zgody lekarza. Stan: <DISEASE>psychoza, zaburzenia osobowości</DISEASE>. Powiadomienie policji i opieki społecznej.
+<<<SAMPLE>>>
+Recepta prywatna, <DATE>31.05.2024</DATE>. <PERSON>Ewa Przybysz</PERSON>, l. 44. <DISEASE>Zaburzenia poczucia wartości po niepowodzeniu w pracy</DISEASE>. Ordynuję: <DRUG>Trazodone</DRUG> 100 mg wieczorem, <DRUG>Buspiron</DRUG> 10 mg 2x dziennie. Wizyta za 2 tygodnie.
+<<<SAMPLE>>>
+Notatka z teleporady, <DATE>02.06.2024</DATE>, <HOSPITAL>Klinika Psychiatrii Online</HOSPITAL>. Pacjent <PERSON>Krzysztof Sowiński</PERSON>, PESEL <PESEL>81071234567</PESEL>. Konsultacja: <DISEASE>depresja rezystentna na leki</DISEASE>. Propozycja intensywnego leczenia uzupełniającego <DRUG>Lithium</DRUG> 600 mg dziennie + <DRUG>Lamictal</DRUG>. Badania przed rozpoczęciem.
+<<<SAMPLE>>>
+Raport z <TEST>obserwacji psychiatrycznej 72h</TEST>, <DATE>06.06.2024</DATE>, <HOSPITAL>Szpital Psychiatryczny Miejski</HOSPITAL>. Pacjent <PERSON>Sławomir Kędzierski</PERSON>, PESEL <PESEL>77031245678</PESEL>. Wynik: <DISEASE>zaburzenie afektywne dwubiegunowe, faza depresyjna</DISEASE>. Zalecona hospitalizacja, przepisano <DRUG>Depakine</DRUG> 500 mg 2x dziennie.
+<<<SAMPLE>>>
+Notatka z porannej wizuacji, <DATE>08.06.2024 godz. 08:30</DATE>, <HOSPITAL>Odział Psychiatrii Dzieci i Młodzieży</HOSPITAL>. Pacjent: <PERSON>Natalia Żółtowska</PERSON>, l. 13, zam. <ADDRESS>ul. Jesionowa 44, Poznań</ADDRESS>. Rozmowa z matką: <DISEASE>depresja nastoletnia, myśli samobójcze</DISEASE>. Zalecam <TEST>psychoterapię rodzinną</TEST> i <DRUG>Fluoxetynę</DRUG> 20 mg dziennie.
+<<<SAMPLE>>>
+Zwolnienie z hospitalizacji, <DATE>07.06.2024</DATE>. <PERSON>Daria Adamczak</PERSON>, PESEL <PESEL>91060456789</PESEL>. Pobyt od <DATE>30.05 do 07.06</DATE>, 8 dni, <HOSPITAL>Szpital Psychiatryczny nr 5</HOSPITAL>. Rozpoznanie: <DISEASE>epizod depresyjny ciężki z cechami psychotycznymi</DISEASE>. Wypis w stanie zdecydowanie lepszym. Leczenie ambulatoryjne: <DRUG>Cipralex</DRUG> 20 mg + <DRUG>Rispolept</DRUG> 4 mg.
+<<<SAMPLE>>>
+Notatka z dyżuru, <DATE>05.06.2024 godz. 16:00</DATE>, <HOSPITAL>SOR Szpitala Wojewódzkiego</HOSPITAL>. <PERSON>Ryszard Sobolewski</PERSON>, l. 58, <ADDRESS>ul. Akacjowa 12, 30-709 Kraków</ADDRESS>. Zgłoszenie: silne lęki, zawroty głowy. <TEST>EKG, morfologia, lipidogram</TEST> w normie. Diagnoza: <DISEASE>zaburzenia lękowe o podłożu psychicznym</DISEASE>. <DRUG>Lorazepam</DRUG> 1 mg, skierowanie do psychiatrii.
+<<<SAMPLE>>>
+Porad psychiatryczna pocztą, <DATE>21.05.2024</DATE>. Pacjent <PERSON>Felicja Nowak</PERSON>, PESEL <PESEL>52061267890</PESEL>. Wiek 71 lat. <DISEASE>Depresja poreaktywna po stracie małżonka</DISEASE>, całkowita utrata zainteresowań. Propozycja: <DRUG>Sertralin</DRUG> 50 mg, <TEST>psychoterapia wspierająca</TEST> oraz zajęcia terapeutyczne w <HOSPITAL>Dziennym Ośrodku Zdrowia Psychicznego</HOSPITAL>.
+<<<SAMPLE>>>

@@ -1,0 +1,68 @@
+Notatka SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Piotr Kowalski</PERSON>, PESEL <PESEL>78052134567</PESEL>, zam. <ADDRESS>ul. Krakowska 23, 31-054 Kraków</ADDRESS>. Zgłosił się z <DISEASE>dysurią</DISEASE> i bólem przy mikcji od 3 dni. W <TEST>moczu</TEST> obecna <DISEASE>leukocyturia</DISEASE>. Rozpoznanie <DISEASE>zapalenie pęcherza moczowego</DISEASE>. Zalecono antybiotyk <DRUG>Cipronex</DRUG> 2x dziennie.
+<<<SAMPLE>>>
+Epikryza z oddziału urologii, <HOSPITAL>Szpital Św. Józefa</HOSPITAL>, <DATE>22.10.2024</DATE>. Pacjent <PERSON>Andrzej Lewandowski</PERSON>, PESEL <PESEL>65031567890</PESEL>, po zabiegu <TEST>TURP</TEST> z powodu <DISEASE>hiperplazji prostaty</DISEASE>. Stan po operacji bez powikłań. Przepisano <DRUG>Omnic</DRUG> p.o. 1x dziennie, <DRUG>Ibuprofen</DRUG> na ból.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>08.09.2024</DATE>. <PERSON>Maria Wójcik</PERSON>, PESEL <PESEL>92081345678</PESEL>, tel. <PHONE>504123456</PHONE>. Rozpoznanie: <DISEASE>kamica nerkowa</DISEASE>. Zalecenia: <DRUG>Urolesan</DRUG> 3x dziennie, picie obfitych ilości wody. <TEST>USG nerek</TEST> za 2 tygodnie.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>3.11.2024</DATE>. Pacjent <PERSON>Zbigniew Nowak</PERSON>, PESEL <PESEL>56072289012</PESEL>, zam. <ADDRESS>Poznań, ul. Warszawska 45</ADDRESS>. Urazowa <DISEASE>hematuria</DISEASE> po potknięciu. <TEST>RTG miednicy</TEST> bez złamań. <TEST>Kreatynina</PESEL>: 0,9 mg/dl. Wypis do domu z poradą obserwacji.
+<<<SAMPLE>>>
+Konsultacja urologiczna, <HOSPITAL>Przychownia przy Al. Jerozolimskich</HOSPITAL>, <DATE>14.08.2024</DATE>. Pacjent <PERSON>Jan Szymczyk</PERSON>, PESEL <PESEL>71041234567</PESEL>, tel. <PHONE>601234987</PHONE>, zam. <ADDRESS>ul. Puławska 12, 02-595 Warszawa</ADDRESS>. Skarga: <DISEASE>nocna polakiuria</DISEASE>, 3-4 razy na noc. W tarczy <TEST>USG prostaty</TEST> powiększenie do 35 g. Wdrożono <DRUG>Tamsulosin</DRUG> 0,4 mg wieczorem.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>27.07.2024</DATE>. Pacjent <PERSON>Henryk Grochowski</PERSON>, PESEL <PESEL>63051556789</PESEL>. Ostra <DISEASE>retencja moczu</DISEASE>. Założono cewnik Foley'a. Wysłano do <HOSPITAL>Szpitala Bielańskiego</HOSPITAL> na oddział urologii w celu diagnostyki przyczyn.
+<<<SAMPLE>>>
+Opis badania obrazowego, <HOSPITAL>Klinika Radiologii LUMEA</HOSPITAL>, <DATE>09.06.2024</DATE>. Pacjent: <PERSON>Tadeusz Pietrzak</PERSON>, PESEL <PESEL>52081167890</PESEL>. Badanie: <TEST>CT nerek z kontrastem</TEST>. Wynik: kamica w <DISEASE>moczowniku lewym</DISEASE>, wymiary 8 mm, bez cechy niedokrwienia. Rekomendacja: <TEST>USG monitorujące</TEST> za 4 tygodnie.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>18.05.2024</DATE>. <PERSON>Barbara Żebrowski</PERSON>, PESEL <PESEL>78081234567</PESEL>, tel. <PHONE>507654321</PHONE>, zam. <ADDRESS>ul. Niemcewicza 7, 00-012 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie prostaty</DISEASE>. <DRUG>Ciprinol</DRUG> 500 mg 2x dziennie, <DRUG>Paracetamol</DRUG> 500 mg na ból.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>02.04.2024</DATE>. Pacjent <PERSON>Stanisław Kędzierski</PERSON>, PESEL <PESEL>49071234560</PESEL>, zam. <ADDRESS>Wrocław, ul. Świdnicka 34</ADDRESS>, tel. <PHONE>502111222</PHONE>. Uraz <DISEASE>jądra</DISEASE> podczas upadku. Badanie fizykalne: bólem, powiększenie. <TEST>USG moszny</TEST>: obrzęk, bez wylewu. Zalecono obserwację, <DRUG>Ibuprofen</DRUG> 400 mg co 6 h.
+<<<SAMPLE>>>
+Epikryza, <HOSPITAL>Oddział Urologii, Szpital Miejski</HOSPITAL>, <DATE>19.03.2024</DATE>. Pacjent <PERSON>Ryszard Białkowski</PERSON>, PESEL <PESEL>47031234567</PESEL>. Stan po <TEST>TUR-P</TEST> z powodu <DISEASE>raka prostaty</DISEASE> (Gleason 7). Histopatologia potwierdzająca. Zalecono <TEST>hormonoterapię</TEST>, kontakt z onkologiem za tydzień.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>25.02.2024</DATE>. <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>59121134567</PESEL>, tel. <PHONE>606789012</PHONE>. Skarga: <DISEASE>ból przy ejakulacji</DISEASE>. Historia zapalenia prostaty 2 lata temu. Podejrzenie <DISEASE>stenozy cewki moczowej</DISEASE>. Skierowanie do <HOSPITAL>Szpitala Uniwersyteckiego</HOSPITAL> na <TEST>uretroscopia</TEST>.
+<<<SAMPLE>>>
+Recepta farmaceutyczna, <DATE>11.01.2024</DATE>. Pacjent <PERSON>Jerzy Nowacki</PERSON>, PESEL <PESEL>55081234567</PESEL>, adres: <ADDRESS>ul. Bracka 8, 00-028 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>impotencja</DISEASE>. <DRUG>Sildenafil</DRUG> (Viagra) 50 mg, 1 tabl. vor coitum. Maksymalnie 1x dziennie.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>29.12.2023</DATE>. Pacjent <PERSON>Mirosław Szczepanik</PERSON>, PESEL <PESEL>61051534567</PESEL>. Ostry <DISEASE>zespół moczowy</DISEASE> — dyzuria, polakiuria, czasami <DISEASE>hematuria</DISEASE>. <TEST>Kultury moczu</TEST> na zapalenie. Podejrzenie <DISEASE>zapalenia pęcherza</DISEASE> z towarzyszącym <DISEASE>zapaleniem cewki</DISEASE>. <DRUG>Nitroksolin</DRUG> 100 mg, 4x dziennie.
+<<<SAMPLE>>>
+Opis urologiczny, <HOSPITAL>Klinika Urologii Magna</HOSPITAL>, <DATE>15.11.2023</DATE>, odcisk lekarza <PERSON>Dr. Marek Urbański</PERSON>. Pacjent <PERSON>Bogusław Kowalczyk</PERSON>, PESEL <PESEL>48031234567</PESEL>, tel. <PHONE>601234567</PHONE>. Badanie: <TEST>USG prostaty p.v.</TEST> — wymiary normalne, struktura jednorodna. Próba <TEST>PSA</TEST>: 3,2 ng/ml (poniżej 4,0). Pacjent bez objawów.
+<<<SAMPLE>>>
+Recepta ambulatoryjna, <DATE>22.10.2023</DATE>. <PERSON>Tadeusz Górski</PERSON>, PESEL <PESEL>52081234567</PESEL>, zam. <ADDRESS>Gdańsk, ul. Długa 12</ADDRESS>, tel. <PHONE>503456789</PHONE>. Rozpoznanie: <DISEASE>niedobór androidu</DISEASE>. Zalecano <DRUG>Testosteron enantian</DRUG> i.m. 250 mg co 3 tygodnie, oraz <DRUG>Anastrozol</DRUG> 1 mg co 2 dni.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>08.09.2023</DATE>. Pacjent <PERSON>Zygmunt Zając</PERSON>, PESEL <PESEL>59121234560</PESEL>, zam. <ADDRESS>ul. Krakowskie Przedmieście 15, 00-071 Warszawa</ADDRESS>. Uraz <DISEASE>cewki moczowej</DISEASE> po kateterezacji urologicznej w innej placówce. Krwawienie z cewki moczowej, znaczny dyskomfort. Założono cewnik suprapubiczny <TEST>Boyce</TEST>. Pilne skierowanie do <HOSPITAL>Szpitala Św. Rocha</HOSPITAL>.
+<<<SAMPLE>>>
+Konsultacja urologiczna, <DATE>24.08.2023</DATE>. Pacjent <PERSON>Andrzej Pawlak</PERSON>, PESEL <PESEL>66121234567</PESEL>, tel. <PHONE>605123456</PHONE>. Skarga: <DISEASE>zaburzenia erekcji</DISEASE> od 1 roku, wcześniej po udarze mózgu. <TEST>Penilna echokardiografia</TEST> — przepływ wzmacniany. Zalecono <DRUG>Tadalafil</DRUG> 5 mg codziennie.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>10.07.2023</DATE>. <PERSON>Stanisław Nowosielski</PERSON>, PESEL <PESEL>47031234567</PESEL>, adres: <ADDRESS>ul. Długa 45, 80-830 Gdańsk</ADDRESS>. Diagnoza: <DISEASE>kamyczka nerkowa</DISEASE> lewej strony. Obserwacja radiologiczna. <DRUG>Furosemid</DRUG> 40 mg 1x dziennie, <DRUG>Allopurinol</DRUG> 100 mg 2x dziennie.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>26.06.2023</DATE>. Pacjent <PERSON>Piotr Wojcik</PERSON>, PESEL <PESEL>71041234567</PESEL>. Ból w dolnej części brzucha z promieniowaniem do pachwinki. Wysoka temperatura (38,5°C). Podejrzenie <DISEASE>zapalenia pęcherza moczowego z gorączką</DISEASE>. <TEST>Kultur moczu</TEST> na bacteria. <DRUG>Ceftriakson</DRUG> 1 g i.v. co 12 h, <DRUG>Metronidazol</DRUG> 500 mg i.v. co 8 h.
+<<<SAMPLE>>>
+Opis zabiegu, <HOSPITAL>Blok operacyjny, Szpital Dzieciątka Jezusa</HOSPITAL>, <DATE>12.05.2023</DATE>. Pacjent <PERSON>Ryszard Michalski</PERSON>, PESEL <PESEL>53051234567</PESEL>. Procedura: <TEST>prostatektomia radykalna</TEST> z powodu <DISEASE>raka gruczołu krokowego</DISEASE> stadium T2b. Zabieg przebiegł pomyślnie, <DRUG>drenażu Redona</DRUG> 2 szt., opatrunek na ranie.
+<<<SAMPLE>>>
+Recepta farmaceutyczna, <DATE>28.04.2023</DATE>. <PERSON>Jan Mikołajczyk</PERSON>, PESEL <PESEL>58121234567</PESEL>, tel. <PHONE>607234567</PHONE>, zam. <ADDRESS>Poznań, ul. Fredry 8</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie cewki</DISEASE>. <DRUG>Metronidazol</DRUG> 500 mg 3x dziennie, <DRUG>Doksycyklina</DRUG> 100 mg 2x dziennie przez 7 dni.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>14.03.2023</DATE>. <PERSON>Henryk Żelski</PERSON>, PESEL <PESEL>49071234560</PESEL>, tel. <PHONE>602111222</PHONE>. Skarga: <DISEASE>bezbolesna hematuria</DISEASE> od 2 tygodni. Historia <DISEASE>kamicy nerkowej</DISEASE>. <TEST>USG nerek i mochowodów</TEST> — brak kamicy, brak pyelonefrytu. <TEST>Urinaliza</TEST> potwierdzająca obecność krwi. Skierowanie do <HOSPITAL>Szpitala Czerniakowskiego</HOSPITAL> na <TEST>cytoskopia</TEST>.
+<<<SAMPLE>>>
+Konsultacja urologiczna, <HOSPITAL>Klinika Urologii Akademii Medycznej</HOSPITAL>, <DATE>01.02.2023</DATE>. Pacjent <PERSON>Tadeusz Krajewski</PERSON>, PESEL <PESEL>54081234567</PESEL>, adres: <ADDRESS>ul. Puławska 12, 02-595 Warszawa</ADDRESS>, tel. <PHONE>601789012</PHONE>. Badanie: <TEST>USG prostaty</TEST> — powiększenie do 45 g z niejednorodną echostrukturą. PSA 8,5 ng/ml. Zalecono biopsję prostaty.
+<<<SAMPLE>>>
+Recepta ambulatoryjna, <DATE>18.01.2023</DATE>. <PERSON>Krzysztof Wójtowicz</PERSON>, PESEL <PESEL>60051234567</PESEL>, zam. <ADDRESS>Kraków, ul. Słowackiego 3</ADDRESS>. Rozpoznanie: <DISEASE>nocna polakiuria</DISEASE>. <DRUG>Desmopresyna</DRUG> 0,1 mg przed snem, <DRUG>Tamsulosin</DRUG> 0,4 mg wieczorem.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>05.01.2023</DATE>. Pacjent <PERSON>Zbigniew Dudek</PERSON>, PESEL <PESEL>51121234567</PESEL>, tel. <PHONE>604567890</PHONE>. Ostry <DISEASE>ból w podbrzuszu</DISEASE>, <DISEASE>dysuria</DISEASE>, temperatura 39°C. Podejrzenie <DISEASE>zapalenia pęcherza</DISEASE> lub <DISEASE>zapalenia nerek</DISEASE>. <DRUG>Ciprofloksacyna</DRUG> 500 mg 2x dziennie, hospitalizacja na oddziale.
+<<<SAMPLE>>>
+Opis badania laboratoryjnego, <HOSPITAL>Laboratorium ALAB</HOSPITAL>, <DATE>22.12.2022</DATE>. Pacjent <PERSON>Stanisław Borkowski</PERSON>, PESEL <PESEL>48031234567</PESEL>. Wymazy z cewki moczowej — obecna <DISEASE>flora patogenna</DISEASE>. <TEST>Gram wymazu</TEST>: gram-ujemne pałeczki. Wyznaczenie czułości na antybiotyki w toku.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>08.11.2022</DATE>. <PERSON>Mirosław Gawor</PERSON>, PESEL <PESEL>57091234567</PESEL>, tel. <PHONE>605234567</PHONE>, adres: <ADDRESS>ul. Grzybowska 15, 00-131 Warszawa</ADDRESS>. Diagnoza: <DISEASE>zapalenie prostaty chroniczne</DISEASE>. <DRUG>Ibuprofen</DRUG> 600 mg 3x dziennie, <DRUG>Prazosin</DRUG> 1 mg wieczorem, gorące kąpiele.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>25.10.2022</DATE>. Pacjent <PERSON>Piotr Górski</PERSON>, PESEL <PESEL>62101234567</PESEL>, zam. <ADDRESS>Gdańsk, ul. Łąkowa 7</ADDRESS>. Skarga: <DISEASE>inkontynencja moczu</DISEASE> skrzepnięciowa u mężczyzny. Historia operacji <DISEASE>zapalenia prostaty</DISEASE> 5 lat temu. Zalecono <TEST>urodynamika</TEST>, rozważenie <TEST>implantacji sfinktera</TEST>.
+<<<SAMPLE>>>
+Konsultacja urodynamiczna, <HOSPITAL>Oddział Urologii, Szpital Universitetu</HOSPITAL>, <DATE>11.09.2022</DATE>. Pacjent <PERSON>Andrzej Żychliński</PERSON>, PESEL <PESEL>59071234567</PESEL>, tel. <PHONE>607456789</PHONE>. Wyniki <TEST>urodynamiki</TEST>: detrusor hiperrefleksyjny, zmniejszona pojemność pęcherza (250 ml). Zalecono <DRUG>Oxibutyninę</DRUG> 15 mg na noc.
+<<<SAMPLE>>>
+Recepta farmaceutyczna, <DATE>27.08.2022</DATE>. <PERSON>Zygmunt Lewandowski</PERSON>, PESEL <PESEL>50121234560</PESEL>, adres: <ADDRESS>Łódź, ul. Piotrkowska 156</ADDRESS>. Rozpoznanie: <DISEASE>zespół bólu moszny</DISEASE>. <DRUG>Pregabalina</DRUG> 75 mg 2x dziennie, <DRUG>Tramadol</DRUG> 50 mg na ból.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>13.07.2022</DATE>. Pacjent <PERSON>Henryk Kubicki</PERSON>, PESEL <PESEL>55051234567</PESEL>, tel. <PHONE>602789012</PHONE>. Uraz <DISEASE>pęcherza moczowego</DISEASE> przy wypadku samochodowym. <TEST>Cystografia</TEST> potwierdzająca rozdział ściany. Skierowanie na <HOSPITAL>Blok operacyjny Szpitala Centralnego</HOSPITAL> do natychmiastowej naprawy.
+<<<SAMPLE>>>
+Opis procedury endoskopowej, <HOSPITAL>Sala operacyjna 3, Szpital Miejski</HOSPITAL>, <DATE>29.06.2022</DATE>. Procedura: <TEST>endoskopowa elektrowaporyzacja</TEST> głowy <DISEASE>powiększonej prostaty</DISEASE>. Pacjent <PERSON>Ryszard Czarnecki</PERSON>, PESEL <PESEL>46031234567</PESEL>. Zabieg przebiegł bez powikłań, pacjent wybudzony, vital parameters stabilne.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>15.05.2022</DATE>. <PERSON>Stanisław Brzezicki</PERSON>, PESEL <PESEL>52121234567</PESEL>, zam. <ADDRESS>ul. Żeromskiego 9, 30-510 Kraków</ADDRESS>, tel. <PHONE>603123456</PHONE>. Diagnoza: <DISEASE>epididymitis</DISEASE> lewy. <DRUG>Levofloksacyna</DRUG> 500 mg 2x dziennie, <DRUG>Ibuprofen</DRUG> 400 mg co 6 h, pokój, elastyczny podpor moszny.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>01.04.2022</DATE>. Pacjent <PERSON>Jerzy Szwarc</PERSON>, PESEL <PESEL>61051234567</PESEL>, tel. <PHONE>606345678</PHONE>. Skarga: <DISEASE>utrata funkcji seksualnej</DISEASE> po przebytym udarze. Angiografia: zmniejszony przepływ krwi do penisa. Próba <DRUG>Avanafilu</DRUG> 100 mg 15 minut przed stosunkiem.
+<<<SAMPLE>>>

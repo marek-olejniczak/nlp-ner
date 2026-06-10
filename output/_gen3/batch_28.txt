@@ -1,0 +1,65 @@
+Notatka SOR, <DATE>22.05.2024</DATE>. Dziecko <PERSON>Anna Kowalska</PERSON>, PESEL <PESEL>14051210456</PESEL>, lat 7, zam. <ADDRESS>ul. Zwycięzców 12, 80-219 Gdańsk</ADDRESS>. Mama zgłasza gorączkę do 38,5°C od 2 dni. W obserwacji wydolność oddechowa dobra, w <TEST>badaniu orl</TEST> zapalenie gardła bez detrytu. <TEST>Test na Streptococcus A</TEST> ujemny. Zalecono domowe leczenie, paracetamol p.o.
+<<<SAMPLE>>>
+Epikryza, <DATE>10.06.2024</DATE>. <PERSON>Mikołaj Lewandowski</PERSON>, PESEL <PESEL>19020812789</PESEL>, wiek 5 lat, <ADDRESS>Gdynia, ul. Św. Filipa 47/2</ADDRESS>. Rozpoznanie: <DISEASE>angina streptokokowa</DISEASE>. Leczenie: <DRUG>amoksycylina</DRUG> 250 mg 2x dziennie, <DRUG>ibuprofen</DRUG> p.o. Zalecenia: obserwacja mamy, przy wzroście temperatury ponownie do SOR.
+<<<SAMPLE>>>
+Notatka z oddziału chirurgii dziecięcej, <DATE>03.04.2024</DATE>. <PERSON>Patryk Wójcik</PERSON>, PESEL <PESEL>18021345678</PESEL>, 9 lat, zam. <ADDRESS>ul. Armii Krajowej 8, 90-555 Łódź</ADDRESS>. Przyjęty z podejrzeniem <DISEASE>zapalenia wyrostka zatokowego</DISEASE>. <TEST>RTG klatki</TEST> bez zmian, <TEST>USG jamy brzusznej</TEST> normy. Podano <DRUG>ceftriakson</DRUG> i.v. Na wypisie dalsze badania ambulatoryjne.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>15.03.2024</DATE>. Pacjent <PERSON>Dawid Zieliński</PERSON>, PESEL <PESEL>17072345670</PESEL>, 3 lata, tel. <PHONE>721 456 789</PHONE>. Wskazanie: <DISEASE>wyprysk atopowy</DISEASE>. <DRUG>Hydrocortison maść</DRUG> 1%, <DRUG>Cetaphil krem</DRUG> 3x dziennie. Porad dermatologiczna za 3 tygodnie.
+<<<SAMPLE>>>
+Notatka poporodowa, <DATE>02.01.2024</DATE>. Noworodek <PERSON>Kacper Nowak</PERSON>, PESEL <PESEL>24010200123</PESEL>, matkę <PERSON>Joanna Nowak</PERSON>. Poród cięciowy o <DATE>15:23</DATE>. Apgar 8/9. Masa 3400g, wzrost 52cm. Stan ogólny dobry. <TEST>Test neonatologiczny</TEST> bez wad. Do domu z mamą.
+<<<SAMPLE>>>
+Opracowanie przez logopedę, <DATE>20.05.2024</DATE>. <PERSON>Zofia Kamińska</PERSON>, PESEL <PESEL>13031545892</PESEL>, wiek 4 lata, <ADDRESS>Kraków, ul. Karmelicka 5/12</ADDRESS>. Opóźnienie <DISEASE>mowy ekspresywnej</DISEASE> umiarkowane. Zalecenia: ćwiczenia wymowy domowe, terapia logopedyczna 2x tyg. Ponowna ocena za 2 miesiące.
+<<<SAMPLE>>>
+Zlecenie do szpitala, <DATE>25.02.2024</DATE>. <PERSON>Marek Dąbrowski</PERSON>, PESEL <PESEL>16040645321</PESEL>, 8 lat, zam. <ADDRESS>Poznań, ul. Nowa 15/7</ADDRESS>, tel. <PHONE>602 111 222</PHONE>. Wskazanie: <DISEASE>mukowiscydoza</DISEASE> — badania przesiewowe. Przekazano na <HOSPITAL>Szpital Dzieci Polskich</HOSPITAL>.
+<<<SAMPLE>>>
+Opis <TEST>USG brzucha</TEST>, <DATE>11.04.2024</DATE>. Pacjent <PERSON>Szymon Grabowski</PERSON>, PESEL <PESEL>18050512345</PESEL>, 6 lat. Obraz wątroby w normie, trzustka prawidłowa, <DISEASE>powiększenie węzłów chyłonnych</DISEASE> 7mm bez zaburzenia przepływu. Wniosek: patologia rozsiana prawdopodobnie <DISEASE>zakaźna</DISEASE>.
+<<<SAMPLE>>>
+Notatka na dyżurze pediatrycznym, <DATE>30.03.2024</DATE>. Dziecko <PERSON>Natalia Szymczak</PERSON>, PESEL <PESEL>15080845678</PESEL>, 9 lat, przywiedziono z <DISEASE>astmą oskrzelową</DISEASE> w obострeniu. RR 95/60, HR 112, SpO2 94%. <TEST>Test przepuszczalności oskrzeli</TEST> uniemożliwiony z powodu dystresu. Podano <DRUG>salbutamol</DRUG> inhalacyjnie, <DRUG>kortykosteroidy</DRUG> i.v. Przeniesiono na oddział.
+<<<SAMPLE>>>
+Konsultacja okulisty dziecięcego, <DATE>08.05.2024</DATE>. <PERSON>Julia Kwieciński</PERSON>, PESEL <PESEL>14102345670</PESEL>, wiek 7 lat, <ADDRESS>ul. Pańska 23, 31-082 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>miopii prostej</DISEASE>. Zalecono noszenie okularów korekcyjnych, badanie za 6 miesięcy. Przepisano oprawki na refundację.
+<<<SAMPLE>>>
+Pismo z oddziału laryngologii, <DATE>19.06.2024</DATE>. <PERSON>Bartosz Urbański</PERSON>, PESEL <PESEL>17091545600</PESEL>, 10 lat, zam. <ADDRESS>Warszawa, al. Jerozolimskie 42/5</ADDRESS>. Po operacji <DISEASE>powiększonych migdałków</DISEASE>. Przebieg gojenia prawidłowy. Dieta miękka przez 2 tygodnie, antybiotyk <DRUG>amoxiklav</DRUG> do końca cyklu.
+<<<SAMPLE>>>
+Notatka logistyki do choroby, <DATE>12.04.2024</DATE>. <PERSON>Krzysztof Siwiński</PERSON>, PESEL <PESEL>18030645321</PESEL>, 7 lat. Przychód: gorączka, bóle stawów. <TEST>Morfologia</TEST> WBC 8.2, CRP 2.1 mg/l. Wideł <DISEASE>wirusowego</DISEASE>. <DRUG>Ibuprofen</DRUG> 150 mg 2x dziennie, nadmiar snu. Powtórnie za tydzień.
+<<<SAMPLE>>>
+Opis <TEST>RTG klatki piersiowej</TEST>, <DATE>26.03.2024</DATE>. Pacjent <PERSON>Łukasz Orłowski</PERSON>, PESEL <PESEL>17051234567</PESEL>, 5 lat. <DISEASE>Zapalenie płuc</DISEASE> dolnego płata lewego, rozsiane. Zalecono obserwację, <DRUG>amoksycylina</DRUG> dalej, <TEST>rtg kontrolne</TEST> za tydzień.
+<<<SAMPLE>>>
+Zalecenie neurologa, <DATE>07.05.2024</DATE>. <PERSON>Emilia Nowakowa</PERSON>, PESEL <PESEL>14111945895</PESEL>, 8 lat, <ADDRESS>Wrocław, ul. Św. Doroty 9/4</ADDRESS>, tel. <PHONE>713 456 789</PHONE>. Rozpoznanie: <DISEASE>orzeszenie nocne</DISEASE> umiarkowane. Zalecono redukcję płynów wieczorem, <DRUG>desmopresynę</DRUG> p.o. wieczorem, instrukcje dla rodziców.
+<<<SAMPLE>>>
+Notatka pogotowia, <DATE>21.02.2024</DATE>. Dziecko <PERSON>Tomasz Kowalczyk</PERSON>, PESEL <PESEL>18100745632</PESEL>, 6 lat, przywiedziono z <DISEASE>zapaleniem ucha środkowego</DISEASE>. Temperatura 38,7°C, ból ucha. <TEST>Otoskopia</TEST> — membrana wypukła, sączenie. Podano <DRUG>paracetamol</DRUG> i <DRUG>ofloxacynę</DRUG> uszną. Porada do laryngologa w ciągu 48h.
+<<<SAMPLE>>>
+Raport ze <TEST>EKG</TEST>, <DATE>13.04.2024</DATE>. <PERSON>Alicja Żurawska</PERSON>, PESEL <PESEL>15120545600</PESEL>, wiek 9 lat, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. Prośba: wylęgnięcie serca, wskazanie <DISEASE>arytmia zachodząca</DISEASE>. <TEST>EKG</TEST> pokazuje tachykardię 102/min, normalną oś. Zalecono <TEST>holter EKG</TEST> na 24h i powtórną wizytę za 2 tygodnie.
+<<<SAMPLE>>>
+Notatka z poradni logopedycznej, <DATE>29.05.2024</DATE>. <PERSON>Filip Cieśliński</PERSON>, PESEL <PESEL>16080645789</PESEL>, 4 lata, zam. <ADDRESS>ul. Słowackiego 8, 20-088 Lublin</ADDRESS>. Rozpoznanie: <DISEASE>dysartria poobrzmieniowa</DISEASE>. Terapia 3x tygodniowo, ćwiczenia domowe. Zalecono test <TEST>audiologiczny</TEST> w celu wyeliminowania przyczyn słuchu.
+<<<SAMPLE>>>
+Epikryza reumatologiczna, <DATE>06.06.2024</DATE>. <PERSON>Dominika Lewandowska</PERSON>, PESEL <PESEL>14061245671</PESEL>, 10 lat, <ADDRESS>Gdańsk, ul. Długa 12/8</ADDRESS>, tel. <PHONE>604 789 012</PHONE>. Rozpoznanie: <DISEASE>reumatoidalne zapalenie stawów młodzieńcze</DISEASE>. Leczenie: <DRUG>metotreksat</DRUG> 0.3 mg/kg tygodniowo, <DRUG>ibuprofen</DRUG> p.o. Kontrola za 4 tygodnie, <TEST>morfologia</TEST> i <TEST>CRP</TEST> przed wizytą.
+<<<SAMPLE>>>
+Notatka kardiologiczna dziecięca, <DATE>18.03.2024</DATE>. <PERSON>Piotr Zając</PERSON>, PESEL <PESEL>17020845321</PESEL>, 7 lat. Przyczyna wizyty: <DISEASE>szmer w sercu</DISEASE> odkryty przy badaniu szkolnym. <TEST>Echokardiografia</TEST> ujawniła <DISEASE>otwarty przewód tętniczy</DISEASE> mały. Obserwacja bez leczenia, powtórne badanie za rok.
+<<<SAMPLE>>>
+Zlecenie diagnostyczne, <DATE>24.04.2024</DATE>. <PERSON>Katarzyna Bogdan</PERSON>, PESEL <PESEL>15042345670</PESEL>, 5 lat, zam. <ADDRESS>Kraków, ul. Długa 5, 31-147 Kraków</ADDRESS>. Przesłanie: podejrzenie <DISEASE>nietolerancji laktozy</DISEASE>. Zlecono <TEST>test wodorowy</TEST>, <TEST>badanie kału na chemia</TEST>. Instrukcje dla mamy dołączone.
+<<<SAMPLE>>>
+Notatka dermatologiczna, <DATE>31.05.2024</DATE>. <PERSON>Mateusz Piasecki</PERSON>, PESEL <PESEL>16032145800</PESEL>, 8 lat, <ADDRESS>ul. Piękna 7/2, 02-677 Warszawa</ADDRESS>, tel. <PHONE>695 321 654</PHONE>. Rozpoznanie: <DISEASE>trądzik młodzieńczy początkowy</DISEASE>. Zalecono <DRUG>peelingi mleczne</DRUG> co 2 tygodnie, <DRUG>żel z benzoilem</DRUG> wieczorem, unikanie tłuszczów w diecie.
+<<<SAMPLE>>>
+Opis <TEST>rezonansu magnetycznego mózgu</TEST>, <DATE>12.05.2024</DATE>. Pacjent <PERSON>Jakub Sobczak</PERSON>, PESEL <PESEL>14010345678</PESEL>, 10 lat. Wskazanie: <DISEASE>migrenowe bóle głowy</DISEASE>. <TEST>MRI</TEST> bez zmian patologicznych. Struktura mózgu normy, pęcherz mózgowy prawidłowo unaczyniany. Zalecono CT spiralne w razie progresji.
+<<<SAMPLE>>>
+Notatka od ortopedy dziecięcego, <DATE>03.04.2024</DATE>. <PERSON>Agnieszka Koztowska</PERSON>, PESEL <PESEL>15041245895</PESEL>, 6 lat, zam. <ADDRESS>Wrocław, ul. Nowy Świat 14/9</ADDRESS>. Rozpoznanie: <DISEASE>płaskostopie umiarkowane</DISEASE>. Zalecono wkładki ortopedyczne, ćwiczenia wzmacniające, buty do podparcia. Powtórna kontrola za 3 miesiące.
+<<<SAMPLE>>>
+Zasiła niezbędne, <DATE>17.02.2024</DATE>. <PERSON>Stanisław Adamski</PERSON>, PESEL <PESEL>17110245600</PESEL>, wiek 9 lat, <ADDRESS>Poznań, ul. Sielska 22/3</ADDRESS>, tel. <PHONE>728 567 890</PHONE>. Podejrzenie <DISEASE>autyzmu</DISEASE>. Zlecono <TEST>badanie logopedyczne</TEST>, <TEST>psychologiczne</TEST>, <TEST>neurologiczne</TEST> w ciągu 2 tygodni. Przekazano do <HOSPITAL>Centrum Zdrowia Psychicznego Dzieci</HOSPITAL>.
+<<<SAMPLE>>>
+Sprawozdanie z dyżuru szpitalnego, <DATE>08.04.2024</DATE>. <PERSON>Zofia Urbańska</PERSON>, PESEL <PESEL>14121545600</PESEL>, 7 lat. Przyjęta z <DISEASE>zapaleniem przytarczyc nieżytnym</DISEASE>. Temperatura 37,9°C, ból gardła, powiększone migdałki. <TEST>Test na drobnoustrój A</TEST> dodatni. Podano <DRUG>penicylinę</DRUG> i.m., obserwacja przez 24h. Na wypisie długotrwała <DRUG>amoksycylina</DRUG>.
+<<<SAMPLE>>>
+Notatka pneumologiczna, <DATE>22.03.2024</DATE>. <PERSON>Roman Lewandowski</PERSON>, PESEL <PESEL>17061045321</PESEL>, 9 lat, zam. <ADDRESS>ul. Akademicka 11/5, 80-209 Gdańsk</ADDRESS>. Wskazanie: <DISEASE>astma oskrzelowa</DISEASE> z częstymi zaostrzeniami. <TEST>Spirometria</TEST> FEV1 65% wartości przewidywanej. Zmieniono leczenie na <DRUG>flutikazon/formoterol</DRUG> inhalacyjnie, <DRUG>salbutamol</DRUG> w razie potrzeby. Porada za 4 tygodnie.
+<<<SAMPLE>>>
+Zalecenie endokrynologa, <DATE>09.05.2024</DATE>. <PERSON>Daria Kędzierska</PERSON>, PESEL <PESEL>15040745892</PESEL>, 8 lat, <ADDRESS>Warszawa, al. Szucha 7/2</ADDRESS>, tel. <PHONE>701 234 567</PHONE>. Rozpoznanie: <DISEASE>cukrzyca typu 1</DISEASE> nowo rozpoznana. Leczenie: <DRUG>insulina lispro</DRUG> 3 razy dziennie, <DRUG>insulina detemir</DRUG> wieczorem. Edukacja pacjenta i mamy, powtórne badania co 3 miesiące.
+<<<SAMPLE>>>
+Notatka z wizytą domową, <DATE>25.05.2024</DATE>. <PERSON>Oliwia Szpaderska</PERSON>, PESEL <PESEL>14101845678</PESEL>, 4 lata, zam. <ADDRESS>ul. Boża 23/4, 30-396 Kraków</ADDRESS>. Obserwacja: <DISEASE>zapalenie oskrzeli</DISEASE> na dochodach do wyzdrowienia. Mama zgłasza ustępowanie kaszlu, gorączka znormalizowała. <DRUG>Paracetamol</DRUG> już nie wymagany. Powrót do opieki POZ za 3 dni.
+<<<SAMPLE>>>
+Sprawozdanie ze sali porodowej, <DATE>16.01.2024</DATE>. Noworodek <PERSON>Sebastian Nowacki</PERSON>, PESEL <PESEL>24011645300</PESEL>, matkę <PERSON>Magdalena Nowacka</PERSON>, ojca <PERSON>Michał Nowacki</PERSON>. Urodzony naturalnie o <DATE>03:15</DATE>. Masa 3200g, wzrost 51cm, Apgar 9/9. <TEST>Badanie neonatologiczne</TEST> bez wad. Pierwsze karmienie 1h po porodzie.
+<<<SAMPLE>>>
+Notatka epidemiologiczna, <DATE>20.06.2024</DATE>. <PERSON>Karol Szymczak</PERSON>, PESEL <PESEL>16100545612</PESEL>, 8 lat, <ADDRESS>Łódź, ul. Narutowicza 5/12</ADDRESS>. Podejrzenie <DISEASE>ospie wietrznej</DISEASE>. Temperatura 37,8°C, wysypka pęcherzykowa na tułowiu. Zalecono izolację w domu przez 7 dni, <DRUG>paracetamol</DRUG> na gorączkę, obserwacja. Powiadomiono szkolę.
+<<<SAMPLE>>>
+Zalecenie gastroenterologa dziecięcego, <DATE>14.04.2024</DATE>. <PERSON>Natalia Piotrowska</PERSON>, PESEL <PESEL>15050245690</PESEL>, 9 lat, zam. <ADDRESS>Gdańsk, ul. Straganiarska 8/6</ADDRESS>, tel. <PHONE>664 789 123</PHONE>. Rozpoznanie: <DISEASE>nietolerancja glutenu</DISEASE>. Dieta bezglutenowa obowiązkowa. Zalecono suplementację <DRUG>witaminy B12</DRUG>, <DRUG>żelazo</DRUG>, <DRUG>kwas foliowy</DRUG>. Powtórne badania serologiczne za 6 miesięcy.
+<<<SAMPLE>>>
+Notatka urologiczna, <DATE>29.04.2024</DATE>. <PERSON>Adrian Kowalski</PERSON>, PESEL <PESEL>16030445630</PESEL>, 7 lat, <ADDRESS>ul. Gdańska 19/3, 87-100 Tczew</ADDRESS>. Wskazanie: <DISEASE>zaburzenia mikcji</DISEASE>. <TEST>USG nerek i pęcherza</TEST> prawidłowe. <TEST>Mocz ogólny</TEST> bez patologii. Zalecono behawioralny program treningowy, reducent fluids before sleep.
+<<<SAMPLE>>>
+Sprawozdanie z konsultacji wysoko specjalistycznej, <DATE>02.06.2024</DATE>. <PERSON>Paulina Żurawska</PERSON>, PESEL <PESEL>14080945876</PESEL>, 10 lat, zam. <ADDRESS>Kraków, ul. Św. Anny 4/8</ADDRESS>, tel. <PHONE>717 234 567</PHONE>. Konsultacja: <DISEASE>zaburzenia adhd</DISEASE>. Zalecono <DRUG>metylfenidatę</DRUG> 10 mg raz dziennie rano, psychoterapię behawioralną 1x tydzień. Ponowna wizyta za 2 tygodnie.

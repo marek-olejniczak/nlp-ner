@@ -1,0 +1,63 @@
+Notatka SOR z <DATE>15.11.2024</DATE> godz. 14:30. Pacjent <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>75061234567</PESEL>, <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Upadł ze schodów. Ból potyliczny, <TEST>RTG</TEST> głowy bez widocznych złamań. <TEST>CT</TEST> oceny, <DISEASE>wstrząśnienie mózgu</DISEASE> stopnia II. Podano <DRUG>paracetamol</DRUG> iv, obserwacja 4 h. Wypisano do domu.
+<<<SAMPLE>>>
+Wypis ze szpitala, <DATE>09.12.2023</DATE>. <PERSON>Anna Kaczmarek</PERSON>, PESEL <PESEL>88041567890</PESEL>, zam. <ADDRESS>Kraków, Nowe Miasto 15/7</ADDRESS>, tel. <PHONE>604 123 789</PHONE>. Pobyt 7 dni. Diagnoza: <DISEASE>złamanie trójdzielne talerza gościa (B3)</DISEASE>. <TEST>ORIF</TEST> śrubami. Urazy miękkich tkanek. Zastosowano <DRUG>ibuprofen</DRUG> 400 mg × 3, <DRUG>amoksycylina</DRUG> profilaktycznie. Fizykoterapia już zaplanowana.
+<<<SAMPLE>>>
+Protokół zabiegu, <DATE>22.10.2024</DATE>. <PERSON>Piotr Szymczak</PERSON>, PESEL <PESEL>82091234890</PESEL>. Znieczulenie regionalne, <TEST>artroskopia kolana</TEST> lewego. Widoczne uszkodzenie łąkotki przyśrodkowej — <DISEASE>zerwanie meniscu</DISEASE>. Przeprowadzono zabiór <TEST>usunięcia części meniska</TEST>. Wkład <DRUG>Hyalgan</DRUG> wewnątrzstawowo. Bez powikłań śródoperacyjnych.
+<<<SAMPLE>>>
+Notatka poradni ortopedycznej, <DATE>03.11.2024</DATE>. <PERSON>Helena Nowak</PERSON>, PESEL <PESEL>51072556789</PESEL>, <ADDRESS>ul. Polna 7, 30-001 Kraków</ADDRESS>. Bóle bioder, <DISEASE>artroza biodrowa</DISEASE> stopnia III lewe. <TEST>RTG</TEST> potwierdzająca. Zalecono <DRUG>Coxib</DRUG> każdego dnia, zastrzyków <DRUG>hyaluronianu</DRUG>. Skierowanie na <HOSPITAL>Szpital Ortopedii przy Rejtana</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta z <DATE>18.09.2024</DATE>. <PERSON>Tomasz Woźniak</PERSON>, PESEL <PESEL>68031223456</PESEL>, tel. <PHONE>725 456 123</PHONE>. Diagnoza: <DISEASE>bóle mięśniowe szyi</DISEASE>. <DRUG>Acard</DRUG> 75 mg co dzień, <DRUG>Tramal</DRUG> 50 mg na ból, <DRUG>krem z diclofenakiem</DRUG> p.o. 2 ×. Obserwacja u lekarza POZ co 2 tygodnie.
+<<<SAMPLE>>>
+Opis <TEST>MRI</TEST> z <DATE>27.08.2024</DATE>. Pacjent <PERSON>Zbigniew Górski</PERSON>, PESEL <PESEL>60120134567</PESEL>. <DISEASE>Przepuklina dysku intervertebralnego</DISEASE> L4/L5. Ucisk na <DISEASE>nerwu kulszowego</DISEASE> po lewej. Zalecono konsultację neurochirurgii na <HOSPITAL>Szpital Instytut Neurologii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>11.10.2024</DATE>. <PERSON>Ewa Jasińska</PERSON>, PESEL <PESEL>72031578901</PESEL>, <ADDRESS>Poznań, Stare Miasto 22/3</ADDRESS>. Skręcenie kostki, obrzęk IV stopnia. <TEST>RTG</TEST> stopy lewej: złamanie kostki — Potts'a. <TEST>CT</TEST> dla grubości. Zastosowano <DRUG>Anestetyl</DRUG> natryskowe, bandaż unieruchamiający. Skierowanie na ortopedię szpitalną.
+<<<SAMPLE>>>
+Epikryza z <DATE>16.12.2023</DATE>. <PERSON>Krzysztof Lewicki</PERSON>, PESEL <PESEL>65041623456</PESEL>, zam. <ADDRESS>ul. Spacerowa 8, 20-001 Lublin</ADDRESS>. Pobyt: 14 dni, diagnoza <DISEASE>złamanie trzonu kości piszczelowej</DISEASE>. <TEST>ORIF</TEST> blachą, śrubami. <TEST>Morfologia</TEST> przedoperacyjna b/z, <TEST>CRP</TEST> w normie. Wypisano do domu z zaleceniem fizjoterapii.
+<<<SAMPLE>>>
+Notatka konsultacji, <DATE>05.11.2024</DATE>. <PERSON>Izabela Michalska</PERSON>, PESEL <PESEL>80062234567</PESEL>. Dysfunkcja barku, silne bóle. <DISEASE>Zerwanie mięśnia podnamiotu</DISEASE> — potwierdzono <TEST>USG</TEST>. Zalecano operację na <HOSPITAL>Szpital Bielański</HOSPITAL>. Tymczasowo <DRUG>Ibuprofen Forte</DRUG> + <DRUG>Mydocalm</DRUG>.
+<<<SAMPLE>>>
+Protokół zabiegu, <DATE>28.09.2024</DATE>. <PERSON>Marian Kądziela</PERSON>, PESEL <PESEL>59100156789</PESEL>. <TEST>Artroskopia barku</TEST> — widoczne <DISEASE>uszkodzenie łopatki sustawowej</DISEASE> (Bankart z przełomem). Przeprowadzono <TEST>zespolenie łopatki</TEST> szuwem kotwiczącym. Stan zadowalający.
+<<<SAMPLE>>>
+Notatka z pogotowia, <DATE>02.10.2024</DATE>, godz. 22:15. <PERSON>Danuta Sikora</PERSON>, PESEL <PESEL>61031567812</PESEL>, <ADDRESS>ul. Krakowskie Przedmieście 19, Warszawa</ADDRESS>. Upadła na twardym terenie. <DISEASE>Złamanie kości krzyżowej</DISEASE> (typ A1). <TEST>RTG</TEST> miednicy potwierdzające. Podano <DRUG>Ketonal</DRUG> iv, łóżko w ortopedii zarezerwowane.
+<<<SAMPLE>>>
+E-recepta z <DATE>12.07.2024</DATE>. <PERSON>Stanisław Rutkowski</PERSON>, PESEL <PESEL>52120723456</PESEL>, tel. <PHONE>512 345 678</PHONE>. Stan po <TEST>artroplastyce kolana</TEST> (3 m-ce). <DISEASE>Sztywniość stawu</DISEASE> – wymaga fizykoterapii. <DRUG>Paracetamol</DRUG> 500 mg × 3, <DRUG>Arcoxia</DRUG> 90 mg raz dziennie.
+<<<SAMPLE>>>
+Opis <TEST>RTG</TEST> z <DATE>25.11.2024</DATE>. Pacjent <PERSON>Jacek Borowski</PERSON>, PESEL <PESEL>69090345671</PESEL>. <DISEASE>Łuszczące się zapalenie stawów</DISEASE>, zwłaszcza DIP. Nasilone zmiany w dłoniach bilateralnie. Zalecano <DRUG>metotrexat</DRUG> p.o. + <DRUG>Acard</DRUG> profilaktycznie.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>08.11.2024</DATE>, godz. 11:45. <PERSON>Zofia Kowalczyk</PERSON>, PESEL <PESEL>57012834567</PESEL>, <ADDRESS>Gdańsk, Oliwa 33/9</ADDRESS>. Ból barku po podniesie ciężaru. <TEST>USG</TEST> barku: <DISEASE>zapalenie kaletki podnaramiennej</DISEASE>. Podano <DRUG>Diclofenac</DRUG> im., fizykoterapię zaordynowano.
+<<<SAMPLE>>>
+Protokół zabiegu, <DATE>19.08.2024</DATE>. <PERSON>Grzegorz Nowicki</PERSON>, PESEL <PESEL>68041156789</PESEL>. <TEST>Artroskopowa plastyka więzadła krzyżowego przedniego</TEST> lewego. Przeszczep z przyczepów prostomięśni. Bez powikłań. Zalecono wznowienie obciążenia stopniowo.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>31.10.2024</DATE>. <PERSON>Zofia Leszczyńska</PERSON>, PESEL <PESEL>63011267890</PESEL>, zam. <ADDRESS>ul. Słoneczna 12, Poznań</ADDRESS>. <DISEASE>Zespół cieśni kanapki piechoty</DISEASE>, objawy narastające. <TEST>EMG/ENG</TEST> na <HOSPITAL>Szpital Jurasza</HOSPITAL> zaplanowane. Tymczasowo: <DRUG>Gabapentin</DRUG> 300 mg × 3 dni.
+<<<SAMPLE>>>
+Epikryza z <DATE>04.09.2024</DATE>. <PERSON>Roman Kaminski</PERSON>, PESEL <PESEL>54071234123</PESEL>, <ADDRESS>ul. Zielona 8/4, Łódź</ADDRESS>. Pobyt 5 dni. Diagnoza: <DISEASE>złamanie drzazgowe trzonu kości medzialnej</DISEASE>. <TEST>Operacja osteosynteza</TEST> śrubami kanałkowymi. Bez infekcji. Plan: fizykoterapia w domu.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>20.11.2024</DATE>, godz. 19:00. <PERSON>Alicja Adamczyk</PERSON>, PESEL <PESEL>70022345678</PESEL>, <ADDRESS>Wrocław, Przedmieście Oławskie 7/2</ADDRESS>. Upadł przy rowerze. Rany otarcia, możliwe <DISEASE>złamanie łokccia</DISEASE>. <TEST>RTG</TEST> oceny. Zszyte rany, przepisano <DRUG>Augmentin</DRUG> profilaktycznie.
+<<<SAMPLE>>>
+Konsultacja reumatologiczna, <DATE>14.09.2024</DATE>. <PERSON>Bogdan Majewski</PERSON>, PESEL <PESEL>55012156789</PESEL>. <DISEASE>Reumatoidalne zapalenie stawów</DISEASE> (RZS), zajęcie wielostawowe. <TEST>OB</TEST> 45, <TEST>CRP</TEST> 8.5. Zalecono <DRUG>metotreksat</DRUG> sc. tygodniowo + <DRUG>Acard</DRUG>.
+<<<SAMPLE>>>
+Opis <TEST>CT</TEST> z <DATE>26.10.2024</DATE>. Pacjent <PERSON>Halina Zychowicz</PERSON>, PESEL <PESEL>61031178345</PESEL>. <DISEASE>Złamanie plateauchondyli — typy A i B</DISEASE> kolana. Wymagana <TEST>operacja</TEST>. Skierowanie na <HOSPITAL>Szpital Ortopedii Wojewódzki</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>07.11.2024</DATE>. <PERSON>Tadeusz Nowacki</PERSON>, PESEL <PESEL>64121245678</PESEL>, <ADDRESS>ul. Modrzejewskiego 15, Kraków</ADDRESS>. <DISEASE>Dolegliwości barkowe</DISEASE> z <DISEASE>irradiacją do przedramienia</DISEASE>. <TEST>MRI</TEST> barku: <DISEASE>przepuklina dysku</DISEASE> C5/C6. Zalecono neurochirurgię, tymczasowo <DRUG>Meloxicam</DRUG>.
+<<<SAMPLE>>>
+Protokół zabiegu, <DATE>11.08.2024</DATE>. <PERSON>Urszula Ptak</PERSON>, PESEL <PESEL>59012367890</PESEL>. <TEST>Artroplastyka totalna biodra</TEST> lewego. Protezy cementowe. Przebieg bez powikłań. Wymiana krwi śródoperacyjnie b/z.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>23.11.2024</DATE>, godz. 16:30. <PERSON>Ryszard Borowczyk</PERSON>, PESEL <PESEL>58101234789</PESEL>, <ADDRESS>Szczecin, Śródmieście 9/1</ADDRESS>. Ból w śródstopiu, <DISEASE>haluksy valgus</DISEASE> III stopnia obustronnie. <TEST>RTG</TEST> stóp potwierdzające. Zalecono konsultację ortopedii, zabiór <TEST>operacyjny</TEST>.
+<<<SAMPLE>>>
+E-recepta z <DATE>17.10.2024</DATE>. <PERSON>Elżbieta Jaworska</PERSON>, PESEL <PESEL>63071256789</PESEL>, tel. <PHONE>666 777 888</PHONE>. Stan po <TEST>operacji wypadnięcia dysku</TEST> L5/S1 (2 m-ce). Bóle neuropatyczne. <DRUG>Pregabalina</DRUG> 300 mg, <DRUG>Paracetamol</DRUG> p.o.
+<<<SAMPLE>>>
+Opis <TEST>USG</TEST> z <DATE>29.09.2024</DATE>. Pacjent <PERSON>Jerzy Pawlak</PERSON>, PESEL <PESEL>56111234123</PESEL>. <DISEASE>Zadławienie nerw łokciowego</DISEASE> w tunelu kubitalnym. Zalecono <TEST>EMG</TEST> potwierdzającą. Terapeutycznie: dekomresja potrzebna.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>06.11.2024</DATE>. <PERSON>Celina Szymańska</PERSON>, PESEL <PESEL>65101156890</PESEL>, zam. <ADDRESS>ul. Rzeczna 20/8, Gdańsk</ADDRESS>. <DISEASE>Bursitis podkolanowy</DISEASE> po zapaleniu. <TEST>USG</TEST> 2 cm płynu. Ukłucie pod kontrolą USG zaordynowane na <HOSPITAL>Poradni Ortopedii przy Autonomicznej Klinice</HOSPITAL>.
+<<<SAMPLE>>>
+Epikryza z <DATE>13.07.2024</DATE>. <PERSON>Wacław Koźmiński</PERSON>, PESEL <PESEL>52061278345</PESEL>, <ADDRESS>Warszawa, Piaseczno 45/12</ADDRESS>. Pobyt 10 dni po <TEST>artroskopii stawu kolanowego</TEST> — <DISEASE>uszkodzenie chrząstki stawowej</DISEASE>, <TEST>mikrofraktura</TEST>. Brak infekcji. Fizykoterapia już w planie.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>24.11.2024</DATE>, godz. 09:20. <PERSON>Ewa Górska</PERSON>, PESEL <PESEL>71080234567</PESEL>, <ADDRESS>Łódź, Śródmieście 33/5</ADDRESS>. Upadek z wysokości. <DISEASE>Złamanie szyjki kości ramiennej</DISEASE> lewe, niezesunięte (A1). <TEST>RTG</TEST> potwierdz. Podano <DRUG>Acard</DRUG>, temblak. Obserwacja 24 h.
+<<<SAMPLE>>>
+Konsultacja endokrynologiczna, <DATE>19.10.2024</DATE>. <PERSON>Stanisław Kosowski</PERSON>, PESEL <PESEL>59091167890</PESEL>. <DISEASE>Osteoporoza</DISEASE> — <TEST>densytometria</TEST> T-score −3.2. Zaostrzenie <DISEASE>złamań ciała kręgu</DISEASE>. Zalecono <DRUG>Fosamaks</DRUG> tygodniowo + <DRUG>wapń</DRUG> + <DRUG>witaminę D3</DRUG>.
+<<<SAMPLE>>>
+Opis <TEST>RTG</TEST> z <DATE>01.11.2024</DATE>. Pacjent <PERSON>Maria Kańska</PERSON>, PESEL <PESEL>62022145678</PESEL>. Segmentowe <DISEASE>złamanie górnego fragmentu kości piszczelowej</DISEASE>. Szyna unieruchamiająca zalecona przez 6 tygodni. Fizykoterapia niedozwolona do czasu wznowienia obciążenia.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>12.10.2024</DATE>. <PERSON>Franciszek Szpilka</PERSON>, PESEL <PESEL>54081234123</PESEL>, tel. <PHONE>534 123 456</PHONE>. <DISEASE>Dystrofia mięśni ramienia</DISEASE> postępująca. Brak diagnozy genetycznej. <TEST>EMG/ENG</TEST> zaplanowana. Przekazanie na <HOSPITAL>Szpital Neurologiczny przy Konopnickiej</HOSPITAL>.
+<<<SAMPLE>>>
+Protokół zabiegu, <DATE>22.09.2024</DATE>. <PERSON>Krystyna Lewandowska</PERSON>, PESEL <PESEL>60031123456</PESEL>. <TEST>Artroskopowa rekonstrkcja więzadła pobocznego przyśrodkowego</TEST> kolana. Powikłanie: <DISEASE>krwawienie podstawowe</DISEASE> — drenaż. Rozszerzona obserwacja 48 h.

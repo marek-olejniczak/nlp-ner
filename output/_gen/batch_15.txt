@@ -1,0 +1,90 @@
+Notatka SOR, <DATE>15.11.2024</DATE>. <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>72081523456</PESEL>, zamieszkana <ADDRESS>ul. Marszałkowska 45, 00-665 Warszawa</ADDRESS>, tel. <PHONE>502 345 678</PHONE>. Zgłosiła się z bólami <DISEASE>anginy piersiowej</DISEASE>. W <TEST>EKG</TEST> załamki ST uniesione w odprowadzeniach przedsercowych — podejrzenie <DISEASE>STEMI</DISEASE>. Podano <DRUG>Acard</DRUG> i <DRUG>Plavix</DRUG> p.o., sonda żylna, transport helikopterem na <HOSPITAL>Szpital Kliniczny im. Wołę</HOSPITAL>.
+
+<<<SAMPLE>>>
+Wypis z SOR, <DATE>08.06.2024</DATE>. <PERSON>Tadeusz Kowalski</PERSON>, PESEL <PESEL>55021567890</PESEL>, <ADDRESS>os. Fototechnika 12/15, 80-001 Gdańsk</ADDRESS>, <PHONE>601 234 567</PHONE>. Upadek z wysokości ok. 2 m. Skarży się na ból lewego ramienia i <DISEASE>podejrzenie złamania</DISEASE>. RTG potwierdza <DISEASE>złamanie główki kości ramiennej</DISEASE>. <TEST>Morfologia</TEST> w normie. <DRUG>Metamizol</DRUG> 500 mg i.m. Opatrzenie, unieruchomienie, skierowanie na <HOSPITAL>Szpital Miejski nr 2</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka dyżurna SOR, <DATE>2024-06-07</DATE>. <PERSON>Krzysztof Nawrocki</PERSON>, PESEL <PESEL>68041234567</PESEL>, zam. <ADDRESS>ul. Łódź 89, 31-408 Kraków</ADDRESS>, tel. <PHONE>728 567 890</PHONE>. Omdlenie podczas pracy. Stan przytomności szybko przywrócony. <TEST>EKG</TEST> <DISEASE>arytmia</DISEASE>. <TEST>Ciśnienie tętnicze</TEST> 95/60 mmHg. Infuzja <DRUG>Hartmann</DRUG> 500 ml. Obserwacja 2 godz. Pacjent do domu, zalecenie wizyta u <PERSON>dr</PERSON> internisty.
+
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>05.06.2024</DATE>. <PERSON>Beata Jasińska</PERSON>, PESEL <PESEL>81072345678</PESEL>, <ADDRESS>ul. Puławska 120, 02-595 Warszawa</ADDRESS>. Powtórka leków na <DISEASE>nadciśnienie tętnicze</DISEASE>. <DRUG>Norvasc</DRUG> 5 mg 1 tabl. rano, <DRUG>Enap</DRUG> 10 mg 1 tabl. wieczorem. Odbiorcy: apteka "Zdrowie", tel. <PHONE>501 123 456</PHONE>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>03.06.2024</DATE>. <PERSON>Janusz Szymański</PERSON>, PESEL <PESEL>59031256789</PESEL>, <ADDRESS>al. Niepodległości 200, 02-516 Warszawa</ADDRESS>, <PHONE>603 456 789</PHONE>. Ból brzucha o charakterze kolki. <TEST>Badanie palpacyjne</TEST> — czułość RLQ. <TEST>USG jamy brzusznej</TEST> — <DISEASE>zapalenie wyrostka robaczkowego</DISEASE>. Rozpoznanie pewne. Transport na <HOSPITAL>Szpital Wojewódzki im. Bielańskiego</HOSPITAL>, konsultacja chirurga.
+
+<<<SAMPLE>>>
+Epikryza, <DATE>11.06.2024</DATE>. <PERSON>Zofia Pietrzak</PERSON>, PESEL <PESEL>72102345678</PESEL>, <ADDRESS>ul. Długa 56, 80-850 Gdańsk</ADDRESS>, tel. <PHONE>604 789 012</PHONE>. Pobyt: <DATE>06.06.2024</DATE> — <DATE>11.06.2024</DATE>. Przyjęta z <DISEASE>zapaleniem płuc</DISEASE>. <TEST>RTG klatki piersiowej</TEST> infiltracja dolnego płata lewego. <TEST>Morfologia</TEST>: leukocytoza 12,5 tys. <DRUG>Amoxypen</DRUG> 1g i.v. co 8 godz, <DRUG>Fluimucil</DRUG> p.o. Stan po 5 dniach poprawił się, wypisana do domu z zaleceniem pobytu w <HOSPITAL>Poradni Chorób Płuc</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>10.06.2024</DATE>. <PERSON>Halina Nowak</PERSON>, PESEL <PESEL>48091567890</PESEL>, <ADDRESS>ul. Bażanta 15, Piaseczno 05-820</ADDRESS>, <PHONE>601 987 654</PHONE>. Zawroty głowy i nudności. <DISEASE>Ośrodkowe zaburzenia równowagi</DISEASE> (test Romberga +). <TEST>TK głowy</TEST> bez zmian. <DRUG>Betaserc</DRUG> 24 mg 1 tabl. po śniadaniu i obiedzie. Opuściła SOR w dobrym stanie.
+
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>09.06.2024</DATE>. <PERSON>Wojciech Drwałowski</PERSON>, PESEL <PESEL>62051234567</PESEL>. Zaplanowany <TEST>kateteryzm serca</TEST> ze wskazania <DISEASE>stenoza tętnicy wieńcowej LAD</DISEASE>. Procedura przebiegła bez powikłań. Implantacja <DRUG>stentu farmakologicznego Xience</DRUG> w LAD. Pacjent wypisany po 24 godz., <DRUG>Plavix</DRUG> przez 12 miesięcy.
+
+<<<SAMPLE>>>
+Konsultacja kardiologiczna, <DATE>07.06.2024</DATE>. <PERSON>Stanisław Grabski</PERSON>, PESEL <PESEL>51030256789</PESEL>, <ADDRESS>ul. Mickiewicza 78, 31-120 Kraków</ADDRESS>, tel. <PHONE>602 345 678</PHONE>. Pacjent z <DISEASE>arytmią komorową</DISEASE>. <TEST>Holter EKG</TEST> — ponad 1000 pobudzeń przedwczesnych na dobę. <TEST>Echokardiografia</TEST> — frakcja wyrzutowa 35% (<DISEASE>dysfunkcja systoliczna</DISEASE>). Wskazanie do <TEST>ICD</TEST>. Zapisany na <HOSPITAL>Kardiologia, Szpital USK</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>04.06.2024</DATE>. <PERSON>Zofia Urbańska</PERSON>, PESEL <PESEL>70050345678</PESEL>, <ADDRESS>ul. Szeroka 22, 58-100 Świdnica</ADDRESS>, <PHONE>505 678 901</PHONE>. Upadek z własnej wysokości w domu. Skarżenia: głowy, bólu kręgosłupa szyjnego. <TEST>RTG szyi</TEST> — bez złamań. <TEST>CT głowy</TEST> w normie. <DISEASE>Stłuczenie</DISEASE> mięśni karku. <DRUG>Ibuprofen</DRUG> 400 mg, <DRUG>Miorel</DRUG> 2 mg na noc. Wypisana do domu.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>06.06.2024</DATE>. <PERSON>Ewa Michalska</PERSON>, PESEL <PESEL>76081456789</PESEL>. Nowe rozpoznanie <DISEASE>cukrzyca typu 2</DISEASE>. <DRUG>Glucophage</DRUG> 850 mg 2 tabl. dziennie do jedzenia, <DRUG>Amaryl</DRUG> 2 mg rano. Skierowanie na <HOSPITAL>Poradnię Cukrzycową</HOSPITAL> po analizie <TEST>profilu glikemicznego</TEST>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>02.06.2024</DATE>. <PERSON>Adam Lewandowski</PERSON>, PESEL <PESEL>64120256789</PESEL>, <ADDRESS>os. Przyjaźni 45, 03-914 Warszawa</ADDRESS>, <PHONE>603 234 567</PHONE>. Ból brzucha o charakterze kolkowatym i wymioty. <TEST>Badanie przedmiotowe</TEST> — obrzmienie jelit. <TEST>USG jamy brzusznej</TEST> — <DISEASE>niedrożność jelita cienkiego</DISEASE>. <TEST>RTG brzucha</TEST> — potwierdzenie. Transport na <HOSPITAL>Szpital Centralny im. Marchlewskiego</HOSPITAL>, konsultacja chirurgiczna natychmiast.
+
+<<<SAMPLE>>>
+Opisanie zabiegu stomatologicznego, <DATE>08.06.2024</DATE>. <PERSON>Elżbieta Szpaderska</PERSON>, PESEL <PESEL>53030456789</PESEL>. <TEST>Ekstakcja zęba 16</TEST> — przebiegła pod znieczuleniem infiltracyjnym <DRUG>Lignostom</DRUG>. Bez powikłań. Zalecenie: płukanie jamy ustnej, unikanie jedzenia przez 2 godz, <DRUG>Ibuprofen</DRUG> 200 mg co 6 godz.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>12.06.2024</DATE>. <PERSON>Ryszard Nowacki</PERSON>, PESEL <PESEL>48051234567</PESEL>, <ADDRESS>ul. Słowackiego 34, 50-081 Wrocław</ADDRESS>, <PHONE>607 456 789</PHONE>. Oparzelina II stopnia około 15% pow. ciała. <DISEASE>Oparzenie termiczne</DISEASE> od gorącej wody. Chłodzenie, opatrunek jałowy, <DRUG>Morfina</DRUG> i.v. w sedacji, infuzja <DRUG>Hartmann</DRUG> 500 ml. Przyjęcie na <HOSPITAL>Oddział Oparzeń, Szpital Bielański</HOSPITAL>.
+
+<<<SAMPLE>>>
+Opis zabiegu ratunkowego, <DATE>01.06.2024</DATE>. <PERSON>Krystyna Jakubowska</PERSON>, PESEL <PESEL>60071256789</PESEL>. Uraz głowy z <DISEASE>podejrzeniem urazu mózgu</DISEASE>. <TEST>GCS</TEST> 14 przy przyjęciu. <TEST>CT głowy</TEST> — <DISEASE>krwotok podtwardówkowy</DISEASE> objętości 45 ml. Transport helikopterem na <HOSPITAL>Neurochirurgię, USK</HOSPITAL>. Operacja <DATE>tego samego dnia</DATE>.
+
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>05.06.2024</DATE>. <PERSON>Paweł Simiński</PERSON>, PESEL <PESEL>72091234567</PESEL>, <ADDRESS>ul. Pugetów 12, 04-667 Warszawa</ADDRESS>. Powtórka antybiotyku na <DISEASE>infekcję moczowodu</DISEASE>. <DRUG>Imipramine</DRUG> 100 mg 1 tabl. wieczorem przez 14 dni. Wizyta kontrolna za 2 tygodnie.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>11.06.2024</DATE>. <PERSON>Danuta Kozłowska</PERSON>, PESEL <PESEL>57081345678</PESEL>, <ADDRESS>ul. Tuwima 89, 91-335 Łódź</ADDRESS>, <PHONE>604 567 890</PHONE>. Omdlenie w trakcie zakupów. <TEST>EKG</TEST> <DISEASE>zaburzenia rytmu</DISEASE>. <TEST>RR</TEST> 88/54, <TEST>HR</TEST> 48. Pacemaker w przeszłości. Infuzja <DRUG>Hartmann</DRUG>, obserwacja. Pacjentka przytomna, skierowana do <HOSPITAL>Poradni Kardiologicznej</HOSPITAL>.
+
+<<<SAMPLE>>>
+Epikryza <DATE>13.06.2024</DATE>. <PERSON>Marek Dominik</PERSON>, PESEL <PESEL>68021256789</PESEL>, <ADDRESS>al. Solidarności 156, 80-864 Gdańsk</ADDRESS>, tel. <PHONE>608 789 012</PHONE>. Pobyt szpitalny: <DATE>08.06—13.06.2024</DATE> z powodu <DISEASE>zapalenia worka żółciowego</DISEASE>. <TEST>USG jamy brzusznej</TEST> — kamienie w pęcherzyku. <TEST>LFT</TEST> podwyższone. <DRUG>Cefazoline</DRUG> 1g i.v. co 8 godz, <DRUG>Metronidazol</DRUG> 500 mg. Pacjent wypisany w dobrym stanie z zaleceniem <TEST>cholecystektomii</TEST> za 6-8 tygodni.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>06.06.2024</DATE>. <PERSON>Joanna Wołowska</PERSON>, PESEL <PESEL>73102134567</PESEL>, <ADDRESS>ul. Hozjusza 7, 30-534 Kraków</ADDRESS>, <PHONE>601 234 567</PHONE>. Ból głowy, wysoka gorączka 39,8°C. <DISEASE>Podejrzenie meningitis</DISEASE>. <TEST>Punkcja lumbalna</TEST> — płyn mlecznopogromy. <DRUG>Cefotaksym</DRUG> 2g i.v. co 4 godz, <DRUG>Acyclovir</DRUG> — wymóg hospitalizacji. Transport na <HOSPITAL>Oddział Zakaźny, Szpital Wolski</HOSPITAL>.
+
+<<<SAMPLE>>>
+Opis procedury, <DATE>09.06.2024</DATE>. <PERSON>Tadeusz Leśniewski</PERSON>, PESEL <PESEL>55031234567</PESEL>. <TEST>Endoskopia górnego odcinka przewodu pokarmowego</TEST> — <DISEASE>wrzód żołądka</DISEASE> ze śladem niedawnego krwotoku. <DRUG>Omeprazol</DRUG> 40 mg i.v. przed procedurą. Hemostaza endoskopowa udana. Zalecenie: <DRUG>Omeprazol</DRUG> 20 mg 2 razy dziennie przez 8 tygodni.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>10.06.2024</DATE>. <PERSON>Stanisław Górski</PERSON>, PESEL <PESEL>52050245678</PESEL>, <ADDRESS>ul. Waryńskiego 45, 02-646 Warszawa</ADDRESS>, <PHONE>505 345 678</PHONE>. Uraz klatki piersiowej po zderzeniu samochodowym. <DISEASE>Podejrzenie uszkodzenia płuca</DISEASE>. <TEST>RTG klatki piersiowej</TEST> — pneumotoraks. <TEST>Tomografia HiRes</TEST> dla pewności. Biopsja <DRUG>penicylinina G</DRUG>, transport na <HOSPITAL>Oddział Zakaźny</HOSPITAL>.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>07.06.2024</DATE>. <PERSON>Urszula Bartkowska</PERSON>, PESEL <PESEL>71010234567</PESEL>. Nowa diagnoza <DISEASE>zapalenie spojówek alergicznych</DISEASE>. <DRUG>Oculex</DRUG> krople do oczu 2 razy dziennie, <DRUG>Cetirizine</DRUG> 10 mg na noc. Unikać alergenów.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>03.06.2024</DATE>. <PERSON>Grzegorz Piotrowski</PERSON>, PESEL <PESEL>64080256789</PESEL>, <ADDRESS>ul. Krakowskie Przedmieście 1, 00-047 Warszawa</ADDRESS>, <PHONE>602 123 456</PHONE>. Atak paniki i lęk. Pacjent zdesperowany, zawroty głowy. <TEST>EKG</TEST> tachykardia sinusowa, pozostałe norma. Infuzja <DRUG>Hartmann</DRUG>, <DRUG>Diazepam</DRUG> 5 mg i.m. Konsultacja psychiatryczna. Pacjent wypisany z zaleceniami do psychiatry.
+
+<<<SAMPLE>>>
+Epikryza, <DATE>11.06.2024</DATE>. <PERSON>Magdalena Cielniak</PERSON>, PESEL <PESEL>75061234567</PESEL>, <ADDRESS>os. Stokłosy 120/5, 02-702 Warszawa</ADDRESS>, tel. <PHONE>607 234 567</PHONE>. Pobyt: <DATE>06.06—11.06.2024</DATE> z <DISEASE>zapaleniem prostaty</DISEASE> i dysuria. <TEST>Urinaliza</TEST> — leucocyturiaи, <TEST>Urine Culture</TEST> — <DISEASE>Escherichia coli</DISEASE>. <DRUG>Levofloxacin</DRUG> 500 mg 1x dziennie. Pacjent wypisany w dobrym stanie.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>12.06.2024</DATE>. <PERSON>Krystian Świątkowski</PERSON>, PESEL <PESEL>61021234567</PESEL>, <ADDRESS>ul. Łazienkowska 12, 00-449 Warszawa</ADDRESS>, <PHONE>608 456 789</PHONE>. Całkowitą utratę przytomności w domu. <TEST>GCS</TEST> 3, szybka intubacja. <DISEASE>Podejrzenie udaru mózgu</DISEASE>. <TEST>TK głowy bez kontrastu</TEST> — brak krwotoku. Transport helikopterem do <HOSPITAL>Stroke Center, UCDN</HOSPITAL>. <DRUG>Alteplaza</DRUG> wdrożona w oknie trombolizacji.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>04.06.2024</DATE>. <PERSON>Michał Zawadzki</PERSON>, PESEL <PESEL>66030245678</PESEL>, <ADDRESS>ul. Emilii Plater 56, 80-296 Gdańsk</ADDRESS>, <PHONE>601 567 890</PHONE>. Ostrze bólu brzucha. <TEST>Badanie fizykalne</TEST> — deska brzucha. <TEST>RTG brzucha pionowy</TEST> — woal powietrzny. <DISEASE>Perforacja narządu wewnętrznego</DISEASE>. Transport ratunkowy na <HOSPITAL>SOR Szpitala Sierakowskiego</HOSPITAL>, chirurg czeka.
+
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>08.06.2024</DATE>. <PERSON>Lucyna Lewandowska</PERSON>, PESEL <PESEL>59111234567</PESEL>. <TEST>Zabiegi na kości piszczelowej</TEST> — wycięcie tkanki martwej. <DISEASE>Martwica rozległa</DISEASE> w przebiegu <DISEASE>cukrzycy</DISEASE>. Biopeptyd, czyszczenie rany, opatrunek jałowy. Pacjentka na <HOSPITAL>Oddział Chirurgii Ogólnej</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>05.06.2024</DATE>. <PERSON>Anna Ostrzyńska</PERSON>, PESEL <PESEL>72080345678</PESEL>, <ADDRESS>ul. Słodowca 15, 02-195 Warszawa</ADDRESS>, <PHONE>503 234 567</PHONE>. Przylgnięcie języka w dość do zatrzaśnięcia drzwi. <DISEASE>Uraz języka z krwawieniem</DISEASE>. <TEST>Badanie palpacyjne</TEST> — brak złamania. Zszywanie w znieczuleniu, <DRUG>Amoksiklav</DRUG> 625 mg 3 razy dziennie. Zalecenie wizyta chirurga przez 48 godz.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>09.06.2024</DATE>. <PERSON>Jarosław Nowak</PERSON>, PESEL <PESEL>63050134567</PESEL>. Leczenie <DISEASE>grypą A</DISEASE>. <DRUG>Tamiflu</DRUG> 75 mg 2 razy dziennie przez 5 dni, <DRUG>Paracetamol</DRUG> 500 mg co 6 godz, spoczynek. Monitorowanie objawów.
+
+<<<SAMPLE>>>
+Notatka dyżurna SOR, <DATE>02.06.2024</DATE>. <PERSON>Katarzyna Lewandowska</PERSON>, PESEL <PESEL>69091234567</PESEL>, <ADDRESS>al. Jana Sobieskiego 78, 31-953 Kraków</ADDRESS>, <PHONE>604 678 901</PHONE>. Przyczyna: <DISEASE>atak bezdechu sennego</DISEASE>. Pacjentka budzi się z dusznością. <TEST>Pulsoksymetria</TEST> — SpO2 85%. Tlen 2L/min. <DRUG>Morfina</DRUG> 5 mg i.m. Obserwacja przez 4 godz, normalizacja parametrów. Wypisana z zaleceniami do pulmonologa.
+
+<<<SAMPLE>>>

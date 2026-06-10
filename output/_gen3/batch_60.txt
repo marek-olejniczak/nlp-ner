@@ -1,0 +1,63 @@
+Notatka POZ, <DATE>8.06.2024</DATE>. Pacjent <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>72041567890</PESEL>, zam. <ADDRESS>ul. Mickiewicza 12, 80-021 Gdańsk</ADDRESS>. Zgłasza obrzęki kończyn dolnych od 2 tygodni. W <TEST>moczu</TEST> białko 2+. <TEST>Kreatynina</TEST> 1.8 mg/dl, <TEST>eGFR</TEST> 42 ml/min. Wysłano na <HOSPITAL>Klinikę Nefrologii</HOSPITAL>.
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>15.02.2024</DATE>. Pacjent <PERSON>Stanisław Kowalski</PERSON>, PESEL <PESEL>65112234567</PESEL>, l. 58. Przyjęty z rozpoznaniem <DISEASE>ostra niewydolność nerek</DISEASE>. <TEST>Kreatynina</TEST> 4.2 mg/dl, <TEST>BUN</TEST> 78 mg/dl, <TEST>potassemia</TEST> 6.1 mmol/l. Zastosowano <DRUG>hemodializę</DRUG>. Wypis na <DATE>22.02.2024</DATE> w stanie znacznie lepszym.
+<<<SAMPLE>>>
+E-recepta, <DATE>3.05.2024</DATE>. <PERSON>Anna Malinowska</PERSON>, <ADDRESS>Poznań, ul. Warszawska 45/3, 61-003</ADDRESS>, tel. <PHONE>509876543</PHONE>. Rozpoznanie <DISEASE>przewlekła choroba nerek stadium 3</DISEASE>. Przepisano <DRUG>Lisinopril</DRUG> 10 mg p.o. raz dziennie, <DRUG>Amlodypina</DRUG> 5 mg, <DRUG>Żelazo</DRUG> p.o.
+<<<SAMPLE>>>
+Opis <TEST>USG nerek</TEST>, <DATE>29.03.2024</DATE>. Prawe nerce wymiary 10.2 cm, lewa 9.8 cm, struktura prawidłowa. <DISEASE>Torbiele prostoste</DISEASE> obustronnie w liczbie 4 i 3. Bez cech <DISEASE>hydronefroz</DISEASE>. Zapis wykonał <PERSON>dr Jarosław Szymczyk</PERSON>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>18.07.2024</DATE>. Pacjent <PERSON>Piotr Dąbrowski</PERSON>, PESEL <PESEL>80051512340</PESEL>, zam. <ADDRESS>ul. Słoneczna 8, 10-001 Olsztyn</ADDRESS>. Ból w okolicy ledźwi, <TEST>morfologia</TEST> Hb 7.2 g/dl, <TEST>CRP</TEST> 12 mg/l. <DISEASE>Podejrzenie zakażenia układu moczowego</DISEASE>. <TEST>Urinaliza</TEST> b/z krwi 3+. Podano <DRUG>Ceftriakson</DRUG> i.v., wysłano na konsultację nefrośrodka.
+<<<SAMPLE>>>
+Raport z <TEST>biopsji nerki</TEST>, <DATE>12.01.2024</DATE>. Materiał z lewej nerki <PERSON>Magdaleny Nowak</PERSON>, PESEL <PESEL>78030254321</PESEL>. Mikroskopowo: <DISEASE>glomerulonefritis proliferatywna</DISEASE> IgA+. Zalecono leczenie <DRUG>Prednizonem</DRUG> 0.5 mg/kg/dzień.
+<<<SAMPLE>>>
+Zaświadczenie lekarskie, <DATE>5.06.2024</DATE>. Pacjent <PERSON>Robert Kucharski</PERSON>, zam. <ADDRESS>Wrocław, Nowy Świat 72, 50-001</ADDRESS>. Rozpoznanie <DISEASE>przewlekła choroba nerek stadium 4</DISEASE> (eGFR 28). Niezdolny do pracy do <DATE>20.06.2024</DATE>. Lekarz <PERSON>dr Elżbieta Michalska</PERSON>.
+<<<SAMPLE>>>
+Notatka z wizyt, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Zbigniew Nowicki</PERSON>, PESEL <PESEL>62081645678</PESEL>. <DISEASE>Przeszczepiona nerka</DISEASE> z roku 2018, funkcja dobra. <TEST>Kreatynina</TEST> 1.3 mg/dl. Poddany <DRUG>Imunosupresji</DRUG> (Cyclosporina, Mycophenolat). Brak wyrzutu. Kolejna wizyta <DATE>19.06.2024</DATE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>10.04.2024</DATE>. <PERSON>Beata Górska</PERSON>, <ADDRESS>Kraków, ul. Słowackiego 3, 31-008</ADDRESS>, tel. <PHONE>721456789</PHONE>. <DISEASE>Hiperkaliemia w przebiegu PChN stadium 3b</DISEASE>. <DRUG>Patiromer</DRUG> (Veltassa) 8.4 g raz dziennie, <DRUG>Finerenone</DRUG> (Kerendia) 10 mg.
+<<<SAMPLE>>>
+Opis <TEST>TK nerek z kontrastem</TEST>, <DATE>7.02.2024</DATE>. Nerki symetryczne, wymiary prawidłowe, bez zmian ogniskowych. Zmiany zwyrodnieniowe kręgosłupa. Nadnercza prawidłowe. Wykonawca <PERSON>dr Krzysztof Lewicki</PERSON>, <HOSPITAL>Radiologia Uniwersytecka</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>25.08.2024</DATE>. Pacjent <PERSON>Tadeusz Górski</PERSON>, l. 72, PESEL <PESEL>52061234567</PESEL>. Stan po <DISEASE>udarze mózgu</DISEASE>, przy okazji stwierdzono <TEST>kreatynina</TEST> 3.4 mg/dl. <TEST>Potassemia</TEST> 5.8 mmol/l. <DISEASE>Ostra białaczka</DISEASE> - trzeba obserwacji kardiologicznej. Podano <DRUG>Furosenid</DRUG> i.v., wdażono drenowanemu pacjentowi.
+<<<SAMPLE>>>
+Raport laboratoryjny, <DATE>14.06.2024</DATE>. Pacjent <PERSON>Halina Adamczyk</PERSON>, PESEL <PESEL>55040354321</PESEL>. <TEST>Mocz 24h</TEST> - białkomocz 1850 mg/dobę, <TEST>kreatynina w moczu</TEST> 65 mg/dl. <TEST>GFR</TEST> (Cockcroft) 34. Wskazanie do <DRUG>dializa</DRUG> już rozpatrzono.
+<<<SAMPLE>>>
+Notatka konsultacyjna, <DATE>19.03.2024</DATE>. Pacjent <PERSON>Jerzy Pawlak</PERSON>, zam. <ADDRESS>Łódź, Gdańska 28, 90-001</ADDRESS>. Zapalenie nerki po alergii na <DRUG>NLPZ</DRUG> - prawdopodobnie <DISEASE>nefropacja interstitialna</DISEASE>. <TEST>Biopsja</TEST> zaplanowana na <DATE>2.04.2024</DATE>. Zaleceno <DRUG>Prednizon</DRUG> p.o.
+<<<SAMPLE>>>
+Przedoperacyjne zaświadczenie, <DATE>31.05.2024</DATE>. Pacjent <PERSON>Andrzej Szulc</PERSON>, PESEL <PESEL>68102334567</PESEL>. Nefrolit lewy <DISEASE>prawidłowy</DISEASE> wymiar 8 mm w miejscu krzyżowania, <TEST>USG</TEST> 14.05 wskaże. Planowana <TEST>litotrypsja</TEST> ekstrakorporealna. Bez przeciwwskazań kardiologicznych. Lekarz <PERSON>prof. Jan Skowron</PERSON>.
+<<<SAMPLE>>>
+Notatka z <HOSPITAL>Poradni Nefrologicznej</HOSPITAL>, <DATE>8.05.2024</DATE>. Pacjent <PERSON>Ewa Kędzierska</PERSON>, PESEL <PESEL>73121254321</PESEL>, tel. <PHONE>605123456</PHONE>. <DISEASE>Cukrzycowy uszkodzenie nerek</DISEASE> (Kimmelstiel-Wilson) z wykazem białkomoczu. <TEST>HbA1c</TEST> 8.2%, <TEST>albuminuria</TEST> 450 mg/dobę. Intensyfikacja <DRUG>Metformina</DRUG> + <DRUG>SGLT2i</DRUG> (Dapagliflozyna).
+<<<SAMPLE>>>
+E-recepta, <DATE>2.04.2024</DATE>. <PERSON>Katarzyna Nowak</PERSON>, <ADDRESS>Warszawa, ul. Marszałkowska 15, 00-001</ADDRESS>. <DISEASE>Zakażenie dolnych dróg moczowych</DISEASE>. <DRUG>Nitrofurantoina</DRUG> 100 mg x 2 przez 5 dni, <DRUG>Bezpieczeństwo</DRUG> (probiotyk) p.o.
+<<<SAMPLE>>>
+Raport z <TEST>dopplerowskiego USG nerek</TEST>, <DATE>27.01.2024</DATE>. Prawe nerce - przepływ dobry, indeks oporu 0.62. Lewa nerce - przepływ niski, indeks 0.78, <DISEASE>stenoza tętnicy renalnej</DISEASE> po stronie lewej. Zalecenia: <TEST>CT z kontrastem</TEST> lub <TEST>MR</TEST> powtórzenie. Wykonawca <PERSON>dr Urszula Wojtowicz</PERSON>.
+<<<SAMPLE>>>
+Notatka pielęgniarska, <DATE>11.06.2024</DATE>. Pacjent dialityczny <PERSON>Stefan Michalski</PERSON>, PESEL <PESEL>56030456789</PESEL>, zam. <ADDRESS>Gdańsk, ul. Mariana 33, 80-001</ADDRESS>. Tratowanie hemodializą 3x w tygodniu, 4 godziny sesja. <TEST>Kwas moczowy</TEST> 7.2 mg/dl, <TEST>fosforem</TEST> 4.8 mg/dl. <DRUG>Erythropoetin alfa</DRUG> s.c. w dawce 4000 j.m.
+<<<SAMPLE>>>
+Epikryza, <DATE>9.02.2024</DATE>. Pacjent <PERSON>Marian Lewicki</PERSON>, l. 65, PESEL <PESEL>59042167890</PESEL>. Hospitalizacja z powodu <DISEASE>zapalenia nerek</DISEASE> zakaźnego. <TEST>CRP</TEST> 78 mg/l, <TEST>leukocyty</TEST> 14200/μl, <TEST>kreatynina</TEST> 2.1. Leczenie <DRUG>Fluorochinolon</DRUG> i.v. przez 10 dni. Wypis w dniu <DATE>19.02.2024</DATE>, odsyła do POZ.
+<<<SAMPLE>>>
+Notatka z vizyt, <DATE>16.05.2024</DATE>. Pacjent <PERSON>Danuta Adamska</PERSON>, PESEL <PESEL>54081356789</PESEL>. <DISEASE>Mocznica uratowa</DISEASE> na tle <DISEASE>przewlekłej choroby nerek</DISEASE>. <TEST>Kwas moczowy</TEST> 9.1 mg/dl. Podano <DRUG>Allopurinol</DRUG> 100 mg dziennie. <TEST>Badanie kontrolne</TEST> za miesiąc.
+<<<SAMPLE>>>
+E-recepta, <DATE>23.06.2024</DATE>. <PERSON>Lucyna Lewandowska</PERSON>, <ADDRESS>Poznań, Stare Miasto 7, 61-001</ADDRESS>, tel. <PHONE>512789456</PHONE>. <DISEASE>Obrzęk naciekowy w przebiegu PChN stadium 3</DISEASE>. <DRUG>Furosenid</DRUG> 20 mg x 2 p.o., <DRUG>Spironolakton</DRUG> 25 mg dziennie, <DRUG>Lisinopril</DRUG> 5 mg.
+<<<SAMPLE>>>
+Raport z <TEST>biopsji nerki</TEST> (drażniący), <DATE>28.03.2024</DATE>. Materiał lewej nerki <PERSON>Iwony Krawczyk</PERSON>, PESEL <PESEL>74060812345</PESEL>. Wynik: <DISEASE>łyszczak nerek</DISEASE> (FSGS) z włóknistem progresywnym. <TEST>Immunofluorescencja</TEST> IgA. Leczenie <DRUG>Prednizon</DRUG> 60 mg/dzień.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>4.07.2024</DATE>. Pacjent <PERSON>Wiktor Zieliński</PERSON>, PESEL <PESEL>71091234567</PESEL>, zam. <ADDRESS>ul. Chopina 19, 43-001 Tychy</ADDRESS>. Bóle glowy, nudności, <TEST>kreatynina</TEST> 5.2 mg/dl, <TEST>potassemia</TEST> 6.8 mmol/l, <TEST>pH arterialne</DRUG> 7.25. <DISEASE>Zapaść nerkowa z kwasicą metaboliczną</DISEASE>. Przekazano na <HOSPITAL>Oddział Niefrolgii</HOSPITAL> w trybie urgentnym.
+<<<SAMPLE>>>
+Świadectwo z <HOSPITAL>Kliniki Nefrologii</HOSPITAL>, <DATE>20.04.2024</DATE>. Pacjent <PERSON>Stanisław Adamczyk</PERSON>, PESEL <PESEL>60012745678</PESEL>, l. 64. Stan po <DISEASE>udarze nerek</DISEASE> z powodu <DISEASE>sepsy urosepsis</DISEASE>. <TEST>eGFR</TEST> 18. Gotowość do <DRUG>dializa</DRUG> przeszkolony. Przekazanie na <HOSPITAL>Ośrodek Dializ</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka pediatryczna, <DATE>13.05.2024</DATE>. Dziecko <PERSON>Natalia Górska</PERSON>, PESEL <PESEL>15061234567</PESEL>, wiek 9 lat. Przewlekła <DISEASE>glomerulonefritis</DISEASE> od roku 2021. <TEST>Proteinuria</TEST> selektywna, <TEST>albumina</TEST> 2.8 g/dl. Leczenie <DRUG>Prednizonem</DRUG> + <DRUG>Cyklofosfamid</DRUG>. Stan stabilny, kolejna kontrola <DATE>10.06.2024</DATE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>1.06.2024</DATE>. <PERSON>Ryszard Lewandowski</PERSON>, <ADDRESS>Wrocław, Nowe Miasto 42, 50-001</ADDRESS>, tel. <PHONE>696456123</PHONE>. <DISEASE>Ostre zapalenie pęcherza i cewki</DISEASE>. <DRUG>Trimetoprim-Sulfametoksazol</DRUG> 480 mg x 2 przez 3 dni, <DRUG>Fenazopirydin</DRUG> 200 mg x 2.
+<<<SAMPLE>>>
+Zaświadczenie z hospitalizacji, <DATE>6.06.2024</DATE>. Pacjent <PERSON>Franciszek Piotrowski</PERSON>, PESEL <PESEL>57050134567</PESEL>, l. 67. <DISEASE>Zapalenie nerek zakaźne</DISEASE> wywołane przez Escherichia coli. <TEST>Posiew moczu</TEST> dodatni. Leczono <DRUG>Piperacylina+Tazobaktam</DRUG> i.v. przez 7 dni. Wypis <DATE>13.06.2024</DATE> w stanie zdrowym.
+<<<SAMPLE>>>
+Notatka monitorowania, <DATE>17.06.2024</DATE>. Pacjent po <DISEASE>przeszczepieniu nerki</DISEASE> <PERSON>Tadeusz Kucharski</PERSON>, PESEL <PESEL>61030523456</PESEL>. Przeszczep od roku 2019. <TEST>Kreatynina</TEST> 1.1 mg/dl, <TEST>Immunosupresja</TEST> monitorowana. Brak wyrzutu, brak infekcji opportunistycznych. Dalsze obserwacje co miesiąc.
+<<<SAMPLE>>>
+Raport z <TEST>RTG klatki piersiowej</TEST>, <DATE>24.02.2024</DATE>. Pacjent <PERSON>Joanna Nowakowska</PERSON>, PESEL <PESEL>77121534567</PESEL>. <DISEASE>Płyn w opłucnej</DISEASE> obustronnie (przyczyna: <DISEASE>przewlekła choroba nerek</DISEASE>). Wymiary serca prawidłowe. Zalecono <TEST>USG klatki</TEST> i konsultacja kardiologa.
+<<<SAMPLE>>>
+Notatka z ambulatorium, <DATE>28.05.2024</DATE>. Pacjent <PERSON>Urszula Krawczyk</PERSON>, PESEL <PESEL>64030154321</PESEL>, zam. <ADDRESS>Kraków, Kazimierza 9, 31-001</ADDRESS>. <DISEASE>Kamice żółciowe</DISEASE> + <DISEASE>nefrolitiaza</DISEASE> jednocześnie. <TEST>Kreatynina</TEST> 1.6. <TEST>Ultrasound</TEST> 20.05 potwierdzony. Zaplanowana <TEST>cholecystektomia</TEST> w następnym miesiącu.
+<<<SAMPLE>>>
+E-recepta, <DATE>30.03.2024</DATE>. <PERSON>Mariusz Kowalski</PERSON>, <ADDRESS>Gdańsk, Stara Motława 12/4, 80-001</ADDRESS>, tel. <PHONE>600234567</PHONE>. <DISEASE>Pyelonefritis prawidłowa</DISEASE>. <DRUG>Ceftazydym</DRUG> i.v. przez 14 dni, <DRUG>Metronidazol</DRUG> 500 mg x 2 p.o., <DRUG>Doksycyklina</DRUG> 100 mg.
+<<<SAMPLE>>>
+Zaświadczenie niepełnosprawności, <DATE>5.03.2024</DATE>. Pacjent <PERSON>Stanisław Szymczyk</PERSON>, PESEL <PESEL>59012445678</PESEL>. <DISEASE>Przewlekła choroba nerek stadium 4</DISEASE> z <DISEASE>osteodystrofią nerkową</DISEASE>. Orzeczenie o niepełnosprawności I° od <DATE>5.03.2024</DATE> na okres 2 lat. Lekarz orzekający <PERSON>prof. Magdalena Urbańska</PERSON>, <HOSPITAL>Wojewódzka Komisja</HOSPITAL>.

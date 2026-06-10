@@ -1,0 +1,66 @@
+Pacjent <PERSON>Tomasz Grajewski</PERSON>, PESEL <PESEL>78041523456</PESEL>, skierowany z <HOSPITAL>Polikliniki Zdrowia</HOSPITAL> z powodu <DISEASE>bólu epigastralnego</DISEASE>. <TEST>Endoskopia górna</TEST> przeprowadzona <DATE>22.05.2024</DATE> — widoczne <DISEASE>cechy zapalenia błony śluzowej</DISEASE>. Zalecono <DRUG>Omeprazol</DRUG> 40mg 2x dziennie przez 4 tygodnie.
+<<<SAMPLE>>>
+SOR <HOSPITAL>Szpital Św. Łukasza</HOSPITAL>, <DATE>19.06.2024</DATE>. Pacjent <PERSON>Aleksandra Nowak</PERSON>, tel. <PHONE>724 567 890</PHONE>, zam. <ADDRESS>ul. Lipowa 12, 80-401 Gdańsk</ADDRESS>. <DISEASE>Kolka żółciowa</DISEASE> — <TEST>USG jamy brzusznej</DISEASE> potwierdza <DISEASE>przepuklinę żółciową</DISEASE>. Udzielono pierwszej pomocy, skierowano do <HOSPITAL>Szpitala Miejskiego</HOSPITAL>.
+<<<SAMPLE>>>
+Epikryza. <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>82121456789</PESEL>, przebywał na <HOSPITAL>Klinice Gastroenterologii WSM</HOSPITAL> od <DATE>10.04.2024</DATE> do <DATE>14.04.2024</DATE> z rozpoznaniem <DISEASE>zapalenia trzustki</DISEASE>. <TEST>TK brzucha</TEST> wykazało zwiększone wymiary trzustki. Leczenie: <DRUG>Nexium</DRUG>, <DRUG>Maalox</DRUG>, dieta bezfłuszczowa.
+<<<SAMPLE>>>
+Recepta POZ. <PERSON>Ewa Kowalczyk</PERSON>, d.u. <ADDRESS>Janów 54/3, 26-200 Radom</ADDRESS>. Rozpoznanie: <DISEASE>GERD</DISEASE>. Ordynacja: <DRUG>Pantoprazol</DRUG> 40mg p.o. 1x dziennie rano przez 8 tygodni. Wystawiono <DATE>08.06.2024</DATE>.
+<<<SAMPLE>>>
+Opis <TEST>kolonoskopii</TEST>, <DATE>15.03.2024</DATE>. <PERSON>Zdzisław Piotrowski</PERSON>, PESEL <PESEL>56101234567</PESEL>. Obserwacje: <DISEASE>polip hiperplastyczny</DISEASE> segment C, <DISEASE>niedokrwienie błony śluzowej</DISEASE>. Pobranie do <TEST>histopatologii</TEST>. Kontrola za rok.
+<<<SAMPLE>>>
+Notatka SOR, <HOSPITAL>Szpital Centralny</HOSPITAL>, <DATE>30.05.2024</DATE>. <PERSON>Magdalena Szymczyk</PERSON>, tel. <PHONE>531 234 567</PHONE>. Prezentacja: <DISEASE>wymioty</DISEASE>, <DISEASE>nudności</DISEASE>. <TEST>Morfologia</TEST> bez istotnych zmian. Podejrzenie <DISEASE>zatrucia pokarmowego</DISEASE>. Hospitalizacja, <DRUG>Metoclopramid</DRUG> i.m.
+<<<SAMPLE>>>
+Opis <TEST>USG</TEST> jamy brzusznej, <DATE>12.04.2024</DATE>. <PERSON>Jan Fiszer</PERSON>, PESEL <PESEL>79032145678</PESEL>, zam. <ADDRESS>os. Tysiaclecia 8/5, 81-010 Gdynia</ADDRESS>. Wątroba bez zmian. <DISEASE>Torbiel nerki lewej</DISEASE> 35 mm. Trzustka bez anomalii strukturalnych.
+<<<SAMPLE>>>
+Recenzja kliniczna. Pacjent <PERSON>Rafał Urbański</PERSON>, <DATE>25.06.2024</DATE>. Historia: <DISEASE>wrzód żołądka</DISEASE> eradykowany przed rokiem. Ponowna <TEST>endoskopia</TEST> — błona śluzowa wyregenerowana. Zalecono <DRUG>Ranitydynę</DRUG> p.o. przy objawach.
+<<<SAMPLE>>>
+SOR <HOSPITAL>Szpital Miejski nr 1</HOSPITAL>, <DATE>03.06.2024</DATE>. <PERSON>Ulla Schneider</PERSON>, tel. <PHONE>605 891 234</PHONE>, <ADDRESS>ul. Gdańska 45/2, 87-100 Tczew</ADDRESS>. <DISEASE>Bóle brzucha</DISEASE> w rejon żołądka. <TEST>RTG klatki</TEST> bez zmian patologicznych. Obserwacja 6 godzin, wypisana w dobrym stanie.
+<<<SAMPLE>>>
+Przesyłanie wyniku. <PERSON>Helena Obuch</PERSON>, PESEL <PESEL>68072133456</PESEL>. <TEST>Badanie krwi</TEST> na <DATE>19.05.2024</DATE>: <TEST>AST</TEST> 2,1xN, <TEST>ALT</TEST> 1,8xN. Możliwe <DISEASE>zapalenie wątroby</DISEASE>. Zalecono powtórz za 2 tygodnie.
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Specjalistycznego "Diagnoza"</HOSPITAL>. <PERSON>Bogdan Szlachetny</PERSON>, PESEL <PESEL>75081256789</PESEL>, hospitalizowany <DATE>28.05.2024</DATE>–<DATE>01.06.2024</DATE>. <DISEASE>Kolka żółciowa</DISEASE> o charakterze cholangitis. <TEST>ERCP</TEST> ze sfinkterotomią. <DRUG>Ciprofloksacyna</DRUG> i.v., <DRUG>Metamizol</DRUG> p.o.
+<<<SAMPLE>>>
+Notatka konsultacji. <PERSON>Janina Michalik</PERSON>, zam. <ADDRESS>Piła, ul. Kopernika 9/1</ADDRESS>. Konsultacja gastrologiczna <DATE>11.06.2024</DATE>. Historia <DISEASE>zapalenia błony śluzowej przełyku</DISEASE>. Zalecenie: <DRUG>Omeprazol</DRUG>, <DRUG>Magnesium Hydroxide</DRUG>, unikanie ostrych pokarmów.
+<<<SAMPLE>>>
+Raport <TEST>endosonografii</TEST>, <DATE>24.04.2024</DATE>. <PERSON>Artur Wójcik</PERSON>, PESEL <PESEL>81061234567</PESEL>. Zmiana w głowie trzustki o średnicy 8 mm. Widoczne <DISEASE>cechy stanu zapalnego</DISEASE>. Rekomendacja: <TEST>biopsja</TEST> pod kontrolą EUS.
+<<<SAMPLE>>>
+SOR <HOSPITAL>Szpital Wojskowy</HOSPITAL>, <DATE>07.06.2024</DATE>. <PERSON>Stanisław Kosiński</PERSON>, tel. <PHONE>789 456 123</PHONE>. <DISEASE>Ostry ból brzucha</DISEASE> — nie pamiętany początek. <TEST>TK jamy brzusznej</TEST>: <DISEASE>zapalenie wyrostka robaczkowatego</DISEASE>. Dyskwalifikan na <TEST>operację</TEST>.
+<<<SAMPLE>>>
+Opis <TEST>gastrografii</TEST> dwukontrastu, <DATE>02.05.2024</DATE>. <PERSON>Grażyna Lewandowska</PERSON>, PESEL <PESEL>64053012345</PESEL>. Widoczne <DISEASE>cechy chronicznego zapalenia błony śluzowej</DISEASE> w sąsiedztwie pola małe. Brak cech złośliwości.
+<<<SAMPLE>>>
+Recepta. <PERSON>Piotr Gorzelak</PERSON>, d.u. <ADDRESS>Puławy, os. Spacerowe 3/12</ADDRESS>. <DISEASE>IBS</DISEASE>. Zalecenie: <DRUG>Buscopan</DRUG> 10mg p.o. 3x dziennie, <DRUG>Lactulose</DRUG> 15ml 2x dziennie. Data wystawienia: <DATE>15.06.2024</DATE>.
+<<<SAMPLE>>>
+Notatka w historii. Pacjent <PERSON>Waldemar Zieliński</PERSON>, tel. <PHONE>512 345 678</PHONE>, zam. <ADDRESS>ul. Warszawska 23, 50-048 Wrocław</ADDRESS>. <TEST>Morfologia krwi</TEST> — niedokrwistość, Hb 9.8 g/dL. Podejrzenie <DISEASE>krwawienia z GI</DISEASE>. Skierowanie na <TEST>endoskopię</TEST>.
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Kliniki Chirurgii Ogólnej</HOSPITAL>. <PERSON>Zbigniew Wróbel</PERSON>, PESEL <PESEL>73091234567</PESEL>, leczony <DATE>20.05.2024</DATE>–<DATE>25.05.2024</DATE>. <DISEASE>Przepuklina brzuszna</DISEASE>. <TEST>Plastyka</TEST> przeprowadzona. <DRUG>Ceftriakson</DRUG>, <DRUG>Ibuprofen</DRUG> p.o. Wznowić normalne czynności za tydzień.
+<<<SAMPLE>>>
+Opis <TEST>USG przezklatkowego żołądka</TEST>, <DATE>18.04.2024</DATE>. <PERSON>Beata Kamińska</PERSON>, PESEL <PESEL>79041534567</PESEL>. Grubość ściany żołądka 4 mm. Brak płynu w jamie brzusznej. Wznowienie <TEST>endoskopii</TEST> rekomendowane za miesiąc.
+<<<SAMPLE>>>
+SOR <HOSPITAL>Szpital Św. Wojciecha</HOSPITAL>, <DATE>29.05.2024</DATE>. <PERSON>Danuta Krawczyk</PERSON>, tel. <PHONE>664 123 456</PHONE>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. <DISEASE>Zapalenie dwunastnicy</DISEASE>. <TEST>Endoskopia</TEST> potwierdziła. Leczenie: <DRUG>Ranigast</DRUG>, <DRUG>Antybiotykoterapia</DRUG>.
+<<<SAMPLE>>>
+Konsultacja. <PERSON>Edward Górski</PERSON>, PESEL <PESEL>66072345678</PESEL>. <DATE>10.06.2024</DATE>. Historia <DISEASE>refluksu żołądkowo-przełykowego</DISEASE> od lat 5. <TEST>pH-metria</TEST> wykazała patologiczny refluks. Zaleceno: <DRUG>Pantoprazol</DRUG> 80mg/dobę, <DRUG>Domperidon</DRUG>.
+<<<SAMPLE>>>
+Raport <TEST>kolonoskopii wirtualnej</TEST>, <DATE>08.05.2024</DATE>. <PERSON>Urszula Siekierska</PERSON>, zam. <ADDRESS>Gdańsk-Oliwa, ul. Abrahama 11</ADDRESS>. Nie wykazano <DISEASE>zmian polipowych</DISEASE>. Brak cech guza. Kontrola za 10 lat.
+<<<SAMPLE>>>
+Notatka lekarska. <PERSON>Cezary Wojtczak</PERSON>, tel. <PHONE>721 567 890</PHONE>. <DISEASE>Zaparcie</DISEASE> oporne na leczenie. Rekomendacja: <TEST>defekografia</TEST>, dieta wysokowłóknista, <DRUG>Macrogol</DRUG> 17g/dobę.
+<<<SAMPLE>>>
+SOR, <HOSPITAL>Szpital Miejski Zachód</HOSPITAL>, <DATE>04.06.2024</DATE>. <PERSON>Lidia Zawada</PERSON>, PESEL <PESEL>61061567890</PESEL>. <DISEASE>Biegunka</DISEASE> i <DISEASE>gorączka</DISEASE>. <TEST>Posiew kału</TEST> na patogeny. Hidracja i.v., <DRUG>Loperamid</DRUG> ostrożnie.
+<<<SAMPLE>>>
+Opis <TEST>MR jamy brzusznej</TEST>, <DATE>21.05.2024</DATE>. <PERSON>Roman Niedziela</PERSON>, zam. <ADDRESS>Łódź, ul. Piotrkowska 89</ADDRESS>. <DISEASE>Zmiana w trzustce</DISEASE>, możliwy <DISEASE>nowotwór</DISEASE>. Zalecono <TEST>PET-CT</TEST> i konsultacja onkologiczna.
+<<<SAMPLE>>>
+Recepta z gabinetu POZ. <PERSON>Katarzyna Lewandowska</PERSON>, PESEL <PESEL>89051256789</PESEL>. <DISEASE>Hepatitis C — po leczeniu</DISEASE>. Kontrolne: <TEST>HCV RNA PCR</TEST>, <TEST>USG wątroby</TEST>. Zalecono: <DRUG>Witamina E</DRUG> p.o.
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Wojewódzkiego Siedlce</HOSPITAL>. <PERSON>Jarosław Dudek</PERSON>, PESEL <PESEL>75121234567</PESEL>, hospitalizowany <DATE>11.05.2024</DATE>–<DATE>16.05.2024</DATE>. <DISEASE>Zapalenie wątroby na tle alkoholowym</DISEASE>. <TEST>Biopsja wątroby</TEST> — zapalenie aktywne. <DRUG>Pentoksyfilina</DRUG>, <DRUG>Sylimaryna</DRUG>.
+<<<SAMPLE>>>
+Notatka konsultanta. <PERSON>Alicja Kasprowicz</PERSON>, tel. <PHONE>783 456 789</PHONE>. Konsultacja <DATE>17.06.2024</DATE>. Historia <DISEASE>gastroparezy</DISEASE>. <TEST>Gastric emptying study</TEST> — opóźnienie. <DRUG>Metoclopramid</DRUG> p.o., dieta półpłynna.
+<<<SAMPLE>>>
+SOR <HOSPITAL>Szpital Czerniakowski</HOSPITAL>, <DATE>09.06.2024</DATE>. <PERSON>Witold Majewski</PERSON>, zam. <ADDRESS>Warszawa, Wierzbno 50/3</ADDRESS>. <DISEASE>Hemorroids</DISEASE> krwawioce. <TEST>Anuskopia</TEST> przeprowadzona — potwierdzenie. Zalecono gumkowanie elastyczne.
+<<<SAMPLE>>>
+Raport <TEST>endoretrogradnej cholangiopankreatografii</TEST>, <DATE>23.04.2024</DATE>. <PERSON>Łucja Woźniak</PERSON>, PESEL <PESEL>70112345678</PESEL>. <DISEASE>Kamień w przewodzie żółciowym wspólnym</DISEASE>. Sfinkterotomia i ekstrakcja. Bez powikłań.
+<<<SAMPLE>>>
+Notatka w gabinecie. <PERSON>Michał Adamczyk</PERSON>, tel. <PHONE>606 234 567</PHONE>. <DISEASE>Zapalenie błony śluzowej żołądka w związku z H. pylori</DISEASE>. <TEST>Test oddechowy na H. pylori</TEST>. Terapia eradykacyjna: <DRUG>Amoxyline</DRUG>, <DRUG>Klacid</DRUG>, <DRUG>Omeprazol</DRUG>.
+<<<SAMPLE>>>
+Epikryza z oddziału. <PERSON>Dominik Szewczyk</PERSON>, PESEL <PESEL>77041156789</PESEL>, leczony <DATE>06.06.2024</DATE>–<DATE>13.06.2024</DATE>. <DISEASE>Obturacyjne zapalenie jelit</DISEASE>. <TEST>TK z kontrastem</TEST>. <TEST>Operacja</TEST>: rozszczelnienie. <DRUG>Antibiotykoterapia</DRUG>.
+<<<SAMPLE>>>
+Opis <TEST>FGDS</TEST>, <DATE>30.05.2024</DATE>. <PERSON>Zofia Babińska</PERSON>, zam. <ADDRESS>Białystok, ul. Warszawska 102/4</ADDRESS>. <DISEASE>Wrzód pyloru</DISEASE> z cechami <DISEASE>fibrinolysis</DISEASE>. <TEST>Biopsja</TEST> aby wykluczyć <DISEASE>złośliwość</DISEASE>. <DRUG>Omeprazol</DRUG> 40mg 2x dziennie przez 12 tygodni.
+<<<SAMPLE>>>

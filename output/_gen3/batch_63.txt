@@ -1,0 +1,123 @@
+Notatka z przyjęcia w POZ, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Krzysztof Żebrowski</PERSON>, PESEL <PESEL>78051234567</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Zaobserwował niedawno spadek ostrości wzroku na oczy prawe, trudności przy czytaniu. W <TEST>badaniu przesłonięcia</TEST> obecna <DISEASE>amblopija</DISEASE>. Skierowany na <HOSPITAL>Klinę Okulistyczną UW</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Wypis ze szpitala, <DATE>23.04.2024</DATE>. Pacjentka <PERSON>Agnieszka Krawczyk</PERSON>, PESEL <PESEL>92072345678</PESEL>, tel. <PHONE>512 345 678</PHONE>. Przebywała na <HOSPITAL>Oddziale Okulistyki ZZOZ Warszawa Zachodnia</HOSPITAL> w związku z <DISEASE>zapaleniem błony naczyniowej</DISEASE>. Wykonano <TEST>OCT</TEST> lewego oka, wynik bez zmian martwiczych. Stosowała <DRUG>deksametazon</DRUG> krople 3 razy dziennie. Wypisana w stanie dobrym.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>15.05.2024</DATE>. Pacjent <PERSON>Marek Demiański</PERSON>, PESEL <PESEL>85031512340</PESEL>, zam. <ADDRESS>Kraków, Nowe Miasto 15/7</ADDRESS>. Rozpoznanie: <DISEASE>rozszczepowe zapalenie spojówek</DISEASE>. Zalecono <DRUG>oftalmalogel</DRUG> 3 razy dziennie przez 2 tygodnie, <DRUG>antybiotyk</DRUG> krople <DRUG>gentamycyna</DRUG> p.o. 4 razy dziennie. Kontrola za 3 dni.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>30.06.2024</DATE>. Pacjent <PERSON>Jan Lewandowski</PERSON>, PESEL <PESEL>88092234567</PESEL>, tel. <PHONE>698 765 432</PHONE>. Zgłosił się z bólem w oku i przekrwieniem. W <TEST>tonometrii</TEST> ciśnienie wewnątrz oczne 42 mmHg. Podejrzenie <DISEASE>jaskry acute angle closure</DISEASE>. Natychmiast podano <DRUG>pilocarpin</DRUG> i <DRUG>acetazolamid</DRUG> i.v. Skierowany na pilną operację.
+
+<<<SAMPLE>>>
+
+Opis badania <TEST>funduskopii</TEST>, <DATE>20.03.2024</DATE>. Pacjentka <PERSON>Barbara Nowak</PERSON>, PESEL <PESEL>72051178901</PESEL>, zam. <ADDRESS>ul. Długa 22, 50-001 Wrocław</ADDRESS>. Badanie oka prawego: <DISEASE>zmiany zwyrodnieniowe plamki</DISEASE>, <DISEASE>druzeny</DISEASE> suche. Naczyniówka bez zmian patologicznych. OD: 0,7. OS: 0,8. Rekomendacja: splementation, kontrola za 6 miesięcy.
+
+<<<SAMPLE>>>
+
+Notatka z wizyt specjalistycznej, <DATE>12.02.2024</DATE>. Pacjent <PERSON>Piotr Kowalski</PERSON>, PESEL <PESEL>80041523456</PESEL>, tel. <PHONE>721 654 321</PHONE>. Skierowany w związku z <DISEASE>zaburzeniami widzenia kolorów</DISEASE>. Wykonano <TEST>test kolorów Ishihary</TEST>, wynik wskazuje na <DISEASE>trzyszkość chromatyczna</DISEASE>. Wymagać będzie obserwacji, pacjent pouczony o ograniczeniach zawodowych.
+
+<<<SAMPLE>>>
+
+E-recepta z kliniki okulistycznej, <DATE>19.07.2024</DATE>. Pacjentka <PERSON>Elżbieta Piasecka</PERSON>, PESEL <PESEL>67081256789</PESEL>, zam. <ADDRESS>Poznań, Grunwald 8/12</ADDRESS>. Diagnoza: <DISEASE>niedowidzenie spowodowane cukrzycą</DISEASE>. Zalecono: <DRUG>Ocuject</DRUG> iniekcja dostawową co 4 tygodnie, <DRUG>witamina C</DRUG> 500 mg dziennie, <DRUG>luteina</DRUG> suplement doustnie. Okulista: <PERSON>dr Irena Szymczak</PERSON>.
+
+<<<SAMPLE>>>
+
+Notatka ze szpitalnego oddziału okulistyki, <DATE>05.11.2024</DATE>. Pacjent <PERSON>Arkadiusz Urbański</PERSON>, PESEL <PESEL>92031234560</PESEL>, tel. <PHONE>887 123 456</PHONE>. Przychodzący z objawami <DISEASE>zespołu suchego oka</DISEASE>. W <TEST>teście Schirmera</TEST> wynik 4 mm w 5 minut. Zastosowano <DRUG>hyaluronian sodu</DRUG> krople, <DRUG>cyklosporyna</DRUG> krople 2 razy dziennie. Pacjent pouczony o częstszych przerwach przy pracy na komputerze.
+
+<<<SAMPLE>>>
+
+Wypis z kliniki jaskry, <DATE>28.08.2024</DATE>. Pacjentka <PERSON>Danuta Lipska</PERSON>, PESEL <PESEL>61040956789</PESEL>, zam. <ADDRESS>ul. Kwiatowa 5, 31-007 Kraków</ADDRESS>. Poddana zabiegu <TEST>trabekulektomii</TEST> lewego oka w związku z nieskuteczną farmakoterapią <DISEASE>jaskry open angle</DISEASE>. Wznowiono <DRUG>timolol</DRUG> 0,5% krople 2 razy dziennie, <DRUG>latanoprost</DRUG> p.o. Wznowić obserwację za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z SOR, <DATE>14.05.2024</DATE>. Pacjent <PERSON>Grzegorz Sołowiej</PERSON>, PESEL <PESEL>75121234561</PESEL>, tel. <PHONE>664 234 567</PHONE>. Trauma oka w wypadku samochodowym. Stwierdzono <DISEASE>rozcięcie rogówki</DISEASE> i <DISEASE>krwawienie przedniej komory</DISEASE>. Wykonano <TEST>USG gałki ocznej</TEST>. Odesłano pilnie na <HOSPITAL>Oddział Chirurgii Okulistycznej</HOSPITAL> do zabiegu.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>02.12.2024</DATE>. Pacjent <PERSON>Stanisław Górski</PERSON>, PESEL <PESEL>66091223456</PESEL>, zam. <ADDRESS>Łódź, Piotrkowska 123/4</ADDRESS>. Diagnoza: <DISEASE>przepisowość daleka</DISEASE> (hiperopia). Zalecono <DRUG>okularów do czytania +2,0</DRUG> lub <DRUG>soczewek kontaktowych</DRUG>. Pacjent odesłany na <HOSPITAL>Pracownię Optometrii</HOSPITAL> w celu doboru najlepszych korekcji.
+
+<<<SAMPLE>>>
+
+Notatka z wizyty kontrolnej, <DATE>17.03.2024</DATE>. Pacjentka <PERSON>Helena Wojcik</PERSON>, PESEL <PESEL>56072356789</PESEL>, tel. <PHONE>605 987 654</PHONE>. Powrót po zabiegu <TEST>laserowej korekcji wzroku LASIK</TEST> obu oczu. Ostrość wzroku: OD 1,0; OS 0,95. Nieznaczny <DISEASE>syndrom suchego oka</DISEASE>. Kontynuować <DRUG>sztuczne łzy</DRUG> krople 4 razy dziennie przez kolejny miesiąc.
+
+<<<SAMPLE>>>
+
+Opis <TEST>OCT plamki żółtej</TEST>, <DATE>29.09.2024</DATE>. Pacjent <PERSON>Karol Zieliński</PERSON>, PESEL <PESEL>71041267890</PESEL>, zam. <ADDRESS>ul. Słoneczna 19, 02-776 Warszawa</ADDRESS>. Stwierdzono <DISEASE>makulopatie cukrzycowej</DISEASE> z obrzękiem. Średnia grubość siatkówki 450 mkm. Zalecono <TEST>angiografię fluoresceinową</TEST> oraz potencjalnie iniekcje <DRUG>bevacizumabu</DRUG> dostawową.
+
+<<<SAMPLE>>>
+
+Notatka ze specjalistyki dziecięcej, <DATE>21.01.2024</DATE>. Pacjent <PERSON>Maciej Nowicki</PERSON>, wiek 6 lat, PESEL <PESEL>18091234567</PESEL>, tel. <PHONE>723 456 789</PHONE>. Matka obserwuje unikanie użytku oka prawego i przewracanie głowy. Badanie potwierdza <DISEASE>amblopię</DISEASE> i <DISEASE>zawracanie</DISEASE> oka prawego o 15 stopni. Zalecono okludę oka lewego co dzień po 4 godziny i <DRUG>krople czekoladowe do cykloplegi</DRUG> p.o. na 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Wypis z zabiegu <TEST>zastrzyku do oka</TEST>, <DATE>10.07.2024</DATE>. Pacjentka <PERSON>Róża Kamińska</PERSON>, PESEL <PESEL>54031256780</PESEL>, zam. <ADDRESS>ul. Modrzewiowa 77, 80-298 Gdańsk</ADDRESS>. Wykonano iniekcję <DRUG>afliber cepu</DRUG> dostawową w lewą gałkę oczną w związku z <DISEASE>neowaskularną formą zwyrodnienia plamki</DISEASE>. Bez powikłań. Rekomendacja: następna iniekcja za 4 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z poradni czasu pacjenta, <DATE>13.04.2024</DATE>. Pacjent <PERSON>Zbigniew Lewandowski</PERSON>, PESEL <PESEL>58062345678</PESEL>, tel. <PHONE>789 234 567</PHONE>. Zgłosił fotopsje i <DISEASE>muszki przed oczyma</DISEASE>. W <TEST>badaniu oftalmologicznym</TEST> stwierdzono <DISEASE>czopki zapalenia szklistego</DISEASE>. Wykonano <TEST>USG gałki ocznej</TEST> oraz <TEST>MRI mózgu i oczodołów</TEST>. Pacjent odesłany do urologa w celu diagnostyki.
+
+<<<SAMPLE>>>
+
+E-recepta z kliniki kontaktologicznej, <DATE>24.10.2024</DATE>. Pacjentka <PERSON>Joanna Mazur</PERSON>, PESEL <PESEL>88031278901</PESEL>, zam. <ADDRESS>Poznań, Warszawska 45/8</ADDRESS>. Dobrano <DRUG>soczewki twardych gazo-przepuszczalne</DRUG> z mocą -3,50 OD i -3,25 OS. Pacjentka pouczana o higienie i codziennym czyszczeniu. Zalecono <DRUG>płyn do soczewek</DRUG> i <DRUG>krople nawilżające</DRUG> po założeniu.
+
+<<<SAMPLE>>>
+
+Notatka z poradni pediatrycznej, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Andrzej Szpaderski</PERSON>, wiek 4 lata, PESEL <PESEL>20031234567</PESEL>, tel. <PHONE>654 321 098</PHONE>. Matka martwi się niezwyczajnym położeniem głowy dziecka i częstym mruganiem. Badanie: <DISEASE>blefarospazm istotny</DISEASE> i <DISEASE>dystonia szyi</DISEASE>. Zaproponowano <DRUG>iniekcje toksyny botulinowej</DRUG> oraz fizjoterapię.
+
+<<<SAMPLE>>>
+
+Opis operacji <TEST>zaćmy</TEST>, <DATE>19.08.2024</DATE>. Pacjent <PERSON>Edward Nowak</PERSON>, PESEL <PESEL>45101234567</PESEL>, zam. <ADDRESS>ul. Moniuszki 88, 81-825 Gdynia</ADDRESS>. Wykonano <TEST>fakoemulsyfikację</TEST> zaćmy jądrowej ze wszczepiem <DRUG>soczewki sztucznej</DRUG> Alcon ZCB00. Operacja przebiegła bez powikłań. Wyszczególniono <DRUG>tobramycynę</DRUG> krople 5 razy dziennie przez tydzień.
+
+<<<SAMPLE>>>
+
+Notatka z wizyty domowej, <DATE>11.02.2024</DATE>. Pacjentka <PERSON>Urszula Brzeźniak</PERSON>, PESEL <PESEL>42051234568</PESEL>, tel. <PHONE>502 111 222</PHONE>. Trudności w aplikowaniu kropel ocznych z powodu <DISEASE>zaburzeń motoryki dłoni</DISEASE>. Zainstalowano dyspenser do kropel. Zalecono: <DRUG>pilocarpine</DRUG> krople 4 razy dziennie, <DRUG>glaukoestrin</DRUG> p.o., <DRUG>witamina A</DRUG> suplementacja.
+
+<<<SAMPLE>>>
+
+E-recepta specjalistyczna, <DATE>26.11.2024</DATE>. Pacjent <PERSON>Tadeusz Krawczyk</PERSON>, PESEL <PESEL>51031267890</PESEL>, zam. <ADDRESS>Wrocław, Nowy Świat 33/12</ADDRESS>. Diagnoza: <DISEASE>neuropatia wzrokowa</DISEASE> diabetyczna. Zalecono: <DRUG>gabapentin</DRUG> 900 mg dziennie, <DRUG>alfa-liponowy kwas</DRUG> 600 mg dziennie, <DRUG>krople sztuczne</DRUG> 6 razy dziennie. Okulista: <PERSON>dr Jarosław Lewandowski</PERSON>.
+
+<<<SAMPLE>>>
+
+Notatka ze zmian sezonowych, <DATE>07.09.2024</DATE>. Pacjentka <PERSON>Olga Szczepanik</PERSON>, PESEL <PESEL>72031289012</PESEL>, tel. <PHONE>515 444 555</PHONE>. Powtarzające się objawy alergiczne oka: świąd, łzawienie, wydzielina. W <TEST>badaniu szczelinowej lampy</TEST> widoczne papille na spojówce. Zastosowano <DRUG>lodoxamid</DRUG> krople 4 razy dziennie sezonowo oraz <DRUG>antybiotyk</DRUG> krople ogólnie.
+
+<<<SAMPLE>>>
+
+Opis zabiegu <TEST>vitrektomii</TEST>, <DATE>31.05.2024</DATE>. Pacjent <PERSON>Ryszard Lewandowski</PERSON>, PESEL <PESEL>59121234569</PESEL>, zam. <ADDRESS>ul. Puławska 140, 02-670 Warszawa</ADDRESS>. Diagnoza: <DISEASE>proliferacyjna retinopatia cukrzycowa</DISEASE> z <DISEASE>krwawieniem do szklistego</DISEASE>. Wykonano <TEST>20G vitrektomię</TEST> oraz <TEST>endolazerokoagulację</TEST>. Pacjent w stanie dobrym, trawę zmniejszyć.
+
+<<<SAMPLE>>>
+
+Notatka przychodni rejonowej, <DATE>09.03.2024</DATE>. Pacjent <PERSON>Witold Miłosz</PERSON>, PESEL <PESEL>68091223457</PESEL>, tel. <PHONE>696 777 888</PHONE>. Obserwuje asymetrię źrenic i <DISEASE>ptoza oka lewego</DISEASE>. W <TEST>badaniu neurologicznym</TEST> brak odruchów źrenic. Podejrzenie <DISEASE>neuropatii trzeciego nerwu czaszkowego</DISEASE>. Odesłany na <TEST>MRI mózgu</TEST> pilnie.
+
+<<<SAMPLE>>>
+
+E-recepta antybiotykowa, <DATE>22.04.2024</DATE>. Pacjentka <PERSON>Krystyna Wieloch</PERSON>, PESEL <PESEL>57031234570</PESEL>, zam. <ADDRESS>Kraków, ul. Studencka 16/4</ADDRESS>. Diagnoza: <DISEASE>zapalenie brzegów powiek</DISEASE> z <DISEASE>ropniakami</DISEASE>. Zalecono: <DRUG>mometozon</DRUG> krople 3 razy dziennie, <DRUG>chloramphenicol</DRUG> krople antybiotykowe 5 razy dziennie przez 7 dni. Ciepłe okłady 3 razy dziennie.
+
+<<<SAMPLE>>>
+
+Notatka z kampanii profilaktycznej, <DATE>30.07.2024</DATE>. Pacjent <PERSON>Bronisław Przybytek</PERSON>, PESEL <PESEL>44051234571</PESEL>, tel. <PHONE>721 999 000</PHONE>. Uczestniczył w badaniu przesiewowym jaskry. Ciśnienie wewnątrz oczne: OD 16 mmHg, OS 18 mmHg. Grubość rogówki 550 mkm. Brak cech jaskry. Zalecono powtórkę za 2 lata oraz ochronę przed słońcem.
+
+<<<SAMPLE>>>
+
+Opis <TEST>gonioskopii</TEST>, <DATE>15.06.2024</DATE>. Pacjent <PERSON>Lucjan Gorski</PERSON>, PESEL <PESEL>53121256781</PESEL>, zam. <ADDRESS>ul. Wiaderna 8, 00-950 Warszawa</ADDRESS>. Wynik: <DISEASE>kąt otwartej komory przedniej</DISEASE> w stopniu B (Shaffer). Brak synechii. Leczenie: <DRUG>travoprost</DRUG> krople p.o. 1 raz wieczorem, <DRUG>timolol</DRUG> krople 2 razy dziennie.
+
+<<<SAMPLE>>>
+
+Notatka ze szpitala oka, <DATE>21.10.2024</DATE>. Pacjentka <PERSON>Małgorzata Knapik</PERSON>, PESEL <PESEL>68031245678</PESEL>, tel. <PHONE>512 666 777</PHONE>. Leczenie <DISEASE>uveitis autoimmunicznego</DISEASE> lekkiego stopnia. Zastosowano: <DRUG>betametazon</DRUG> krople 6 razy dziennie, <DRUG>cyclopentolate</DRUG> krople do cykloplegi 1 raz dziennie. Wynik <TEST>biomikroskopii</TEST>: zmniejszona liczba komórek w komorze przedniej.
+
+<<<SAMPLE>>>
+
+E-recepta z przychodni, <DATE>12.01.2024</DATE>. Pacjent <PERSON>Jacek Nowak</PERSON>, PESEL <PESEL>71091234572</PESEL>, zam. <ADDRESS>Gdańsk, ul. Ogarnas 22/3</ADDRESS>. Diagnoza: <DISEASE>refuzacja oka</DISEASE> z <DISEASE>cekhą</DISEASE>. Zalecono <DRUG>soczewki mękkie miękkie Acuvue</DRUG> do zaburzenia kąta lub okularów 0,5D dla wizji nocy. Okulista: <PERSON>dr Katarzyna Sobczak</PERSON>.
+
+<<<SAMPLE>>>
+
+Opis zabiegu <TEST>pterygium</TEST>, <DATE>08.12.2024</DATE>. Pacjentka <PERSON>Irena Siedlecka</PERSON>, PESEL <PESEL>49031256782</PESEL>, tel. <PHONE>664 123 456</PHONE>. Wykonano usunięcie pterygium oka prawego z przeszczepem spojówki autologicznej. Bez powikłań intraoperacyjnych. Zalecono: <DRUG>ofloxacin</DRUG> krople antybiotykowe 4 razy dziennie, <DRUG>deksametazon</DRUG> krople 4 razy dziennie przez 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z konsultacji telemetrycznej, <DATE>04.05.2024</DATE>. Pacjent <PERSON>Wojciech Żurawski</PERSON>, PESEL <PESEL>63061234573</PESEL>, tel. <PHONE>503 111 222</PHONE>. Wymianę przepisu na: <DRUG>dorzolamid</DRUG> 2% krople 3 razy dziennie, <DRUG>timolol</DRUG> 0,5% krople 2 razy dziennie dla <DISEASE>jaskry</DISEASE>. Pacjent pouczony o zastosowaniu — okluzyja cieśni łzowych po instylacji. Okulista z <HOSPITAL>Kliniki Okulistyki UMK Toruń</HOSPITAL>.
+
+<<<SAMPLE>>>

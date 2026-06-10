@@ -1,0 +1,68 @@
+Notatka SOR z <DATE>22.11.2024</DATE>. Pacjent <PERSON>Tomasz Lewandowski</PERSON>, PESEL <PESEL>78092834156</PESEL>, przychodzi z bólem i obrzękiem nogi. W badaniu fizyklanym widać <DISEASE>otężałość stawu kolanowego</DISEASE>. Zalecono <DRUG>ibuprofen</DRUG> 600 mg 3x dziennie i konsultację hematologa.
+<<<SAMPLE>>>
+Epikryza ze szpitala, <DATE>10.06.2024</DATE>. <PERSON>Anna Kowalska</PERSON>, <PESEL>92011534287</PESEL>, adres <ADDRESS>Marszałkowska 42/5, Warszawa</ADDRESS>. Przychodzi z <DISEASE>niedokrwistością</DISEASE> (Hb 8.2 g/dl). <TEST>Morfologia</TEST> wykazała mikrocytoznowość. Wdrożona <DRUG>terapia żelazem</DRUG>.
+<<<SAMPLE>>>
+Opis <TEST>biopsji szpiku kostnego</TEST> z <DATE>3.04.2024</DATE>. <DISEASE>Niedokrwistość aplastyczna</DISEASE> potwierdzona. Rekomendacja: transfuzja krwinek czerwonych i konsultacja u hematologa. Pacjent <PERSON>Piotr Nowak</PERSON>, tel. <PHONE>712 456 789</PHONE>.
+<<<SAMPLE>>>
+Recepta z <DATE>28.02.2024</DATE> od <PERSON>dr Marta Sikora</PERSON>. Dla <PERSON>Joanny Lisowskiej</PERSON>, <PESEL>88031534289</PESEL>, zam. <ADDRESS>ul. Lipowa 15, 31-009 Kraków</ADDRESS>. <DRUG>Erytropoetyna</DRUG> s.c. 2x tygodniowo dla <DISEASE>niedokrwistości nerek</DISEASE>.
+<<<SAMPLE>>>
+Notatka POZ z <DATE>14.08.2024</DATE>. Pacjent skarży się na zmęczenie i duszność. W badaniu: <TEST>SpO2</TEST> 94%. Polecono <TEST>morfologię</TEST> i <TEST>żelazo</TEST> w surowicy. Zaordynowano <DRUG>Ferro</DRUG> 1x dziennie. Konsultacja hematologa zaplanowana.
+<<<SAMPLE>>>
+Opis zabiegu z <DATE>5.03.2024</DATE>. <PERSON>Krzysztof Zieliński</PERSON>, PESEL <PESEL>75012087654</PESEL>, poddany <TEST>transplanacji szpiku</TEST> z powodu <DISEASE>białaczki</DISEASE>. Biorca z <ADDRESS>ul. Słoneczna 8, Poznań</ADDRESS>. Komplikacja: <DISEASE>zespół odrzutu</DISEASE>.
+<<<SAMPLE>>>
+Zapytanie konsultacyjne z <DATE>17.05.2024</DATE>. Pacjentka <PERSON>Halina Ostrzyska</PERSON>, <PESEL>69112034517</PESEL>, tel. <PHONE>601 789 123</PHONE>. Internista z <HOSPITAL>Szpital Sv. Łukasza</HOSPITAL> pyta o opiekę w <DISEASE>wielomyelomie</DISEASE>. Zalecono chemioterapię bortezomidem i <DRUG>deksametazonem</DRUG>.
+<<<SAMPLE>>>
+Wynik <TEST>analizy koagulacji</TEST> z <DATE>9.10.2024</DATE>. APTT 45 sek (norma 28-38), <TEST>INR</TEST> 2.8. Pacjent <PERSON>Robert Dudek</PERSON>, otrzymuje <DRUG>warfarynę</DRUG> z powodu <DISEASE>migotania przedsionków</DISEASE>. Zmniejszyć dawkę.
+<<<SAMPLE>>>
+Epikryza ze szpitala z <DATE>23.07.2024</DATE>. <PERSON>Urszula Banasiewicz</PERSON>, PESEL <PESEL>61012534289</PESEL>, zam. <ADDRESS>Nowa Wieś 3/2, 80-701 Gdańsk</ADDRESS>. <DISEASE>Trombocytemia samoistna</DISEASE>, <TEST>PLT</TEST> 650 mld/l. Leczenie: <DRUG>anagrelid</DRUG> i <DRUG>aspiryna</DRUG> nisko.
+<<<SAMPLE>>>
+Notatka z <DATE>11.01.2024</DATE>. Pacjent <PERSON>Sławomir Kłos</PERSON>, tel. <PHONE>723 456 890</PHONE>, poddany <TEST>ostealgii</TEST> i zmęczeniu. <TEST>Morfologia</TEST> zmieniona: WBC 2.1, Hb 7.5, PLT 95. Wysłano do szpitala podejrzenie <DISEASE>niedokrwistości</DISEASE>.
+<<<SAMPLE>>>
+Opis <TEST>ultrasonografii brzucha</TEST> z <DATE>6.12.2024</DATE>. Pacjent <PERSON>Michał Szydłowski</PERSON>, PESEL <PESEL>80121234567</PESEL>. Widoczne: <DISEASE>splenomegalia</DISEASE> (wymiary 14 cm). Zalecono <TEST>palpację śledziony</TEST> i pobranie <TEST>aspiratu szpiku</TEST>.
+<<<SAMPLE>>>
+Kartkę SOR z <DATE>19.04.2024</DATE>. <PERSON>Maria Włodarczyk</PERSON>, PESEL <PESEL>77092512345</PESEL>, zam. <ADDRESS>ul. Kwiatowa 22, 02-555 Warszawa</ADDRESS>. Krwawienie z nosa, <DISEASE>trombocytopenia</DISEASE> — <TEST>PLT</TEST> 18 mld/l. Transfuzja trombocytów — 4 j. poddane.
+<<<SAMPLE>>>
+Notatka POZ z <DATE>8.09.2024</DATE>. Pacjentka <PERSON>Barbara Kamińska</PERSON>, tel. <PHONE>789 234 567</PHONE>. Skaza krwotoczna, <TEST>morfologia</TEST> w normie. Podejrzenie <DISEASE>hemofilii</DISEASE>. Skierowanie do <HOSPITAL>Szpital Uniwersytecki</HOSPITAL> na <TEST>testy koagulacji</TEST>.
+<<<SAMPLE>>>
+Wynik <TEST>ferezyty</TEST> z <DATE>2.06.2024</DATE>. Pacjent <PERSON>Grzegorz Nowicki</PERSON>, PESEL <PESEL>73021567890</PESEL>, ferytyna 890 μg/l (norma <100). Podejrzenie <DISEASE>przeładowania żelaza</DISEASE>. Zalecono <TEST>flebotomię</TEST> i <DRUG>deferoksaminę</DRUG> i.v.
+<<<SAMPLE>>>
+Konsultacja hematologa z <DATE>14.02.2024</DATE>. <PERSON>Iwona Jagielska</PERSON>, zam. <ADDRESS>Kraków, Bieńczyce, ul. Królewska 5/1</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. <DISEASE>Niedokrwistość hemolityczna</DISEASE> — <TEST>retikulocyty</TEST> 120 mld/l. Wdrożona <DRUG>heparyna</DRUG>.
+<<<SAMPLE>>>
+Opis procedury z <DATE>25.10.2024</DATE>. <PERSON>Zbigniew Sadowski</PERSON>, PESEL <PESEL>62101534298</PESEL>. Pobrana <TEST>próbka krwi</TEST> do badania <TEST>genetyki</TEST> — podejrzenie <DISEASE>syndrumu Klinefeltera</DISEASE> u człowieka z innymi objawami.
+<<<SAMPLE>>>
+Kartkę wydaną z <DATE>31.03.2024</DATE> w <HOSPITAL>SPZOZ Limanowski</HOSPITAL>. Pacjent <PERSON>Stanisław Rysz</PERSON>, PESEL <PESEL>70071034289</PESEL>, zam. <ADDRESS>ul. Leśna 12, 34-600 Limanowa</ADDRESS>. Rozpoznanie: <DISEASE>leukopenia</DISEASE> i <DISEASE>infekcja oportunistyczna</DISEASE>. Leczenie <DRUG>antibiotykami</DRUG> szeroko spektralnymi.
+<<<SAMPLE>>>
+Notatka z <DATE>16.05.2024</DATE>. <PERSON>Danuta Szpaderska</PERSON>, tel. <PHONE>698 765 432</PHONE>. Pacjentka przy zapaleniu migdałków podlegająca <DISEASE>niedokrwistości mikrocytarnej</DISEASE>. <TEST>Wymaz</TEST> wykazał <DISEASE>zapalenie</DISEASE>, bez powikłań. Leczenie objawowe <DRUG>ibuprofem</DRUG> + gargaryzmą.
+<<<SAMPLE>>>
+Wynik <TEST>elektroforezy białek</TEST> z <DATE>21.07.2024</DATE>. Pacjent <PERSON>Feliks Kolakowski</PERSON>, PESEL <PESEL>56032012345</PESEL>. Stwierdzono <DISEASE>paraproteinemię</DISEASE>, podejrzenie <DISEASE>szpiczaka plazmocytowego</DISEASE>. Skierowanie na <TEST>biopsję szpiku</TEST>.
+<<<SAMPLE>>>
+Recepcie z <DATE>13.11.2024</DATE>. Dla <PERSON>Elżbiety Krawczyk</PERSON>, PESEL <PESEL>81021234567</PESEL>, zam. <ADDRESS>Warszawa, ul. Piękna 18/3</ADDRESS>. <DRUG>Antykoagulant</DRUG> — warfaryna 5 mg/dzień dla <DISEASE>fibrylacji przedsionków</DISEASE> i <DISEASE>żylaków kończyn dolnych</DISEASE>.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>7.04.2024</DATE>. <PERSON>Jarosław Bęben</PERSON>, tel. <PHONE>728 890 123</PHONE>. Pacjent upadł, <DISEASE>krwawienie podskórne</DISEASE> na udzie. <TEST>PT</TEST> 18 sek (wydłużony), <TEST>APTT</TEST> 52 sek. Podejrzenie <DISEASE>zaburzenia koagulacji</DISEASE>. Transfuzja SVF (świeżego osocza mrożonego).
+<<<SAMPLE>>>
+Opis zabiegu diagnostycznego z <DATE>29.08.2024</DATE>. <PERSON>Katarzyna Nowak</PERSON>, PESEL <PESEL>87032534289</PESEL>, zam. <ADDRESS>ul. Główna 33, Kraków</ADDRESS>. Przeprowadzono <TEST>punkcję szpiku kostnego</TEST> z <ADDRESS>grzbietu kości biodrowej</ADDRESS> — wynik wciąż oczekiwany. Pacjent tolerował dobrze.
+<<<SAMPLE>>>
+Konsultacja z <DATE>12.09.2024</DATE>. <PERSON>Lucyna Więckowska</PERSON>, tel. <PHONE>603 234 567</PHONE>. <DISEASE>Bezsenność i zmęczenie</DISEASE> w przebiegu <DISEASE>niedokrwistości</DISEASE>. <TEST>Hb</TEST> 9.2, <TEST>MCV</TEST> 72 fl. Zalecono <DRUG>żelazo</DRUG> (sulfas żelazowy 325 mg/dzień) i <DRUG>kwas foliowy</DRUG>.
+<<<SAMPLE>>>
+Wynik <TEST>aPTT</TEST> i <TEST>protrombiny</TEST> z <DATE>5.01.2024</DATE>. Pacjent <PERSON>Ryszard Michalik</PERSON>, PESEL <PESEL>58121567890</PESEL>. aPTT 88 sek (znacznie wydłużony), <TEST>INR</TEST> 8.2 — <DISEASE>przedawkowanie warfaryną</DISEASE>. Podano <DRUG>witaminę K</DRUG> 10 mg i.v.
+<<<SAMPLE>>>
+Notatka z <DATE>26.06.2024</DATE>. <PERSON>Joanna Drabik</PERSON>, zam. <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>, tel. <PHONE>717 456 890</PHONE>. Pacjentka z <DISEASE>białaczką limfoblastyczną</DISEASE> w remisji. <TEST>Morfologia</TEST> normalna. Kontynuować <DRUG>metotrexat</DRUG> 12.5 mg tygodniowo.
+<<<SAMPLE>>>
+Opis <TEST>aspiracji szpiku kostnego</TEST> z <DATE>19.03.2024</DATE>. <PERSON>Stanisław Sobczak</PERSON>, PESEL <PESEL>61081034289</PESEL>. Stwierdzono <DISEASE>niedokrwistość</DISEASE> regeneracyjną — może być hipoplazją. Zalecono <TEST>biopsję otwartą</TEST> i <TEST>cytochemię</TEST>.
+<<<SAMPLE>>>
+Kartka epikryzy z <DATE>10.10.2024</DATE> z <HOSPITAL>Szpitala Bielańskiego</HOSPITAL>. <PERSON>Beata Lipska</PERSON>, PESEL <PESEL>74021234567</PESEL>, zam. <ADDRESS>ul. Słowiańska 8, 02-701 Warszawa</ADDRESS>. <DISEASE>Tromboembolizm płucny</DISEASE> w angiografii. Wdrożono <DRUG>heparynę niefrakcjonowaną</DRUG> 5000 j. i.v. co 6 h.
+<<<SAMPLE>>>
+Notatka POZ z <DATE>4.11.2024</DATE>. <PERSON>Tadeusz Orłowski</PERSON>, tel. <PHONE>665 789 012</PHONE>. Kontrola <DISEASE>anemia C </DISEASE> (objawy zmęczenia). <TEST>Ferrytyna</TEST> 45 μg/l (zbyt niska). Wznowiono <DRUG>preparat żelaza</DRUG> p.o., kontrola za miesiąc.
+<<<SAMPLE>>>
+Wyniku koagulogramu z <DATE>22.12.2024</DATE>. Pacjent <PERSON>Mirosław Rataj</PERSON>, PESEL <PESEL>63121534289</PESEL>. <TEST>PLT</TEST> 520 mld/l, <TEST>leukocyty</TEST> 8.5 tys/μl, <TEST>RBC</TEST> 5.2 mln/μl. Podejrzenie <DISEASE>trombocytozy pierwotnej</DISEASE>. Wysłano do hematologa.
+<<<SAMPLE>>>
+Notatka z <DATE>8.02.2024</DATE>. <PERSON>Magdalena Wieliczko</PERSON>, zam. <ADDRESS>ul. Polskiego 20/2, Gdańsk</ADDRESS>, tel. <PHONE>502 345 678</PHONE>. Pacjentka z <DISEASE>skrzepliną mózgową</DISEASE> po udarze. Leczenie <DRUG>warfaryna</DRUG> — cel <TEST>INR</TEST> 2.0–3.0. Kontrola <TEST>PT</TEST> za 7 dni.
+<<<SAMPLE>>>
+Opis procedury krwiodawstwa z <DATE>15.05.2024</DATE>. Pacjent <PERSON>Paweł Szychulski</PERSON>, PESEL <PESEL>72021234567</PESEL>. Oddał 450 ml krwi pełnej. W naborze stwierdzono obecność <DISEASE>antygenu HBsAg</DISEASE> — <DISEASE>kariera HBV</DISEASE>. Dysqualifikacja czasowa.
+<<<SAMPLE>>>
+Konsultacja hematologa z <DATE>27.09.2024</DATE>. <PERSON>Alicja Kobylarczyk</PERSON>, PESEL <PESEL>75112534289</PESEL>, tel. <PHONE>654 321 098</PHONE>. <DISEASE>Niedokrwistość z niedoborem witaminy B12</DISEASE>. <TEST>Wit. B12</TEST> 180 pg/ml (norma >200). Zalecono <DRUG>cyanokobalaminę</DRUG> 1000 μg i.m. co miesiąc.
+<<<SAMPLE>>>
+Wynik <TEST>biopsji limfatycznej</TEST> z <DATE>30.04.2024</DATE>. Pacjent <PERSON>Wiktor Szymczak</PERSON>, zam. <ADDRESS>Poznań, ul. Warszawska 47/5</ADDRESS>. Stwierdzono <DISEASE>chłoniaka Hodgkina</DISEASE>, klasyk. Leczenie: <TEST>chemioterapia</TEST> schematem ABVD.
+<<<SAMPLE>>>
+Notatka z <DATE>18.01.2024</DATE>. <PERSON>Agnieszka Przybyłowska</PERSON>, PESEL <PESEL>79031534289</PESEL>. Pacjentka uskarża się na <DISEASE>obrzęki nóg</DISEASE> i <DISEASE>dyspnea</DISEASE>. <TEST>Hb</TEST> 6.8 g/dl, <TEST>płytki</TEST> 180 mld/l. Zalecono <DRUG>erytropoetynę</DRUG> s.c. co tydzień.
+<<<SAMPLE>>>

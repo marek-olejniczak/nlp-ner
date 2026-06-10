@@ -1,0 +1,70 @@
+Notatka z vizty <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>78051423456</PESEL>, <DATE>03.06.2024</DATE>. Zgłasza się z objawami <DISEASE>depresji</DISEASE>, bezdennością, spadkiem nastroju trwającym 8 tygodni. Na <TEST>badaniu somatycznym</TEST> RR 135/88, HR 72. Rozpoznano <DISEASE>zaburzenie depresyjne umiarkowane</DISEASE>. Zalecono <DRUG>Seroxat</DRUG> 20 mg dziennie. Pacjent zam. <ADDRESS>ul. Jesionowa 12, 02-314 Warszawa</ADDRESS>, tel. <PHONE>602 123 456</PHONE>.
+<<<SAMPLE>>>
+Wynik <TEST>EEG</TEST> z <DATE>28.05.2024</DATE>: znormalizowany rytm podstawowy, b/z zmian ogniskowych. Historia <DISEASE>epilepsji uogólnionej</DISEASE> od 15 lat. Pacjentka <PERSON>Anna Szyd</PERSON>, PESEL <PESEL>84102334567</PESEL>, mieszka <ADDRESS>Kraków, Nowa Huta, ul. Skargi 45/2</ADDRESS>.
+<<<SAMPLE>>>
+E-recepta POZ wystawiona <DATE>10.06.2024</DATE> dla <PERSON>Piotr Nowicki</PERSON> (PESEL <PESEL>92031556789</PESEL>). Wskazanie: <DISEASE>zaburzenie lękowe generalizowane</DISEASE>. Lek: <DRUG>Lexapro</DRUG> 10 mg, 1 tabl. wieczorem, opakowanie 30 tabletek. Kontakt: <PHONE>603 987 654</PHONE>.
+<<<SAMPLE>>>
+Nota z <HOSPITAL>Oddziału Psychiatrii Sądowej</HOSPITAL> z <DATE>15.04.2024</DATE>. Pacjent <PERSON>Tomasz Krawczyk</PERSON>, PESEL <PESEL>80112267890</PESEL>, po <TEST>obserwacji 7-dniowej</TEST>: <DISEASE>zaburzenie psychiczne o cechach ekspozycji wobec traumy</DISEASE>. Decyzja: p.o. <DRUG>Risperdal</DRUG> 2 mg b.i.d. Zam. <ADDRESS>Poznań, Główna 77, 61-002</ADDRESS>.
+<<<SAMPLE>>>
+Wizyta kontrolna <PERSON>Ewa Mazurkiewicz</PERSON>, PESEL <PESEL>76091845678</PESEL>, <DATE>22.05.2024</DATE>. Stan <DISEASE>bipolarny II faza depresyjna</DISEASE> stabilny. <TEST>Litemia</TEST> 0.7 mEq/l. Kontynuacja <DRUG>Lithium carbonicum</DRUG>. Brak działań niepożądanych. Pacjentka mieszka <ADDRESS>ul. Armii Krajowej 34, 90-001 Łódź</ADDRESS>, tel. <PHONE>605 234 567</PHONE>.
+<<<SAMPLE>>>
+Raport z <TEST>badania psychologicznego</TEST> <DATE>08.06.2024</DATE>: MMSE 26/30, wskaź na <DISEASE>łagodne zaburzenie poznawcze</DISEASE>. Pacjent <PERSON>Stanisław Kopczewski</PERSON> (PESEL <PESEL>69121234567</PESEL>). Zalecenie: <DRUG>Aricept</DRUG> 5 mg, zwiększyć do 10 mg za 4 tygodnie. Adres: <ADDRESS>Wrocław, ul. Długa 12/3, 50-001</ADDRESS>.
+<<<SAMPLE>>>
+Epikryza z <HOSPITAL>Szpitala Neuropsychiatrycznego</HOSPITAL> z <DATE>31.05.2024</DATE>. Pacjent <PERSON>Grzegorz Szulc</PERSON>, PESEL <PESEL>82031567890</PESEL>, hospitalizowany z powodu <DISEASE>psychozy afektywnej</DISEASE>. Zastosowano <TEST>terapię elektrowstrząsową</TEST> (3 sesje). Wypis pod opiekę <PERSON>dr Marta Zając</PERSON> w <HOSPITAL>Poradni Zdrowia Psychicznego</HOSPITAL>. Kontakt: <PHONE>607 654 321</PHONE>.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>19.06.2024</DATE>. Pacjentka <PERSON>Joanna Kowalczyk</PERSON>, PESEL <PESEL>89070123456</PESEL>, przywieziona przez ZRM w <DISEASE>stanie agitacji psychomotorycznej</DISEASE> z ideacją samobójczą. <TEST>Badanie toksykologiczne</TEST> dodatnie na benzodiazzeepiny. Przepisano <DRUG>Diazepam</DRUG> i.m. 10 mg. Kierunek: <HOSPITAL>Oddział Psychiatrii Dorosłych</HOSPITAL>. Tel.: <PHONE>608 765 432</PHONE>.
+<<<SAMPLE>>>
+Wywiad pacjenta <PERSON>Krzysztof Lewicki</PERSON> (PESEL <PESEL>75082045678</PESEL>) z <DATE>02.06.2024</DATE>. Zgłasza <DISEASE>zaburzenia snu</DISEASE> i koszmary, od zawału przedwałowego w <DATE>12.2023</DATE>. Mieszka <ADDRESS>ul. Marszałkowska 42/5, 00-001 Warszawa</ADDRESS>. Zalecono <DRUG>Mirtazapinę</DRUG> 15 mg wieczorem oraz skierowanie na <TEST>psychoterapię</TEST>.
+<<<SAMPLE>>>
+Opis <TEST>rezonansu magnetycznego mózgu</TEST> z <DATE>25.05.2024</DATE>. U pacjentki <PERSON>Katarzyna Bednarz</PERSON>, PESEL <PESEL>81110234567</PESEL>: b/z zmian udarowych, zmiany atroficzne w normie dla wieku. Klinicznie: <DISEASE>depresja postu-udarowa</DISEASE>. Wznowienie <DRUG>Citalopram</DRUG> 20 mg d.m. Zam. <ADDRESS>Gdańsk, Oliwa, ul. Leśna 7, 80-001</ADDRESS>.
+<<<SAMPLE>>>
+Rekomendacja leczenia ambulatoryjnego <DATE>10.06.2024</DATE>: <PERSON>Tomasz Nowak</PERSON>, PESEL <PESEL>88062567890</PESEL>, po epizodzie <DISEASE>psychozy krótkookresowej</DISEASE>. Przepisane: <DRUG>Clozapine</DRUG> 100 mg b.i.d., <DRUG>Lorazepam</DRUG> p.r.n. Następna wizyta u <PERSON>dr Joanny Kowal</PERSON> za 2 tyg. Adres: <ADDRESS>Szczecin, ul. Bohaterów 22, 70-001</ADDRESS>, <PHONE>609 876 543</PHONE>.
+<<<SAMPLE>>>
+Notatka z poradni zdrowia psychicznego <PERSON>Anny Stachowiak</PERSON> (PESEL <PESEL>83051834567</PESEL>), <DATE>06.06.2024</DATE>. <DISEASE>Zaburzenie obsesyjno-kompulsyjne</DISEASE> średniej ciężkości. Rozpoczęto <DRUG>Fluoxetinę</DRUG> 40 mg dziennie. Zalecono <TEST>psychoterapię CBT</TEST>. Pacjentka mieszka <ADDRESS>ul. Sienkiewicza 15, 31-001 Kraków</ADDRESS>, tel. <PHONE>610 234 567</PHONE>.
+<<<SAMPLE>>>
+Raport z <TEST>konsultacji psychiatrycznej</TEST> <DATE>04.06.2024</DATE> w <HOSPITAL>Szpitalu Akademickim</HOSPITAL>. Pacjent <PERSON>Daniel Lewandowski</PERSON> (PESEL <PESEL>79031245678</PESEL>) po <DISEASE>zaburzeniach somatycznych</DISEASE> związanych ze stresem. <TEST>HADS</TEST> (anxiety) 16 pkt. Przepis: <DRUG>Paroxetine</DRUG> 20 mg, <DRUG>Propranolol</DRUG> 40 mg b.i.d.
+<<<SAMPLE>>>
+Wywiad psychiatryczny <PERSON>Wojciecha Jurczaka</PERSON>, PESEL <PESEL>72041267890</PESEL>, z <DATE>30.05.2024</DATE>. Pacjent z <DISEASE>zaburzeniem schizoafektywnym</DISEASE>, wcześniej leczony <DRUG>Haloperidolem</DRUG>, teraz pada <DRUG>Aripiprazol</DRUG> 15 mg dziennie. Stan psychiczny: wrażenia percepcyjne umiarkowane. Mieszka <ADDRESS>Lublin, ul. Sztabowa 8, 20-001</ADDRESS>.
+<<<SAMPLE>>>
+E-recepta wystawiona <DATE>09.06.2024</DATE> dla <PERSON>Patrycji Wójcik</PERSON>, PESEL <PESEL>91081956789</PESEL>. Wskazanie: <DISEASE>zaburzenie adaptacyjne</DISEASE> po stracie pracy. Lek: <DRUG>Escitalopram</DRUG> 10 mg, 1 tabl. o poranku, opakowanie 30 tabl. Kontakt: <PHONE>611 987 654</PHONE>.
+<<<SAMPLE>>>
+Notatka pogotowia psychiatrycznego z <DATE>07.06.2024</DATE>. Pacjent <PERSON>Andrzej Sobczak</PERSON> (PESEL <PESEL>85121345678</PESEL>) zawieziony w <DISEASE>stanie zaburzenia świadomości</DISEASE>, podejrzenie intoksykacji. <TEST>Badania biochemiczne</TEST> w normie. Obserwacja nocna bez wskazań do hospitalizacji. Zalecenie: <DRUG>Naltrexon</DRUG> w ramach ambulatoryjnego programu uzależnienia. Tel.: <PHONE>612 456 789</PHONE>.
+<<<SAMPLE>>>
+Raport z <HOSPITAL>Oddziału Leczenia Uzależnień</HOSPITAL> z <DATE>28.05.2024</DATE>. Pacjent <PERSON>Piotr Kucharski</PERSON>, PESEL <PESEL>81091267890</PESEL>, diagnoza: <DISEASE>zaburzenie dotyczące używania alkoholu, ciężkie</DISEASE>. Przepisano <DRUG>Acamprosat</DRUG> 666 mg t.i.d. oraz <DRUG>Disulfiram</DRUG> 250 mg dziennie. Zam. <ADDRESS>Wrocław, ul. Księcia Witolda 15, 50-001</ADDRESS>.
+<<<SAMPLE>>>
+Opis <TEST>USG głowy noworodka</TEST> z <DATE>15.05.2024</DATE> u dziecka <PERSON>Katarzyny Nowak</PERSON> (mama), pacjentka z przebytą <DISEASE>depresją perinatalna</DISEASE>. Rezultat: <TEST>USG</TEST> bez patologicznych zmian. Matka kontynuuje <DRUG>Sertralinę</DRUG> 50 mg. Adres: <ADDRESS>ul. Parkowa 3, 80-001 Gdańsk</ADDRESS>, <PHONE>613 234 567</PHONE>.
+<<<SAMPLE>>>
+Wizyta u specjalisty, <DATE>03.06.2024</DATE>. <PERSON>Robert Zieliński</PERSON>, PESEL <PESEL>77051556789</PESEL>, pacjent z <DISEASE>zaburzeniem impulsywności</DISEASE> i tendencjami samobójczymi. Po <TEST>ocenie ryzyka</TEST> zalecono <DRUG>Lithium</DRUG> 900 mg dziennie + <DRUG>Valproate</DRUG> 1000 mg, hospitalizacja doraźna. Mieszka <ADDRESS>Poznań, ul. Zwierzyniecka 44, 61-002</ADDRESS>.
+<<<SAMPLE>>>
+Epikryza z pobytów, <DATE>20.05.2024</DATE> - <DATE>26.05.2024</DATE>. Pacjentka <PERSON>Beata Olszewska</PERSON>, PESEL <PESEL>86041845678</PESEL>, hospitalizowana z <DISEASE>zaburzeniem afektywnym dwubiegunowym</DISEASE> faza maniakalna. Leczenie: <DRUG>Quetiapine</DRUG> 800 mg, <DRUG>Lithium carbonicum</DRUG> 900 mg. Wypis w stanie ustabilizowanym do opieki ambulatoryjnej. Tel. <PHONE>614 567 890</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizyty domowej <DATE>05.06.2024</DATE>. Pacjent <PERSON>Stanisław Szpaderski</PERSON> (PESEL <PESEL>68121234567</PESEL>), zam. <ADDRESS>ul. Kopernika 22/1, 90-001 Łódź</ADDRESS>, w stanie <DISEASE>zaburzenia neurokognitywnego major</DISEASE> (wcześnie <DISEASE>choroba Alzheimera</DISEASE>). MMSE 15/30. Przepis: <DRUG>Donepezil</DRUG> 10 mg wieczorem, <DRUG>Memantyna</DRUG> 10 mg b.i.d.
+<<<SAMPLE>>>
+Raport z <TEST>badania elektroencefalograficznego</TEST> <DATE>02.06.2024</DATE>: regularna czynność fal theta i alfa. Pacjent <PERSON>Maciej Czajkowski</PERSON>, PESEL <PESEL>83080267890</PESEL>, wcześniej diagnozowany z <DISEASE>atakami paniki</DISEASE>. Zaproponowano <TEST>psychoterapię poznawczo-behawioralną</TEST> i <DRUG>Alprazolam</DRUG> p.r.n. Zam. <ADDRESS>Warszawa, ul. Mokotowska 12/5, 00-001</ADDRESS>.
+<<<SAMPLE>>>
+Konsultacja geriatryczna <DATE>08.06.2024</DATE>. <PERSON>Helena Wiśniowska</PERSON>, PESEL <PESEL>74031156789</PESEL>, z <DISEASE>depresją późną życia</DISEASE> i zaburzeniami pamięci. <TEST>GDS</TEST> (Geriatric Depression Scale) 18/30. Zaleceno <DRUG>Mirtazapinę</DRUG> 30 mg wieczorem. Pacjentka mieszka <ADDRESS>Kraków, ul. Kwitnąca 7, 31-001</ADDRESS>, tel. <PHONE>615 789 012</PHONE>.
+<<<SAMPLE>>>
+Notatka z poradni zaburzeń jedzenia <DATE>10.06.2024</DATE>. Pacjentka <PERSON>Magdalena Sosnowska</PERSON> (PESEL <PESEL>95041934567</PESEL>): <DISEASE>anoreksja nervosa</DISEASE>, BMI 16.5. Przepisano <DRUG>Cyproheptadynę</DRUG> 4 mg t.i.d., wsparcie psychologiczne i dietetyczne. Adres: <ADDRESS>ul. Milenjna 25, 02-001 Warszawa</ADDRESS>, <PHONE>616 345 678</PHONE>.
+<<<SAMPLE>>>
+Raport z <HOSPITAL>Szpitala Rehabilitacyjno-Psychiatrycznego</HOSPITAL> z <DATE>31.05.2024</DATE>. Pacjent <PERSON>Zbigniew Michalski</PERSON>, PESEL <PESEL>81112034567</PESEL>, po wypadku ze <DISEASE>zespołem stresu pourazowego</DISEASE>. Trwająca <TEST>rehabilitacja psychologiczna</TEST> + <DRUG>Venlafaxine</DRUG> 150 mg dziennie. Zam. <ADDRESS>Gdańsk, ul. Słonimskiego 5, 80-001</ADDRESS>.
+<<<SAMPLE>>>
+E-recepta z <DATE>06.06.2024</DATE> dla <PERSON>Ireneusza Kolańskiego</PERSON>, PESEL <PESEL>79061267890</PESEL>. Diagnoza: <DISEASE>zaburzenie snu nieruchliwego okresu REM</DISEASE>. Lek: <DRUG>Prazosyna</DRUG> 5 mg wieczorem, opakowanie 30 tabl. Kontakt: <PHONE>617 123 456</PHONE>.
+<<<SAMPLE>>>
+Notatka psychologa z <DATE>04.06.2024</DATE>. <PERSON>Urszula Jankowska</PERSON>, PESEL <PESEL>90051845678</PESEL>, pacjentka po traumie psychicznej. Przeprowadzono <TEST>terapię EMDR</TEST> (sesja 3 z 8). Wspierana <DRUG>Sertralinę</DRUG> 50 mg. Mieszka <ADDRESS>ul. Racławicka 33, 31-001 Kraków</ADDRESS>, tel. <PHONE>618 567 890</PHONE>.
+<<<SAMPLE>>>
+Wizyta ambulatoryjna <DATE>09.06.2024</DATE>. Pacjent <PERSON>Bogdan Nowak</PERSON> (PESEL <PESEL>84022145678</PESEL>) z <DISEASE>zaburzeniem neurotycznym smród lęk społeczny</DISEASE>. Rozpoczęto <DRUG>Fluoxetinę</DRUG> 20 mg. Zalecono <TEST>grupową psychoterapię wsparcia</TEST>. Adres: <ADDRESS>Poznań, ul. Bukowska 77, 61-002</ADDRESS>.
+<<<SAMPLE>>>
+Raport z <HOSPITAL>Poradni Zdrowia Psychicznego</HOSPITAL> z <DATE>01.06.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>86031234567</PESEL>, monitorowanie <DISEASE>zaburzenia dystymic (dystymii)</DISEASE>. Stała terapia: <DRUG>Citalopram</DRUG> 30 mg. <TEST>Badanie psychiatryczne</TEST> bez istotnych zmian. Tel. <PHONE>619 234 567</PHONE>.
+<<<SAMPLE>>>
+Notatka z pogotowia psychicznego <DATE>08.06.2024</DATE>. Pacjentka <PERSON>Joanna Szewczyk</PERSON> (PESEL <PESEL>92070156789</PESEL>) w stanie <DISEASE>kryzysu psychicznego</DISEASE> związane z rozstaniem. Złagodzenie objawów poprzez <DRUG>Hydroxyzinę</DRUG> 25 mg i rozmowę wspierającą. Kierunek: <TEST>psychoterapia indywidualna</TEST>. Zam. <ADDRESS>ul. Życzliwości 12, 80-001 Gdańsk</ADDRESS>, <PHONE>620 456 789</PHONE>.
+<<<SAMPLE>>>
+Konsultacja pediatryczno-psychiatryczna <DATE>07.06.2024</DATE>. Dziecko <PERSON>Michała Nowaka</PERSON> (rodzic), pacjent z <DISEASE>zaburzeniem deficytu uwagi i hiperkinezją</DISEASE> (ADHD). Zalecenie: <DRUG>Methylfenidat</DRUG> 10 mg b.i.d., <TEST>ocena psychologiczna</TEST>, udzielanie rodzicom wspomagającego szkolenia. Adres: <ADDRESS>Kraków, ul. Bielaka 4, 31-001</ADDRESS>.
+<<<SAMPLE>>>
+Epikryza z <HOSPITAL>Oddziału Psychiatrii Młodzieżowej</HOSPITAL> z <DATE>25.05.2024</DATE>. Pacjentka <PERSON>Ewa Kubiak</PERSON>, PESEL <PESEL>03061845678</PESEL>, hospitalizowana z <DISEASE>depresją w zaburzeniu emocji i zachowania adolescenta</DISEASE>. Zastosowano <DRUG>Sertralinę</DRUG> 50 mg + wsparcie rodzinne. Wypis w dobrej stanie psychicznego. Opieka: <PERSON>dr Paweł Szymański</PERSON>, tel. <PHONE>621 789 012</PHONE>.
+<<<SAMPLE>>>
+Notatka ze skierowania <DATE>03.06.2024</DATE>. <PERSON>Łukasz Kowalski</PERSON>, PESEL <PESEL>88101234567</PESEL>, skierowanie do <HOSPITAL>Szpitala Zakaźnego</HOSPITAL> - konsultacja psychiatryczna w zakresie <DISEASE>zaburzenia zachowania pacjenta</DISEASE> (kryterium: agresja wobec personelu). Zam. <ADDRESS>ul. Konstytucji 17, 00-001 Warszawa</ADDRESS>, tel. <PHONE>622 345 678</PHONE>.
+<<<SAMPLE>>>
+Raport z <TEST>konsultacji logopedyczno-psychiatrycznej</TEST> <DATE>06.06.2024</DATE>. Pacjent <PERSON>Tomasz Marczewski</PERSON>, PESEL <PESEL>81111567890</PESEL>, z <DISEASE>zaburzeniem w spektrum autyzmu</DISEASE> i zaburzeniami mowy. Zalecenie: <TEST>terapia logopedyczna</TEST>, <DRUG>Risperidone</DRUG> 1 mg b.i.d. Mieszka <ADDRESS>Wrocław, ul. Szewska 35, 50-001</ADDRESS>.
+<<<SAMPLE>>>
+Notatka z wizyty periodycznej <DATE>02.06.2024</DATE>. Pacjent <PERSON>Krzysztof Szulc</PERSON> (PESEL <PESEL>79051845678</PESEL>), monitorowanie <DISEASE>zaburzenia osobowości typu paranoidalnego</DISEASE>. Brak zmian w terapii: <DRUG>Fluphenazine</DRUG> 2.5 mg b.i.d. Pacjent mieszka <ADDRESS>Łódź, ul. Sienkiewicza 8, 90-001</ADDRESS>, tel. <PHONE>623 567 890</PHONE>.
+<<<SAMPLE>>>

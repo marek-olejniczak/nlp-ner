@@ -1,0 +1,106 @@
+Notatka z SOR, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Krzysztof Szydłowski</PERSON>, PESEL <PESEL>72051234567</PESEL>, zam. <ADDRESS>Poznańska 42/12, 40-001 Katowice</ADDRESS>. Przyjęty z zaburzeniami mowy, silnym bólem głowy. <TEST>CT mózgu</TEST> ujawnia <DISEASE>udar niedokrwienny</DISEASE> w terytoriach MCA. Transferowany na oddział neurologii. Podano <DRUG>alteplazę</DRUG> i <DRUG>heparynę</DRUG>.
+
+<<<SAMPLE>>>
+E-recepta POZ, lekarz <PERSON>Maria Lewandowska</PERSON>, <DATE>03.06.2024</DATE>. Pacjent kontynuuje leczenie <DISEASE>migreny</DISEASE> z aurą. <TEST>Rezonans mózgu</TEST> z <DATE>styczeń 2024</DATE> prawidłowy. Przepisano <DRUG>sumatryptan</DRUG> 50mg x 10 tabl., <DRUG>propranolol</DRUG> dla profilaktyki. Zalecenie: konsultacja neurologa co 3 m-ce.
+
+<<<SAMPLE>>>
+Epikryza ze szpitala <HOSPITAL>Szpital Uniwersytecki nr 1</HOSPITAL>, oddział neurologii, <DATE>07.06.2024</DATE>. <PERSON>Anna Kowalski</PERSON>, PESEL <PESEL>88102467891</PESEL>, zam. <ADDRESS>Krakowskie Przedmieście 15/7, Warszawa</ADDRESS>, tel. <PHONE>604 123 456</PHONE>. Przyjęta z podejrzeniem <DISEASE>stwardnienia rozsianego</DISEASE>. <TEST>Rezonans z gadoliniem</TEST> potwierdza zmianę białą w okolicy periwentrykularne. <TEST>Punktacja lumbalna</TEST> — białka 45 mg/dl, dodatnia OCB. Wdrożono <DRUG>interferonę beta-1b</DRUG> i.m. co 2 dni.
+
+<<<SAMPLE>>>
+Opis procedury, <DATE>02.06.2024</DATE>. <TEST>EMG/ENG</TEST> przeprowadzone u pacjenta z <DISEASE>neuropatią cukrzycową</DISEASE>. Zaburzenia przewodnictwa w nerwach stopy. <TEST>Prędkość przewodzenia</TEST> w n. piszczelowym obniżona do 38 m/s. Zalecenie: wzmocnić kontrolę cukrzycy, <DRUG>alfa-lipoiczna kwas</DRUG> doustnie.
+
+<<<SAMPLE>>>
+Notatka konsultacyjna, neurolog <PERSON>Dr Tomasz Górski</PERSON>, <DATE>06.06.2024</DATE>. Pacjent z <DISEASE>padaczką lekooporną</DISEASE> kierowany do ośrodka epilepsji. Dotychczasowe badania: <TEST>EEG</TEST> z ogniskiem w okolicy skroniowej lewej. <TEST>MR mózgu</TEST> jest prawidłowy. Zmienić schemat na <DRUG>lewetiracetam</DRUG> i <DRUG>topiramat</DRUG>. <HOSPITAL>Ośrodek Epilepsji Dorosłych</HOSPITAL> potwierdził możliwość przyjęcia.
+
+<<<SAMPLE>>>
+Recepca szpitalna, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Stanisław Nowakowski</PERSON>, PESEL <PESEL>56083945678</PESEL>, <ADDRESS>Słoneczna 8, 30-123 Kraków</ADDRESS>. Po transferze z <HOSPITAL>Szpitala Wojewódzkiego</HOSPITAL> w trybie ratunkowym. Podejrzenie <DISEASE>zapalenia opon mózgowo-rdzeniowych</DISEASE>. <TEST>Punktacja lumbalna</TEST> — wymazy bakteryjne w toku. Podawać <DRUG>ceftriakson</DRUG> 2 g co 12 h i.v. i <DRUG>wankomycynę</DRUG>.
+
+<<<SAMPLE>>>
+Notatka pielęgniarki z SOR, <DATE>04.06.2024</DATE>. Pacjent zgłosił się z <DISEASE>sztywnością karku</DISEASE> i gorączką 38.5°C. <TEST>Próba Kerninga</TEST> dodatnia. <TEST>Próba Brudzińskiego</TEST> dodatnia. Pobrano <TEST>krew na hodowlę</TEST> i <TEST>płyn mózgowo-rdzeniowy</TEST>. Pacjent wyizolowany, na antybiotykach.
+
+<<<SAMPLE>>>
+Przepis neurologiczny, <DATE>31.05.2024</DATE>. Pacjent z <DISEASE>chorobą Parkinsona</DISEASE> w stadium III Hoehn-Yahr. Drżenie spoczynkowe mniej kontrolowane. Zwiększono <DRUG>lewodopę</DRUG> z 1500 mg na 2000 mg dziennie. Dodano <DRUG>rasagilinę</DRUG>. Zaplanować <TEST>DaTscan</TEST> za 6 m-cy.
+
+<<<SAMPLE>>>
+Karta zgłoszenia do <HOSPITAL>Poradni Neurolog</HOSPITAL>, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Jolanta Michalska</PERSON>, PESEL <PESEL>79051223456</PESEL>, tel. <PHONE>789 456 123</PHONE>, <ADDRESS>Marszałkowska 120/45, Warszawa</ADDRESS>. Wznowienie bólu głowy charakteru <DISEASE>migreny</DISEASE> po kilku latach remisji. Efekt poprzedniej terapii <DRUG>topiramatem</DRUG> na poziomie 50%. Kierunkowanie do <HOSPITAL>Kliniki Bólu Głowy</HOSPITAL>.
+
+<<<SAMPLE>>>
+Opis <TEST>rezonansu mózgu funkcjonalnego</TEST>, <DATE>02.06.2024</DATE>. U pacjenta z <DISEASE>afazją</DISEASE> po udarze (lewa strona) obserwowana cechy <DISEASE>plastyczności mózgowej</DISEASE>. Aktywacja stron prawostronna w obszarach nyelvowych. Zalecenie: intensywna terapia logopedyczna.
+
+<<<SAMPLE>>>
+Epikryza z oddziału terapii padaczki, <DATE>01.06.2024</DATE>. <PERSON>Robert Kucharski</PERSON>, PESEL <PESEL>68112378901</PESEL>, zam. <ADDRESS>Żeromskiego 33, 80-001 Gdańsk</ADDRESS>. Hospitalizacja z <DISEASE>stanem padacznym</DISEASE>. Po <TEST>EEG</TEST> ciągłym (video-EEG) i <TEST>MR mózgu</TEST> lokalizujący zmianę guzowatą w płacie skroniowym lewym. Zaplanowana <TEST>operacja</TEST>. Obecnie stabilny, <TEST>EEG</TEST> bez ognisk napadowych.
+
+<<<SAMPLE>>>
+Notatka z konsultacji neurochirurgii, <DATE>31.05.2024</DATE>. Pacjent z <DISEASE>guzem mózgu</DISEASE> klasy IV (<DISEASE>glioblastoma</DISEASE>) w obszarze motorycznym. <TEST>Rezonans pre-op</TEST> potwierdza wchodzenie guza w korę czuciowo-motoryczną. Planowane: <TEST>neurowizyualizacja intraoperacyjna</TEST> i <TEST>monitorowanie EMG</TEST>. Konsent udzielony.
+
+<<<SAMPLE>>>
+Recepca apteczna, <DATE>04.06.2024</DATE>. Pacjent z <DISEASE>Alzheimerą wczesną</DISEASE>, wdrażane <DRUG>donepezil</DRUG> 10 mg/d i <DRUG>memantyna</DRUG> 20 mg/d. Badania co 6 m-cy: <TEST>albumina</TEST>, <TEST>AST</TEST>, <TEST>ALT</TEST> — monitorowanie wątroby.
+
+<<<SAMPLE>>>
+Notatka z oddziału SOR, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Dariusz Lewandowski</PERSON>, PESEL <PESEL>74031456789</PESEL>, <ADDRESS>Senatorska 22/8, 00-023 Warszawa</ADDRESS>, tel. <PHONE>532 111 222</PHONE>. Przyjęty po <DISEASE>upadku z wysokości</DISEASE>. <TEST>CT głowy</TEST> i <TEST>CT szyi</TEST> wykazują <DISEASE>uraz czaszki</DISEASE> z krwawieniem subduralem. Transferowany na oddział neurochirurgii <HOSPITAL>Szpitala Centralnego</HOSPITAL>.
+
+<<<SAMPLE>>>
+Przepis dla pacjenta z <DISEASE>neuropatią bólową</DISEASE>, <DATE>03.06.2024</DATE>. Podlegał poprzednio <DRUG>pregabalinie</DRUG> bez zadowalającego efektu. Zmiana na <DRUG>gabapentynę</DRUG> 900 mg/d oraz <DRUG>tramadol</DRUG> 50 mg x 2/d. Dodatkowe: <DRUG>żel z lidokaną</DRUG> miejscowo. Wskazania na <TEST>fizykę</TEST>.
+
+<<<SAMPLE>>>
+Notatka neurologa szpitalnego, <DATE>06.06.2024</DATE>. Pacjent z <DISEASE>Guillain-Barré syndromem</DISEASE> w stadium progresji. <TEST>EMG</TEST> potwierdza blok przewodnictwa w wielu nerwach. <TEST>Prędkości przewodzenia</TEST> obniżone. Wdrożono <TEST>wymiany osocza</TEST> — 5 sesji zaplanowanych. <DRUG>Immunoglobuliny</DRUG> i.v. jako alternatywa, jeśli będą wskazania.
+
+<<<SAMPLE>>>
+Opis procedury <TEST>trepanacji stereotaktycznej</TEST>, <DATE>02.06.2024</DATE>. U pacjenta z <DISEASE>chorobą Parkinsona</DISEASE> o objawach asymetrycznych (lewa strona dominująca). Cel: <TEST>stymulacja głębokich struktur</TEST> (GPi). Procedura bez powikłań, pacjent wbudował elektrodę.
+
+<<<SAMPLE>>>
+Karta przekazania z <HOSPITAL>Szpitala Klinicznego nr 4</HOSPITAL>, <DATE>04.06.2024</DATE>. <PERSON>Agnieszka Pawłowska</PERSON>, PESEL <PESEL>85072134567</PESEL>, <ADDRESS>Puławska 101/15, 02-001 Warszawa</ADDRESS>. Kierowana do <HOSPITAL>Ośrodka Rehabilitacji Neurologicznej</HOSPITAL> po <DISEASE>udarze przedniego mózgu</DISEASE>. <TEST>NIHSS</TEST> 8 pkt. <TEST>Rezonans mózgu</TEST> z <DATE>grudzień 2023</DATE> wykazuje zmianę w terytoriach ACA. Stan fizyczny: paraplegią spastyczna. Plany: fizjoterapia, logopedia, psychologia.
+
+<<<SAMPLE>>>
+Notatka lekarza domowego, <DATE>02.06.2024</DATE>. Pacjent zgłasza się do <HOSPITAL>Poradni POZ</HOSPITAL> z <DISEASE>zawrotami głowy</DISEASE> trwającymi 2 tygodnie. <TEST>Próba Romberga</TEST> dodatnia. <TEST>Próba Dix-Hallpike'a</TEST> bez objawów. Hipoteza: <DISEASE>zapalenie wewnętrznego ucha</DISEASE> lub <DISEASE>dysfunkcja czucia równowagi</DISEASE>. Kierunek do <HOSPITAL>Poradni Otolaryngologicznej</HOSPITAL> i neurologa.
+
+<<<SAMPLE>>>
+Epikryza neurologiczna, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Jacek Górski</PERSON>, PESEL <PESEL>70021156789</PESEL>, zam. <ADDRESS>Lipowa 7, 60-001 Poznań</ADDRESS>. Hospitalizacja z <DISEASE>zespołem Hornerowskim</DISEASE> po udarze w miedzymogu. <TEST>Angiografia mozgu</TEST> potwierdza zamknięcie pnia mózgu. <TEST>Rezonans</TEST> wykazuje martwicę. Pacjent stabilny, zakończono terapię, skierowany na rehabilitację.
+
+<<<SAMPLE>>>
+Notatka z vizyt domowej neurologa, <DATE>05.06.2024</DATE>. Pacjent z <DISEASE>zaburzeniami równowagi</DISEASE> (podejrzenie <DISEASE>ataksji móżdzałkowej</DISEASE>). <TEST>Test chodzenia tandemem</TEST> — brak równowagi. <TEST>Próba palec-nos</TEST> niesprawna. Zalecono: <DRUG>farmakologiczne wsparcie</DRUG>, fizjoterapia, <TEST>test genetyczny DNA</TEST> na podejrzeniu rodzinnej ataksji.
+
+<<<SAMPLE>>>
+Recepca z neuropsychiatrii, <DATE>03.06.2024</DATE>. Pacjent z <DISEASE>depresją zespołową</DISEASE> po udarze mózgu. Wznowiono <DRUG>sertralinę</DRUG> 50 mg/d. Dodano <DRUG>bupropion</DRUG> dla apatii. <HOSPITAL>Porada psychiatry</HOSPITAL> co 2 tygodnie. <TEST>Skala PHQ-9</TEST> na wstępnym 18 pkt.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Zbigniew Nowak</PERSON>, PESEL <PESEL>52071234567</PESEL>, <ADDRESS>Tuwima 5/2, 90-001 Łódź</ADDRESS>, tel. <PHONE>695 444 555</PHONE>. Przyjęty z <DISEASE>omdleniem</DISEASE> i urazem czaszki. <TEST>EEG</TEST> prawidłowy. <TEST>CT głowy</TEST> bez zmian. <TEST>Kardiogram EKG</TEST> bez arytmii. Przyczyna: <DISEASE>hipotonia ortostatyczna</DISEASE>. Zwolniony do domu po obserwacji.
+
+<<<SAMPLE>>>
+Opis <TEST>elektroneuromiografii</TEST>, <DATE>31.05.2024</DATE>. U pacjenta z podejrzeniem <DISEASE>zespołu cieśni nadgarstka</DISEASE> wykazane:opóźnienie latencji w nerwie medianiuszu (8 ms norma < 4.2 ms). Blok przewodnictwa częściowy. Zalecenie: <TEST>ultrasound nerwu</TEST> oraz chirurgiczne usu od uciskającego tkanki.
+
+<<<SAMPLE>>>
+Epikryza z oddział neurologii dziecięcej, <DATE>04.06.2024</DATE>. <PERSON>Szymon Lewandowski</PERSON>, PESEL <PESEL>15012334567</PESEL>, zam. <ADDRESS>Puteamskiego 55, 25-001 Kielce</ADDRESS>. Pacjent 9-letni hospitalizowany z <DISEASE>napędem</DISEASE>. <TEST>EEG</TEST> wykazuje <DISEASE>zespół Dravet'a</DISEASE> z <DISEASE>padaczką wczesną mioklonią</DISEASE>. Wdrożono <DRUG>stiripentol</DRUG> i <DRUG>walproat sodu</DRUG> i.v. na szpitalu, przejście na <DRUG>levetiracetam</DRUG> p.o.
+
+<<<SAMPLE>>>
+Notatka z konsultacji neuroonkologa, <DATE>02.06.2024</DATE>. Pacjent z <DISEASE>przerzutami mózgu</DISEASE> z pierwotnego <DISEASE>raka płuca</DISEASE>. <TEST>Rezonans z gadoliniem</TEST> ujawnia 3 ogniska w przednich płatach obojga półkul. <TEST>Stereotaksja radiacyjna</TEST> zaplanowana na <DATE>07.06.2024</DATE>. <DRUG>Deksametazon</DRUG> 4 mg x 2/d dla zmniejszenia obrzęku.
+
+<<<SAMPLE>>>
+Karta przychodni neurologicznej, <DATE>05.06.2024</DATE>. <PERSON>Krystyna Kowalska</PERSON>, PESEL <PESEL>44102167891</PESEL>, <ADDRESS>Akademicka 12/3, 31-001 Kraków</ADDRESS>. Pierwszy wizyt z objawami <DISEASE>neuropatii małych włókien</DISEASE>. <TEST>Skin biopsy</TEST> w celu diagnozy. Rozpoznanie wstępne: <DISEASE>neuropatia toksyczna</DISEASE> po chemoterapii. Zalecenie: <DRUG>pregabalina</DRUG> trial.
+
+<<<SAMPLE>>>
+Notatka przedoperacyjna neurochiruga, <DATE>03.06.2024</DATE>. Pacjent do <TEST>operacji usunięcia</TEST> <DISEASE>zmiany cystoidy</DISEASE> w korzeniu nerwu. <TEST>MR rdzenia kręgowego</TEST> wykazuje ucisk na rdzień poziomie C4-C5. <TEST>Czasowa aktualizacja rdzenia przedoperacyjnie</TEST>. Zaplanowana <TEST>laminektomia</TEST> z <TEST>mikroskopią operacyjną</TEST>.
+
+<<<SAMPLE>>>
+Przepis neurologiczny, <DATE>04.06.2024</DATE>. Pacjent z <DISEASE>trigeminalgia</DISEASE> (tic douloureux) oporna na <DRUG>karbamazepinę</DRUG>. Wdrożono <DRUG>gabapentynę</DRUG> 3600 mg/d w trzech dawkach. Monitorowanie: <TEST>morfologia</TEST>, <TEST>biochemia</TEST> co 3 m-ce. Możliwość <TEST>radiochirurgii gamma-knife</TEST> jeśli bez efektu za 8 tygodni.
+
+<<<SAMPLE>>>
+Notatka z neurorehabilitacji, <DATE>06.06.2024</DATE>. Pacjent po <DISEASE>udarze prawej półkuli mózgu</DISEASE> 4 m-ce temu. <TEST>Skala Fugl-Meyer</TEST> — 42/66 pkt (postęp z 28). Kontynuuje <TEST>fizykę</TEST> i <TEST>ergoterapię</TEST>. <TEST>Rozszerzone EEG</TEST> wykazuje zwiększoną aktywność w stron lewej. Prognoza: dalszy postęp możliwy.
+
+<<<SAMPLE>>>
+Karta transferu ratunkowego, <DATE>02.06.2024</DATE>. <PERSON>Mariusz Szymański</PERSON>, PESEL <PESEL>63051478901</PESEL>, <ADDRESS>Wspólna 88/12, Kraków</ADDRESS>. Transport pogotowia z <DISEASE>podejrzeniem embolu pęcherzykowego</DISEASE> — <DISEASE>nagły paraliż</DISEASE> i utrata mowy. <TEST>CT angiografia mózgu</TEST> w trakcie. Etykieta "możliwy STEMI cerebri". Planowana <TEST>trombektomia</TEST> na <HOSPITAL>Szpitalu Wojewódzkim</HOSPITAL>.
+
+<<<SAMPLE>>>
+Epikryza z neuropsychiatrii, <DATE>31.05.2024</DATE>. <PERSON>Elżbieta Zielińska</PERSON>, PESEL <PESEL>58091223456</PESEL>, zam. <ADDRESS>Długa 44/8, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Pacjentka z <DISEASE>chorobą Huntingtona</DISEASE> w stadium średnio zaawansowanym. Bezpośrednią przyczynę zgłoszenia: <DISEASE>depresja nasilona</DISEASE> z myślami samobójczymi. Hospitalizacja psychiatryczna 2 tygodnie. <DRUG>Haloperidol</DRUG> 5 mg x 2/d, <DRUG>fluoksetyna</DRUG> 40 mg/d, <DRUG>karbamazepina</DRUG> dla kontroli ruchów.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>03.06.2024</DATE>. Pacjent z <DISEASE>RLS (restless leg syndrome)</DISEASE> — objawy pogorszone w nocy. Poprzednia terapia <DRUG>ropinirol</DRUG> nieskuteczna. Zmiana na <DRUG>pramipeksol</DRUG> 0.5 mg/d wieczorem. <DRUG>Melatonina</DRUG> 3 mg na noc. Czasami <DRUG>tramadol</DRUG> p.r.n. dla uśmieszenia w kryzysowych nocach.
+
+<<<SAMPLE>>>
+Opis <TEST>karotidografii ultrasonograficznej</TEST>, <DATE>04.06.2024</DATE>. Pacjent z historią <DISEASE>zawrotów głowy</DISEASE> i <DISEASE>TIA</DISEASE>. Badanie wykazuje <DISEASE>zwężenie tętnicy szyjnej lewej</DISEASE> — 70% średnicy. Zalecono <DRUG>aspirynę</DRUG> 100 mg/d i <DRUG>atorwastatynę</DRUG> dla profilaktyki. <TEST>MRA szyi</TEST> zaplanowana za 3 m-ce.
+
+<<<SAMPLE>>>
+Notatka z monitoringu neurochirurgicznego, <DATE>05.06.2024</DATE>. Pacjent podczas <TEST>operacji guza mózgu</TEST> wymaga <TEST>monitorowania motorycznego EMG</TEST> i <TEST>monitorowania somatosensorycznego SSEP</TEST>. Podczas resekcji zaobserwowano lekkie zmniejszenie amplitudy SSEP w kończyznach dolnych — wznowienie procedury z większą ostrożnością. Ostatecznie bezpośredni porażeń nie powstał.
+
+<<<SAMPLE>>>
+Recepca apteczna, <DATE>02.06.2024</DATE>. Pacjent z <DISEASE>migreną oporną</DISEASE>. Wdrażana nowa <DRUG>erenumab</DRUG> (mAb anty-CGRP) 120 mg s.c. co m-c. Wstępny efekt: zmniejszenie częstości napadów. Monitorowanie: <TEST>ciśnienie krwi</TEST> co 2 tygodnie.

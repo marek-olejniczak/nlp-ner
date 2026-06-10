@@ -1,0 +1,144 @@
+Notatka SOR, <DATE>08.06.2024</DATE>. Pacjentka <PERSON>Anna Kowalska</PERSON>, PESEL <PESEL>92051234567</PESEL>, zam. <ADDRESS>ul. Słoneczna 15, 02-110 Warszawa</ADDRESS>, tel. <PHONE>725 456 789</PHONE>. Zgłosiła się z bólami podbrzusza i krwawieniami. W <TEST>USG miednicy</TEST> rozpoznano <DISEASE>włókniaki macicy</DISEASE>. Zalecono konsultację <PERSON>dr Elżbieta Szymańska</PERSON> na ginekologii. Przepisano <DRUG>ibuprofen</DRUG> 400 mg.
+
+<<<SAMPLE>>>
+
+Epikryza z oddziału położnictwa. <DATE>22.05.2024</DATE>. Pacjentka <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>88031456789</PESEL>. Hospitalizowana z powodu <DISEASE>przedwczesnego oderwania łożyska</DISEASE>. Przeprowadzono <TEST>cesarskie cięcie</TEST>. Noworodek z <DISEASE>hipoksemią</DISEASE> wymagającą <TEST>tlenoterapii</TEST>. Podano <DRUG>oksytocyna</DRUG> iv. Pacjentka wypisana w stanie dobrym.
+
+<<<SAMPLE>>>
+
+Raport z USG położniczego, <DATE>03.06.2024</DATE>. Pacjentka <PERSON>Joanna Nowak</PERSON>, age 28, PESEL <PESEL>96041234567</PESEL>, zam. <ADDRESS>Kraków, Nowa Huta 42/7</ADDRESS>. Ciąża w II trymestrze. <TEST>Biometria płodu</TEST>: zgodna z wiekiem ciąży. <TEST>Badanie szyjki macicy</TEST> bez zmian. Przepisano <DRUG>kwas foliowy</DRUG> 400 μg dziennie.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>15.03.2024</DATE>. Lekarz prowadzący: <PERSON>dr Magdalena Górska</PERSON>, <HOSPITAL>Przychodnia nr 3 Kraków</HOSPITAL>. Pacjentka <PERSON>Katarzyna Wójcik</PERSON>, PESEL <PESEL>89022345678</PESEL>. Objaw: <DISEASE>zapalenie pochwy</DISEASE>. Wydano: <DRUG>metronidazol</DRUG> 500 mg, <DRUG>mikonazol</DRUG> krem. Zalecono powrót za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z porodu, <DATE>12.04.2024</DATE>. Pacjentka <PERSON>Ewa Jankowska</PERSON>, PESEL <PESEL>90050634567</PESEL>, zam. <ADDRESS>Poznań, ul. Zbożowa 28, 60-001</ADDRESS>. Poród samoistny około godziny 14:30. Dziecko: płeć żeńska, masa 3550 g, długość 51 cm. <TEST>Wynik APGAR</TEST> 9/10. <DISEASE>Pęknięcie krocza</DISEASE> II° zszyto w bloku operacyjnym.
+
+<<<SAMPLE>>>
+
+Opis mammografii, <DATE>29.05.2024</DATE>. Pacjentka <PERSON>Helena Urbańska</PERSON>, PESEL <PESEL>87031245678</PESEL>. <TEST>Mammografia</TEST> b/z zmian złośliwych. Glandula densa. Zalecono powtórzenie za 12 miesięcy. Lekarz: <PERSON>dr Piotr Kowalczyk</PERSON>, <HOSPITAL>Centrum Diagnostyki Wrocław</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Konsultacja ginekologiczna, <DATE>07.06.2024</DATE>. Pacjentka <PERSON>Barbara Michalska</PERSON>, PESEL <PESEL>91020156789</PESEL>, zam. <ADDRESS>ul. Jeżyn 5/12, 31-999 Kraków</ADDRESS>, tel. <PHONE>604 111 222</PHONE>. Skargi: nieregularne miesiączki. W <TEST>USG przezpochwowym</TEST> <DISEASE>polycystia jajników</DISEASE>. Diagnostyka <DISEASE>PCOS</DISEASE>. Zalecono <DRUG>metformina</DRUG> 1000 mg/dzień + dieta.
+
+<<<SAMPLE>>>
+
+Notatka anestezjologiczna, <DATE>18.05.2024</DATE>. Pacjentka <PERSON>Danuta Tomczyk</PERSON>, PESEL <PESEL>85010234567</PESEL>. Zabieg: <TEST>histeroskopia diagnostyczna</TEST>. Premedicacja: <DRUG>midazolam</DRUG> 3 mg iv. Anestezja: sevofluran. Pacjentka bez powikłań. Wybudzona bez komplikacji.
+
+<<<SAMPLE>>>
+
+Pismo zdawcze z SOR, <DATE>02.06.2024</DATE>. Pacjentka <PERSON>Grażyna Pietrzak</PERSON>, PESEL <PESEL>88041367890</PESEL>, zam. <ADDRESS>Gdańsk, Oliwa, ul. Morska 33</ADDRESS>. Zgłosiła się z <DISEASE>bólem miednicy mniejszej</DISEASE> i zasinieniami. Podejrzenie <DISEASE>krwiaków ligamentów szerokich</DISEASE>. <TEST>USG</TEST> potwierdziło. Obserwacja, zalecono ślusowe opatrywanie.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>amniocentezy</TEST>, <DATE>24.04.2024</DATE>. Pacjentka <PERSON>Sylwia Nowak</PERSON>, PESEL <PESEL>94011234567</PESEL>, wiek 30 lat, zam. <ADDRESS>ul. Akademicka 12, 80-001 Gdańsk</ADDRESS>. Wskazanie: wiek matki >35 lat. Badanie chromosomów: 46,XX. Wynik prawidłowy. <DRUG>Antybiotyk profilaktyczny</DRUG> 0 — pacjentka nie wymagała.
+
+<<<SAMPLE>>>
+
+Notatka z porodówki, <DATE>19.03.2024</DATE>. Pacjentka <PERSON>Urszula Zając</PERSON>, PESEL <PESEL>89030445678</PESEL>. Rodzajość I. Poród indukowany <DRUG>oksytocyną</DRUG>. Czas I okresu 8 godzin, II okresu 15 minut. <DISEASE>Przedłużenie porodu</DISEASE> rozwiązane. Dziecko żywe, Apgar 8/9. Leczenie: <DRUG>ergotamina</DRUG> 0.2 mg im.
+
+<<<SAMPLE>>>
+
+Konsultacja dermatologiczna pacjentki ciężarnej, <DATE>06.06.2024</DATE>. Pacjentka <PERSON>Małgorzata Lewandowska</PERSON>, PESEL <PESEL>92050134567</PESEL>. Ciąża w III trymestrze. <DISEASE>Pruritus gravidarum</DISEASE>. <TEST>Badanie dermatologiczne</TEST> b/z zmian złośliwych. Zalecono <DRUG>krem Acard</DRUG> na skórę, <DRUG>antihistaminowe</DRUG> oralne w razie potrzeby.
+
+<<<SAMPLE>>>
+
+Notatka położnika, <DATE>31.05.2024</DATE>. Pacjentka <PERSON>Joanna Krawczyk</PERSON>, PESEL <PESEL>93021256789</PESEL>, zam. <ADDRESS>Wrocław, Fabryczna, ul. Racławicka 45/8</ADDRESS>. Wizyta pierwsza — ciąża spontaniczna w II trymestrze. <TEST>Odsłuch HR płodu</TEST> 145 uderzeń/min, regularny. Zalecono <DRUG>witaminy prenatalne</DRUG> + <DRUG>sód fluorku</DRUG>.
+
+<<<SAMPLE>>>
+
+Epikryza ginekologiczna, <DATE>13.04.2024</DATE>. Pacjentka <PERSON>Renata Szpak</PERSON>, PESEL <PESEL>90010567890</PESEL>. Hospitalizowana z powodu <DISEASE>przedwczesnego poronienia</DISEASE> w 13 tygodniu. Przeprowadzono <TEST>curettage</TEST> pod anestezją. <DRUG>Antibiotyk Amoxycilin</DRUG> 500 mg × 3. Pacjentka wypisana w stanie dobrym, zalecone <DRUG>kwas foliowy</DRUG> przez 3 miesiące.
+
+<<<SAMPLE>>>
+
+Raport laboratoryjny, <DATE>27.05.2024</DATE>. Pacjentka <PERSON>Arleta Piotrowski</PERSON>, PESEL <PESEL>91030678901</PESEL>. Badania z 27.05: <TEST>HCG</TEST> 125000 mIU/ml (ciąża), <TEST>hemoglobina</TEST> 11.2 g/dl (niedokrwistość), <TEST>ferytyna</TEST> 15 ng/ml. Zalecono suplementację <DRUG>żelazem</DRUG> 325 mg elemental/dzień.
+
+<<<SAMPLE>>>
+
+Notatka z wizyt antenatalnych, <DATE>05.06.2024</DATE>. Pacjentka <PERSON>Beata Ostrowski</PERSON>, PESEL <PESEL>88040789012</PESEL>, zam. <ADDRESS>ul. Chopina 18, 93-001 Łódź</ADDRESS>. Ciąża w III trymestrze, 35 tygodni. <TEST>RR</TEST> 135/85 mmHg. <TEST>Białko w moczu</TEST> ujemne. <DISEASE>Lekki obrzęk nóg</DISEASE>. Zalecono podniesienie nóg, <DRUG>antyhipertensyjne</DRUG> p.o.
+
+<<<SAMPLE>>>
+
+Opis biopsji szyjki macicy, <DATE>16.05.2024</DATE>. Pacjentka <PERSON>Celina Zalewska</PERSON>, PESEL <PESEL>89010890123</PESEL>. Materiał z szyjki macicy. Wynik: <DISEASE>zapalenie przewlekłe</DISEASE>, <DISEASE>metaplazja ciliarna</DISEASE>. Brak zmian złośliwych. Leczenie: <DRUG>tlenek argonu kriochirurgicznie</DRUG> — 1 zabieg.
+
+<<<SAMPLE>>>
+
+E-recepta anestezjologa, <DATE>21.05.2024</DATE>. Pacjentka <PERSON>Danuta Rogowska</PERSON>, PESEL <PESEL>87040901234</PESEL>, zam. <ADDRESS>Gdańsk, ul. Słowackiego 72, 80-001</ADDRESS>, tel. <PHONE>729 345 678</PHONE>. Przygotowanie do <TEST>cesarskiego cięcia</TEST> — wywiad przedoperacyjny. Wydano: <DRUG>morfina</DRUG> 10 mg im 30 min przed zabiegiem.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału ginekologii onkologicznej, <DATE>08.05.2024</DATE>. Pacjentka <PERSON>Edyta Novak</PERSON>, PESEL <PESEL>92020234567</PESEL>. Diagnostyka <DISEASE>raka endometrium</DISEASE>, etap IB. Planowana <TEST>hysterektomia</TEST> z <TEST>salp-oforektomią</TEST>. Przedoperacyjnie: <DRUG>aspiryna</DRUG> 75 mg, <DRUG>metformin</DRUG> 500 mg × 2.
+
+<<<SAMPLE>>>
+
+Pismo z pracowni USG położniczego, <DATE>04.06.2024</DATE>. Pacjentka <PERSON>Fiona Kędzierska</PERSON>, PESEL <PESEL>93031012345</PESEL>, zam. <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. <TEST>USG morfologiczne</TEST> ciąży w II trymestrze. <DISEASE>Asymetryczne ograniczenie wzrostu płodu</DISEASE> — parametry 10-15 percentyl. Zalecono zwiększoną obserwację.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>CTG</TEST>, <DATE>01.06.2024</DATE>. Pacjentka <PERSON>Grażyna Adamczyk</PERSON>, PESEL <PESEL>90051234567</PESEL>. Zapis: basalna część śl. 140-150 uderzeń/min. Zmienność > 5 uderzeń/min. Przyspieszenia obecne. Ocena: eutocja. Pacjentka pozostaje w domu — zalecono kontrolę za 5 dni.
+
+<<<SAMPLE>>>
+
+Konsultacja urologa w ciąży, <DATE>07.06.2024</DATE>. Pacjentka <PERSON>Halina Majewska</PERSON>, PESEL <PESEL>88020345678</PESEL>, 20 tygodni ciąży. Objaw: dysurie. <TEST>Urinaliza</TEST>: leucocyturia, <DISEASE>zapalenie dróg moczowych</DISEASE>. Brak gorączki. Leczenie: <DRUG>cephalexin</DRUG> 500 mg × 4 bezpiecze w ciąży.
+
+<<<SAMPLE>>>
+
+Notatka z porodów patologicznych, <DATE>14.04.2024</DATE>. Pacjentka <PERSON>Irena Urbańska</PERSON>, PESEL <PESEL>87030456789</PESEL>. <DISEASE>Zaścieśnienie miednicy</DISEASE> anatomiczne. <TEST>Indukcja porodu</TEST> po 6 godzinach przerwana — przesądził <DISEASE>bezrobocie ucisku macicy</DISEASE>. <TEST>Cesarskie cięcie</TEST> nagłe. Dziecko Apgar 7/9. Matka: strategie ochrony — <DRUG>penicylina</DRUG> profilaktycznie.
+
+<<<SAMPLE>>>
+
+Raport pooperacyjny, <DATE>22.04.2024</DATE>. Pacjentka <PERSON>Joanna Michalewicz</PERSON>, PESEL <PESEL>91040567890</PESEL>, zam. <ADDRESS>ul. Tuwima 33/4, 40-001 Katowice</ADDRESS>. <TEST>Hysterektomia pochwowa</TEST> z powodu <DISEASE>zapalenia macicy przewlekłego</DISEASE>. Długość zabiegu 45 minut. <DISEASE>Krwawy pęk vasa</DISEASE> — przeszywane. Pacjentka przebywała godz 16-20 na obserwacji.
+
+<<<SAMPLE>>>
+
+Notatka pediatry noworodka, <DATE>12.05.2024</DATE>. Noworodek <PERSON>Jakub Kowalski</PERSON>, matka <PERSON>Katarzyna Kowalska</PERSON>, PESEL matki <PESEL>92010234567</PESEL>. Urodzony naturalnie, <TEST>Apgar 9/10</TEST>. <DISEASE>Żółtaczka fizjologiczna</DISEASE> — <TEST>bilirubina</TEST> 14 mg/dl. <DRUG>Fototerapia</DRUG> 48 godzin. Wypisany w dobrym stanie.
+
+<<<SAMPLE>>>
+
+Pismo z pracowni zaburzeń płodności, <DATE>30.05.2024</DATE>. Pacjentka <PERSON>Katarzyna Lipińska</PERSON>, PESEL <PESEL>89050678901</PESEL>, zam. <ADDRESS>Kraków, Podgórze, ul. Smyka 12</ADDRESS>, tel. <PHONE>606 987 654</PHONE>. Diagnostyka: <DISEASE>bezpłodność parterowa</DISEASE> 3 lata. Spermiogram męża <DISEASE>oligoastenozoospermia</DISEASE>. Plan: <TEST>in vitro fertilization</TEST> w czerwcu.
+
+<<<SAMPLE>>>
+
+Notatka z wizyty przedporodowej, <DATE>03.06.2024</DATE>. Pacjentka <PERSON>Lucyna Wasilewska</PERSON>, PESEL <PESEL>90030789012</PESEL>. Ciąża 40+2 tygodnie. <TEST>Badanie per vaginam</TEST>: szyjka macicy rozmiękczona, 3 cm, przednia. <TEST>Wysokość cieśni płodu</TEST> -2. <DISEASE>Przedłużona ciąża</DISEASE>. Planowana indukcja za 24 godziny.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>kolposkopii</TEST>, <DATE>25.05.2024</DATE>. Pacjentka <PERSON>Marta Nawrocka</PERSON>, PESEL <PESEL>88021890123</PESEL>. Wskazanie: cytologia abnormalna (HSIL). Kolposkopia: <DISEASE>zmiany dyspeptyczne II-III</DISEASE> w strefie transformacji. Biopsja podjęta. Procedura bez komplikacji.
+
+<<<SAMPLE>>>
+
+Notatka z porodu operacyjnego (III. termin), <DATE>19.03.2024</DATE>. Pacjentka <PERSON>Natalia Zielińska</PERSON>, PESEL <PESEL>92031012345</PESEL>, zam. <ADDRESS>Poznań, Winogrady, ul. Armii Krajowej 89/7</ADDRESS>. III poród, III <TEST>cesarskie cięcie</TEST>. Czas operacji 52 minuty. <DISEASE>Przyrośnięcia osierdziowe</DISEASE>. Wyciąg dziecka trudny — asystent obecny. Pacjentka bez zdarzeń.
+
+<<<SAMPLE>>>
+
+Pismo z genetyki klinicznej, <DATE>02.06.2024</DATE>. Pacjentka <PERSON>Oliwia Popa</PERSON>, PESEL <PESEL>91050323456</PESEL>. Wskazanie: <DISEASE>podejrzenie zespołu Downa u płodu</DISEASE> (NIPT ryzyko, soft markers). <TEST>Amniocenteza</TEST> wykonana — wynik do 10 dni. Konsultacja genetyka przeprowadzona.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>ekokardiografii płodu</TEST>, <DATE>24.05.2024</DATE>. Pacjentka <PERSON>Patrycja Michalak</PERSON>, PESEL <PESEL>89061234567</PESEL>, 26 tygodni ciąży. <DISEASE>Zaostrzenie wady serca płodu</DISEASE> — dużego otworu przegrody międzykomorowej. Plan: poród w ośrodku referencyjnym.
+
+<<<SAMPLE>>>
+
+Notatka z wizyt poporodowych, <DATE>07.06.2024</DATE>. Pacjentka <PERSON>Renata Górska</PERSON>, PESEL <PESEL>90010234567</PESEL>. Wizyta 3. dnia po porodzie. Stan ogólny dobry, gorączka <DISEASE>przejściowa</DISEASE> 38.2°C (pierwsze 48 h post-partum). <TEST>Hemoglobina</TEST> 10.8 g/dl. Zalecono <DRUG>sól żelaza</DRUG> + <DRUG>kwas foliowy</DRUG> przez miesiąc.
+
+<<<SAMPLE>>>
+
+Pismo z pracowni mammografii/ultrasonografii, <DATE>29.05.2024</DATE>. Pacjentka <PERSON>Sabina Adamska</PERSON>, PESEL <PESEL>87021345678</PESEL>, zam. <ADDRESS>Wrocław, Fabryczna 45, 53-001</ADDRESS>, tel. <PHONE>717 654 321</PHONE>. <DISEASE>Mastodynia</DISEASE> w lewej piersi. <TEST>USG piersi</TEST>: <DISEASE>fibroadenoma</DISEASE> 8 mm b/z zmian złośliwych. Obserw. — powtórzenie za 6 miesięcy.
+
+<<<SAMPLE>>>
+
+E-recepta z diagnostyki prenatalne, <DATE>31.05.2024</DATE>. Pacjentka <PERSON>Teodozja Nowińska</PERSON>, PESEL <PESEL>92040456789</PESEL>. Ciąża 12 tygodni. Zamówienie: <TEST>ścieninę krotek затylkowych (nuchal fold)</TEST> + <TEST>test nieinwazyjny (NIPT)</TEST>. Badania na <DATE>07.06.2024</DATE> o godz. 10:00.
+
+<<<SAMPLE>>>
+
+Notatka anestezjologa przed <TEST>aborcją uregulowaną</TEST>, <DATE>06.06.2024</DATE>. Pacjentka <PERSON>Urszula Stefanowska</PERSON>, PESEL <PESEL>91050567890</PESEL>. Ciąża 10 tygodni. Procedura wykonywana: <TEST>udrażnianie próżniowe</TEST> pod anestezją. Premedykacja: <DRUG>midazolam</DRUG> 2 mg iv. Postoperacyjnie: obserwacja 2 godzin.
+
+<<<SAMPLE>>>
+
+Raport wypisowy z ginekologią — pobytu 8 dni, <DATE>08.06.2024</DATE>. Pacjentka <PERSON>Wanda Kostrzewa</PERSON>, PESEL <PESEL>88030678901</PESEL>, zam. <ADDRESS>ul. Polskiego Filar 67/2, 31-001 Kraków</ADDRESS>. Hospitalizowana z powodu <DISEASE>przedwczesnego pęknięcia pęcherzyków owodniowych</DISEASE> w 33 tygodniu. Obserwacja, <DRUG>kortykosteroidy</DRUG> podane. Wypisana — zalecono obserwację domową.
+
+<<<SAMPLE>>>
+

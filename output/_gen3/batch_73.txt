@@ -1,0 +1,91 @@
+Notatka SOR, <DATE>17.05.2024</DATE>. <PERSON>Maria Kowalska</PERSON>, PESEL <PESEL>76041523456</PESEL>, <ADDRESS>ul. Moniuszki 12/3, 31-000 Kraków</ADDRESS>, tel. <PHONE>503 456 789</PHONE>. Chora na zawroty głowy od rana. W <TEST>EKG</TEST> normogram. <TEST>Morfologia</TEST> w normie. Rozpoznano <DISEASE>zawroty głowy typu périphérique</DISEASE>. Zalecone ćwiczenia Brandt-Daroff'a.
+
+<<<SAMPLE>>>
+Konsultacja neurologiczna, <DATE>22.04.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>82101234567</PESEL>, zam. <ADDRESS>Poznań, Świętojańska 45/8, 60-001</ADDRESS>. Dyzurnant <PERSON>Dr Krzysztof Nowak</PERSON> opisuje: paresthesiae w obydwu stopach od 3 mcy. <TEST>EMG</TEST> sugeruje <DISEASE>polineuropatię czuciową</DISEASE>. Podejrzenie <DISEASE>cukrzycowego uszkodzenia nerwów</DISEASE>. Wysłano na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL> do poradni endokrynologicznej.
+
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>08.06.2024</DATE>. <PERSON>Anna Zielinska</PERSON>, PESEL <PESEL>91082145678</PESEL>, <ADDRESS>ul. Topolowa 18/2, 02-700 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>migrena z aurą</DISEASE>. Zlecenia: <DRUG>Sumatryptan</DRUG> 50 mg (2x przy ataku), <DRUG>Amitryztylinę</DRUG> p.o. 25 mg 1x wieczorem. Kontrola za 2 mce.
+
+<<<SAMPLE>>>
+Notatka z oddziału neuro, <DATE>03.03.2024</DATE>. Pacjent <PERSON>Tomasz Michalski</PERSON>, PESEL <PESEL>75051123789</PESEL>, <ADDRESS>Wrocław, Nowy Świat 7, 50-039</ADDRESS>, tel. <PHONE>601 789 123</PHONE>. Przebył <DISEASE>udar niedokrwienny</DISEASE> 4 dni temu. W <TEST>MRI mózgu</TEST> ognisko w terytoriach zasilanych przez <DISEASE>a. cerebri media</DISEASE>. NIHSS 8 pkt. Zalecono <DRUG>aspirynę</DRUG> 75 mg, <DRUG>atorwastatynę</DRUG> 40 mg. Planowe wypisanie jutro.
+
+<<<SAMPLE>>>
+Opis zabiegu neurochiruigi, <DATE>12.02.2024</DATE>. Pacjentka <PERSON>Elżbieta Wąska</PERSON>, PESEL <PESEL>60021845321</PESEL>. Diagnoza przed: <DISEASE>przepuklina międzykręgowa L4-L5</DISEASE> ze stenosą kanału. Wykonano <TEST>dyskektomię na poziomie L4-L5</TEST>. Przebieg bez powikłań. Patolog: tkanki bez zmian złośliwych. Pacjentka w dobrej kondycji po operacji.
+
+<<<SAMPLE>>>
+Wpis z SOR, <DATE>19.01.2024</DATE>. <PERSON>Jarosław Zajac</PERSON>, PESEL <PESEL>79112234567</PESEL>, <ADDRESS>ul. Krótka 5/1, 58-100 Wałbrzych</ADDRESS>. Przywieziony z podejrzeniem <DISEASE>udaru mózgu</DISEASE>. W <TEST>tomografii CT</TEST> brak cech krwotoku. <TEST>RT-PCR na krwi</TEST> — wirus <DISEASE>COVID-19</DISEASE> pozytywny (b/z czy związane). Przewieziony na <HOSPITAL>Szpital Wojewódzki nr 1</HOSPITAL> do dalszej diagnostyki.
+
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>25.05.2024</DATE>. Pacjent <PERSON>Robert Kucharski</PERSON>, PESEL <PESEL>88032345678</PESEL>, <ADDRESS>Gdańsk, Długa 22/9, 80-830</ADDRESS>, tel. <PHONE>508 234 567</PHONE>. Kontrola 3 mcy po diagnoza <DISEASE>stwardnienia rozsianego</DISEASE>. <TEST>Rezonans mózgu i rdzenia</TEST> porównawczy — stabilny. Toleruje <DRUG>interferon beta-1a</DRUG> i.m. bez efektów ubocznych. Kontynuować obecne leczenie. Wizyta za 3 mce.
+
+<<<SAMPLE>>>
+Épikryza ze szpitala, <DATE>02.04.2024</DATE>. <PERSON>Danuta Jaskowska</PERSON>, PESEL <PESEL>55042234892</PESEL>, zam. <ADDRESS>Poznań, Ratajczaka 8/4, 60-242</ADDRESS>. Hospitalizowana z powodu <DISEASE>encephalitis wirusowej</DISEASE> — 8 dni pobytu. W <TEST>płynie mózgowo-rdzeniowym</TEST> znajduje pleocytozę limfocytarną. <TEST>PCR na HSV-1</TEST> dodatni. Leczenie <DRUG>acyklowir</DRUG> i.v. — dobrze tolerowany. Wypisana w istotnie lepszym stanie neurologicznym.
+
+<<<SAMPLE>>>
+Notatka z poradni geriatrycznej, <DATE>11.03.2024</DATE>. <PERSON>Stanisław Lewandowski</PERSON>, PESEL <PESEL>38051512345</PESEL>, <ADDRESS>ul. Słonimskiego 14/2, 31-954 Kraków</ADDRESS>, tel. <PHONE>602 345 678</PHONE>. Pacjent 85 lat, problemy z <DISEASE>parkinszyzmem</DISEASE>. Test Timmermansa — 18 sek. <TEST>EEG</TEST> bez ognisk patologicznych. Rodzina zgłasza zaburzenia <DISEASE>kognitywne</DISEASE> — MMSE 22/30. Zalecono <DRUG>levodopę</DRUG> zwiększyć o 50 mg 2x dziennie.
+
+<<<SAMPLE>>>
+Opis <TEST>tomografii CT mózgu</TEST>, <DATE>07.06.2024</DATE>. Pacjent: <PERSON>Ryszard Górski</PERSON>, PESEL <PESEL>71061234567</PESEL>. Badanie w związku z omdleniami powtarzającymi się. W <DISEASE>guz</DISEASE> wielkości ~2 cm w okolicy <DISEASE>trzeciej komory</DISEASE>. Podejrzenie <DISEASE>glejaka</DISEASE>. Pacjent przesłany na <HOSPITAL>Szpital Kliniczny Uniwersytetu Medycznego</HOSPITAL> do neuroneurochirurgii.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>29.05.2024</DATE>. <PERSON>Joanna Niezbędna</PERSON>, PESEL <PESEL>92041623456</PESEL>, <ADDRESS>ul. Mostowa 3/7, 00-106 Warszawa</ADDRESS>. Upadła w domu, uderzenie w głowę. W <TEST>CT głowy</TEST> <DISEASE>otarcie skóry</DISEASE> z obrzękiem. Bez <DISEASE>krwotoku wewnątrzczaszkowego</DISEASE>. Obserwacja 4 h — bez pogorszenia. Wypisana z wypisem do domu.
+
+<<<SAMPLE>>>
+Konsultacja neurologa dziecięcego, <DATE>18.02.2024</DATE>. <PERSON>Natalia Kowalczyk</PERSON>, wiek 7 lat, PESEL <PESEL>17061234012</PESEL>, <ADDRESS>Łódź, Piotrkowska 120/12, 90-001</ADDRESS>, tel. <PERSON>matka Katarzyna</PERSON> <PHONE>505 123 456</PHONE>. Dziecko ma napady <DISEASE>padaczki</DISEASE> od 6 m-cy. <TEST>EEG</TEST> ujawnia <DISEASE>ogniska rozbiegowe w obu półkulach</DISEASE>. Wdrożono <DRUG>lewetyracetam</DRUG> 250 mg 2x dziennie. Planowane badanie <TEST>MRI</TEST>.
+
+<<<SAMPLE>>>
+Notatka rehabilitacyjna, <DATE>23.04.2024</DATE>. Pacjent <PERSON>Witold Szymczak</PERSON>, PESEL <PESEL>68032112345</PESEL>, <ADDRESS>ul. Słoneczna 45/8, 40-060 Katowice</ADDRESS>. Rekonwalescencja po <DISEASE>udarze półkulowym lewym</DISEASE> z miesiąc temu. Pareza prawa, afazja expresywna. Rozpoczęto <TEST>terapię logopedyczną</TEST> i <TEST>fizykoterapię</TEST>. Poprawy funkcji ruchowej w ruchach głównych. Plan: tygodniowe sesje.
+
+<<<SAMPLE>>>
+Wpis ambulatoryjny, <DATE>06.05.2024</DATE>. <PERSON>Barbara Nowak</PERSON>, PESEL <PESEL>79051645678</PESEL>, zam. <ADDRESS>Szczecin, Wielkopolska 33/5, 70-001</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Kontrola <DISEASE>neuropatii dystalnej</DISEASE>. <TEST>VAS dla bólu</TEST> 6/10. <DRUG>Pregabalinę</DRUG> zwiększyć do 300 mg na dobę. Zalecono ortozy na stopy.
+
+<<<SAMPLE>>>
+Opis zabiegu kateteru mózgu, <DATE>31.03.2024</DATE>. Pacjent <PERSON>Arkadiusz Majewski</PERSON>, PESEL <PESEL>72082223456</PESEL>. W związku z <DISEASE>hidrocefalią</DISEASE> wykonano <TEST>drenaż komorowy zewnętrzny</TEST>. Procedura bez powikłań. Przepływność drenu prawidłowa. <TEST>Płyn mózgowo-rdzeniowy</TEST> limpidny bez cech zapalenia.
+
+<<<SAMPLE>>>
+Notatka z poradni bólu, <DATE>14.01.2024</DATE>. <PERSON>Ewa Domańska</PERSON>, PESEL <PESEL>66050412345</PESEL>, <ADDRESS>ul. Nowa 99/1, 31-123 Kraków</ADDRESS>. Przewlekły ból neuropatyczny w distribucji <DISEASE>trigeminalgia</DISEASE> — L, trwająca 2 lata. <TEST>MRI mózgu</TEST> wykazała <DISEASE>mikro-uciśnięcie a. cerebelli superior</DISEASE>. Zalecono <DRUG>karbamazepinę</DRUG> 200 mg 3x dziennie.
+
+<<<SAMPLE>>>
+Wpis szpitalny z neurologii, <DATE>10.06.2024</DATE>. Pacjent <PERSON>Jan Lewandowski</PERSON>, PESEL <PESEL>85061523456</PESEL>, <ADDRESS>Wrocław, ul. Fryderyka 18/4, 50-123</ADDRESS>, tel. <PHONE>601 456 789</PHONE>. Hospitalizowany z <DISEASE>myastenią gravis</DISEASE> — zaostrzenie. <TEST>Testy neuroelektryczne</TEST> potwierdzają blokadę połączenia nerwowo-mięśniowego. Wdrożono <DRUG>azatioprynę</DRUG> 50 mg 2x dziennie i <DRUG>prednizolonę</DRUG> 30 mg rankiem.
+
+<<<SAMPLE>>>
+Notatka pogotowia ratunkowego, <DATE>27.02.2024</DATE>. <PERSON>Tadeusz Pietrzak</PERSON>, PESEL <PESEL>54011234123</PESEL>, <ADDRESS>Gdańsk, Bytowska 77/2, 80-952</ADDRESS>. Pacjent znaleziony nieprzytomny. W ambulansie dokanałowany; RR 95/60, HR 102. <TEST>Morfologia</TEST> na miejscu — leukocy­toza. Podejrzenie <DISEASE>sepsy mózgowej</DISEASE>. Przetransportowany na <HOSPITAL>Szpital Uniwersytetu Medycznego w Gdańsku</HOSPITAL>.
+
+<<<SAMPLE>>>
+Opis <TEST>rezonansu jądrowego rdzenia kręgowego</TEST>, <DATE>04.03.2024</DATE>. Pacjentka <PERSON>Magdalena Kubala</PERSON>, PESEL <PESEL>81031523678</PESEL>. Badanie w kontek­ście przewlekłego bólu szyi. Widoczne <DISEASE>zmiany zwyrodnieniowe na poziomach C4-C5 i C5-C6</DISEASE> ze zwężeniem kanału. Bez <DISEASE>mielopatii</DISEASE>. Zalecona obserwacja i ewentualna konsultacja neurochirurga.
+
+<<<SAMPLE>>>
+Notatka neurologa szpitalnego, <DATE>16.04.2024</DATE>. <PERSON>Henryk Szpaderski</PERSON>, PESEL <PESEL>69101234567</PESEL>, <ADDRESS>Warszawa, Marszałkowska 55/9, 00-645</ADDRESS>, tel. <PHONE>507 234 567</PHONE>. Pacjent po 2 mce od <DISEASE>zapalenia nerwu twarzowego</DISEASE> — Bell's palsy lewo. <TEST>EMG obwodowe</TEST> ujawnia <DISEASE>denerwację mięśni innerwowanych gałęzią dolną</DISEASE>. Kontynuowanie <DRUG>prednizolonu</DRUG> 50 mg malejąco. Ćwiczenia twarzy.
+
+<<<SAMPLE>>>
+Wpis poradni zaburzeń snu, <DATE>23.01.2024</DATE>. <PERSON>Krystyna Olejnik</PERSON>, PESEL <PESEL>60040523456</PESEL>, zam. <ADDRESS>ul. Gdańska 42/5, 85-009 Bydgoszcz</ADDRESS>. Pacjentka zgłasza bezdech senny, drażliwość. <TEST>Badanie polisymnograficzne</TEST> wykonane — AHI = 35/godz. Diagnoza: <DISEASE>obturacyjny bezdech senny średniociężki</DISEASE>. Zalecono CPAP.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>08.05.2024</DATE>. <PERSON>Marian Nowaczyk</PERSON>, PESEL <PESEL>73022234567</PESEL>, <ADDRESS>Kraków, Wielopole 17/1, 31-072</ADDRESS>. Nagły ból głowy — "jak uderzenie pięścią". W <TEST>CT bez kontrastu</TEST> brak <DISEASE>krwotoku podpajęczynówkowego</DISEASE>. <TEST>Punktacja lędźwiowa</TEST> wykonana — płyn jasnożółty. Podejrzenie <DISEASE>zapalenia opon mózgowych</DISEASE>. Przebiegiem <HOSPITAL>na SOR dla dalszych badań</HOSPITAL>.
+
+<<<SAMPLE>>>
+Konsultacja neurologa pocovidowego, <DATE>19.06.2024</DATE>. <PERSON>Sylwia Janus</PERSON>, PESEL <PESEL>94082312345</PESEL>, <ADDRESS>Poznań, Umultowska 85, 61-614</ADDRESS>, tel. <PHONE>600 789 123</PHONE>. 2 mce po <DISEASE>COVID-19</DISEASE> ciężkim — utrzymujące się <DISEASE>zmęczenie neurologiczne</DISEASE> i <DISEASE>zaburzenia kognitywne</DISEASE> ("brain fog"). <TEST>MRI mózgu</TEST> bez zmian. Zalecono <DRUG>L-karnitynę</DRUG> suplementacyjnie i physiotherapy.
+
+<<<SAMPLE>>>
+Notatka szpitalnego neurochirurga, <DATE>12.03.2024</DATE>. <PERSON>Zbigniew Kołodziej</PERSON>, PESEL <PESEL>76011212345</PESEL>, <ADDRESS>ul. Warszawska 120/8, 02-524 Warszawa</ADDRESS>. Hospitalizowany z <DISEASE>tętniakiem mózgu</DISEASE> pękniętym w a. komunikującej przedniej. Wykonano <TEST>kliperowanie tętniaków</TEST> pod <TEST>mikroskopem neurochirurgicznym</TEST>. Zabieg powiódł się bez powikłań. Pacjent w izbie intensywnej do monitoringu.
+
+<<<SAMPLE>>>
+Wpis poradni stwardnienia rozsianego, <DATE>01.04.2024</DATE>. <PERSON>Izabela Krawczyk</PERSON>, PESEL <PESEL>88051834567</PESEL>, zam. <ADDRESS>Wrocław, Nowy Świat 115/3, 50-039</ADDRESS>, tel. <PHONE>503 567 890</PHONE>. Pacjentka w 3. roku <DISEASE>stwardnienia rozsianego — typ nawrotowo-remisyjny</DISEASE>. <TEST>Liczba ognisk w MRI mózgu</TEST> wzrosła z 8 do 11. Zmieniono terapię na <DRUG>natalizumab</DRUG> i.v. Pacjentka wyraża zgodę.
+
+<<<SAMPLE>>>
+Notatka neurologiczna pocovidowa, <DATE>22.02.2024</DATE>. <PERSON>Paweł Gawron</PERSON>, PESEL <PESEL>81021512345</PESEL>, <ADDRESS>Katowice, Plebiscytowa 12/6, 40-033</ADDRESS>. U pacjenta 6 tygodni po <DISEASE>COVID-19</DISEASE> — utrzymujące się <DISEASE>parestezje w kończynach dolnych</DISEASE>. <TEST>EMG</TEST> pokazuje <DISEASE>demielinizacyjne zaburzenia przewodzenia</DISEASE>. Podejrzenie <DISEASE>syndromu Guillaina-Barrégo</DISEASE> odroczonym. Wdrażana immunoglobulina i.v.
+
+<<<SAMPLE>>>
+Opis zabiegu <TEST>elektrokauteryzacji fenestracji III komory mózgu</TEST>, <DATE>30.05.2024</DATE>. Pacjent <PERSON>Dionizy Ostrowski</PERSON>, PESEL <PESEL>72052145678</PESEL>. Endoskopia wykazała <DISEASE>hydrocefalię obstrukcyjną</DISEASE> z poszerzeniem komorami bocznych. Zabiegi bez powikłań. Przepływność CSF przywrócona. Kontrolne <TEST>CT</TEST> za 48 godzin.
+
+<<<SAMPLE>>>
+Wpis ambulatoryjny z neuropsychologii, <DATE>24.01.2024</DATE>. <PERSON>Bogdan Pawlak</PERSON>, PESEL <PESEL>54010934567</PESEL>, <ADDRESS>Gdańsk, Elbląska 14/2, 80-286</ADDRESS>, tel. <PHONE>606 234 567</PHONE>. Pacjent 69 lat z podejrzeniem <DISEASE>otępienia czołowo-skroniowego</DISEASE>. <TEST>Test błędów neuronalnych</TEST> ujawnia zaburzenia <DISEASE>funkcji wykonawczych</DISEASE> i <DISEASE>kontroli impulsów</DISEASE>. <TEST>MRI</TEST> wykazuje atrofię czołową. Kierowanie na dalszą diagnostykę genetyczną.
+
+<<<SAMPLE>>>
+Notatka ze stacji pogotowia, <DATE>09.04.2024</DATE>. <PERSON>Grażyna Nowak</PERSON>, PESEL <PESEL>57042234567</PESEL>, <ADDRESS>ul. Kopernika 7/3, 30-302 Kraków</ADDRESS>. Pacjentka w stanie zapalnym po <DISEASE>udaru mózgu prawego</DISEASE>. Transport helikopterem na <HOSPITAL>Szpital Uniwersytetu Jagiellońskiego</HOSPITAL>. <TEST>CTA mózgu</TEST> w drodze — możliwa trombektomia.
+
+<<<SAMPLE>>>
+Notatka neurologa z badania <TEST>EMG/ENG</TEST>, <DATE>17.06.2024</DATE>. <PERSON>Tadeusz Szulc</PERSON>, PESEL <PESEL>68061234567</PESEL>, <ADDRESS>Warszawa, Narmutowska 33/4, 02-699</ADDRESS>. Badanie w kontek­ście <DISEASE>słabości mięśni kończyn górnych</DISEASE>. <TEST>EMG</TEST> wykazuje <DISEASE>charakterystyczne dla ALS — podwyższone poziomy spontanicznej aktywności</DISEASE>. <TEST>ENG</TEST> normalna. Diagnoza: <DISEASE>stwardnienie zanikowe boczne</DISEASE>. Kierowanie na poradnię ALS.
+
+<<<SAMPLE>>>
+Opis <TEST>mammografii i ultrasonografii piersi</TEST>, <DATE>11.02.2024</DATE>. <PERSON>Urszula Krawczyk</PERSON>, PESEL <PESEL>65020634567</PESEL>, <ADDRESS>Poznań, Ratajczaka 45/8, 60-242</ADDRESS>. Badanie w kontek­ście tarcia neurogennego w klatce piersiowej — wyklucza <DISEASE>karcinomę piersi</DISEASE>. Odkryto <DISEASE>dysplazję piersi gęstą</DISEASE>. Zalecona biopsja igłowa jednego ogniska 15 mm w górnym kwad­rancie zewnętrznym. Wynik pending.

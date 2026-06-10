@@ -1,0 +1,139 @@
+Epikryza dermatologiczna, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>72051234567</PESEL>, zam. <ADDRESS>ul. Krakowska 12, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Przyjęta z rozpoznaniem <DISEASE>łuszczyca plackowata</DISEASE>. W <TEST>dermatoskopii</TEST> potwierdzono obraz typowy. Włączono <DRUG>metotreksat</DRUG> p.o., <DRUG>betametazon</DRUG> maść lokalnie. Stan po tygodniu leczenia poprawia się.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>03.06.2024</DATE>. <PERSON>Piotr Kowalski</PERSON>, PESEL <PESEL>81102045678</PESEL>, <ADDRESS>Warszawa, Mokotów, ul. Puławska 42/5</ADDRESS>. Zgłosił się z <DISEASE>pokrzywką</DISEASE> ostrą po przedmiotach metalowych. Wyniki <TEST>histaminy</TEST> podwyższone. Zastosowano <DRUG>cetyryzynę</DRUG> i.m., <DRUG>prednizon</DRUG> tabletki. Wysłano do <HOSPITAL>Szpitala Miejskiego na Solcu</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Recepta POZ z <DATE>10.04.2024</DATE> od lekarza <PERSON>Ewa Nowak</PERSON>. Pacjentka <PERSON>Anna Szymańska</PERSON>, PESEL <PESEL>85041567890</PESEL>, zam. <ADDRESS>Kraków, ul. Długa 77, 31-147</ADDRESS>. Diagnoza: <DISEASE>grzybica paznokci</DISEASE>. Zalecono <DRUG>terbinafynę</DRUG> 250 mg/dzień, <DRUG>ketokonazol</DRUG> żel myjący. Przesunięto wizytę na <DATE>24.04.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Opinii z <DATE>15.02.2024</DATE>. Pacjent <PERSON>Jacek Michalik</PERSON>, PESEL <PESEL>78122312345</PESEL>, <ADDRESS>Poznań, Nowe Miasto 88/3</ADDRESS>, tel. <PHONE>602 111 222</PHONE>. Po <TEST>biopsji skóry</TEST> z lewego przedramienia rozpoznano <DISEASE>bielactwo pospołite</DISEASE>. Włączono <DRUG>takrolimusem</DRUG> i <DRUG>klobetazolu propionatem</DRUG>. Zaplanowano fototerapię <TEST>UVB</TEST> wąskopasmowe.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z <DATE>27.03.2024</DATE>. <PERSON>Halina Nowak</PERSON>, PESEL <PESEL>52031456789</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 156/12</ADDRESS>. Obserwuje się <DISEASE>trądzik różowaty</DISEASE> stopnia II. W <TEST>dermoskopii</TEST> cechy typowe. Zalecono <DRUG>metronidazol</DRUG> żel, <DRUG>doksycyklinę</DRUG> 100 mg 2x dzień. Powrót za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Epikryza ze <DATE>05.01.2024</DATE>. <PERSON>Roman Majewski</PERSON>, PESEL <PESEL>69081534567</PESEL>, <ADDRESS>Wrocław, ul. Sępa 14, 50-088</ADDRESS>, tel. <PHONE>721 555 666</PHONE>. Rozpoznanie: <DISEASE>wyprysk atopowy</DISEASE> generalizowany. Przeprowadzono <TEST>patch-testem</TEST> — alergię na níquel. Zalecono <DRUG>metylprednizolon</DRUG> czopki, <DRUG>elidel</DRUG> emulsja. Stan skóry poprawia się stopniowo.
+
+<<<SAMPLE>>>
+
+Notatka z przyjęcia w dermatologii, <DATE>19.11.2023</DATE>. Pacjentka <PERSON>Zofia Adamska</PERSON>, PESEL <PESEL>74051245678</PESEL>, zam. <ADDRESS>Gdańsk, ul. Morska 9, 80-200</ADDRESS>. Skarży się na <DISEASE>trądzik pospolity</DISEASE> twarzy i pleców. <TEST>Sebumetria</TEST> wykazała seboreę. Włączono <DRUG>izotretinoinę</DRUG> 20 mg/dzień, monitoring wątroby co 4 tygodnie. Następna wizyta <DATE>03.12.2023</DATE>.
+
+<<<SAMPLE>>>
+
+Opisanie procedury laserowej z <DATE>08.07.2024</DATE>. <PERSON>Krzysztof Szpak</PERSON>, PESEL <PESEL>82121634567</PESEL>, <ADDRESS>Poznań, Jeżyce, ul. Fredry 23/4</ADDRESS>, tel. <PHONE>731 777 888</PHONE>. Przeprowadzono <TEST>laser CO2 frakcjonowany</TEST> na <DISEASE>blizny posładziowe</DISEASE> twarzy. Zastosowano <DRUG>anestezję topową lidokaing</DRUG>. Zalecono <DRUG>panthenol</DRUG> maść, ochronę UV. Wyniki spodziewane za 2 miesiące.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>29.04.2024</DATE>. <PERSON>Beata Wójcik</PERSON>, PESEL <PESEL>88032156789</PESEL>, <ADDRESS>Warszawa, Praga, ul. Targowa 17/2</ADDRESS>. Pacjentka przyjęta z <DISEASE>oparzeniem słonecznym</DISEASE> stopnia II. Zastosowano <DRUG>wetę do zimnych okładów</DRUG>, <DRUG>ibuprofen</DRUG> 600 mg, <DRUG>emolent</DRUG> bez perfum. Zalecono unikanie słońca przez 2 tygodnie. Wysłano do domu.
+
+<<<SAMPLE>>>
+
+Epikryza dermatologiczna z <DATE>16.08.2023</DATE>. <PERSON>Stanisław Kowalczyk</PERSON>, PESEL <PESEL>65101245678</PESEL>, zam. <ADDRESS>Kraków, ul. Ludwika 33, 31-500</ADDRESS>, tel. <PHONE>691 222 333</PHONE>. Rozpoznanie: <DISEASE>łuszczyca palmy-stopy</DISEASE> z <DISEASE>artralgia</DISEASE> kolan. <TEST>RTG stawów</TEST> bez zmian degeneracyjnych. Włączono <DRUG>acytretynę</DRUG> 25 mg/dzień i <DRUG>indometacynę</DRUG> 50 mg 2x dzień. Monitoring morfologia co 3 miesiące.
+
+<<<SAMPLE>>>
+
+Notatka z gabinetu POZ, <DATE>12.09.2024</DATE>. Pacjent <PERSON>Andrzej Lewandowski</PERSON>, PESEL <PESEL>71031234567</PESEL>, <ADDRESS>Gdynia, ul. Morska 45/3, 81-001</ADDRESS>. Obserwuje się <DISEASE>zapalenie skóry kontaktowe</DISEASE> rąk po detergentach. Zalecono <DRUG>triamcinolonu acetonidu</DRUG> krem 0.1%, gumowe rękawice, <DRUG>emolent</DRUG> szybko wchłaniający. Powrót za 10 dni.
+
+<<<SAMPLE>>>
+
+Opis wyników <TEST>dermoskopii</TEST> z <DATE>24.10.2023</DATE>. <PERSON>Olga Nowak</PERSON>, PESEL <PESEL>79051534567</PESEL>, zam. <ADDRESS>Wrocław, ul. Nowy Świat 56/8, 50-001</ADDRESS>, tel. <PHONE>603 444 555</PHONE>. Badanie znamiona na plecach — nieregularne brzegi, heterogenna pigmentacja. Wysłano do <HOSPITAL>Szpital Uniwersytecki we Wrocławiu</HOSPITAL> na <TEST>biopsję</TEST> diagnostyczną. Zalecono ochronę UV.
+
+<<<SAMPLE>>>
+
+Recepta z <DATE>07.11.2024</DATE>. Pacjentka <PERSON>Dorota Jakubowska</PERSON>, PESEL <PESEL>86041267890</PESEL>, <ADDRESS>Lublin, Czwartek, ul. Narutowicza 12/4</ADDRESS>. Diagnoza: <DISEASE>łupież pstry</DISEASE> na tułowiu. Zalecono <DRUG>ketokonazol</DRUG> szampon 2% co 3 dni, <DRUG>mikonazol</DRUG> krem rano i wieczorem. Unikać ciepłych pryszniców. Powrót za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z <DATE>18.12.2023</DATE>. <PERSON>Paweł Wojcik</PERSON>, PESEL <PESEL>81070145678</PESEL>, zam. <ADDRESS>Poznań, ul. Słoneczna 99/2, 61-123</ADDRESS>, tel. <PHONE>698 666 777</PHONE>. Pacjent z <DISEASE>trądzikiem różowatym</DISEASE> steroid-indukowanym po leczeniu dermatozy. Zalecono stopniowe zmniejszanie <DRUG>hydrokortyzolu</DRUG>, włączono <DRUG>azelainę</DRUG> żel 20% i <DRUG>tetrazyklinę</DRUG> 100 mg/dzień.
+
+<<<SAMPLE>>>
+
+Epikryza ze <DATE>02.06.2024</DATE>. <PERSON>Krystyna Sikora</PERSON>, PESEL <PESEL>67082334567</PESEL>, <ADDRESS>Kraków, Nowa Huta, ul. Karola 56, 31-800</ADDRESS>. Rozpoznanie: <DISEASE>pemfigoid pęcherzowy</DISEASE> uogólniony. <TEST>Badanie immunofluorescencyjne</TEST> potwierdziło przeciwciała anty-BP180. Włączono <DRUG>prednizolonę</DRUG> 1 mg/kg i <DRUG>azatioprynę</DRUG> jako oszczędzacz sterydów. Hospitalizacja <HOSPITAL>na Klinice Dermatologii AM</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>31.05.2024</DATE>. <PERSON>Michał Zieliński</PERSON>, PESEL <PESEL>83021534567</PESEL>, <ADDRESS>Gdańsk, ul. Długa 12, 80-001</ADDRESS>, tel. <PHONE>502 888 999</PHONE>. Zgłosił się z <DISEASE>nadwrażliwością na lateks</DISEASE> po zabiegu stomatologicznym. <TEST>Badanie in vitro</TEST> potwierdziło alergię IgE. Rozpisano rezerwę <DRUG>epinefryny</DRUG> auto-injector i <DRUG>hydroksyzyny</DRUG> 25 mg.
+
+<<<SAMPLE>>>
+
+Notatka z zabiegu laserowego, <DATE>14.04.2024</DATE>. <PERSON>Iwona Czaja</PERSON>, PESEL <PESEL>77041256789</PESEL>, zam. <ADDRESS>Warszawa, ul. Piękna 21/7, 00-540</ADDRESS>. Przeprowadzono <TEST>laser Nd:YAG</TEST> na <DISEASE>teleangiektazje</DISEASE> nosa. Zastosowano <DRUG>lidokainę</DRUG> topową. Zalecono chłodzenie pakietami lodu, <DRUG>Bepanten</DRUG> maść, unikanie słońca przez 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Opinii ze <DATE>21.03.2024</DATE>. Pacjent <PERSON>Tadeusz Grabowski</PERSON>, PESEL <PESEL>58112012345</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 88/5, 90-001</ADDRESS>, tel. <PHONE>609 111 222</PHONE>. Historia: <DISEASE>impetigo</DISEASE> karku u dziecka, <DISEASE>zapalenie</DISEASE> węzłów chłonnych szyjnych. <TEST>Wymaz bakteriologiczny</DISEASE> wykazał Staphylococcus aureus. Zaordynowano <DRUG>amoksycylinę</DRUG> + <DRUG>klawulanową</DRUG> 875/125 mg 3x dzień.
+
+<<<SAMPLE>>>
+
+Notatka POZ z <DATE>26.01.2024</DATE>. <PERSON>Małgorzata Sadowska</PERSON>, PESEL <PESEL>72050834567</PESEL>, <ADDRESS>Poznań, ul. Stary Rynek 7, 61-001</ADDRESS>. Obserwuje się <DISEASE>łysienie plackowate</DISEASE> skóry głowy. <TEST>Dermoskopia</TEST> wykazała "żółte kropki". Włączono <DRUG>minoksydyl</DRUG> 5% i <DRUG>betametazon</DRUG> lotion lokalnie. Zalecono <DRUG>witaminę B12</DRUG> i/m co 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Epikryza dermatologiczna z <DATE>09.02.2024</DATE>. <PERSON>Łukasz Nowak</PERSON>, PESEL <PESEL>81010134567</PESEL>, zam. <ADDRESS>Wrocław, ul. Słoneczna 33/10, 50-001</ADDRESS>, tel. <PHONE>695 333 444</PHONE>. Postawienie diagnozy: <DISEASE>neurodermit ograniczony</DISEASE> przedramienia. <TEST>Patch-test</TEST> ujemny. Włączono <DRUG>trialkinonę</DRUG> 0.1% krem, <DRUG>gabapentynę</DRUG> 300 mg/dzień na świąd. Zalecono unikanie paski/szorstkich tkanin.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>17.07.2024</DATE>. <PERSON>Renata Kwiato</PERSON>, PESEL <PESEL>84031934567</PESEL>, <ADDRESS>Gdańsk, Wrzeszcz, ul. Marcinkowskiego 5/2</ADDRESS>. Pacjentka przyjęta z <DISEASE>pokrzywką kontaktową</DISEASE> w wyniku ekspozycji na orselinę. <TEST>Prick test</TEST> dodatni na kolorantes. Zastosowano <DRUG>klemastynę</DRUG> i.m. i <DRUG>betametazon</DRUG> 5 mg i.m. Wysłano do domu z zaleceniami.
+
+<<<SAMPLE>>>
+
+Recepta z zabiegu, <DATE>11.05.2024</DATE>. <PERSON>Elżbieta Sosnowska</PERSON>, PESEL <PESEL>73061534567</PESEL>, <ADDRESS>Kraków, ul. Zwierzyniecka 12, 31-105</ADDRESS>, tel. <PHONE>507 555 666</PHONE>. Procedura: <TEST>kriochirurgia</TEST> na <DISEASE>krostkach</DISEASE> dłoń lewej. Wykonano zamrażanie płynem azotu. Zalecono <DRUG>ibuprofen</DRUG> 400 mg 3x dzień i <DRUG>panthenol</DRUG> maść. Powrót za 2 tygodnie na ocenę.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z <DATE>30.08.2023</DATE>. <PERSON>Bogdan Kmita</PERSON>, PESEL <PESEL>66111245678</PESEL>, zam. <ADDRESS>Poznań, ul. Fredry 18/3, 61-001</ADDRESS>. Diagnoza: <DISEASE>zapalenie skóry seboroiczne</DISEASE> twarzy. <TEST>Sebumetria</TEST> wykazała seboreę umiarkowaną. Zalecono <DRUG>ketokonazol</DRUG> szampon 2%, <DRUG>pirition cynku</DRUG> żel myjący codziennie.
+
+<<<SAMPLE>>>
+
+Epikryza ze <DATE>28.09.2023</DATE>. <PERSON>Joanna Pietras</PERSON>, PESEL <PESEL>80040234567</PESEL>, <ADDRESS>Warszawa, Mokotów, ul. Rakowiecka 42/8, 02-118</ADDRESS>, tel. <PHONE>513 666 777</PHONE>. Rozpoznanie: <DISEASE>keratosis pilaris</DISEASE> ramion i ud. <TEST>Dermoskopia</TEST> potwierdziła obraz typowy. Zalecono regularne stosowanie <DRUG>kwasu salicylowego</DRUG> 2%, <DRUG>emolent</DRUG> bez fragancji i <DRUG>urea</DRUG> 10% maść.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>04.10.2024</DATE>. <PERSON>Grzegorz Stachura</PERSON>, PESEL <PESEL>75020134567</PESEL>, <ADDRESS>Lublin, ul. Narutowicza 88/5</ADDRESS>, tel. <PHONE>721 777 888</PHONE>. Pacjent przyjęty z <DISEASE>zapaleniem skóry grzybicznym</DISEASE> stopy. <TEST>Wymaz grzybiczny</TEST> dodatni na Candida albicans. Zastosowano <DRUG>flukonazol</DRUG> 150 mg 2x i <DRUG>mikonazol</DRUG> spray. Wysłano do domu z zaleceniami.
+
+<<<SAMPLE>>>
+
+Opinii dermatologiczna z <DATE>15.12.2023</DATE>. <PERSON>Katarzyna Lipska</PERSON>, PESEL <PESEL>81092934567</PESEL>, zam. <ADDRESS>Gdynia, ul. Созала 9/4, 81-001</ADDRESS>. Historia: <DISEASE>trądzik różowaty</DISEASE> z <DISEASE>rhinofima</DISEASE>. <TEST>Dermatoskopia</TEST> wykazała rozszerzenie naczyń. Zalecono <DRUG>metronidzol</DRUG> żel 1%, <DRUG>azelainę</DRUG> 20% emulsję, unikanie trigger'ów.
+
+<<<SAMPLE>>>
+
+Notatka z zabiegu, <DATE>22.11.2023</DATE>. <PERSON>Wojciech Nowak</PERSON>, PESEL <PESEL>68031245678</PESEL>, <ADDRESS>Wrocław, ul. Nowy Świat 67/3, 50-001</ADDRESS>, tel. <PHONE>602 888 999</PHONE>. Przeprowadzono <TEST>peeling chemiczny TCA</TEST> na <DISEASE>zmarszczki dynamiczne</DISEASE> czoła. Zastosowano <DRUG>opatrunek okluzyjny</DRUG> i zalecono <DRUG>panthenol</DRUG> maść. Wyniki widoczne za 6 tygodni.
+
+<<<SAMPLE>>>
+
+Recepta z <DATE>19.03.2024</DATE>. Pacjentka <PERSON>Daria Krawczyk</PERSON>, PESEL <PESEL>85041934567</PESEL>, <ADDRESS>Poznań, Nowe Miasto, ul. Wielkopolska 12/2</ADDRESS>. Diagnoza: <DISEASE>łupież rosolisty</DISEASE> głowy. Zalecono <DRUG>ketokonazol</DRUG> szampon 2% codziennie, <DRUG>betametazon</DRUG> lotion, <DRUG>pirition cynku</DRUG> 2% żel. Powrót za 4 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z <DATE>08.04.2024</DATE>. <PERSON>Sławomir Zawacki</PERSON>, PESEL <PESEL>72110134567</PESEL>, zam. <ADDRESS>Kraków, ul. Karmelicka 19/6, 31-128</ADDRESS>, tel. <PHONE>691 444 555</PHONE>. Pacjent z <DISEASE>bielactwem segmentowym</DISEASE> na twarzy. <TEST>Szukanie drewna</TEST> ujemne. Włączono <DRUG>takrolimusem</DRUG> maść 0.03% i <DRUG>klobetazolu propionatem</DRUG> 0.05% zabiegi. Zaplanowano fototerapię.
+
+<<<SAMPLE>>>
+
+Epikryza dermatologiczna ze <DATE>25.07.2024</DATE>. <PERSON>Marta Żurawska</PERSON>, PESEL <PESEL>83041234567</PESEL>, <ADDRESS>Gdańsk, ul. Morska 77/5, 80-250</ADDRESS>, tel. <PHONE>510 555 666</PHONE>. Rozpoznanie: <DISEASE>mastocytoza skórna</DISEASE> diffuse. <TEST>Badanie histopatologiczne</TEST> potwierdziło masę mastocytów. Włączono <DRUG>H1-receptor antagonist cetyryzynę</DRUG> i <DRUG>omalizumab</DRUG>. Zalecono unikanie trigger'ów (ciepło, alkohol).
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>06.01.2024</DATE>. <PERSON>Arkadiusz Lewandowski</PERSON>, PESEL <PESEL>79101534567</PESEL>, <ADDRESS>Warszawa, Praga, ul. Żabkowska 35/7</ADDRESS>. Zgłosił się z <DISEASE>wypryskiem fotoalergjcznym</DISEASE> na przedramionach. <TEST>Fototest patch</TEST> dodatni na octylmethoxycynamon. Zalecono <DRUG>filtry UV+</DRUG> SPF 50+ i <DRUG>betametazon</DRUG> krem. Wysłano do domu.
+
+<<<SAMPLE>>>
+
+Notatka z gabinetu, <DATE>01.02.2024</DATE>. <PERSON>Agnieszka Kowalska</PERSON>, PESEL <PESEL>76050734567</PESEL>, zam. <ADDRESS>Łódź, ul. Konstantynowska 12/4, 90-001</ADDRESS>, tel. <PHONE>605 777 888</PHONE>. Obserwuje się <DISEASE>wyprysk atopowy</DISEASE> na rękach. <TEST>Immunglobulin E</TEST> podwyższony. Zalecono <DRUG>dupilumab</DRUG> 600 mg tygodniowo i <DRUG>emolent</DRUG> intensywny. Monitoring co 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Opinii dermatologiczna z <DATE>29.06.2024</DATE>. <PERSON>Konrad Szamowski</PERSON>, PESEL <PESEL>81070534567</PESEL>, <ADDRESS>Kraków, ul. Zwierzyniecka 99/3, 31-105</ADDRESS>, tel. <PHONE>692 666 777</PHONE>. Historia: <DISEASE>włosowiec łonowy</DISEASE> obustronny. <TEST>Dermoskopia</TEST> wykazała cechy charakterystyczne. Zalecono <DRUG>retinol</DRUG> 1% serum i <DRUG>AHA acid</DRUG> 10%. Powrót za 6 tygodni.
+
+<<<SAMPLE>>>
+
+Notatka POZ z <DATE>17.05.2024</DATE>. <PERSON>Patrycja Nowak</PERSON>, PESEL <PESEL>88041534567</PESEL>, <ADDRESS>Poznań, ul. Stary Rynek 21/2, 61-001</ADDRESS>. Diagnoza: <DISEASE>wyprysek kontaktowy</DISEASE> twarzy po kosmetykach. <TEST>Patch test</TEST> dodatni na paraben i formaldehyd. Zalecono kosmetyki hypoalergiczne i <DRUG>hydrokortyzol</DRUG> maść 1%. Obserwacja za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Epikryza ze <DATE>12.04.2024</DATE>. <PERSON>Jerzy Sikora</PERSON>, PESEL <PESEL>65080234567</PESEL>, zam. <ADDRESS>Wrocław, ul. Nowy Świat 45/8, 50-001</ADDRESS>, tel. <PHONE>696 777 888</PHONE>. Postawienie diagnozy: <DISEASE>otitis eksterna grzybiczna</DISEASE>. Przeprowadzono <TEST>otoskopię</TEST>. Zalecono <DRUG>flukonazol</DRUG> 200 mg i <DRUG>oxyquinoline</DRUG> lotion uszna. Powrót za 10 dni.
+
+<<<SAMPLE>>>

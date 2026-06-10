@@ -1,0 +1,96 @@
+Raport z SOR, <DATE>22.04.2024</DATE>. Pacjent <PERSON>Aleksandra Kowalska</PERSON>, 7 lat, PESEL <PESEL>17020305432</PESEL>, zam. <ADDRESS>ul. Słoneczna 12, 80-001 Gdańsk</ADDRESS>. Matka zgłasza wysoki stanów gorączki przez 3 dni. W <TEST>badaniu fizykalnym</TEST> wysypka petechii, sztywność karku. Podejrzenie <DISEASE>zapalenia opon mózgowych</DISEASE>. <TEST>Punkcja lumbalna</TEST> — płyn pozażółty. Podano <DRUG>ceftriakson</DRUG> 2g iv co 12h, <DRUG>wankomycyna</DRUG> 15mg/kg co 8h. Przekazano na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka POZ, <DATE>5.05.2024</DATE>. Dziecko <PERSON>Mateusz Lewandowski</PERSON>, 3 lata, tel. matki <PHONE>663 445 821</PHONE>. Matka: nieproduktywny kaszel od tygodnia, bez gorączki. W <TEST>badaniu słuchu</TEST> norma. <TEST>RtG klatki</TEST> bez zmian. Przyjęto rozpoznanie <DISEASE>zapalenie gardła wirusowe</DISEASE>. Zalecono inhalacje solą fizjologiczną, <DRUG>paracetamol</DRUG> 15mg/kg co 6h p.o.
+
+<<<SAMPLE>>>
+Epikryza ze stacjonarnego oddziału pediatrycznego, <DATE>18.06.2024</DATE>. <PERSON>Katarzyna Michalska</PERSON>, 5 lat, PESEL <PESEL>19050705189</PESEL>, <ADDRESS>Kraków, ul. Floriańska 42/5</ADDRESS>. Przyjęta z podejrzeniem <DISEASE>zapalenia wyrostka robaczkowego</DISEASE>. <TEST>USG brzucha</TEST> — obrzęk wyrostka, promień 8mm. <TEST>CRP</TEST> 68 mg/l, <TEST>WBC</TEST> 15 tys. Wykonano <TEST>laparoskopową appendektomię</TEST>. Przebieg pooperacyjny bez powikłań. Wypisana w 3. dobie po zabiegu.
+
+<<<SAMPLE>>>
+Opis <TEST>MRI głowy</TEST>, <DATE>12.03.2024</DATE>. Pacjent <PERSON>Jakub Nowicki</PERSON>, 9 lat. Wskazanie: <DISEASE>częste migreny z aurą</DISEASE>. Wyniki: brak zmian w <DISEASE>białej i szarej substancji</DISEASE>. <DISEASE>Układ komorowy</DISEASE> normalny. Bez cech <DISEASE>dysplazji kory mózgowej</DISEASE>. Zalecono obserwacyjne MRI za rok.
+
+<<<SAMPLE>>>
+Raport SOR, <DATE>7.11.2024</DATE>. <PERSON>Dominik Szymczak</PERSON>, 2 lata, PESEL <PESEL>22070205456</PESEL>, tel. <PHONE>721 333 444</PHONE>. Rodzic alarmuje wysoka gorączka, drgawki toniko-kloniczne 5 minut. W <TEST>EEG</TEST> aktywność padaczkowa w płacie skroniowym. Podano <DRUG>diazepam</DRUG> 0.3 mg/kg i.v., następnie <DRUG>lewetiracetam</DRUG> 10 mg/kg. Hospitalizowana na <HOSPITAL>Oddział Pediatryczny Szpital Pediatryczny</HOSPITAL>.
+
+<<<SAMPLE>>>
+E-recepta z POZ, <DATE>25.01.2024</DATE>. Pacjent <PERSON>Filip Górski</PERSON>, 4 lata, PESEL <PESEL>20040612378</PESEL>, <ADDRESS>Poznań, ul. Mickiewicza 78</ADDRESS>. Diagnoza: <DISEASE>zapalenie dolnych dróg oddechowych</DISEASE>. Ordynacja: <DRUG>amoksycylina</DRUG> 25 mg/kg co 8h przez 7 dni p.o., <DRUG>paracetamol</DRUG> 500mg co 6h (max 4 razy dziennie), <DRUG>salbutamol</DRUG> inhalacje aerozol. Kontrola za tydzień.
+
+<<<SAMPLE>>>
+Notatka ze stacjonaru, <DATE>3.02.2024</DATE>. <PERSON>Oliwia Grabowska</PERSON>, 6 lat. Stan: gorączka 39.2°C, bóle mięśni, wysypka makulopapulozna na twarzy. Podejrzenie <DISEASE>ospy wietrznej</DISEASE>. <TEST>Test PCR na VZV</TEST> pozytywny. Zlecono <DRUG>acyklowir</DRUG> 20 mg/kg co 6h iv. Izolacja przez 7 dni. Matka <PERSON>Ewa Grabowska</PERSON> czuwa przy łóżku pacjenta.
+
+<<<SAMPLE>>>
+Opis <TEST>USG stawu kolanowego</TEST>, <DATE>19.04.2024</DATE>. Pacjent <PERSON>Szymon Kowalski</PERSON>, 11 lat. Wskazanie: uraz podczas gry w piłkę. Wyniki: <DISEASE>Uszkodzenie łąka przyzewnianego</DISEASE>, <DISEASE>wysięk w stawie</DISEASE> ok. 15ml. Zalecono unieruchomienie, <DRUG>ibuprofen</DRUG> 10 mg/kg co 8h, fizjoterapia.
+
+<<<SAMPLE>>>
+Raport SOR, <DATE>29.08.2024</DATE>. <PERSON>Julia Kozdój</PERSON>, 8 lat, PESEL <PESEL>16081220567</PESEL>, zam. <ADDRESS>Wrocław, ul. Purkyniego 15/3</ADDRESS>. Uraz głowy — upadek z roweru bez kasku. W <TEST>CT głowy bez kontrastu</TEST> brak zmian, brak krwotoku. <TEST>GCS</TEST> 15. Obserwacja 6h bez objawów. Wypisana do domu z zaleceniami obserwacji.
+
+<<<SAMPLE>>>
+Notatka pediatry, <DATE>11.09.2024</DATE>. <PERSON>Natalia Stefańska</PERSON>, 10 lat, tel. <PHONE>502 667 889</PHONE>. Sprawdzenie zdrowia przed szkołą. <TEST>Pomiar wzrostu</TEST> 140 cm (25. percentyl), <TEST>waga</TEST> 35 kg (20. percentyl). <TEST>TK klatki</TEST> norma. <TEST>TSH</TEST> 2.1 mlU/l — norma. Rekomendacja: coraz więcej owoców i warzyw, aktywność fizyczna 60 min dziennie.
+
+<<<SAMPLE>>>
+Epikryza po leczeniu, <DATE>6.07.2024</DATE>. <PERSON>Bartosz Majewski</PERSON>, 4 lata, PESEL <PESEL>20061308901</PESEL>, <ADDRESS>Gdynia, ul. Morska 67</ADDRESS>. Przyjęty z <DISEASE>zapaleniem pęcherza moczowego</DISEASE>. <TEST>Posiew moczu</TEST> — Escherichia coli, oporna na ampicylinę. Leczony <DRUG>ceftazydymem</DRUG> 30 mg/kg co 8h iv przez 7 dni. <TEST>Posiew kontrolny</TEST> sterylny. Wypisany w dobry ogólnym stanie.
+
+<<<SAMPLE>>>
+Opis <TEST>rentgenogram klatki piersiowej</TEST>, <DATE>2.10.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, 7 lat. Wskazanie: kaszel trwający 2 tygodnie. Wyniki: <DISEASE>zapalenie płuc z naciekami w dolnym płacie lewym</DISEASE>, brak wysięku. Podano <DRUG>amoksycylinę</DRUG> z kwasem klawulanowym 45 mg/kg/dzień podzielone na 3 dawki.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>14.12.2024</DATE>. Dziecko <PERSON>Magdalena Wójcik</PERSON>, 3 lata, tel. <PHONE>696 221 345</PHONE>. Rodzic: niemowlę źle je, waży mniej niż tygodniami temu. W <TEST>badaniu ogólnym</TEST> widoczne żylki brzuszne, wyszczuplenie. <TEST>USG brzucha</TEST> bez zmian. <TEST>Panel laboratoryjny</TEST> — białko ogólne 5.5 g/dl (norma). Podejrzenie <DISEASE>niedożywienia</DISEASE>. Konsultacja <PERSON>dr Joanna Kamińska</PERSON>, dietetyczka. Zalecono zwiększenie liczby posiłków, wprowadzenie preparatów mlecznych wzbogaconych.
+
+<<<SAMPLE>>>
+Raport z badania <TEST>EKG</TEST>, <DATE>8.01.2024</DATE>. Pacjent <PERSON>Kacper Górski</PERSON>, 5 lat, PESEL <PESEL>19050912234</PESEL>. Wskazanie: szum serca. Wyniki: <DISEASE>przebyty otwarty przewód tętniczy (PDA)</DISEASE> zamknięty poprzednio. RR norma, HR 98/min. Zalecono echokardiografię za rok, żadnych ograniczeń aktywności.
+
+<<<SAMPLE>>>
+Notatka neurologa, <DATE>21.05.2024</DATE>. <PERSON>Zofia Jankowska</PERSON>, 9 lat, <ADDRESS>Warszawa, ul. Zachodnia 23</ADDRESS>. Zgłoszenie: zaburzenia koncentracji w szkole od 3 miesięcy. W <TEST>badaniu neurologicznym</TEST> norma. <TEST>EEG</TEST> — drobne odchylenia w łacie potylicznej. Obserwowalny <DISEASE>zespół deficytu uwagi i nadaktywności (ADHD)</DISEASE>. Zalecona diagnoza psychologiczna i ewentualnie <DRUG>metylfenidattu</DRUG> 5 mg/dzień po potwierdzeniu.
+
+<<<SAMPLE>>>
+Opis procedury, <DATE>17.03.2024</DATE>. Pacjent <PERSON>Michał Zacharczuk</PERSON>, 6 lat. Procedura: <TEST>bronchofiloskopia</TEST> w znieczuleniu ogólnym z powodu <DISEASE>podejrzenia ciała obcego w drzewku oskrzelowym</DISEASE>. Znaleziono: wypadłe mleczne zęby górne (3 sztuki). Usunięto bezpiecznie. Pacjent budzony spokojnie, bez powikłań.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>30.06.2024</DATE>. Pacjent <PERSON>Agnieszka Nowak</PERSON>, 2 lata, PESEL <PESEL>22110408765</PESEL>, <ADDRESS>Szczecin, Nowe Miasto 18/9</ADDRESS>. Diagnoza: <DISEASE>atopowe zapalenie skóry</DISEASE>. Zalecenia: <DRUG>krem emollient z 10% urei</DRUG> 2 razy dziennie, <DRUG>maść flutykazonowa</DRUG> 0.05% 2 razy dziennie na ogniska, <DRUG>antihistaminę desloratadynę</DRUG> 125 mcg/ml, 2-3 ml wieczorem przez 2 tygodnie. Powrót za miesiąc.
+
+<<<SAMPLE>>>
+Raport ze stacjonaru pediatrycznego, <DATE>11.07.2024</DATE>. <PERSON>Hubert Malinowski</PERSON>, 11 lat, tel. <PHONE>605 778 556</PHONE>. Przyjęty z <DISEASE>cukrzycą insulinozależną</DISEASE> w wypadzie ketoacydotycznym. <TEST>Glukoza</TEST> 586 mg/dl, <TEST>pH arteryjne</TEST> 7.18, <TEST>HCO3-</TEST> 12 mEq/l. Leczenie: insulin IV 0.1 j/kg/h, rehydratacja NaCl 0.9%. Po 48h stan ustabilizowany, przesunięty na pielęgnację oddziałową.
+
+<<<SAMPLE>>>
+Notatka z pediatrii, <DATE>4.09.2024</DATE>. <PERSON>Adrianna Kowalczyk</PERSON>, 7 lat, <ADDRESS>Łódź, ul. Zielona 54</ADDRESS>. Kontrola roczna. Wzrost 125 cm, waga 25 kg (40. percentyl). <TEST>Szczepienie DTP</TEST> zaplanowane za miesiąc — rozszerzona immunizacja. <TEST>Wzrok</TEST> stwierdzony 1.0 oboje oczy. Zalecenia higieniczne dotyczące zębów (sznurek do czyszczenia między zębami).
+
+<<<SAMPLE>>>
+Opis <TEST>tomografii komputerowej jamy brzusznej</TEST>, <DATE>9.04.2024</DATE>. Pacjent <PERSON>Stanisław Nowak</PERSON>, 8 lat. Wskazanie: ponowne bóle brzucha o nieokreślonej etiologii. Wyniki: <DISEASE>powiększenie węzłów chłonnych mezentery</DISEASE>, norma wątroby i śledziony. Brak cech <DISEASE>zapalenia pęcherzyka żółciowego</DISEASE>. Zalecono obserwacyjnie, ponowne TK za 6 tygodni.
+
+<<<SAMPLE>>>
+Raport SOR, <DATE>22.11.2024</DATE>. <PERSON>Ewelina Pawlak</PERSON>, 4 lata, PESEL <PESEL>20080905123</PESEL>, tel. <PHONE>512 555 777</PHONE>. Nieczytelna mowa, ślinienie się. Temperatura 38.5°C. Obrzęk podniebienia miękkiego, eritema. <TEST>Test na Streptococcus A</TEST> pozytywny. Diagnoza: <DISEASE>zapalenie gardła gronkowcowe</DISEASE>. Podano <DRUG>cefadoksyl</DRUG> 15 mg/kg co 12h p.o. przez 10 dni. Zalecono płyny, dieta miękka.
+
+<<<SAMPLE>>>
+Epikryza ze zmian skórnych, <DATE>19.02.2024</DATE>. <PERSON>Tomasz Szostak</PERSON>, 6 lat, <ADDRESS>Kraków, ul. Krowoderska 28/12</ADDRESS>. Przyjęty z <DISEASE>szpiczastym świądem (Pruritus ani)</DISEASE> przez 4 tygodnie. W <TEST>badaniu analnym</TEST> świąd, otarcia, małe pęcherzyki. Diagnoza: <DISEASE>zakaźne zapalenie pieluszki</DISEASE> (fungi Candida). Ordinacja: <DRUG>mikonazol</DRUG> krem 2% 2 razy dziennie, <DRUG>kseroform</DRUG> maść, pieluszki zmieniane co 3 godziny.
+
+<<<SAMPLE>>>
+Notatka pediatry POZ, <DATE>13.10.2024</DATE>. <PERSON>Patryk Lewandowski</PERSON>, 10 lat, PESEL <PESEL>14050509876</PESEL>, <ADDRESS>Sopot, ul. Haffnera 15</ADDRESS>. Kontrola stanu zdrowia po udarze. W <TEST>badaniu neurologicznym</TEST> słaba ruchu w lewej kończynie dolnej. <TEST>Pomiar RR</TEST> 140/85 mmHg (wysokie dla wieku). Kontynuacja <DRUG>amlodipin</DRUG> 5 mg/dzień. Zalecono zaobserwować napięcie, jeśli wzrasta — powiadomić neurologa.
+
+<<<SAMPLE>>>
+Opis <TEST>USG tętnicy szyjnej wewnętrznej</TEST>, <DATE>5.12.2024</DATE>. Pacjent <PERSON>Krzysztof Jaworski</PERSON>, 9 lat. Wskazanie: palpacyjnie wyczuwalne powiększenie węzłów na szyi. Wyniki: <DISEASE>powiększone węzły chłonne — 2cm</DISEASE>, brak zwapnień, norma tętnicy szyjnej. Zalecono obserwacyjnie, powtórzyć za 3 miesiące, jeśli utrzyma się powiększenie — biopsja.
+
+<<<SAMPLE>>>
+Raport ze stacjonaru, <DATE>28.08.2024</DATE>. <PERSON>Lidia Pach</PERSON>, 5 lat, tel. matki <PHONE>667 999 888</PHONE>. Przyjęta z <DISEASE>bronchiolit</DISEASE> — kaszel, ostre zaburzenia oddychania. <TEST>Saturacja O2</TEST> 88%. <TEST>RtG klatki</TEST> — zaciemnienia perihilarne dwustronne. Leczenie: uszczęśliwienie na <DRUG>albuterolu</DRUG> 2.5 mg roztworu co 4h, <DRUG>ipratropiowej</DRUG> co 6h. Po 3 dniach saturacja do 94%, wypisana.
+
+<<<SAMPLE>>>
+Notatka z badania okulistycznego, <DATE>24.01.2024</DATE>. Pacjent <PERSON>Dariusz Baranowski</PERSON>, 7 lat, <ADDRESS>Gdańsk, ul. Długa 41/7</ADDRESS>. Wskazanie: trudności w czytaniu z tablicy. Badanie: <TEST>wizus OD</TEST> 0.5, <TEST>OS</TEST> 0.4. Diagnoza: <DISEASE>krótkozrączność</DISEASE>. Ordynacja okulary -1.5 OD, -1.75 OS. Powrót za miesiąc po adaptacji.
+
+<<<SAMPLE>>>
+Opis procedury <TEST>cewnikowania central venous</TEST>, <DATE>15.06.2024</DATE>. Pacjent <PERSON>Renata Lewandowska</PERSON>, 3 lata, PESEL <PESEL>21021201567</PESEL>. Wskazanie: <DISEASE>martwica przewodu pokarmowego</DISEASE> — wymaga stałego poboru składników. Procedura: cewnik PICC do żyły ramiennej lewej, czubek w żyle głównej górnej. Potwierdzenie RtG, aseptyka. Brak powikłań.
+
+<<<SAMPLE>>>
+Raport z badania <TEST>audiometrii tonalnej</TEST>, <DATE>7.11.2024</DATE>. Pacjent <PERSON>Kamil Sopiński</PERSON>, 8 lat, tel. <PHONE>609 333 444</PHONE>. Wskazanie: podejrzenie <DISEASE>utraty słuchu</DISEASE> w wysokich częstotliwościach. Wyniki: próg słyszenia 4000 Hz = 35 dB (poniżej normy), inne częstotliwości norma. Diagnoza: <DISEASE>nedosłyszenie wysokotonowe</DISEASE>. Zalecono aparat słuchowy, powrót za miesiąc.
+
+<<<SAMPLE>>>
+Epikryza ze stacjonaru, <DATE>20.03.2024</DATE>. <PERSON>Sylwia Krawczyk</PERSON>, 2 lata, <ADDRESS>Wrocław, ul. Nowy Świat 89</ADDRESS>. Przyjęta z <DISEASE>zapaleniem otitis media acuta</DISEASE> obustronnie, wysoka gorączka. <TEST>Otoskop</TEST> — membrana zasiniona, bąbelki powietrza. <TEST>Audiogram</TEST> — czasowa niedosłyszenie przewodzeniowe. Leczenie: <DRUG>amoksycylina</DRUG> 40 mg/kg/dzień, <DRUG>ibuprofen</DRUG> 10 mg/kg co 8h. Przebieg poprawny, wypisana po 3 dniach.
+
+<<<SAMPLE>>>
+Notatka neurologa, <DATE>31.05.2024</DATE>. <PERSON>Beata Górska</PERSON>, 9 lat, PESEL <PESEL>15021205789</PESEL>, <ADDRESS>Poznań, ul. Zwierzyniecka 12/3</ADDRESS>. Kontrola po zawale mózgu z 6 miesięcy temu. <TEST>MRI mózgu</TEST> — niedoukrwienie w lewej półkuli. <TEST>Badanie neurologiczne</TEST> — mała niedowładność prawej kończyny. Fizjoterapia 2 razy tygodniowo. Prognozy złożona ale ponaglająca.
+
+<<<SAMPLE>>>
+Raport SOR, <DATE>16.09.2024</DATE>. <PERSON>Grzegorz Janowski</PERSON>, 6 lat, tel. <PHONE>731 666 555</PHONE>. Uraz twarzy — upadek na ostrą krawędź. <TEST>CT twarzy bez kontrastu</TEST> — złamanie kości policzkowej lewej, brak penetracji do oczodołu. Konsultacja chirurga szczękowego — obserwacja, możliwa operacja za 2 tygodnie. Analgetyki <DRUG>paracetamol</DRUG> 15 mg/kg.
+
+<<<SAMPLE>>>
+Opis <TEST>endoskopii górnego odcinka przewodu pokarmowego</TEST>, <DATE>12.04.2024</DATE>. Pacjent <PERSON>Wacław Skowroński</PERSON>, 10 lat, <ADDRESS>Warszawa, ul. Marszałkowska 42/5</ADDRESS>. Wskazanie: <DISEASE>bolesne połykanie, vomitus z śladami krwi</DISEASE>. Wyniki: <DISEASE>zapalenie przełyku refluksowe</DISEASE>, małe owrzodzenie na przedniej ścianie. <DISEASE>Pylorus</DISEASE> norma. Zlecono <DRUG>omeprazol</DRUG> 20 mg/dzień przez 4 tygodnie.
+
+<<<SAMPLE>>>

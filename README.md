@@ -111,6 +111,7 @@ python -m training.evaluate --checkpoint models/herbert-base-cased/best --test-f
 
 | Step | File | Description |
 |---|---|---|
+| Batches → JSONL | `tools/batches_to_jsonl.py` | parse golden-style markup batches (`output/_gen*/`) into JSONL |
 | Build dataset | `tools/build_training_set.py` | mix injection + golden-style, leakage-free held-out |
 | Cleaning | `tools/clean_generated.py` | drop corruption / strip titles / trim lab values |
 | Tag conversion + split | `training/dataset.py` | BIOU→IOB2, 80/10/10 split (seed 42), subword alignment |

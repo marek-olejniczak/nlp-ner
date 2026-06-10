@@ -1,0 +1,74 @@
+Notatka SOR, <DATE>22.11.2024</DATE>. Pacjentka <PERSON>Anna Kowalski</PERSON>, PESEL <PESEL>82012345678</PESEL>, zam. <ADDRESS>ul. Marszałkowska 15/3, 00-001 Warszawa</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Krwawienie przeddmieszawkowe, ostatni poród <DATE>2 lata temu</DATE>. W <TEST>USG ginekologicznym</TEST> podejrzenie <DISEASE>polipa endometrium</DISEASE>. Zalecono hospitalizację na <HOSPITAL>Szpital Św. Łazarza</HOSPITAL> do <TEST>histeroskopii</TEST>.
+<<<SAMPLE>>>
+Przepisana <DRUG>amoksycylina</DRUG> 500 mg 3 razy dziennie przez 7 dni od <DATE>2024-06-15</DATE> p.o. Wskazania: <DISEASE>zapalenie dróg moczowych</DISEASE> u pacjentki w <DATE>35 tygodniu ciąży</DATE>. Kontrola <TEST>KPK</TEST> i <TEST>posiew moczu</TEST> przed podaniem.
+<<<SAMPLE>>>
+Epikryza poporodowa, <DATE>18.06.2024</DATE>. Pacjentka <PERSON>Maria Nowak</PERSON> (zam. <ADDRESS>Kraków, Nowe Miasto 27/2</ADDRESS>) urodziła dziecko <DATE>17.06.2024 o godz. 14:32</DATE> w <HOSPITAL>Szpital Uniwersytecki w Krakowie</HOSPITAL>. Poród naturalny, <DISEASE>ruptura krocza drugiego stopnia</DISEASE>, szycie <DATE>w dniu porodu</DATE>. <TEST>Hb</TEST> po porodzie 9.2 g/dl. Wypis do domu w stanie dobrym.
+<<<SAMPLE>>>
+Wynik <TEST>USG w pierwszym trymestrze</TEST> z <DATE>13.12.2024</DATE>: długość ciemieniowo-czołowa <TEST>CRL</TEST> 51 mm, odpowiadająca <DATE>12+4 tygodniom ciąży</DATE>. <DISEASE>Brak markerów chromosomalnych</DISEASE>. Zam. pacjentki <ADDRESS>ul. Słoneczna 42, 80-001 Gdańsk</ADDRESS>.
+<<<SAMPLE>>>
+E-recepta wystawiona przez <PERSON>dr Katarzyna Lewandowska</PERSON> z <HOSPITAL>Poradni Ginekologicznej POZ nr 3, Poznań</HOSPITAL> w <DATE>09.01.2025</DATE>. <DRUG>Progestelon</DRUG> 200 mg doodbytniczo od <DATE>16 dnia cyklu</DATE> przez 12 dni. Wskazanie: <DISEASE>niewystarczalność fazy lutealnej</DISEASE>.
+<<<SAMPLE>>>
+Notatka ze świadczenia zdrowotnego, <DATE>3.03.2025</DATE>. Pacjentka <PERSON>Joanna Szymczyk</PERSON>, PESEL <PESEL>75041234567</PESEL>, skierowana przez <PERSON>lek. med. Piotr Zając</PERSON> na <TEST>kolposkopię</TEST> z <DATE>5.03.2025</DATE> do <HOSPITAL>Klinika Ginekologii Onkologicznej</HOSPITAL> z powodu <DISEASE>zmian podejrzanych w wymazu PAP-u</DISEASE>.
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>24.05.2024</DATE>. Wykonana <TEST>cerklarz szyjki macicy</TEST> u pacjentki w <DATE>19 tygodniu ciąży</DATE>, diagnoza <DISEASE>cervical incompetence</DISEASE>. Zaszytą <DRUG>sznurem polipropylenu</DRUG> w filarach bocznych. Pacjentka <PERSON>Magdalena Kostrzyńska</PERSON> zam. <ADDRESS>Łódź, Widzewska 88/14</ADDRESS> wypis bez powikłań.
+<<<SAMPLE>>>
+Recepta papierowa z <DATE>17.08.2024</DATE>. <DRUG>Metformin</DRUG> 500 mg 2 razy dziennie, stosować przy każdym posiłku. Pacjentka: <DISEASE>cukrzyca gestacyjna</DISEASE> w <DATE>28. tygodniu ciąży</DATE>. Kontrola <TEST>profilu glikemicznego</TEST> za 1 tydzień.
+<<<SAMPLE>>>
+Wynik <TEST>amniopunkcji</TEST> z <DATE>02.10.2024</DATE>: <TEST>AFP</TEST> 27 IU/ml, <TEST>estriol niesprząężony</TEST> 1.2 MoM, <TEST>hCG</TEST> 1.8 MoM. Rozpoznanie: <DISEASE>brak oznak zespołu Downa</DISEASE>. Pobrano próbkę do <HOSPITAL>Kliniki Genetyki Medycznej</HOSPITAL>.
+<<<SAMPLE>>>
+Zaświadczenie lekarskie z <DATE>14.07.2024</DATE>. <PERSON>Beata Milewska</PERSON>, PESEL <PESEL>90031256789</PESEL>, zwolniona z pracy z powodu <DISEASE>przedwczesnego pęknięcia pęcherza płodowego</DISEASE> od <DATE>14.07.2024</DATE> przez czas nieokreślony. Leczenie szpitalne na <HOSPITAL>Oddziale Patologii Ciąży</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka z wizyty kontrolnej, <DATE>11.04.2025</DATE>. Pacjentka <PERSON>Sylwia Nowak</PERSON> zam. <ADDRESS>ul. Leśna 5, 90-001 Łódź</ADDRESS>, tel. <PHONE>698 123 456</PHONE>, po <TEST>urodzeniu naturlanym</TEST> <DATE>10.03.2025</DATE>. Badanie <TEST>żelazo</TEST>: 11 mg/dl — zalecono <DRUG>sól żelaza dwuwartościowego</DRUG> 300 mg dziennie. Powrót do <HOSPITAL>POZ nr 7</HOSPITAL> za 2 tygodnie.
+<<<SAMPLE>>>
+Raport ultrasonograficzny, <DATE>19.02.2025</DATE>. <TEST>USG akuszyjne</TEST> III trymestr: płód w pozycji główkowej, <TEST>waga szacunkowa</TEST> 2850 g, odpowiadająca <DATE>37 tygodniom</DATE>. <DISEASE>Wielowodzie umiarkowane</DISEASE>, woda owodniowa 22 cm. Zaplanować poród w terminie.
+<<<SAMPLE>>>
+Zlecenie diagnostyczne z <DATE>8.01.2025</DATE> wystawione przez <PERSON>dr Stanisław Wróbel</PERSON> na <TEST>mammografię bilateralną</TEST> dla pacjentki zam. <ADDRESS>Gdynia, Morska 42/8</ADDRESS> z powodu <DISEASE>guzka w górnym zewnętrznym kwadrancie piersi lewej</DISEASE>.
+<<<SAMPLE>>>
+Konsultacja ginekologiczna z <DATE>26.12.2024</DATE>. Pacjentka <PERSON>Renata Lewandowska</PERSON> skierowana przez <PERSON>lek. Alicja Świątek</PERSON> na <HOSPITAL>Poradnię Zaburzeń Menopauzalnych</HOSPITAL> z powodu <DISEASE>uderzenia gorąca i bezsenności</DISEASE> w klimakterium. <TEST>FSH</TEST> 68 IU/l potwierdzające <DISEASE>menopauzę naturalną</DISEASE>.
+<<<SAMPLE>>>
+Opis procedury medycznej, <DATE>31.01.2025</DATE>. Wykonana <TEST>aspiracja endometrium</TEST> u pacjentki <PERSON>Paulina Kowalczyk</PERSON>, PESEL <PESEL>88112234561</PESEL>, w ramach diagnostyki <DISEASE>nieregularnych krwawień macicznych</DISEASE>. Materiał wysłany do <HOSPITAL>Pracowni Patologu Szpitala Miejskiego</HOSPITAL> na <TEST>badanie histopathologiczne</TEST>.
+<<<SAMPLE>>>
+Przepis z pojazdu pogotowia (SOR na kółkach), <DATE>5.04.2025</DATE>. Pacjentka w stanie zaawansowanej ciąży (około <DATE>34 tygodni</DATE>) z podejrzeniem <DISEASE>stanu przedrzucawkowego</DISEASE>, <TEST>ciśnienie tętnicze</TEST> 165/105 mmHg, <TEST>proteinuria</TEST> +++. Transportowana na <HOSPITAL>Szpital Wojewódzki, Oddział Patologii Ciąży</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta z <DATE>20.10.2024</DATE>. <DRUG>Hormonalna antykoncepcja</DRUG> (<DRUG>etynilestradian + lewonorgestrel</DRUG>) 1 tabletka codziennie, pacjentka <PERSON>Żaneta Manikowska</PERSON> zam. <ADDRESS>ul. Piotrkowska 123/4, 90-010 Łódź</ADDRESS>, tel. <PHONE>721 456 789</PHONE>. Wskazanie: <DISEASE>dysmenorrhea spastyczna</DISEASE>.
+<<<SAMPLE>>>
+Wynik <TEST>testu tolerancji glukozy doustnej</TEST> z <DATE>12.08.2024</DATE>: stan na czczo <TEST>glikemia</TEST> 92 mg/dl, po 2 godz. 168 mg/dl. Rozpoznanie: <DISEASE>cukrzyca gestacyjna</DISEASE>. Pacjentka w <DATE>26 tygodniu ciąży</DATE>, skierowana do <HOSPITAL>Poradni Diabetologicznej dla Ciężarnych</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka operacyjna z <DATE>6.07.2024</DATE>. Wykonana <TEST>indukcja porodu</TEST> sztucznie u pacjentki <PERSON>Dorota Zawadzka</PERSON>, PESEL <PESEL>79051534567</PESEL>, zam. <ADDRESS>Warszawa, Aleje Jerozolimskie 78/9</ADDRESS> z powodu <DISEASE>śródmacicznego zaburzenia tempa serca płodu</DISEASE>. Poród naturalny <DATE>6.07.2024 o godz. 18:47</DATE> po 16 godzinach. Dziecko w dobrym stanie, Apgar 9/9.
+<<<SAMPLE>>>
+Raport laboratoryjny z <DATE>29.11.2024</DATE>. <TEST>Morfologia krwi</TEST>: <TEST>Hb</TEST> 10.1 g/dl, <TEST>Ht</TEST> 30.2%, <TEST>RBC</TEST> 3.2 mln/ul. Pacjentka <PERSON>Krystyna Wąchocka</PERSON> w <DATE>22 tygodniu ciąży</DATE> z <DISEASE>anemią ze względu na deficyt żelaza</DISEASE>. Zalecona <DRUG>sól żelaza</DRUG> 325 mg dziennie.
+<<<SAMPLE>>>
+Zlecenie na <TEST>badanie ultrasonograficzne piersi</TEST> z <DATE>15.03.2025</DATE> dla pacjentki zam. <ADDRESS>ul. Warszawska 67/2, 80-005 Gdańsk</ADDRESS>, tel. <PHONE>667 234 567</PHONE>. Wskazanie: <DISEASE>czuciowy mastalgia</DISEASE> w trakcie cyklu menstruacyjnego.
+<<<SAMPLE>>>
+Konsultacja urologiczna z <DATE>28.05.2024</DATE>. <PERSON>lek. Ireneusz Nowak</PERSON> ocenił pacjentkę <PERSON>Elżbieta Nowacka</PERSON>, PESEL <PESEL>72011945678</PESEL> z <DISEASE>bezwitaminą mocznowego</DISEASE> występującą w trakcie każdej ciąży. Zalecono zwiększony monitoring <TEST>KPK</TEST> i <TEST>posiew moczu</TEST> co 2 tygodnie.
+<<<SAMPLE>>>
+Przepis antybiotykowy z <DATE>11.02.2025</DATE>. <DRUG>Ceftriakson</DRUG> 1 g i.m. co 12 godz. przez 7 dni od <DATE>13.02.2025</DATE>. Pacjentka <PERSON>Katarzyna Augustowska</PERSON> zam. <ADDRESS>Poznań, Nowe Miasto 45/7</ADDRESS>, tel. <PHONE>789 123 456</PHONE>. Diagnoza: <DISEASE>zapalenie wyrostka zawiesiny jajnika</DISEASE> w puerperium.
+<<<SAMPLE>>>
+Wynik <TEST>wymazu do badania PAP-u</TEST> z <DATE>9.01.2025</DATE>: <DISEASE>LSIL (Low-grade Squamous Intraepithelial Lesion)</DISEASE>. Pacjentka <PERSON>Monika Szczęsna</PERSON>, PESEL <PESEL>85063421098</PESEL>, zam. <ADDRESS>ul. Krucza 12/5, 00-002 Warszawa</ADDRESS>. Wskazana <TEST>kolposkopia</TEST> z <DATE>23.01.2025</DATE>.
+<<<SAMPLE>>>
+Zaświadczenie z <DATE>2.10.2024</DATE>. Pacjentka <PERSON>Iwona Kostrzyńska</PERSON> zwolniona z pracy od <DATE>2.10.2024</DATE> z powodu <DISEASE>zagrażającego poronienia w III trymestrze</DISEASE>. Zalecony pełny odpoczynek w domu, kontrola w <HOSPITAL>Szpitalnym Pododdziale Patologii Ciąży</HOSPITAL> dwa razy w tygodniu.
+<<<SAMPLE>>>
+Notatka z wizyty pierwszej w ciąży, <DATE>24.07.2024</DATE>. Pacjentka <PERSON>Ewa Lewandowska</PERSON>, PESEL <PESEL>93011867234</PESEL>, zam. <ADDRESS>ul. Pułaskiego 89/3, 31-000 Kraków</ADDRESS>, tel. <PHONE>605 123 456</PHONE>. Potwierdzono ciążę naturalną w <DATE>7 tygodniu</DATE>. <TEST>hCG</TEST> 127 500 IU/l. Zapisana na <TEST>USG I trymestr</TEST> z <DATE>7.08.2024</DATE> do <HOSPITAL>Poradni Ginekologicznej Szpitala Akademickiego</HOSPITAL>.
+<<<SAMPLE>>>
+Opis procedury z <DATE>19.11.2024</DATE>. Wykonana <TEST>wakcuacja próżniowa produktów poczęcia</TEST> u pacjentki <PERSON>Zofia Michalska</PERSON>, PESEL <PESEL>80042634521</PESEL>, zam. <ADDRESS>Wrocław, Bernardyńska 34/1</ADDRESS> w <DISEASE>poronienia samoistnym niezupełnym</DISEASE>. Operacja bez powikłań, pacjentka wypis tego samego dnia.
+<<<SAMPLE>>>
+Wynik badania <TEST>koagulogram</TEST> z <DATE>13.09.2024</DATE>: <TEST>INR</TEST> 2.1, <TEST>aPTT</TEST> 28 sek. Pacjentka <PERSON>Violetta Szostak</PERSON> na <DRUG>warfarynie</DRUG> z powodu <DISEASE>miękkiego zastawu serca</DISEASE> w ciąży (<DATE>20 tygodni</DATE>). Kontrola za 3 dni, zaplanowana zmiana na <DRUG>enoksaparynę</DRUG> od <DATE>20.09.2024</DATE>.
+<<<SAMPLE>>>
+Raport z <TEST>amnioinfuzji</TEST> z <DATE>7.12.2024</DATE>. U pacjentki w <DATE>32 tygodniu ciąży</DATE> z <DISEASE>oligohydramnionem ciężkim</DISEASE> wlewano <DRUG>roztwór soli fizjologicznej</DRUG> 800 ml. Wskaźnik wody owodniowej zwiększył się z 3 cm do 8 cm. Pacjentka <PERSON>Renata Markiewicz</PERSON> obserwowana na <HOSPITAL>Oddziale Patologii Ciąży</HOSPITAL>.
+<<<SAMPLE>>>
+Zlecenie na <TEST>angiografię naczyń pędu moczowego</TEST> z <DATE>3.04.2025</DATE> wystawione przez <PERSON>lek. Jakub Radziejewski</PERSON> z <HOSPITAL>Szpitala Miejskiego w Gdyni</HOSPITAL>. Pacjentka zam. <ADDRESS>Gdynia, Świętojańska 123/6</ADDRESS>, tel. <PHONE>598 234 567</PHONE>. Wskazanie: podejrzenie <DISEASE>zapalenia pęcherza moczowego przechodzącego w pielonefritę</DISEASE>.
+<<<SAMPLE>>>
+Recepta peroralna z <DATE>7.06.2024</DATE>. <DRUG>Ibuprofen</DRUG> 200 mg 3 razy dziennie przez 5 dni. <PERSON>Agnieszka Nowak</PERSON>, PESEL <PESEL>74081245890</PESEL>, zam. <ADDRESS>ul. Nowogrodzka 42, 00-005 Warszawa</ADDRESS>. Wskazanie: <DISEASE>bóle menstruacyjne o dużej intensywności</DISEASE> — brak możliwości stosowania u pacjentki <DATE>w trzecim trymestrze ciąży</DATE>.
+<<<SAMPLE>>>
+Notatka z pobytu na <DATE>25-29.08.2024</DATE>. Pacjentka <PERSON>Beata Górska</PERSON> przebywała na <HOSPITAL>Oddziale Ginekologicznym Szpitala Św. Karola</HOSPITAL> z powodu <DISEASE>zapalenia błony śluzowej macicy poporodowej</DISEASE>. <TEST>Posiew z jamy macicy</TEST> dodatni na <DISEASE>Streptococcus agalactiae</DISEASE>. Leczenie: <DRUG>ampicylina</DRUG> 2 g i.v. co 6 godzin, szybka poprawa kliniczna.
+<<<SAMPLE>>>
+Przepis antybiotykowy z <DATE>16.10.2024</DATE>. <DRUG>Azytromycyna</DRUG> 500 mg jednorazowo, potem 250 mg dziennie przez 4 dni. Pacjentka <PERSON>Urszula Lewandowska</PERSON>, PESEL <PESEL>76072234456</PESEL>, zam. <ADDRESS>Kraków, ul. św. Filipa 28/9</ADDRESS>, tel. <PHONE>602 567 890</PHONE>. Diagnoza: <DISEASE>zapalenie szyjki macicy gonokokowe</DISEASE>.
+<<<SAMPLE>>>
+Raport <TEST>badania histopatologicznego wyłuszczanego endometrium</TEST> z <DATE>10.01.2025</DATE>: <DISEASE>hiperplazja endometrium bez atypii</DISEASE>. Pacjentka <PERSON>Zofia Żuk</PERSON> zam. <ADDRESS>ul. Piotrkowska 89/2, 90-001 Łódź</ADDRESS>. Zalecono <DRUG>progestagen</DRUG> (megestrol acetat 160 mg dziennie) przez 3 miesiące i powtórzenie biopsji.
+<<<SAMPLE>>>
+Opis zabiegu <TEST>perineoplastyki</TEST> z <DATE>21.03.2024</DATE>. U pacjentki <PERSON>Dominika Nowak</PERSON>, PESEL <PESEL>89112334567</PESEL>, zam. <ADDRESS>Poznań, ul. Garbary 45/7</ADDRESS> w puerpepium wykonana operacja plastyczna krocza w celu wznowienia funkcji seksualnej po <DISEASE>dyspareunia poporodowa</DISEASE>. Wszywane <DRUG>szwy samowchłaniające poliglaktynowe</DRUG>.
+<<<SAMPLE>>>
+Wynik <TEST>fotografii dna oka</TEST> z <DATE>8.05.2024</DATE>: brak zmian naczyniowych lub neuropatycznych. Pacjentka <PERSON>Alina Markowska</PERSON> w <DATE>29 tygodniu ciąży</DATE> z wcześniejszą diagnozą <DISEASE>gestacyjnego cukrzycy</DISEASE>. Kontrola okulistyczna zalecona po porodzie.
+<<<SAMPLE>>>
+Notatka z konsultacji telefonicznej z <DATE>4.12.2024</DATE>. <PERSON>lek. dr Paweł Szydłowski</PERSON> z <HOSPITAL>Szpitala Św. Ducha</HOSPITAL> omówił wyniki <TEST>tomografii komputerowej miednicy</TEST> u pacjentki <PERSON>Joanna Nowakowa</PERSON> zam. <ADDRESS>Warszawa, Marszałkowska 78/4</ADDRESS>, tel. <PHONE>604 123 789</PHONE>. Stwierdzono <DISEASE>zwężenie miednicy obstetycznej</DISEASE>. Zaplanowano <TEST>poród przez cesarskie cięcie</TEST> w terminie.
+<<<SAMPLE>>>

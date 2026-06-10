@@ -1,0 +1,66 @@
+Notatka SOR, <DATE>08.06.2024</DATE>. <PERSON>Maria Kowalski</PERSON>, PESEL <PESEL>78052134567</PESEL>, zam. <ADDRESS>ul. Słoneczna 12, 80-001 Gdańsk</ADDRESS>. Zgłosiła się z dusznością i bólem gardła. W <TEST>laryngoskopii</TEST> widoczne <DISEASE>zapalenie fałdów głosowych</DISEASE>. <TEST>SpO2</TEST> 96%. Podano <DRUG>ibuprofen</DRUG>, wypisano e-receptę na <DRUG>Anginospray</DRUG>.
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>03.05.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>72041256789</PESEL>, tel. <PHONE>721 345 678</PHONE>, hospitalizowany na oddziale laryngologii <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>. Przyduszenie, praca wymagająca głosu. W <TEST>fibrolarygnoskopii</TEST> potwierdzono <DISEASE>brodawkowatość krtani</DISEASE>. Wykonano <TEST>mikroskopową resekcję laserową</TEST>. Wynik <TEST>histopatologiczny</TEST> — bez cech złośliwości.
+<<<SAMPLE>>>
+Notatka poradni laryngologicznej, <DATE>15.06.2024</DATE>. <PERSON>Anna Nowak</PERSON>, <ADDRESS>Poznań, Nowe Miasto 7/3</ADDRESS>. Kontrola pooperacyjna. Po <TEST>tonsilektomii</TEST> w <HOSPITAL>SP ZOZ Poznań</HOSPITAL> czuje się dobrze. <TEST>laryngoskopowo</TEST> norma. Rekomendacje: głos do pełna za 2 tygodnie, bez papierosów.
+<<<SAMPLE>>>
+Opis <TEST>USG gardła</TEST>, <DATE>22.03.2024</DATE>. <PERSON>Jakub Szymczyk</PERSON>, PESEL <PESEL>85110567890</PESEL>. Badanie wykazało <DISEASE>powiększenie węzłów chłonnych podczaszkowych</DISEASE> 8 mm. <DISEASE>Zapalenie błony śluzowej</DISEASE> gardła. Bez cech przerzutów. Zalecono obserwację kliniczną i powtórzenie za 3 miesiące.
+<<<SAMPLE>>>
+Recepta eFIT, <DATE>01.06.2024</DATE>. <PERSON>Ewa Kamińska</PERSON>, PESEL <PESEL>81092487654</PESEL>, tel. <PHONE>502 987 654</PHONE>, zam. <ADDRESS>ul. Prosta 45, 00-838 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>dysphonia</DISEASE>. Przepisano <DRUG>Polocard</DRUG> 75 mg 1×1, <DRUG>Aspargin</DRUG> 2×1, <DRUG>Lysozym</DRUG> tabletki do ssania 3×1.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>19.05.2024</DATE>. <PERSON>Roman Kucharski</PERSON>, <ADDRESS>Kraków, Podwale 55/12</ADDRESS>. Ostry <DISEASE>ból gardła</DISEASE>, gorączka 38,5°C. <TEST>RR</TEST> 138/88, <TEST>HR</TEST> 89. W <TEST>ogleądzie</TEST> błony śluzowe sine, powiększone migdały. <TEST>CRP</TEST> 15. Podano <DRUG>amoksycylina</DRUG> 1 g i.v., rozpuszczalnik.
+<<<SAMPLE>>>
+Opis <TEST>laryngografii</TEST>, <DATE>12.04.2024</DATE>. <PERSON>Barbara Zielińska</PERSON>, PESEL <PESEL>79031267543</PESEL>. <DISEASE>Zwężenie podiałowe krtani</DISEASE> na poziomie fałdów głosowych. Rozmiar światła 4 mm. Zalecono dalsze obserwacje i fizjoterapię logopedyczną. Pacjentka w dobrym stanie ogólnym.
+<<<SAMPLE>>>
+Notatka kontrolna, <DATE>27.05.2024</DATE>. <PERSON>Tomasz Michalski</PERSON>, tel. <PHONE>606 123 456</PHONE>. Status pooperacyjny po <TEST>mikroskopii krtani z usunięciem polipa</TEST> w <HOSPITAL>Centrum Medyczne Zamkowe</HOSPITAL>. Pacjent nie narzeka. Krwawienia brak. Zalecono zmianę pielęgnacyjną i rezygnację z przychodu bym.
+<<<SAMPLE>>>
+Karta pobytu szpitalnego, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Stefan Nowicki</PERSON>, PESEL <PESEL>73061134567</PESEL>, zam. <ADDRESS>ul. Rakowska 88, Wrocław</ADDRESS>. Hospitalizowany z powodu <DISEASE>ostrego zapalenia gardła</DISEASE> i <DISEASE>zapalenia części podstawnej języka</DISEASE>. Wykonano <TEST>badanie krwi</TEST>, <TEST>posiew z gardła</TEST>. Wynik ujemny dla Streptococcus A. Leczenie: <DRUG>Cefuroksym</DRUG> 1,5 g 2×dziennie, <DRUG>Ibupirac</DRUG> 600 mg.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>10.06.2024</DATE>. <PERSON>Joanna Lewkowska</PERSON>, <ADDRESS>Wejherowo, Dworcowa 23</ADDRESS>. Utrzymująca się chrypka od 4 tygodni. W <TEST>laryngoskopii flexible</TEST> widoczne <DISEASE>nacieki białe na fałdach</DISEASE> — podejrzenie <DISEASE>kandydozy</DISEASE>. Pobrany <TEST>wymaz do mikrobiolodii</TEST>. Włączono <DRUG>flukonazol</DRUG> 150 mg 1×tygodniowo.
+<<<SAMPLE>>>
+Wynik <TEST>audiometrii</TEST>, <DATE>28.04.2024</DATE>. <PERSON>Magdalena Żak</PERSON>, PESEL <PESEL>82072565432</PESEL>, tel. <PHONE>512 876 543</PHONE>. <DISEASE>Niedosłuch przewodzeniowy stopnia umiarkowanego</DISEASE> obustronnie. Rekomendacja: wizyta u otolaryngologa w celu oceny możliwości <TEST>audioprotezy</TEST>. Pacjentka zgodna na dalsze badania.
+<<<SAMPLE>>>
+Epikryza amatorska z <HOSPITAL>Szpital Św. Włodzimierza</HOSPITAL>, <DATE>02.06.2024</DATE>. <PERSON>Henryk Szafran</PERSON>, <ADDRESS>ul. Mickiewicza 67/4, 31-127 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>przewlekłe zapalenie zatok przynosowych</DISEASE>. Przeprowadzono <TEST>endoskopię zatokową</TEST> — widoczne <DISEASE>grzybice słuzówki zatoki szczękowej</DISEASE>. Pacjent poddany <TEST>funkcjonalnej endoskopowej chirurgii zatokowej (FESS)</TEST>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>14.05.2024</DATE>. <PERSON>Katarzyna Adamczyk</PERSON>, PESEL <PESEL>88041278901</PESEL>, zam. <ADDRESS>Łódź, Piotrkowska 112</ADDRESS>. Bezsenność, lęki. Pacjentka depresyjna, głos stały, płaski. Zalecono konsultację <HOSPITAL>Poradnia Psychologiczna</HOSPITAL> i u laryngologa. Przepisano <DRUG>Seroxat</DRUG> 20 mg 1×wieczorem.
+<<<SAMPLE>>>
+Wynik <TEST>CT zatoki</TEST>, <DATE>31.05.2024</DATE>. <PERSON>Grzegorz Nowak</PERSON>, PESEL <PESEL>71031456789</PESEL>, tel. <PHONE>723 456 789</PHONE>. <DISEASE>Sinusitis maxillaris bilateral</DISEASE> ze skrzepami. <DISEASE>Prostopadłość przegrody nosowej</DISEASE> w lewo. Zalecono <TEST>laryngoskopię</TEST> w celu zobaczenia stanu śluzu i ewentualnego leczenia operacyjnego.
+<<<SAMPLE>>>
+Notatka operacyjna, <DATE>18.04.2024</DATE>. <PERSON>Urszula Mrocz</PERSON>, <ADDRESS>ul. Konopnickiej 34, Gdynia</ADDRESS>. Procedura: <TEST>polipektomia krtani z użyciem lasera CO2</TEST>. Czas zabiegu 23 minuty. <DISEASE>Polipy dwustronne fałdów głosowych</DISEASE>. Śródoperacyjnie bez powikłań. Pacjentka wysłana do domu w dobrym stanie. Zalecono głosu unikać przez 2 tygodnie.
+<<<SAMPLE>>>
+Pismo do lekarza POZ, <DATE>09.06.2024</DATE>. <PERSON>Stanisław Kozłowski</PERSON>, PESEL <PESEL>74052687654</PESEL>. Status post <TEST>laringoplastyka medializująca</TEST> w <HOSPITAL>Szpital Wojskowy</HOSPITAL>. Pacjent ma całkowite <DISEASE>paraliż fałdu głosowego lewostronny</DISEASE>. Po zabiegu: głos bardziej resonancyjny, beze zmęczenia wcześniejszego. Follow-up za miesiąc.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>25.05.2024</DATE>. <PERSON>Dorota Wróbel</PERSON>, <ADDRESS>Wrocław, Nankiera 15/2</ADDRESS>, tel. <PHONE>601 567 890</PHONE>. Uraz krtani po uderzeniu. <TEST>laryngoskopia</TEST> wykazała <DISEASE>hematoma fałdów</DISEASE> i <DISEASE>obrzęk podglośniowy</DISEASE>. <TEST>RR</TEST> 142/90, <TEST>HR</TEST> 101, oddychanie bez stridor. Hospitalizowana. Włączono <DRUG>metylprednizolon</DRUG> 125 mg i.v.
+<<<SAMPLE>>>
+Raport z <TEST>spirometrii</TEST>, <DATE>11.06.2024</DATE>. <PERSON>Sylwia Nowak</PERSON>, PESEL <PESEL>86031245678</PESEL>. <DISEASE>Zaburzenia wentylacji mieszane</DISEASE>. FVC 76% pred., FEV1 68% pred. Pacjentka niezadowolona z oddychania nosowego. Zalecono <TEST>laryngoskopię</TEST> w celu oceny <DISEASE>zwężenia próżni noska</DISEASE>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna z laryngolodii, <DATE>06.06.2024</DATE>. <PERSON>Czesław Baran</PERSON>, zam. <ADDRESS>ul. Szopena 8, Poznań</ADDRESS>. Pacjent skarży się na <DISEASE>głos dwójtekowy</DISEASE> przy wysiłku. W <TEST>stroboskopii laryngealnej</TEST> — asymetryczne drgania fałdów, <DISEASE>naciek w lewym fałdzie</DISEASE>. Potwierdzono <DISEASE>parą hipermobilną</DISEASE>. Zalecono <TEST>biopsję</TEST>.
+<<<SAMPLE>>>
+Recepta na <DRUG>Flutamid</DRUG>, <DATE>29.05.2024</DATE>. <PERSON>Izabella Strzelczyk</PERSON>, PESEL <PESEL>77091267890</PESEL>, tel. <PHONE>514 234 567</PHONE>, <ADDRESS>ul. Prazaka 12, Kraków</ADDRESS>. Rozpoznanie: <DISEASE>dysphonia spastyczna</DISEASE>. Przepisano <DRUG>Botox</DRUG> 12 jednostek intralaryngealnie co 3 miesiące oraz <DRUG>Triheksy</DRUG> 2 mg 2×dziennie.
+<<<SAMPLE>>>
+Notatka z konsultacji laryngologicznej, <DATE>07.06.2024</DATE>. <PERSON>Bogdan Sikora</PERSON>, <ADDRESS>Kraków, ul. Augustiańska 17/5</ADDRESS>. Kierunek: <DISEASE>możliwy rak krtani</DISEASE>. <TEST>laryngoskopia sztywna</TEST> — <DISEASE>masa na poziomie fałdu lewego</DISEASE>, ~10 mm, biaława, powierzchownie owrzodzona. Pobranie <TEST>biopsji</TEST> dla <TEST>histopatologii</TEST>.
+<<<SAMPLE>>>
+Pismo ze <HOSPITAL>Szpitala Dziecięcego</HOSPITAL>, <DATE>30.05.2024</DATE>. <PERSON>Sonia Lewkowska</PERSON>, PESEL <PESEL>14050412345</PESEL>. Dziecko zdiagnozowane z <DISEASE>przeszkodą krtani</DISEASE> ze względu na <DISEASE>paraliż fałdów obustronnie</DISEASE>. Przeprowadzono <TEST>arytenoidektomię bilateralną</TEST>. Postęp: bezdech nocny ustąpił, tolerancja wysiłku wzrosła.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>23.05.2024</DATE>. <PERSON>Irena Zajączkowska</PERSON>, <ADDRESS>ul. Długa 88, Gdańsk</ADDRESS>, PESEL <PESEL>72101534567</PESEL>. Ostry napęd, niedyskomfort gardła. <TEST>Laryngoskopia</TEST> — <DISEASE>zapalenie trzustwy</DISEASE> (epiglottis) z obrzękiem. <TEST>SpO2</TEST> 94%. Hospitalizowana na obserwację. Włączono <DRUG>Ceftriaxon</DRUG> 2 g i.v. i <DRUG>Dexametazon</DRUG> 8 mg.
+<<<SAMPLE>>>
+Raport zabiegu, <DATE>13.04.2024</DATE>. <PERSON>Witold Malski</PERSON>, tel. <PHONE>789 123 456</PHONE>, <ADDRESS>Poznań, Święty Marcin 45</ADDRESS>. Procedura: <TEST>endoskopowa przeszczepienia mięśnia śródżeruchomego</TEST> dla <DISEASE>paraliż fałdu głosowego</DISEASE>. Czasu 1 godz. 15 min. Bez powikłań śródoperacyjnych. Pacjent w dobrym stanie pooperacyjnym.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>04.06.2024</DATE>. <PERSON>Zenobia Krychowska</PERSON>, PESEL <PESEL>79062178901</PESEL>, zam. <ADDRESS>ul. Radzikowskiego 12, Kraków</ADDRESS>. Kontrola pooperacyjna po <TEST>laryngoplastyce</TEST>. Głos wyraźnie lepszy, zmęczenie brakuje. <TEST>Laryngoskopowo</TEST> — stabilne położenie implantu, bez obrzęku. Pacjentka bardzo zadowolona.
+<<<SAMPLE>>>
+Wynik <TEST>fonografii</TEST>, <DATE>17.05.2024</DATE>. <PERSON>Grażyna Zając</PERSON>, <ADDRESS>Kraków, Nowa 32/8</ADDRESS>. Analiza: <DISEASE>nieprawidłowości w wytwarczaniu głosu</DISEASE>. Drgania fałdów — zaburzenia symetryczne. Zalecono logopedię i ćwiczenia oddechowe. Pacjentka wysłana na <HOSPITAL>Poradnię Logopedyczną</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>20.05.2024</DATE>. <PERSON>Mieczysław Grabowski</PERSON>, PESEL <PESEL>68031456789</PESEL>, tel. <PHONE>722 345 678</PHONE>, <ADDRESS>ul. Promyka 7, Wrocław</ADDRESS>. Utrzymujący się <DISEASE>kaszel suchý</DISEASE> przez 8 tygodni. Pacjent palaczy (30 lat, 25 paczek/rok). Zalecono rozpoznanie <DISEASE>możliwej malignizacji</DISEASE>. Skierowanie do laryngolodii.
+<<<SAMPLE>>>
+Epikryza z <HOSPITAL>Szpital Kolejowy</HOSPITAL>, <DATE>26.05.2024</DATE>. <PERSON>Felicja Nowosad</PERSON>, <ADDRESS>Łódź, Piotrkowska 234/12</ADDRESS>. Pacjentka z <DISEASE>włókniakiem krtani</DISEASE>. Przeprowadzono <TEST>laserową resekcję</TEST>. <TEST>Histopatologia</TEST> — włókniak łagodny, całkowicie wycięty. Kontrola za miesiąc.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>08.06.2024</DATE>. <PERSON>Lidia Żukowska</PERSON>, PESEL <PESEL>81070245678</PESEL>, tel. <PHONE>508 987 654</PHONE>, <ADDRESS>ul. Centralna 99, Gdynia</ADDRESS>. Zmieszana afonia — nie mogła wymawiać. W <TEST>laryngoskopii</TEST> norma morfologiczna. <DISEASE>Dysphonia psychogenna</DISEASE> podejrzana. Zalecono konsultację psychiatryczną i logopedyczną.
+<<<SAMPLE>>>
+Notatka kontrolna, <DATE>03.06.2024</DATE>. <PERSON>Ryszard Pawlak</PERSON>, zam. <ADDRESS>Wrocław, Nowy Świat 15</ADDRESS>. Status post <TEST>aryteinoidektomii</TEST> z powodu <DISEASE>paraliż obustronny fałdów</DISEASE>. Pacjent oddycha bez problemów, oddech swobodny. Głos zachrypły ale funkcjonalny. Zalecono dalszą obserwację.
+<<<SAMPLE>>>
+Recepta eFIT, <DATE>01.06.2024</DATE>. <PERSON>Wanda Zalewska</PERSON>, PESEL <PESEL>75081256789</PESEL>, <ADDRESS>ul. Kopernika 56, Poznań</ADDRESS>. Rozpoznanie: <DISEASE>chronic laryngitis</DISEASE>. Przepisano <DRUG>Tantum Verde</DRUG> sprej 3×dziennie, <DRUG>Strepsils</DRUG> tabletki 6×dziennie, <DRUG>Asparagin</DRUG> 500 mg 2×dziennie.
+<<<SAMPLE>>>
+Notatka z badania laryngologicznego, <DATE>05.06.2024</DATE>. <PERSON>Jacek Szewczyk</PERSON>, tel. <PHONE>605 123 456</PHONE>, <ADDRESS>ul. Słowackiego 88/2, Wrocław</ADDRESS>. Pacjent prezentuje <DISEASE>wrzód krtani</DISEASE> na poziomie fałdu lewego. Etykiet możliwą przyczynę: papalomos wirus (HPV). Pobranie <TEST>wymazu do PCR</TEST>.
+<<<SAMPLE>>>
+Pismo ze szpitala, <DATE>10.06.2024</DATE>. <PERSON>Helena Borowska</PERSON>, PESEL <PESEL>73040167890</PESEL>, <ADDRESS>Kraków, ul. Św. Anny 12/4</ADDRESS>. Wypisana z <HOSPITAL>Szpital Akademicki</HOSPITAL> po <TEST>laryngoplastyce medializującej z użyciem hydroksyapatytu</TEST>. Procedura przebiegła pomyślnie. Pacjentka powinna unikać głośnego mówienia przez 3 tygodnie.
+<<<SAMPLE>>>

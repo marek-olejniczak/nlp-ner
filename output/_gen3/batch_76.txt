@@ -1,0 +1,143 @@
+Notatka SOR z <DATE>08.06.2024</DATE>. Pacjent <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>78052612847</PESEL>, zamieszkały <ADDRESS>ul. Nowy Świat 45, 00-049 Warszawa</ADDRESS>, tel <PHONE>512 345 678</PHONE>. Zgłoszenie: duszność, kaszel przytrzymujący przez 2 tygodnie. W badaniu słuchowym: trzeszczenia w dolnych polach płuc b/z. <TEST>RTG klatki piersiowej</TEST> — zaciemnienie w obrębie dolnego płata lewego płuca. <TEST>Troponina</TEST> pn. <DISEASE>Zapalenie płuc bakteryjne podejrzane</DISEASE>. Podano <DRUG>Amoxymetacin</DRUG> dożylnie. Pacjent na obserwacji.
+
+<<<SAMPLE>>>
+
+Epikryza oddział pulmonologiczny, <DATE>15.03.2024</DATE>. <PERSON>Barbara Kowalczyk</PERSON>, PESEL <PESEL>64071523456</PESEL>, <ADDRESS>Kraków, ul. Floriańska 12/3</ADDRESS>. Przyjęcie z przychodni POZ z podejrzeniem <DISEASE>przewlekłej obturacyjnej choroby płuc</DISEASE>. Pacjentka pali po 1 paczce dziennie od 30 lat. <TEST>FEV1</TEST> 52% wartości należnej, <TEST>FVC</TEST> 78%. W <TEST>TK klatki piersiowej</TEST> cechy <DISEASE>emfizemy</DISEASE>, b/z ognisk. Zalecono <DRUG>Seretide</DRUG> 2x dziennie, <DRUG>Spiriva</DRUG> 1x dziennie. Pacjent na <HOSPITAL>Szpital Św. Łazarza</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Wypis SOR z <DATE>22.01.2024</DATE>. Mężczyzna <PERSON>Piotr Adamski</PERSON> (<PESEL>89110234567</PESEL>), zamieszkujący <ADDRESS>Poznań, Marszałkowska 87/15</ADDRESS>, kontakt <PHONE>721 456 890</PHONE>. Przywieziony RLP z <DISEASE>dusznością</DISEASE> w nocy. <TEST>Saturacja O2</TEST> 88% na powietrzu. <TEST>RR</TEST> 156/92, <TEST>HR</TEST> 118. <TEST>EKG</TEST> bez zmian ostrych. <TEST>BNP</TEST> 450 pg/ml. Rozpoznanie: <DISEASE>obrzęk płucny, etiologia do wyjaśnienia</DISEASE>. Podano <DRUG>Furosemid</DRUG> dożylnie, <DRUG>Kaptopryl</DRUG> s.l. Kierunek: <HOSPITAL>Oddział Kardiologii</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta POZ z <DATE>30.04.2024</DATE>. Lekarz <PERSON>Anna Nowak-Zawadzka</PERSON>, przychownia <HOSPITAL>Zdrowie Polskie, ul. Zielna 5</HOSPITAL>. Pacjent <PERSON>Marek Szymczyk</PERSON> (<PESEL>72052834521</PESEL>), <ADDRESS>ul. Lipowa 34, 02-154 Warszawa</ADDRESS>. Diagnoza: <DISEASE>infekcja górnych dróg oddechowych</DISEASE>. Zalecenia: <DRUG>Amoksycylina</DRUG> 3x1g/dzień, <DRUG>Paracetamol</DRUG> 3x500mg. Zakazać te same leki. Pacjent powrócić po 10 dniach.
+
+<<<SAMPLE>>>
+
+Opis badania <TEST>USG pleców</TEST> z <DATE>18.07.2024</DATE>. Pacjentka <PERSON>Helena Olejnik</PERSON>, PESEL <PESEL>58041221098</PESEL>, <ADDRESS>Wrocław, Daszyńskiego 16/22</ADDRESS>, tel <PHONE>601 567 234</PHONE>. W USG: cechy <DISEASE>zeszywania pomiędzy liśćmi osierdzia</DISEASE> w okolicy przednio-dolnej. Szerokość efuzji 8 mm. Serce bez zmian ze strony ścian. Brak cechy <DISEASE>tamponady</DISEASE>. Zał. powtórne USG za 1 miesiąc.
+
+<<<SAMPLE>>>
+
+Notatka ze szpitalnego <TEST>pobytu oddział pneumonologiczny</TEST>, <DATE>05.05.2024</DATE>. <PERSON>Jerzy Kamieński</PERSON>, PESEL <PESEL>66081545678</PESEL>, <ADDRESS>ul. Puławska 102, 02-595 Warszawa</ADDRESS>. Przyjęcie z objawami <DISEASE>zapalenia opłucnej</DISEASE>. Pacjent zgłaszał ból w klatce piersiowej maksymalny w głębokim wdechu. <TEST>RR</TEST> 140/85, <TEST>Temp</TEST> 37.8°C. <TEST>RTG klatki</TEST> — zastój w kącie leczenia-przepony. Zał. <DRUG>Ibuprofen</DRUG> 3x400mg, <DRUG>Amoksycylina-klawulinian</DRUG> dożylnie. Stan pacjenta po 3 dniach bez zmian negatywnych.
+
+<<<SAMPLE>>>
+
+Konsultacja pneumonologa z <DATE>12.02.2024</DATE>. <PERSON>Dr Piotr Żuchowicz</PERSON> z <HOSPITAL>Centrum Zdrowia, oddział pulmonologii</HOSPITAL>. Pacjent <PERSON>Tadeusz Rydz</PERSON> (<PESEL>75123067890</PESEL>), <ADDRESS>Gdańsk, Oliwa 45/8</ADDRESS>. Wskazanie: <DISEASE>podejrzenie raka płuca</DISEASE> — kaszel suchy przez 3 miesiące, zmęczenie. W <TEST>CT klatki piersiowej</TEST> zmiana w górnym płacie lewego płuca 18x15mm. Zalecono <TEST>bronchoskopię z biopsją</TEST>. Pacjent na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL> do procedury.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>spirometrii</TEST> z <DATE>21.08.2024</DATE>. Pacjent <PERSON>Stanisław Michalski</PERSON>, PESEL <PESEL>58091234567</PESEL>, <ADDRESS>ul. Mariacka 77, 31-129 Kraków</ADDRESS>, tel <PHONE>502 678 901</PHONE>. <TEST>FEV1</TEST> 68% wartości należnej — obniżone. <TEST>FVC</TEST> 92% — w normie. Stosunek <TEST>FEV1/FVC</TEST> 58% — obturacyjnie. Wskaźnik <TEST>tiffeneau</TEST> 68%. Wniosek: <DISEASE>przewlekła obturacyjna choroba płuc GOLD II</DISEASE>. Zal. <DRUG>Symbicort turbuhaler</DRUG> + <DRUG>Spiriva</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału internistycznego, <DATE>27.09.2024</DATE>. Pacjentka <PERSON>Zofia Lewandowska</PERSON>, PESEL <PESEL>62042234456</PESEL>, zamieszkuję <ADDRESS>Poznań, ul. św. Marcina 34/2</ADDRESS>. Przyjęcie w stanie ogólnym pogorszonym, duszność spoczynkowa. <TEST>Saturacja O2</TEST> 92% na powietrzu. <TEST>Parametry krwi</TEST>: <TEST>HGB</TEST> 10.2 g/dl, <TEST>WBC</TEST> 7.8. W <TEST>EKG</TEST> — rytm sinusowy, <TEST>HR</TEST> 102/min. <TEST>Morfologia</TEST> zalegająca. Podejrzenie <DISEASE>anemii z niewydolnością oddechową</DISEASE>. Podano <DRUG>Polocard</DRUG>, obserwacja.
+
+<<<SAMPLE>>>
+
+E-recepta z <DATE>11.11.2024</DATE>. <PERSON>Dr Elżbieta Kowalska</PERSON>, POZ <HOSPITAL>Centrum Medyczne Zawadzkiego</HOSPITAL>, <ADDRESS>ul. Zawadzka 12, 00-391 Warszawa</ADDRESS>. Pacjent <PERSON>Jacek Nowak</PERSON>, PESEL <PESEL>81061234567</PESEL>. Diagnoza: <DISEASE>zapalenie zatok czołowych i szczękowych</DISEASE>. Zalecenia: <DRUG>Nasonex</DRUG> w aerozolu, <DRUG>Sinupret</DRUG> 3x2 tabl. Pacjent wrócić za tydzień.
+
+<<<SAMPLE>>>
+
+Opis z <TEST>bronchoskopii</TEST>, <DATE>03.10.2024</DATE>. <PERSON>Maciej Nowak</PERSON>, PESEL <PESEL>79031567834</PESEL>, <ADDRESS>ul. Wiejska 88, 00-490 Warszawa</ADDRESS>, tel <PHONE>518 234 567</PHONE>. Badanie przeprowadzone pod <DRUG>sedacją propofołem</DRUG>. Zmieniona anatomia przeddzielnicza. Śluzówka opuchła, zapalnie zmieniona. Zaberano materiał z górnośrodkowego płata lewego płuca. Histologia po 5 dniach. Pacjent ok. 24h obserwacji.
+
+<<<SAMPLE>>>
+
+Notatka pulmonologa z <DATE>14.06.2024</DATE>. Pacjent <PERSON>Ryszard Szymczyk</PERSON>, PESEL <PESEL>66062834567</PESEL>, <ADDRESS>Wrocław, ul. Reja 55/12</ADDRESS>. Druga wizyta dot. <DISEASE>astmy alergicznej</DISEASE>. <TEST>Peak flow</TEST> 380 L/min. Pacjent zgłasza pogorszenie objawów w nocy 2-3 razy w tygodniu. Zalecono zmianę na <DRUG>Seretide</DRUG> 2x1 wdech + <DRUG>Ventolin</DRUG> doraźnie. Pacjent na obserwacji.
+
+<<<SAMPLE>>>
+
+Wypis z SOR z <DATE>25.12.2023</DATE>. <PERSON>Agnieszka Nowak</PERSON>, PESEL <PESEL>85122345678</PESEL>, <ADDRESS>ul. Nowa 7/3, 30-063 Kraków</ADDRESS>, tel <PHONE>664 789 012</PHONE>. Przyjęcie w stanie ostrego, duszność. W badaniu: <DISEASE>świsty polne</DISEASE> b/z w obu polach płuc. <TEST>SpO2</TEST> 94%. <TEST>RR</TEST> 22/min. <DISEASE>Atak astmy</DISEASE> podejrzewany. Podano <DRUG>Berotec</DRUG> w nebulizatorze, <DRUG>Solu-Medrol</DRUG> 80mg dożylnie. Pacjent po 1h bez poprawy, kierunek <HOSPITAL>Oddział Pneumonologiczny</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>CT klatki piersiowej</TEST> z <DATE>19.04.2024</DATE>. Pacjentka <PERSON>Danuta Kowalczyk</PERSON>, PESEL <PESEL>54081256789</PESEL>, <ADDRESS>Poznań, ul. Fredry 6/8</ADDRESS>, tel <PHONE>501 234 567</PHONE>. W TK: zmiana o charakterze <DISEASE>opacyfikacji szyklastej w górnym płacie prawego płuca</DISEASE> 25x18mm. Obrzeża nieostre. B/z przesiewów do śródpiersia lub opłucnej. Inne płaty płuc bez zmian. Zalecono powtórne TK za 3 miesiące.
+
+<<<SAMPLE>>>
+
+Notatka oddział wewnętrzny, <DATE>07.05.2024</DATE>. <PERSON>Stanisław Jabłoński</PERSON>, PESEL <PESEL>71051234567</PESEL>, <ADDRESS>ul. Mochnackiego 3, 31-571 Kraków</ADDRESS>. Pacjent zgłasza bóle w klatce, zmęczenie, kaszel suchy. <TEST>RR</TEST> 155/95, <TEST>HR</TEST> 89, <TEST>SpO2</TEST> 96%. <TEST>EKG</TEST> bez zmian ostrych. <TEST>Troponina</TEST> 0.04 ng/ml. <TEST>Kreatynina</TEST> 1.1 mg/dl. Rozpoznanie: <DISEASE>stabilna choroba wieńcowa, NYHA II</DISEASE>. Podano <DRUG>Nitrangin</DRUG> s.l., <DRUG>Cardioaspirin</DRUG> 100mg. Kierunek: <HOSPITAL>Poradnia Kardiologiczna</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta z <DATE>23.03.2024</DATE>. <PERSON>Dr Witold Adamski</PERSON>, <HOSPITAL>Poliklinika "Zdrowa Rodzina"</HOSPITAL>, <ADDRESS>ul. Spacerowa 22, 02-372 Warszawa</ADDRESS>. Pacjent <PERSON>Michał Lewandowski</PERSON>, PESEL <PESEL>90010234567</PESEL>. Diagnoza: <DISEASE>biegunka zakaźna</DISEASE>. Zalecenia: <DRUG>Biofluor</DRUG> 3x1 saszeta, <DRUG>Imodium</DRUG> doraźnie, izolacja. Pacjent na L4 do 7 dni.
+
+<<<SAMPLE>>>
+
+Opis <TEST>USG klatki piersiowej</TEST> z <DATE>16.08.2024</DATE>. Pacjent <PERSON>Henryk Kowal</PERSON>, PESEL <PESEL>57081267890</PESEL>, <ADDRESS>Gdańsk, ul. Długa 45/9</ADDRESS>, tel <PHONE>576 345 678</PHONE>. W USG: płyn w opłucnej (~300 ml) b/z charakteru. Ogniska <DISEASE>konsolidacji</DISEASE> w dolnych polach b/z. Wymiary serca w normie. Zał. <TEST>torakocenteza diagnostyczna</TEST>. Pacjent do procedury.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału, <DATE>02.07.2024</DATE>. <PERSON>Krystyna Nowak</PERSON>, PESEL <PESEL>63070323456</PESEL>, <ADDRESS>ul. Piusa X 14, 31-068 Kraków</ADDRESS>. Pobytu: 5 dni z <DISEASE>zapaleniem płuc o charakterze atypowym</DISEASE>. Pacjentka w momencie przyjęcia: <TEST>SpO2</TEST> 89%, duszność. Po terapii <DRUG>Amoxymetacin</DRUG> + <DRUG>Azytromycyna</DRUG> — poprawa. <TEST>RTG kontrolne</TEST> — zmniejszenie zaciemnienia. Pacjent wypisany w stanie dobrym.
+
+<<<SAMPLE>>>
+
+Konsultacja z <DATE>09.09.2024</DATE>. <PERSON>Dr Lucyna Szymczyk</PERSON>, pneumonolog z <HOSPITAL>Szpital Miejski Nr 1</HOSPITAL>. Pacjent <PERSON>Franciszek Grabski</PERSON>, PESEL <PESEL>64091234567</PESEL>, <ADDRESS>Poznań, Maltańska 3/15</ADDRESS>. Kontrola po <DISEASE>zapaleniu płuc</DISEASE> przed 2 miesiącami. <TEST>RTG klatki</TEST> — całkowita resorpcja zmian. <TEST>FEV1</TEST> 78%. Pacjent bez objawów. Zalecono <DRUG>Mucosolvan</DRUG> 1x1 tabl. jeśli pojawią się suchości.
+
+<<<SAMPLE>>>
+
+Raport laboratoryjny z <DATE>30.10.2024</DATE>. Pacjentka <PERSON>Irena Kalinowska</PERSON>, PESEL <PESEL>56101267890</PESEL>, <ADDRESS>ul. Żeromskiego 88, 00-255 Warszawa</ADDRESS>, tel <PHONE>723 456 789</PHONE>. <TEST>Morfologia</TEST>: <TEST>RBC</TEST> 4.2 mln/μL, <TEST>WBC</TEST> 6.8 tys./μL, <TEST>Hgb</TEST> 12.1 g/dL, <TEST>Plt</TEST> 245 tys./μL. <TEST>CRP</TEST> 2.4 mg/L. <TEST>D-dimer</TEST> 0.32 μg/ml. Wyniki w normie.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>18.01.2024</DATE>. Pacjent <PERSON>Bogdan Sowiński</PERSON>, PESEL <PESEL>77011567890</PESEL>, <ADDRESS>ul. Matejki 12/4, 31-135 Kraków</ADDRESS>. Zawieziony przez RLP z <DISEASE>podejrzeniem zapalenia otrzewnej</DISEASE> i bólami brzucha. <TEST>Temp</TEST> 38.5°C, <TEST>RR</TEST> 140/88. Brzuch napięty, boleśliwy. <TEST>RTG brzucha</TEST> — cechy niedrożności. Podano <DRUG>Cefazolin</DRUG> dożylnie, <DRUG>Ketorol</DRUG> i.m. Kierunek: <HOSPITAL>Oddział Chirurgii Ogólnej</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta z <DATE>06.11.2024</DATE>. <PERSON>Dr Ewa Lewandowska</PERSON>, przychownia <HOSPITAL>Medyk Plus</HOSPITAL>, <ADDRESS>Warszawa, ul. Hoża 11/2</ADDRESS>. Pacjent <PERSON>Zygmunt Zalewicz</PERSON>, PESEL <PESEL>68110667890</PESEL>. Diagnoza: <DISEASE>depresja reaktywna</DISEASE>. Zalecenia: <DRUG>Seroxat</DRUG> 20mg 1x dziennie, <DRUG>Benzodiazepina - Lexotan</DRUG> 1mg k.n. Pacjent na psychoterapię.
+
+<<<SAMPLE>>>
+
+Opis z <TEST>gastroskopii</TEST>, <DATE>22.05.2024</DATE>. <PERSON>Waldemar Kopaliński</PERSON>, PESEL <PESEL>59052245678</PESEL>, <ADDRESS>ul. Jerozolimskie 99/8, 00-807 Warszawa</ADDRESS>, tel <PHONE>661 234 567</PHONE>. Badanie bez znieczulenia ogólnego. W żołądku: <DISEASE>zapalenie śluzówki antralnej</DISEASE>, b/z owrzodzenia. Zaberano biopsję 4x. Rekomendacja: <DRUG>Pantoprazol</DRUG> 40mg 2x dziennie, test na H. pylori.
+
+<<<SAMPLE>>>
+
+Notatka pulmonologa z <DATE>12.04.2024</DATE>. <PERSON>Zdzisław Kowal</PERSON>, PESEL <PESEL>70041234567</PESEL>, <ADDRESS>Wrocław, ul. Ruska 23/6</ADDRESS>. Pacjent zgłasza <DISEASE>silny kaszel nocny</DISEASE> przez ostatni miesiąc. <TEST>Peak flow</TEST> 420 L/min. W badaniu słuchowym: świsty polne w obu polach, obecne świsty wyspiętrzające. Rozpoznanie: <DISEASE>astma alergiczna, GINA step 3</DISEASE>. Zalecono <DRUG>Beclason</DRUG> 2x2 wdechy + <DRUG>Ventolin</DRUG> doraźnie.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>EKG</TEST> z <DATE>14.11.2024</DATE>. Pacjentka <PERSON>Wanda Szymczyk</PERSON>, PESEL <PESEL>55111223456</PESEL>, <ADDRESS>ul. Stanisławowskie 77, 31-038 Kraków</ADDRESS>, tel <PHONE>605 678 901</PHONE>. Badanie wykonane na dyżu. Rytm sinusowy, <TEST>HR</TEST> 78/min, <TEST>RR</TEST> w normie. <TEST>QT</TEST> normalne. B/z zmian niedokrwiennych. Konkluzja: <DISEASE>bez zmian patologicznych</DISEASE>.
+
+<<<SAMPLE>>>
+
+Notatka ze szpitala, <DATE>08.08.2024</DATE>. <PERSON>Tadeusz Nowak</PERSON>, PESEL <PESEL>58080834567</PESEL>, <ADDRESS>Poznań, Nowy Świat 45/12</ADDRESS>. Pacjent w 4. dobie pobytu z <DISEASE>infekcją dróg moczowych</DISEASE>. <TEST>Diureza</TEST> normalna. <TEST>Morfologia</TEST> — <TEST>WBC</TEST> 8.2 tys./μL. <TEST>Kreatynina</TEST> 0.9 mg/dl. Podawano <DRUG>Ceftriaxon</DRUG> + <DRUG>Gentamycyna</DRUG>. Stan bez zmian, pacjent do wypisania.
+
+<<<SAMPLE>>>
+
+Konsultacja neurologa z <DATE>29.06.2024</DATE>. <PERSON>Dr Kazimierz Pietrzak</PERSON>, <HOSPITAL>Szpital Specjalistyczny im. Bieńkowskiego</HOSPITAL>. Pacjent <PERSON>Jerzy Szymczyk</PERSON>, PESEL <PESEL>65061234567</PESEL>, <ADDRESS>ul. Reformacka 15/3, 31-016 Kraków</ADDRESS>. Zgłoszenie: bóle głowy od 2 tygodni. <TEST>CT głowy</TEST> — b/z zmian. <TEST>Badanie neurologiczne</TEST> — odruchowe prawidłowe. Rozpoznanie: <DISEASE>migrena bez aury</DISEASE>. Zalecono <DRUG>Maxalt</DRUG> 10mg doraźnie.
+
+<<<SAMPLE>>>
+
+E-recepta z <DATE>17.02.2024</DATE>. <PERSON>Dr Małgorzata Nowak</PERSON>, POZ <HOSPITAL>Przychodnia przy Długiej 5</HOSPITAL>, <ADDRESS>Gdańsk, ul. Długa 5, 80-021</ADDRESS>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>88021234567</PESEL>. Diagnoza: <DISEASE>alergiczny nieżyt nosa sezonowy</DISEASE>. Zalecenia: <DRUG>Avamys</DRUG> w aerozolu 2x dziennie, <DRUG>Fexofenadyna</DRUG> 180mg 1x dziennie. Pacjent wrócić za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału kardiologicznego, <DATE>20.09.2024</DATE>. <PERSON>Czesław Kamieński</PERSON>, PESEL <PESEL>66091234567</PESEL>, <ADDRESS>ul. Puławska 102/7, 02-595 Warszawa</ADDRESS>. Pacjent poddany <TEST>angiografii wieńcowej</TEST>. Wynik: <DISEASE>zwężenie 70% w LAD</DISEASE>, <DISEASE>zwężenie 50% w RCA</DISEASE>. Zalecono <DRUG>stent</DRUG> do LAD. Zabiegu dokonano bez powikłań. Pacjent w obserwacji 24h post-procedury.
+
+<<<SAMPLE>>>
+
+Opis <TEST>RTG klatki piersiowej</TEST> z <DATE>01.12.2024</DATE>. Pacjentka <PERSON>Zofia Lewandowska</PERSON>, PESEL <PESEL>62120145678</PESEL>, <ADDRESS>ul. Polna 45/15, 30-001 Kraków</ADDRESS>, tel <PHONE>515 789 012</PHONE>. W RTG: <DISEASE>infiltrat w górnym płacie lewego płuca</DISEASE> 3x2 cm, zmieniony stosunkowo ostro. <DISEASE>Silhouette sign</DISEASE> ujemny. Serce w normie, <DISEASE>nie ma płynu w opłucnej</DISEASE>. Zalecono <TEST>CT hi-res do wykluczenia zmian ziarnistych</TEST>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z <DATE>26.10.2024</DATE>. <PERSON>Stanisław Najda</PERSON>, PESEL <PESEL>69101267890</PESEL>, <ADDRESS>Poznań, ul. Warszawska 12/8</ADDRESS>. Pacjent kontrola powypadkowa. <TEST>Badanie fizykalne</TEST> — bez objawów ostych. <TEST>RTG kości śródstopia</TEST> — b/z pęknięcia. Zalecono zmianę <DRUG>opatrunków</DRUG> codziennie, unieruchomienie. Powrót za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Raport laboratoryjny z <DATE>05.01.2024</DATE>. Pacjent <PERSON>Roman Nowak</PERSON>, PESEL <PESEL>61010534567</PESEL>, <ADDRESS>ul. Mariacka 34/2, 31-129 Kraków</ADDRESS>, tel <PHONE>503 456 789</PHONE>. <TEST>TSH</TEST> 2.1 mIU/L. <TEST>T4 wolne</TEST> 1.2 ng/dL. <TEST>Lipidogram</TEST>: <TEST>Chol całk.</TEST> 205 mg/dL, <TEST>LDL</TEST> 135 mg/dL, <TEST>HDL</TEST> 42 mg/dL, <TEST>Triglicerydy</TEST> 145 mg/dL. Pacjent do zapisania <DRUG>Atorwastatyny</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka SOR z <DATE>11.07.2024</DATE>. Pacjentka <PERSON>Urszula Szymczyk</PERSON>, PESEL <PESEL>63071245678</PESEL>, <ADDRESS>ul. Marszałkowska 88/4, 00-545 Warszawa</ADDRESS>. Zgłoszenie: podejrzenie <DISEASE>migdałków zapalonych</DISEASE> i gorączka 39.2°C. W badaniu: <DISEASE>erytema gardła</DISEASE>, <DISEASE>otok migdałków</DISEASE>. <TEST>Test antygenowy Strep A</TEST> dodatni. Podano <DRUG>Amoksycylina</DRUG> 3x500mg, <DRUG>Paracetamol</DRUG> 3x500mg. Pacjent na obserwacji 4h, wypisany.
+
+<<<SAMPLE>>>
+
+E-recepta z <DATE>28.08.2024</DATE>. <PERSON>Dr Ireneusz Lewandowski</PERSON>, <HOSPITAL>Polichnika Nr 2</HOSPITAL>, <ADDRESS>Kraków, ul. Botanic 12</ADDRESS>. Pacjent <PERSON>Bogdan Szymczyk</PERSON>, PESEL <PESEL>64081234567</PESEL>. Diagnoza: <DISEASE>niedobór witaminy D</DISEASE>. Zalecenia: <DRUG>Cholecalciferol</DRUG> 2000 IU dziennie, dieta bogata w wapń. Pacjent na kontrolę za 8 tygodni.
+
+<<<SAMPLE>>>
+
+Notatka oddział pulmonologiczny, <DATE>19.03.2024</DATE>. <PERSON>Cecylia Nowakowa</PERSON>, PESEL <PESEL>51031234567</PESEL>, <ADDRESS>Gdańsk, ul. Heweliusza 77/5</ADDRESS>. Pacjentka zgłasza <DISEASE>chroniczny kaszel suchych</DISEASE>, zmęczenie. <TEST>CT klatki</TEST> — <DISEASE>cechy fibrozy płucnej</DISEASE> o charakterze UIP. <TEST>FEV1</TEST> 55%, <TEST>DLCO</TEST> 45%. Rozpoznanie: <DISEASE>idiopatyczne zapalenie płuc śródmiąższowe, stadium zaawansowane</DISEASE>. Zalecono <DRUG>Pirfenidon</DRUG> + wsparcie tlenowe.
+
+<<<SAMPLE>>>
+
+Konsultacja dermatologiczna z <DATE>24.04.2024</DATE>. <PERSON>Dr Aleksander Kowalski</PERSON>, <HOSPITAL>Klinika Dermatologii Warszawskiej</HOSPITAL>, <ADDRESS>Warszawa, ul. Copernicus 15/1</ADDRESS>. Pacjentka <PERSON>Joanna Szymczyk</PERSON>, PESEL <PESEL>81042345678</PESEL>. Wskazanie: <DISEASE>reaktywne zapalenie skóry</DISEASE> z wysiąkami. Zalecono <DRUG>emolientu</DRUG> 2x dziennie, <DRUG>maść kortykosteroidowa</DRUG> 1% hydrokortyzonu. Powrót za tydzień.
+
+<<<SAMPLE>>>

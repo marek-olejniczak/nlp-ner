@@ -1,0 +1,108 @@
+Wizyta POZ, <DATE>08.06.2024</DATE>. Pacjentka <PERSON>Maria Kowalska</PERSON>, PESEL <PESEL>75061234567</PESEL>, ur. 1975, zam. <ADDRESS>ul. Krakowska 23/4, 31-120 Kraków</ADDRESS>. Zgłasza się z bólem głowy. W badaniu: napięcie mięśni szyi, <TEST>RR</TEST> 135/85. Zalecono <DRUG>paracetamol</DRUG> 500 mg x 3, masaż.
+
+<<<SAMPLE>>>
+E-recepta wystawiona <DATE>12.03.2024</DATE> przez lek. <PERSON>Andrzej Nowak</PERSON>, NIP <HOSPITAL>Przychownia Rodzinna Hala</HOSPITAL>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>82010156789</PESEL>. Rozpoznanie: <DISEASE>zapalenie jamy ustnej</DISEASE>. Zalecenia: <DRUG>Klorheksydyna</DRUG> płyn do płukania x 4 dziennie, <DRUG>ibuprofen</DRUG> 400 mg x 3 tygodniu.
+
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>25.04.2024</DATE>. Pan <PERSON>Zbigniew Nowicki</PERSON>, PESEL <PESEL>45111234567</PESEL>, zamieszkały <ADDRESS>Warszawska 8A, Łódź</ADDRESS>, tel. <PHONE>501 234 567</PHONE>. Skargi: duszność, obrzęki nóg. <TEST>HR</TEST> 98, <TEST>SpO2</TEST> 92%. Wznowiono <DRUG>furosemid</DRUG> 40 mg, <DRUG>Polocard</DRUG> 75 mg.
+
+<<<SAMPLE>>>
+Konsultacja w <HOSPITAL>Poradni Endokrynologicznej PKP</HOSPITAL>, <DATE>02.05.2024</DATE>. <PERSON>Anna Zielińska</PERSON>, PESEL <PESEL>88051523456</PESEL>, zam. <ADDRESS>ul. Słoneczna 15, 02-786 Warszawa</ADDRESS>. Monitorowanie <DISEASE>cukrzycy typu 2</DISEASE>. <TEST>Glikemia</TEST> na czczo 110 mg/dl, <TEST>HbA1c</TEST> 6.2%. Kontynuacja <DRUG>metformina</DRUG> 850 mg x 2, <DRUG>glipizyd</DRUG> 5 mg.
+
+<<<SAMPLE>>>
+Wizyta pediatryczna, <DATE>18.06.2024</DATE>. Dziecko <PERSON>Jakub Szymański</PERSON>, PESEL <PESEL>20061234156</PESEL>, wiek 3 lata, z rodzicem <PERSON>Ewą Szymańską</PERSON>. Gorączka do 38.5°C, biegunka. W badaniu: wynik <TEST>CRP</TEST> 8 mg/l. Zalecono <DRUG>paracetamol</DRUG> syrop 120 mg/5ml, nawodnienie.
+
+<<<SAMPLE>>>
+Opis <TEST>USG jamy brzusznej</TEST> z <DATE>11.04.2024</DATE>, wykonane przez sonografistkę <PERSON>Magdalenę Kowalczyk</PERSON>. Pacjent <PERSON>Tadeusz Lewandowski</PERSON>, PESEL <PESEL>62030112345</PESEL>, <ADDRESS>ul. Piastowska 42/2, 80-219 Gdańsk</ADDRESS>. Wynik: <DISEASE>stłuszczenie wątroby</DISEASE>, kamyczki w pęcherzyku żółciowym. Zalecenie do gastroenterologa.
+
+<<<SAMPLE>>>
+Recepta papierowa z <DATE>07.03.2024</DATE>. Wystawiająca: lek. <PERSON>Krystyna Nowakowska</PERSON> z <HOSPITAL>Przychowni Rodzinnej na Mokotowie</HOSPITAL>. Pacjent <PERSON>Robert Urbanek</PERSON>, PESEL <PESEL>71011223456</PESEL>, zam. <ADDRESS>Mokotów, ul. Puławska 134/5</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie oskrzeli</DISEASE>. Lek: <DRUG>amoksycylina</DRUG> 500 mg x 3 przez 7 dni, <DRUG>bromheksyna</DRUG> syrop.
+
+<<<SAMPLE>>>
+Kierunek do szpitala wydany <DATE>29.05.2024</DATE>. Pacjentka <PERSON>Joanna Michalska</PERSON>, PESEL <PESEL>90102634567</PESEL>, tel. <PHONE>723 456 789</PHONE>, mieszkająca <ADDRESS>ul. Rzeczna 7, 43-100 Tychy</ADDRESS>. Rozpoznanie wstępne: <DISEASE>kolka nerkowa</DISEASE>. Kierunek na <HOSPITAL>Szpital Miejski Tychy</HOSPITAL> w celu <TEST>CT abdomen</TEST> i urologii.
+
+<<<SAMPLE>>>
+Wizyta kontrolna chorą na <DISEASE>astmę oskrzelową</DISEASE>, <DATE>16.04.2024</DATE>. <PERSON>Dorota Jankowska</PERSON>, PESEL <PESEL>69081523456</PESEL>, zam. <ADDRESS>Poznań, Stare Miasto 52</ADDRESS>. Bez napadów przez 2 m-ce. <TEST>RR</TEST> 125/80, oddychanie bez trzesków. Udzielono recepty: <DRUG>Ventolin</DRUG> spray inhalacyjny, <DRUG>Symbicort</DRUG> sucha inhalacja.
+
+<<<SAMPLE>>>
+Notatka z wyjazdowej służby medycznej, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Stanislav Kość</PERSON>, PESEL <PESEL>88091234567</PESEL>, wypadek w <ADDRESS>ul. Wąska 3, Wrocław</ADDRESS>. Uraz głowy, przedmioty ostre w przedramieniu. Transport na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>. <TEST>RR</TEST> 140/90, <TEST>HR</TEST> 102, <TEST>GCS</TEST> 13.
+
+<<<SAMPLE>>>
+E-recepta z <DATE>22.05.2024</DATE>. Wystawiająca: <PERSON>Marta Sosnowska</PERSON>, specjalista kardiolog. Pacjent <PERSON>Karol Kucharski</PERSON>, PESEL <PESEL>55040212345</PESEL>, zam. <ADDRESS>ul. Słupska 11/3, 01-656 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>arytmia przedsionkowa</DISEASE>. Zalecenia: <DRUG>Magnopyrol</DRUG> 300 mg x 2, <DRUG>Acard</DRUG> 75 mg.
+
+<<<SAMPLE>>>
+Opis <TEST>EKG</TEST> z <DATE>14.02.2024</DATE>. Pacjent <PERSON>Henryk Michalski</PERSON>, PESEL <PESEL>61011234567</PESEL>, wiek 62 lata. EKG: <DISEASE>cechy niedokrwienia</DISEASE> ściany przedniej. Zalecenie pilnej konsultacji kardiologicznej na <HOSPITAL>Szpital Wolski</HOSPITAL>.
+
+<<<SAMPLE>>>
+Recepta refundowana z <DATE>10.01.2024</DATE>. Lekarz POZ <PERSON>Jerzy Adamski</PERSON>, <HOSPITAL>Przychownia Rodzinna Pruszków</HOSPITAL>. Pacjentka <PERSON>Halina Lewandowska</PERSON>, PESEL <PESEL>56051412345</PESEL>, <ADDRESS>Pruszków, ul. Słoneczna 45/6</ADDRESS>. Rozpoznanie: <DISEASE>nadciśnienie tętnicze</DISEASE> stadium II. Lek: <DRUG>enalapril</DRUG> 10 mg x 1, <DRUG>chlortalidon</DRUG> 25 mg x 1.
+
+<<<SAMPLE>>>
+Wizyta dziecka z <DISEASE>egzema atopowa</DISEASE>, <DATE>08.05.2024</DATE>. <PERSON>Ewa Grota</PERSON>, PESEL <PESEL>17101723456</PESEL>, wiek 6 lat. Matkę: <PERSON>Mirosławę Grotę</PERSON>. Lokalizacja: przedramiona i nogi. Zalecono kąpiele w ciepłej wodzie, <DRUG>krem emolient</DRUG> x 3 dziennie, <DRUG>fluocynolone</DRUG> maść na powierzchnie zapalne.
+
+<<<SAMPLE>>>
+Zaświadczenie lekarskie z <DATE>20.03.2024</DATE>. Pacjent <PERSON>Krzysztof Szymański</PERSON>, PESEL <PESEL>72061234567</PESEL>, zatrudniony w <HOSPITAL>Zakładzie Transportu Miejskiego</HOSPITAL>. Jednostkowa niedyspozycja do pracy spowodowana <DISEASE>zapaleniem mięśni grzbietu</DISEASE>. Zaświadczenie na 3 dni od <DATE>20.03</DATE>.
+
+<<<SAMPLE>>>
+Notatka z wizity domowej starszej pani, <DATE>27.04.2024</DATE>. <PERSON>Stanisława Jankowska</PERSON>, PESEL <PESEL>38052312345</PESEL>, 85 lat, zam. <ADDRESS>Cmentarna 19/2, Radom</ADDRESS>, tel. <PHONE>606 789 234</PHONE>. Stan ogólny osłabiony, bóle w stawach. <TEST>RR</TEST> 160/95. Zalecono <DRUG>ibuprofen</DRUG> 400 mg, <DRUG>witamina D</DRUG> 1000 IU dziennie.
+
+<<<SAMPLE>>>
+Opinią lekarza rodzinnego z <DATE>11.06.2024</DATE> dla <HOSPITAL>Ośrodka Zdrowia Podkowa Leśna</HOSPITAL>. Pacjent <PERSON>Bartosz Kędzierski</PERSON>, PESEL <PESEL>91010312345</PESEL>, zam. <ADDRESS>Podkowa Leśna, ul. Leśna 7</ADDRESS>. Zaświadczenie na potrzeby pracy fizycznej — bez przeciwwskazań medycznych.
+
+<<<SAMPLE>>>
+E-recepta z <DATE>31.05.2024</DATE>. Lekarz: <PERSON>Zofia Wróblewska</PERSON>, specjalista dermatolog w <HOSPITAL>Poradni Dermatologicznej Wola</HOSPITAL>. Pacjentka <PERSON>Urszula Nowak</PERSON>, PESEL <PESEL>73010712345</PESEL>, zam. <ADDRESS>ul. Żeromskiego 22/4, 01-910 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>trądzik różowaty</DISEASE>. Zalecenia: <DRUG>metronidazol</DRUG> żel 1% x 2 dziennie, <DRUG>kwas azelainowy</DRUG> 20% krem.
+
+<<<SAMPLE>>>
+Kierunek do szpitala (chirurgia), <DATE>04.06.2024</DATE>. Pacjent <PERSON>Leszek Górski</PERSON>, PESEL <PESEL>65012234567</PESEL>, tel. <PHONE>512 345 678</PHONE>, mieszkający <ADDRESS>ul. Warszawska 88, 31-111 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>przepuklina pachwiny prawa</DISEASE>. Kierunek na <HOSPITAL>Szpital św. Ludwika</HOSPITAL>, oddział chirurgii ogólnej.
+
+<<<SAMPLE>>>
+Opis <TEST>rentgenu klatki piersiowej</TEST> wykonanego <DATE>19.02.2024</DATE>. Pacjent <PERSON>Antoni Zalewski</PERSON>, PESEL <PESEL>54031512345</PESEL>, <ADDRESS>Siedlce, ul. Centralną 15/1</ADDRESS>. Wynik: <DISEASE>zmiana naciekająca górny płat prawy</DISEASE>, wymaga <TEST>CT klatki piersiowej</TEST> i konsultacji pulmonologa.
+
+<<<SAMPLE>>>
+Recepta e-medykamentu z <DATE>09.04.2024</DATE>. Wystawiająca: <PERSON>Ewa Lewandowska</PERSON>, specjalista reumatolog. Pacjent <PERSON>Wacław Sierakowski</PERSON>, PESEL <PESEL>58110634567</PESEL>, zam. <ADDRESS>Białystok, Antygony 23</ADDRESS>. Rozpoznanie: <DISEASE>reumatoidalne zapalenie stawów</DISEASE>. Lek: <DRUG>metotrexat</DRUG> 15 mg raz tygodniowo, <DRUG>leflunomid</DRUG> 20 mg.
+
+<<<SAMPLE>>>
+Notatka z poradni neurologicznej, <DATE>23.05.2024</DATE>. Pacjentka <PERSON>Agnieszka Nowak</PERSON>, PESEL <PESEL>81072812345</PESEL>, tel. <PHONE>789 456 123</PHONE>, mieszkająca <ADDRESS>ul. Zielona 5/7, 20-109 Lublin</ADDRESS>. Skarg: zawroty głowy, zaburzenia równowagi. <TEST>MRI mózgu</TEST> wskazuje <DISEASE>zawroty pochodzenia obwodowego</DISEASE>. Zalecono <DRUG>betahistyna</DRUG> 16 mg x 3 tygodnie.
+
+<<<SAMPLE>>>
+Zaświadczenie o pobycie w leczeniu, <DATE>15.05.2024</DATE>. Pacjent <PERSON>Mariusz Majkowski</PERSON>, PESEL <PESEL>77020512345</PESEL>, przebywał w <HOSPITAL>Szpitalu Psychiatrycznym Drewnica</HOSPITAL> od <DATE>05.05</DATE> do <DATE>13.05.2024</DATE>. Rozpoznanie: <DISEASE>depresja endogenna</DISEASE>. Zalecenia: kontynuacja <DRUG>sertralina</DRUG> 100 mg, terapia psychologiczna.
+
+<<<SAMPLE>>>
+Wizyta kontrolna pacjenta po <DISEASE>zawale serca</DISEASE>, <DATE>02.06.2024</DATE>. <PERSON>Witold Kucharski</PERSON>, PESEL <PESEL>58090234567</PESEL>, zam. <ADDRESS>ul. Hankę Ordonówny 9/5, 31-210 Kraków</ADDRESS>. Stan ogólny dobry, <TEST>RR</TEST> 118/76, <TEST>HR</TEST> 68. <TEST>EKG</TEST> bez zmian dyskwalifikujących. Zalecono <DRUG>Acard</DRUG> 100 mg, <DRUG>bisoprolol</DRUG> 5 mg, <DRUG>atorwastatyna</DRUG> 20 mg.
+
+<<<SAMPLE>>>
+E-recepta wystawiona <DATE>17.04.2024</DATE> przez lekarza POZ <PERSON>Bogusławę Michalak</PERSON>, <HOSPITAL>Przychownia Zdrowia Ursynów</HOSPITAL>. Pacjentka <PERSON>Lidia Suchocka</PERSON>, PESEL <PESEL>64030812345</PESEL>, <ADDRESS>Warszawa, ul. Cybińskiego 23/4</ADDRESS>. Rozpoznanie: <DISEASE>niedomykalność zastawki trójdzielnej</DISEASE>. Lek: <DRUG>Polocard</DRUG> 75 mg, <DRUG>furosemid</DRUG> 40 mg x 2.
+
+<<<SAMPLE>>>
+Opis <TEST>ultrasound tętnic szyi</TEST> z <DATE>28.03.2024</DATE>. Pacjent <PERSON>Stanisław Wasiewski</PERSON>, PESEL <PESEL>52121234567</PESEL>, <ADDRESS>Gdańsk, ul. Rajska 34/2</ADDRESS>. Wynik: <DISEASE>blaszka miażdżycowa na rozwidleniu tętnicy szyjnej lewej</DISEASE>, stenoza 60%. Zalecono <DRUG>klopidogrel</DRUG> 75 mg, intensywną kontrolę RR.
+
+<<<SAMPLE>>>
+Notatka z gastroskopii wykonanej <DATE>06.05.2024</DATE> przez gastroenterologa <PERSON>Dariusza Piotrowskiego</PERSON>. Pacjent <PERSON>Tadeusz Grabowski</PERSON>, PESEL <PESEL>59061812345</PESEL>, zam. <ADDRESS>ul. Piwna 12, 80-800 Gdańsk</ADDRESS>. Wynik: <DISEASE>owrzodzenie żołądka</DISEASE>, przebieg zmian. <DRUG>Omeprazol</DRUG> 20 mg x 2, <DRUG>amoksycylina</DRUG> 1000 mg x 3 przez 10 dni.
+
+<<<SAMPLE>>>
+Recepta papierowa z <DATE>24.04.2024</DATE>. Wystawiająca: <PERSON>Sylwia Golędzińska</PERSON>, specjalista endokrynolog w <HOSPITAL>Poradni Endokrynologicznej Gdynia</HOSPITAL>. Pacjent <PERSON>Igor Szulc</PERSON>, PESEL <PESEL>68022634567</PESEL>, <ADDRESS>Gdynia, ul. Morska 67/8</ADDRESS>. Rozpoznanie: <DISEASE>niedoczynność tarczycy</DISEASE>. Lek: <DRUG>lewotyroksyna</DRUG> 75 μg. <TEST>TSH</TEST> 2.1 mlU/l, <TEST>T4 wolny</TEST> 12 pmol/l.
+
+<<<SAMPLE>>>
+Kierunek do szpitala (ginekologia), <DATE>31.05.2024</DATE>. Pacjentka <PERSON>Katarzyna Zając</PERSON>, PESEL <PESEL>82101534567</PESEL>, tel. <PHONE>698 765 432</PHONE>, mieszkająca <ADDRESS>ul. Zakopiańska 15/3, 30-418 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>mięśniaki macicy</DISEASE> z bólami. Kierunek na <HOSPITAL>Szpital Uniwersytecki Collegium Medicum</HOSPITAL> na konsultację.
+
+<<<SAMPLE>>>
+Wizyta kontrolna pacjenta z <DISEASE>cukrzycą typu 1</DISEASE>, <DATE>12.06.2024</DATE>. <PERSON>Piotr Michalski</PERSON>, PESEL <PESEL>04011912345</PESEL>, wiek 19 lat, zam. <ADDRESS>Łódź, ul. Kopcińskiego 45/9</ADDRESS>. <TEST>Glikemia</TEST> przed posiłkami 120-140 mg/dl, <TEST>HbA1c</TEST> 7.1%. Zalecono zwiększenie dawki insuliny, wizyta za 4 tyg.
+
+<<<SAMPLE>>>
+Zaświadczenie o aktualnym stanie zdrowia, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>71051234567</PESEL>, bez istotnych chorób przewlekłych. <TEST>RR</TEST> 128/82, <TEST>HR</TEST> 72. Lekarz POZ <PERSON>Małgorzata Nowosielska</PERSON> z <HOSPITAL>Przychowni Rodzinnej Mokotów</HOSPITAL>. Zaświadczenie na potrzeby ubezpieczenia.
+
+<<<SAMPLE>>>
+Opis <TEST>kolonoskopii</TEST> z <DATE>22.02.2024</DATE>. Pacjent <PERSON>Franciszek Nowakowski</PERSON>, PESEL <PESEL>49031212345</PESEL>, <ADDRESS>Warszawa, ul. Jerozolimskie 123/7</ADDRESS>. Wynik: <DISEASE>polip adenomatozny</DISEASE> esicy, usunięty elektrokoagulacją. Zalecono powtórną kolonoskopię za 3 lata.
+
+<<<SAMPLE>>>
+E-recepta z <DATE>29.04.2024</DATE>. Lekarz: <PERSON>Joanna Jasińska</PERSON>, specjalista neurolog w <HOSPITAL>Poradni Neurologicznej Centrum Zdrowia</HOSPITAL>. Pacjentka <PERSON>Renata Kirejczyk</PERSON>, PESEL <PESEL>75080534567</PESEL>, zam. <ADDRESS>Poznań, ul. Stroma 11/2</ADDRESS>. Rozpoznanie: <DISEASE>migrena z aurą</DISEASE>. Zalecenia: <DRUG>sumatryptan</DRUG> 50 mg doraźnie, <DRUG>topiramat</DRUG> 25 mg profilaktycznie.
+
+<<<SAMPLE>>>
+Notatka z wizyty pediatrycznej z <DISEASE>zapaleniem ucha środkowego</DISEASE>, <DATE>10.05.2024</DATE>. Dziecko <PERSON>Michał Lewandowski</PERSON>, PESEL <PESEL>18112534567</PESEL>, wiek 4 lata. Matka: <PERSON>Grażyna Lewandowska</PERSON>. Ucho prawe: rumienisty błoneczek bębenkowy. <TEST>temperatura</TEST> 38.2°C. Zalecono <DRUG>amoksycylina</DRUG> suspenzia 250 mg/5ml x 3, <DRUG>ibuprofen</DRUG> syrop.
+
+<<<SAMPLE>>>
+Kierunek do szpitala (urologia), <DATE>01.06.2024</DATE>. Pacjent <PERSON>Jerzy Piotrowski</PERSON>, PESEL <PESEL>57040534567</PESEL>, tel. <PHONE>721 111 222</PHONE>, mieszkający <ADDRESS>ul. Rymanowska 19, 39-200 Tarnów</ADDRESS>. Rozpoznanie: <DISEASE>kamień w drogach moczowych</DISEASE> z koliką. Kierunek na <HOSPITAL>Szpital Mościckiego</HOSPITAL>, oddział urologii.
+
+<<<SAMPLE>>>
+Recepta specjalistyczna z <DATE>16.05.2024</DATE>. Wystawiająca: <PERSON>Elżbieta Rutkowska</PERSON>, specjalista ortopeda w <HOSPITAL>Poradni Ortopedycznej Klinika Zdrowia</HOSPITAL>. Pacjent <PERSON>Zbigniew Gajewski</PERSON>, PESEL <PESEL>61070534567</PESEL>, <ADDRESS>ul. Kopemika 8/6, 31-350 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>artroza stawu kolanowego</DISEASE> prawego. Lek: <DRUG>glukozamina</DRUG> 500 mg x 3, <DRUG>meloxikam</DRUG> 15 mg x 1.
+
+<<<SAMPLE>>>

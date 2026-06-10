@@ -1,0 +1,141 @@
+Notatka z ambulatorium reumatologicznego, <DATE>09.06.2024</DATE>. Pacjent <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>62081234567</PESEL>, zam. <ADDRESS>ul. Mickiewicza 12, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>601 555 777</PHONE>. Stan zdrowia: <DISEASE>RZS</DISEASE> diagnostykowany 8 lat temu. Dotychczas leczony <DRUG>metotreksatem</DRUG> 15 mg/tydz., ostatnio <DISEASE>obrzęk</DISEASE> i <DISEASE>ból</DISEASE> dłoni bilateralne nasilone. <TEST>RF</TEST> 65 IU/ml, <TEST>CRP</TEST> 12 mg/l. Zmieniam na <DRUG>adalimumab</DRUG> (biologik). Wizyta kontrolna za 8 tyg.
+
+<<<SAMPLE>>>
+
+Recepta POZ, <DATE>2024-06-08</DATE>. Dla <PERSON>Zofia Markowska</PERSON>, PESEL <PESEL>74052312345</PESEL>, <ADDRESS>Warszawa, Piusa XI 13/4</ADDRESS>. Zalecenia po <TEST>EKG</TEST> i <TEST>badaniu echokardiograficznym</TEST> — podejrzenie <DISEASE>zapalenia wsierdzia</DISEASE>. Zalecam: <DRUG>indometacyna</DRUG> 50 mg 3×dziennie przez 4 tygodnie, <DRUG>pantoprazol</DRUG> p.o., konsultacja na <HOSPITAL>Szpital Wojskowy</HOSPITAL>. Pacjentka cz. zagrożonej grupy (<DISEASE>gorączka reumatyczna</DISEASE> w wywiadzie).
+
+<<<SAMPLE>>>
+
+Opis <TEST>badania RTG</TEST> klatki piersiowej, <DATE>03.06.2024</DATE>. <PERSON>Paweł Zajczyk</PERSON>, wiek 67 lat. Obraz: <DISEASE>dystrof iczne zmiany</DISEASE> w przodzie kręgów piersiowych, <DISEASE>spondyloza</DISEASE> w odcinkach Th5-Th9. Nie obserwuję <DISEASE>płynu</DISEASE> w <TEST>opłucnej</TEST>. Zalecenie: konsultacja reumatologiczna, rozważyć <TEST>TK</TEST> szyjki miednicznej.
+
+<<<SAMPLE>>>
+
+Epikryza z oddziału reumatologii, <DATE>07.06.2024</DATE>. <PERSON>Ewa Kucharz</PERSON>, PESEL <PESEL>81091567890</PESEL>, zam. <ADDRESS>ul. Fredry 5/2, 31-108 Kraków</ADDRESS>. Pacjentka przyjęta z <DISEASE>zaostrzeniem RZS</DISEASE>. Podczas pobytu: <TEST>morfologia</TEST> — leukocytoza 14,2 G/l, <TEST>CRP</TEST> 34 mg/l, <TEST>EKG</TEST> prawidłowe. Leczenie: pulsacyjny <DRUG>metylprednizolon</DRUG> 500 mg/dzień × 3 dni, dalej <DRUG>prednizon</DRUG> 20 mg malejąco. Zalecam kontynuację <DRUG>abataceptu</DRUG> IV co 4 tyg. na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Stanisław Nowak</PERSON>, wiek 73 lata, <ADDRESS>os. Przyjaźni 18/6, Poznań</ADDRESS>, telefon <PHONE>695 123 456</PHONE>. Stan: ostry <DISEASE>atak dny</DISEASE> — ból stopy lewej, <DISEASE>obrzęk</DISEASE>, rumień. <TEST>Morfologia</TEST> bez zmian, <TEST>mocznik</TEST> 8.2 mmol/l, <TEST>kwas moczowy</TEST> 0.52 mmol/l. Podano <DRUG>indometacynę</DRUG> im., <DRUG>alopurinol</DRUG> malejąco, zalecenie: abstynencja alkoholowa, dieta niskopurynowa.
+
+<<<SAMPLE>>>
+
+Wypis lekarki POZ, <DATE>06.06.2024</DATE>. <PERSON>Barbara Duda</PERSON>, PESEL <PESEL>55043021098</PESEL>. Diagnoza: <DISEASE>zapalenie ścięgien</DISEASE> w obrębie nadgarstka. Leczenie: <DRUG>ibuprofen</DRUG> 400 mg 3×dziennie, imobilizacja, fizykoterapia. Kontrola po 2 tyg. Jeśli bezskuteczne — <TEST>USG</TEST> nadgarstka, rozważyć <TEST>infiltrację</TEST>.
+
+<<<SAMPLE>>>
+
+Opisanie <TEST>rezonansu jądrowego</TEST> stawu kolanowego L, <DATE>04.06.2024</DATE>. <PERSON>Tomasz Szymczyk</PERSON>, wiek 41. Obraz: <DISEASE>zwyrodniennie</DISEASE> chrząstki w przegubni udowo-goleniowej, <DISEASE>łuszczenie</DISEASE> <DISEASE>włóknisty</DISEASE> śródmiąższu medialnego. Boczne więzadła bez zmian. Zalecam: redukcja masy ciała, <DRUG>glukozamina</DRUG> + <DRUG>chondroityna</DRUG>, fizykoterapia.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna reumatologiczna, <DATE>08.06.2024</DATE>. <PERSON>Magdalena Senger</PERSON>, PESEL <PESEL>78121234567</PESEL>, zam. <ADDRESS>ul. Spacerowa 44, 02-385 Warszawa</ADDRESS>. Powikłania <DISEASE>RZS</DISEASE>: <DISEASE>zespół suchego oka</DISEASE> (Sjögren-like), <DISEASE>anemia</DISEASE> stan. Badania: <TEST>HCV</TEST> negatywny, <TEST>TFT</TEST> w normie, <TEST>białko uriny</TEST> ujemne (brak <DISEASE>nefropatii</DISEASE>). Uzupełniam <DRUG>hydroxychlorochinę</DRUG>, dalej biologik <DRUG>tocilizumab</DRUG> IV co 4 tyg.
+
+<<<SAMPLE>>>
+
+Recepta stomatologiczna z konsultacją reumatologiczną, <DATE>05.06.2024</DATE>. <PERSON>Janusz Komorowski</PERSON>, <ADDRESS>Łódź, Gdańska 27/1</ADDRESS>, tel. <PHONE>788 567 234</PHONE>. Diagnoza: <DISEASE>paradontoza</DISEASE> w związku z <DISEASE>RZS</DISEASE>. Zalecam: <DRUG>chlorheksydynę</DRUG> 0.2% — płukanie 2×dziennie, <DRUG>alopurinol</DRUG> zwolnienie do stomatologa (ryzyko interakcji), wizyta u reumatologu przed zabiegami periodontalnymi.
+
+<<<SAMPLE>>>
+
+Badanie fizykalne i laboratoryjne, <DATE>02.06.2024</DATE>. <PERSON>Urszula Wiśniewski</PERSON>, wiek 68. Objawy: <DISEASE>sztywność</DISEASE> okolic szyi i ramion rano (>2 godz.), <DISEASE>bóle mięśni</DISEASE>, słabość. Podejrzenie <DISEASE>zapalenia mięśni</DISEASE> lub <DISEASE>polimialgia reumatyczna</DISEASE>. <TEST>CRP</TEST> 28 mg/l, <TEST>OB</TEST> 40 mm/h, <TEST>CPK</TEST> 85 U/l (norma). Rozpoczynam <DRUG>prednizon</DRUG> 1 mg/kg/dzień malejąco; <TEST>rezonans</TEST> mięśni bioder.
+
+<<<SAMPLE>>>
+
+Notatka ze względów ubezpieczeniowych, <DATE>07.06.2024</DATE>. <PERSON>Henryk Lewczyk</PERSON>, PESEL <PESEL>59042156789</PESEL>, zam. <ADDRESS>Kraków, Prądnicka 51/8</ADDRESS>. Pacjent długotrwale leczony z <DISEASE>RZS</DISEASE>; wniosek o przedłużenie zwolnienia z pracy. Status: aktywna choroba mimo terapii <DRUG>infliksimabem</DRUG>, <DISEASE>obrzęk</DISEASE> i <DISEASE>bolesność</DISEASE> wielu stawów (indeks aktywności DAS28 = 5.2). Rekomendacja: 4 tygodnie absencji, potem reewaluacja.
+
+<<<SAMPLE>>>
+
+Konsultacja telemedyczna, <DATE>06.06.2024</DATE>. <PERSON>Grażyna Nowak</PERSON>, wiek 55 lat, <ADDRESS>Wrocław, Świdnicka 19/5</ADDRESS>, tel. <PHONE>601 777 888</PHONE>. Pacjentka zgłasza: nowy <DISEASE>guz</DISEASE> okolicy łokcia (mogą być <DISEASE>reumatoidalne nodule</DISEASE>). Pobieramy <TEST>USG</TEST> miejscowego i <TEST>RTG</TEST> — przed wizytą stacjonarną. Równocześnie zwiększam dawkę <DRUG>metotreksatu</DRUG> do 20 mg/tydz., <DRUG>kwas foliowy</DRUG> 5 mg co dzień oprócz dnia aplikacji.
+
+<<<SAMPLE>>>
+
+Badanie laboratoryjne dodatkowe, <DATE>08.06.2024</DATE>. <PERSON>Marian Szust</PERSON>, PESEL <PESEL>52071234567</PESEL>. Podejrzenie <DISEASE>lupusu</DISEASE>: <TEST>ANA</TEST> dodatni (1:640, muszla), <TEST>anti-dsDNA</TEST> 85 IU/ml (+), <TEST>C3</TEST> 0.70 g/l (obniżony), <TEST>C4</TEST> 0.12 g/l (obniżony). <DISEASE>Proteinuria</DISEASE> 2+ w moczu. Kieruję na <TEST>biopsję nerek</TEST> przed włączeniem <DRUG>cyklofosfamidu</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka z zakresu rehabilitacji, <DATE>03.06.2024</DATE>. <PERSON>Dorota Lewandowska</PERSON>, zam. <ADDRESS>ul. Pułaskiego 7, 90-001 Łódź</ADDRESS>. Po zaostrzeniu <DISEASE>RZS</DISEASE>, zalecam: fizykoterapia — zmienność ruchu (<DISEASE>sztywność</DISEASE> po nocy), masaż, elektroterapia. <DRUG>Żel ulgowy</DRUG> z <DRUG>pipenonem</DRUG>. Ćwiczenia domowe 2×dziennie. Przezwyciężenie <DISEASE>atrofii</DISEASE> mięśni zaproponować <DRUG>wzmacniające</DRUG> ćwiczenia.
+
+<<<SAMPLE>>>
+
+Opis <TEST>badania scintigraficznego</TEST> kości, <DATE>05.06.2024</DATE>. <PERSON>Witold Kowalski</PERSON>, wiek 62. Wskazanie: ocena zapalenia — wszczepione <DRUG>Tc-99m</DRUG>. Obraz: ogniska nasilenia wychwytu w przednio-bocznych partach obu dłoni, zapięściach (wskazanie dla <DISEASE>RZS</DISEASE>), stawów skokowych. Lokalizacja zmian jest wieloogniskowa. Zalecam potwierdzenie <TEST>RTG</TEST> dłoni.
+
+<<<SAMPLE>>>
+
+E-recepta ginekologa, <DATE>01.06.2024</DATE>. <PERSON>Inga Müller-Sowa</PERSON>, PESEL <PESEL>83060234567</PESEL>, <ADDRESS>Gdańsk, Gdańska 150/7</ADDRESS>. Historia: <DISEASE>RZS</DISEASE> + planowana ciąża. Zamieniamy <DRUG>metotreksat</DRUG> (teratogeniczny) na <DRUG>sulfasalazynę</DRUG> 1g 3×dziennie + <DRUG>prednizon</DRUG> 5 mg/dzień. Zalecam witaminę <DRUG>B12</DRUG> i <DRUG>kwas foliowy</DRUG> (interakcja sulfasalazyny). Wizyta u reumatologu po potwierdzeniu ciąży.
+
+<<<SAMPLE>>>
+
+Notatka pooperacyjna, <DATE>04.06.2024</DATE>. <PERSON>Jerzy Wójcik</PERSON>, wiek 71, <ADDRESS>ul. Limanowskiego 8, 40-007 Katowice</ADDRESS>, tel. <PHONE>509 234 567</PHONE>. Przebieg: <TEST>artroskopowa synovektomia</TEST> kolana L z powodu <DISEASE>zapalenia błony maziowej</DISEASE> opornego na <DRUG>prednizon</DRUG> i biologiki. Pobranie <TEST>płynu stawowego</TEST> — kultury ujemne, <TEST>morfologia</TEST> ujemna. Materiał do <TEST>badania histopatologicznego</TEST>. Post-op: <DRUG>tramadol</DRUG> p.o., immobilizacja 2 dni.
+
+<<<SAMPLE>>>
+
+Konsultacja onkologiczna z reumatologią, <DATE>06.06.2024</DATE>. <PERSON>Halina Majchrzak</PERSON>, PESEL <PESEL>61082567890</PESEL>. Historia: <DISEASE>RZS</DISEASE> na <DRUG>infliksimabem</DRUG> + nowa <DISEASE>chłoniak</DISEASE> typu B-komórkowy (diagnostyka zanegowana 4 lata temu). Oncolog rekomenduje zmianę biologiku na <DRUG>abatacept</DRUG> (mniejsze ryzyko nowotworu). Plan: chemioterapia CHOP, monitorowanie komputerowe <TEST>PET-CT</TEST>.
+
+<<<SAMPLE>>>
+
+Badanie ogólne z markerami zapalenia, <DATE>07.06.2024</DATE>. <PERSON>Zofia Piotrkowska</PERSON>, wiek 58, <ADDRESS>Warszawa, Mokotów, Wawelska 12/3</ADDRESS>. Pacjentka bez znanej <DISEASE>RZS</DISEASE>, ale <DISEASE>artralgii</DISEASE> wielostawowe przez 3 miesiące. <TEST>RF</TEST> 38 IU/ml (± donny), <TEST>anti-CCP</TEST> 65 U/ml (dodatni), <TEST>CRP</TEST> 8.5 mg/l. Potwierdzona <DISEASE>RZS</DISEASE> we wczesnym stadium. Wprowadzam <DRUG>metotreksat</DRUG> 10 mg/tydz. i <DRUG>indometacynę</DRUG> 50 mg 2×dziennie.
+
+<<<SAMPLE>>>
+
+Notatka psychiatra + reumatolog, <DATE>02.06.2024</DATE>. <PERSON>Karol Szafran</PERSON>, PESEL <PESEL>71031234567</PESEL>, zam. <ADDRESS>ul. Brzozowa 21, 25-001 Radom</ADDRESS>. Pacjent z <DISEASE>RZS</DISEASE> i wtórną <DISEASE>depresją</DISEASE>. <TEST>HADS</TEST> = 18 (depresja umiarkowana). Nie mogę zwiększać <DRUG>prednizonów</DRUG> (psychoza). Dodaję <DRUG>sertraliną</DRUG> 50 mg p.o., zalecam psychoterapię. Biologik <DRUG>tocilizumab</DRUG> wspomaga też nastrój (wg słowa pracy).
+
+<<<SAMPLE>>>
+
+Ocena niepełnosprawności, <DATE>05.06.2024</DATE>. <PERSON>Elżbieta Wróbel</PERSON>, wiek 64, <ADDRESS>Poznań, Nowe Miasto 7, 61-001</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Diagnoza: zaawansowana <DISEASE>RZS</DISEASE> z <DISEASE>zniekształceniami</DISEASE> dłoni i stóp. Funkcja ruchowa ograniczona (HAQ = 2.5). Wniosek o rentę niepełnosprawności — zatwierdzona na 12 miesięcy ze względu na <DISEASE>brak możliwości pracy</DISEASE> (wszystkie stawy zaangażowane).
+
+<<<SAMPLE>>>
+
+Sprawozdanie ze szpitalnego oddziału przychodni, <DATE>08.06.2024</DATE>. <PERSON>Bronisław Kędzierski</PERSON>, PESEL <PESEL>48090456789</PESEL>. Pacjent 76-letni, <ADDRESS>Kraków, Kazimierza Wielkiego 34/2</ADDRESS>. <DISEASE>Reaktywacja TBC</DISEASE> — niedawno zastosowany biologik <DRUG>TNF-α inhibitor</DRUG>. <TEST>RTG klatki</TEST> — <DISEASE>infiltraty</DISEASE> w górnym płacie prawego płuca. <TEST>Mantuks</TEST> dodatni. Kieruję na oddział zakaźny. Przerwać biologik, rozpocząć <DRUG>izoniazyd</DRUG> + <DRUG>ryfampicynę</DRUG> (+2 leki na 6 m-cy).
+
+<<<SAMPLE>>>
+
+Recepta z diagnozą powikłań, <DATE>03.06.2024</DATE>. <PERSON>Stanisław Górski</PERSON>, wiek 69, <ADDRESS>ul. Powstańców Warszawy 18/1, 91-201 Łódź</ADDRESS>. Diagnoza: <DISEASE>HZO</DISEASE> (powikłanie <DISEASE>RZS</DISEASE> i <DRUG>metotreksatu</DRUG>). Leczenie: <DRUG>acyklowir</DRUG> 800 mg 5×dziennie przez 7 dni, <DRUG>tramadol</DRUG> na ból post-neuralgiczny, <DRUG>paracetamol</DRUG> 1000 mg 3×dziennie. <DRUG>Metotreksat</DRUG> wznowić po 2 tyg. od czasu wysypki.
+
+<<<SAMPLE>>>
+
+Opis zapalenia przysadki i wsierdzia, <DATE>06.06.2024</DATE>. <PERSON>Roman Borkowski</PERSON>, PESEL <PESEL>57101234567</PESEL>, zam. <ADDRESS>Wrocław, Ołbina, Wyszyńskiego 44/8</ADDRESS>, tel. <PHONE>698 765 432</PHONE>. Pacjent z <DISEASE>RZS</DISEASE> + nowe: <DISEASE>zapalenie pochewek ścięgnów</DISEASE> w nadgarstku + <DISEASE>zapalenie błony osierdziowej</DISEASE> (wysiłek, szmer). <TEST>EKG</TEST> — zmiana odcinka ST. <TEST>Echokardiografia</TEST> — trzeszczący szmer, <DISEASE>płyn osierdziowy</DISEASE>. Hospitalizacja, pulsacyjny <DRUG>metyloprednizolon</DRUG>, <TEST>cardiac MRI</TEST>.
+
+<<<SAMPLE>>>
+
+Notatka z punktu diagnostyczno-leczniczego, <DATE>04.06.2024</DATE>. <PERSON>Alicja Żak</PERSON>, wiek 61, <ADDRESS>Łódź, ul. Kopernika 5/2</ADDRESS>. Procedura: <TEST>przezskórne infiltracje złoża GK</TEST> w stawach międzypaliczkowych obu dłoni (5 zastrzyków). Wskazanie: <DISEASE>bolesność</DISEASE> oporna na <DRUG>NLPZ</DRUG> i <DRUG>glukokortykoidów</DRUG>. <TEST>USG</TEST>-kontrola przed zastrzykiem. Rezultat: zmniejszenie bólu w 80%. <DRUG>Prednizon</DRUG> malejąco 2.5 mg/dzień.
+
+<<<SAMPLE>>>
+
+Badanie serologiczne kompleksowe, <DATE>01.06.2024</DATE>. <PERSON>Wacław Dembowski</PERSON>, PESEL <PESEL>54042334567</PESEL>. Pacjent starszy (wiek 70), <ADDRESS>ul. Piastowska 11, 85-001 Gdańsk</ADDRESS>. Diagnoza: <DISEASE>ANCA-vasculitis</DISEASE> (pANCA+, <TEST>MPO-ANCA</TEST> dodatni). <DISEASE>Zapalenie małych naczyń</DISEASE> — purpura na nogach, <DISEASE>zapalenie nerek</DISEASE>. <TEST>Kreatynina</TEST> 1.8 mg/dl. Plany: <DRUG>prednizon</DRUG> 1 mg/kg + <DRUG>cyklofosfamid</DRUG> IV, monitorowanie <TEST>eGFR</TEST>.
+
+<<<SAMPLE>>>
+
+Konsultacja dermatologa + reumatolog, <DATE>07.06.2024</DATE>. <PERSON>Ewa Lipiec</PERSON>, wiek 45, <ADDRESS>Kraków, Prądnicka 71/4</ADDRESS>, tel. <PHONE>790 234 567</PHONE>. Nowe: <DISEASE>rumień dyskoidalny</DISEASE> na policzkach i nosie. Historia: <DISEASE>RZS</DISEASE> na <DRUG>sulfasalazynie</DRUG>. Podejrzenie <DISEASE>łącznikowego zapalenia tkanki</DISEASE> (overlap). <TEST>ANA</TEST> positiv, <TEST>anti-Ro/SS-A</TEST> ujemny, <TEST>anti-La/SS-B</TEST> ujemny. Dodaję <DRUG>hydroxychlorokinę</DRUG> 200 mg 2×dziennie.
+
+<<<SAMPLE>>>
+
+Notatka z poradni ortopedyczno-reumatologicznej, <DATE>05.06.2024</DATE>. <PERSON>Mieczysław Ratajczak</PERSON>, PESEL <PESEL>59031456789</PESEL>, zam. <ADDRESS>Poznań, ul. Grunwaldzka 28/5</ADDRESS>. Objawy: <DISEASE>zwyrodniennie</DISEASE> wiele stawów + <DISEASE>ból neuropatyczny</DISEASE> nóg (mogą być neuropatia od <DISEASE>RZS</DISEASE> lub <DRUG>biologiku</DRUG>). <TEST>EMG</TEST> w realizacji. Analgetyka: <DRUG>pregabalina</DRUG> 300 mg 3×dziennie, <DRUG>tramadol</DRUG> p.o. na ostateczność.
+
+<<<SAMPLE>>>
+
+Badanie kontrolne pacjenta na <DRUG>biologiku</DRUG>, <DATE>02.06.2024</DATE>. <PERSON>Janina Szulc</PERSON>, wiek 53, <ADDRESS>Warszawa, Piaseczno, ul. Główna 42/1</ADDRESS>. Pacjentka na <DRUG>abatacepcie</DRUG> IV co 4 tyg. od 18 miesięcy. Status: <DISEASE>remisja</DISEASE> kliniczna (brak bólu, <DISEASE>obrzęków</DISEASE>). <TEST>CRP</TEST> 2.1 mg/l, <TEST>RF</TEST> 22 IU/ml. Pracuje pełnoetatowo, bez ubytków funkcji. Kontynuujemy — wizyta za 8 tyg.
+
+<<<SAMPLE>>>
+
+Opis <TEST>badania ultrasonograficznego</TEST> tkanek miękkich, <DATE>06.06.2024</DATE>. <PERSON>Sławomir Mazurkiewicz</PERSON>, wiek 67, <ADDRESS>ul. Kilińskiego 55/3, 90-004 Łódź</ADDRESS>, tel. <PHONE>665 789 123</PHONE>. Wskazanie: <DISEASE>obrzęk</DISEASE> prawego kolana. Obraz: <DISEASE>wysiąk</DISEASE> w stawu kolanowym (wymiary 45×20 mm), <DISEASE>zapalenie błony maziowej</DISEASE> (obraz het). <DISEASE>Podróży spłycone</DISEASE> — możliwość skrępowania ruchów. <TEST>Punkcja terapeutyczna</TEST> — 40 ml żółtego płynu, zlecam <TEST>badanie mikrobiologiczne</TEST>.
+
+<<<SAMPLE>>>
+
+Epikryza tymczasowa z SOR, <DATE>08.06.2024</DATE>. <PERSON>Regina Lewkowska</PERSON>, PESEL <PESEL>62121234567</PESEL>. Historia: 20 lat z <DISEASE>RZS</DISEASE>, zawsze niskiej aktywności. Dziś: ostry <DISEASE>obrzęk</DISEASE> i <DISEASE>zapalenie</DISEASE> stawu biodrowego lewego — możliwa infekcja stawu (przeciw temu: <DISEASE>zapalenie</DISEASE> reaktywne czy sepsa). <TEST>CBC</TEST> 16.5 G/l (leuko), <TEST>CRP</TEST> 48 mg/l. Kieruję na <TEST>artroskopię</TEST> diagnostyczną na <HOSPITAL>Szpital Wojewódzki nr 2</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Recepta kontrolna z procedury <TEST>biopsy synovium</TEST>, <DATE>03.06.2024</DATE>. <PERSON>Tadeusz Brąz</PERSON>, wiek 71, <ADDRESS>Kraków, ul. Bociana 16/7</ADDRESS>. Wynik: <DISEASE>chroniczne zapalenie błony maziowej</DISEASE>, obecne plazmocyty i limfocyty. Diagnoza potwierdzona. Leczenie: <DRUG>tocilizumab</DRUG> IV co 4 tygodnie (blokada IL-6). <DRUG>Prednizon</DRUG> malejąco 5 mg/dzień. Fizjoterapia, dieta, unikać alkoholu.
+
+<<<SAMPLE>>>
+
+Notatka z poradni specjalistycznej, <DATE>07.06.2024</DATE>. <PERSON>Maja Sokół</PERSON>, PESEL <PESEL>81012234567</PESEL>, zam. <ADDRESS>Wrocław, Nowy Dwór, Małowiejska 9/4</ADDRESS>. Pacjentka na <DRUG>metotreksacie</DRUG> od 2 lat; teraz planuję <DRUG>biopsję wątroby</DRUG> (fibroza z powodu <DRUG>metotreksatu</DRUG> — podwyższone <TEST>AST</TEST>, <TEST>ALT</TEST>). Przed <TEST>biopsją</TEST>: <TEST>USG wątroby</TEST>, <TEST>elastografia</TEST>. Propozycja: zmiana na <DRUG>sulfasalazynę</DRUG> lub biologik.
+
+<<<SAMPLE>>>
+
+Konsultacja z zespołem chirurgii stawów, <DATE>04.06.2024</DATE>. <PERSON>Zbigniew Kozioł</PERSON>, wiek 64, <ADDRESS>ul. Pilsudskiego 22/1, 31-109 Kraków</ADDRESS>, tel. <PHONE>602 345 678</PHONE>. Pacjent z zaawansowaną <DISEASE>RZS</DISEASE>, wskazanie do <TEST>całkowitej artroplastyki stawu kolanowego</TEST> prawego (destrukcja chrzęstki, <DISEASE>zniekształcenie</DISEASE>). Planujemy operację; pre-op: <TEST>badania ogólne</TEST>, <TEST>EKG</TEST>, konsultacja anestezji. Zabiegi zaplanowany na <HOSPITAL>Szpital MSWiA</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Badanie serologiczne przy nowym rozpoznaniu, <DATE>01.06.2024</DATE>. <PERSON>Anna Dudek</PERSON>, PESEL <PESEL>89060534567</PESEL>. Pacjentka ze świeżego rozpoznania <DISEASE>RZS</DISEASE> (ból wielostawowy 4 tyg.). <TEST>RF</TEST> 120 IU/ml, <TEST>anti-CCP</TEST> 180 U/ml, <TEST>CRP</TEST> 22 mg/l, <TEST>morfologia</TEST> bez zmian. Zlecam <TEST>RTG dłoni</TEST> (ocena erosji), <TEST>USG stawów</TEST>. Szybka inicjacja <DRUG>metotreksatu</DRUG> (DMARD) — początek 7.5 mg/tydz., zwiększać co 4 tyg. do 25 mg.
+
+<<<SAMPLE>>>
+
+Notatka z kardiologii (reumatologia consultado), <DATE>06.06.2024</DATE>. <PERSON>Katarzyna Nowacka</PERSON>, wiek 58, <ADDRESS>Poznań, Malta, Garbary 15/2</ADDRESS>. Historia: <DISEASE>RZS</DISEASE> na <DRUG>biologiku</DRUG> + nowa <DISEASE>arytmia komorowa</DISEASE> (możliwe powikłanie kardiologiczne lub efekt uboczny <DRUG>tocilizumabu</DRUG>). <TEST>EKG</TEST> — kompleksy QRS rozszerzone. <TEST>Holter</TEST> — ektopy 2500/dobę. <TEST>Echokardiografia</TEST> — dysfunkcja skurczowa (EF 35%). Rozważam zmianę biologiku, konsultacja elektrofizjologa.

@@ -1,0 +1,62 @@
+Zapalenie żołądka i jelit, <DATE>23.05.2024</DATE>, SOR. <PERSON>Maria Kowalska</PERSON>, PESEL <PESEL>76052314789</PESEL>, <ADDRESS>Kraków, ul. Szeroka 12/3, 31-053</ADDRESS>. Kontakt <PHONE>798 456 123</PHONE>. Biegunka, wymioty 3 dni. W <TEST>morfologii</TEST> leukopenią. Podejrzenie <DISEASE>rotawirusu</DISEASE>. Rzucono sonda, <TEST>gastrografia</TEST> w normie. Paracetamol, rehydracja. Przekazano do <HOSPITAL>Szpitala Miejskiego</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka gastro, <DATE>08.06.2024</DATE>. Pan <PERSON>Andrzej Nowak</PERSON>, PESEL <PESEL>62031845612</PESEL>, zam. <ADDRESS>Poznań, Nowe Miasto 42/7</ADDRESS>, tel. <PHONE>602 789 456</PHONE>. Skarga: zawroty głowy, nudności. W USG brzucha — <DISEASE>kamienie żółciowe</DISEASE> (4 mm). <TEST>lipaza</TEST> 88 U/l. Zalecono dieta niskoheistyczna. <DRUG>Metoclopramida</DRUG> 10 mg x3 dziennie. Wizyta kontrolna za 3 tygodnie.
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>15.04.2024</DATE>. <PERSON>Ewa Lewandowska</PERSON>, PESEL <PESEL>88111256789</PESEL>, <ADDRESS>ul. Główna 5, Wrocław 50-001</ADDRESS>. Nr tel <PHONE>723 654 321</PHONE>. Objawy: ból epigastrialny, zgaga. <TEST>endoskopia górnego odcinka przewodu pokarmowego</TEST> zaplanowana. <DRUG>Omeprazol</DRUG> 20 mg x1 rano. <DRUG>Gaviscon</DRUG> p.o. Badań nie było. Powrót za tydzień.
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>19.02.2024</DATE>. <PERSON>Piotr Zieliński</PERSON>, PESEL <PESEL>71082743156</PESEL>, <ADDRESS>ul. Akacjowa 18, Gdańsk, 80-002</ADDRESS>, tel. <PHONE>889 123 789</PHONE>. Przyjęcie: <DISEASE>zapalenie jelit cienkich</DISEASE>. Przetoczono <DRUG>Ceftriakson</DRUG> 2 g x2 iv, <DRUG>Metronidazol</DRUG> 500 mg x3 iv. <TEST>CT brzucha</TEST> — ścieńczenie ściany. <TEST>CRP</TEST> 156 mg/l. Wypisany w stanie bez zmian, zalecenia p.o. <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>.
+<<<SAMPLE>>>
+Opis radiologiczny, <DATE>27.11.2023</DATE>. Pacjent: <PERSON>Krzysztof Sołtys</PERSON>, PESEL <PESEL>65041789234</PESEL>, <ADDRESS>Wrocław, Opatrznościowa 34/2</ADDRESS>. <PHONE>668 234 567</PHONE>. <TEST>USG wątroby i pęcherzyka żółciowego</TEST>. Stwierdzono <DISEASE>torbielę śluzową pęcherzyka</DISEASE>, wymiary 6x4 cm, bez cech zapalenia. Rekomendacja: obserwacja. Żadnej operacji nie zalecono.
+<<<SAMPLE>>>
+Skierowanie na USG, <DATE>03.06.2024</DATE>. <PERSON>Joanna Wójcik</PERSON>, PESEL <PESEL>91061245678</PESEL>, <ADDRESS>ul. Łąkowa 7, 02-001 Warszawa</ADDRESS>, <PHONE>512 345 678</PHONE>. Objawy: ból wzdęcia po jedzeniu, biegunka. Lekarz: dr <PERSON>Tomasz Lewandowski</PERSON>. Wstępny obraz <DISEASE>choroby Crohna</DISEASE>. <TEST>MRI brzucha</TEST> w godz. 10.
+<<<SAMPLE>>>
+Notatka z konsultacji, <DATE>12.01.2024</DATE>. <PERSON>Barbara Nowak</PERSON>, PESEL <PESEL>72050312456</PESEL>, <ADDRESS>Katowice, ul. Słoneczna 11, 40-001</ADDRESS>, tel <PHONE>731 456 789</PHONE>. Pacjentka po <DISEASE>resekcji żołądka</DISEASE> 5 lat temu. Wymaga suplementacji B12. Podano <DRUG>Cyjankobalamina</DRUG> im 1000 µg co 3 miesiące. <TEST>Poziom B12</TEST> 345 pg/ml. Zalecono dieta bogatowarywna.
+<<<SAMPLE>>>
+Zaświadczenie, <DATE>22.03.2024</DATE>. <PERSON>Lech Kamiński</PERSON>, PESEL <PESEL>54072156345</PESEL>, <ADDRESS>Łódź, Mickiewicza 25/8, 90-002</ADDRESS>, tel. <PHONE>663 789 012</PHONE>. Pacjent w trakcie leczenia <DISEASE>celiakii</DISEASE>. Zaleca się dieta bezglutenowa. Zwolnienie z pracy na 14 dni. Wizyta u gastroenterologa za 4 tygodnie na <HOSPITAL>Klinyce Gastroenterologii</HOSPITAL>.
+<<<SAMPLE>>>
+Raport z procedury, <DATE>30.05.2024</DATE>. <PERSON>Urszula Szpaderska</PERSON>, PESEL <PESEL>80081234567</PESEL>, <ADDRESS>ul. Cicha 3, Poznań, 61-001</ADDRESS>, <PHONE>789 012 345</PHONE>. <TEST>Kolonoskopia</TEST> bez sedacji. Stwierdzono <DISEASE>polip adenomatozny</DISEASE> Ø 8 mm w odbytnicy, polipektomia. <TEST>Biopsia</TEST> wysłana. Rekomendacja: powtórna kolonoskopia za 1 rok.
+<<<SAMPLE>>>
+Zwrot do POZ, <DATE>04.02.2024</DATE>. <PERSON>Stanisław Misztal</PERSON>, PESEL <PESEL>63050956789</PESEL>, <ADDRESS>Gdynia, ul. Bałtyjska 19, 81-001</ADDRESS>, tel <PHONE>602 567 890</PHONE>. Leczenie szpitalne: <DISEASE>zapalenie trzustki</DISEASE> na tle alkoholizmu. <TEST>Lipaza</TEST> wciąż 245 U/l. Wymaga abstynencji i fizjoterapii. <DRUG>Ranitydin</DRUG> 150 mg x2. Koniec zagraża.
+<<<SAMPLE>>>
+Opis procedury, <DATE>16.04.2024</DATE>. <PERSON>Magdalena Brzozowska</PERSON>, PESEL <PESEL>85101223456</PESEL>, <ADDRESS>ul. Kwiatowa 42, Kraków, 30-999</ADDRESS>, <PHONE>720 123 456</PHONE>. <TEST>Fibrogastroskopia</TEST> w znieczuleniu. Widok: <DISEASE>owrzodzenie w dnie żołądka</DISEASE>, stosunkowo świeże. <DRUG>H. pylori</DRUG> +. Zalecono <DRUG>Amokcyclinę</DRUG> 1 g x2 przez 14 dni.
+<<<SAMPLE>>>
+Czasopismo medyczne, <DATE>25.07.2024</DATE>. Czy <DISEASE>refluksowa choroba żołądka</DISEASE> wymaga operacji? Analiza z <HOSPITAL>Uniwersytetu Jagiellońskiego</HOSPITAL>. Autor: dr <PERSON>Paweł Kucharski</PERSON>. U 78% pacjentów wystarczy <DRUG>Pantoprazol</DRUG> 40 mg x1 rano. Operacja wskazana rzadko.
+<<<SAMPLE>>>
+Recepta ręczna, <DATE>11.03.2024</DATE>. <PERSON>Witold Górski</PERSON>, PESEL <PESEL>56042134567</PESEL>, <ADDRESS>Wrocław, ul. Zacisze 6/3, 51-001</ADDRESS>, <PHONE>691 234 567</PHONE>. <DISEASE>Kwasica żołądka</DISEASE> nawracająca. <DRUG>Ranitydin</DRUG> 150 mg x2 rano i wieczór. <DRUG>Metoclopramida</DRUG> 10 mg x3 bezpośrednio przed posiłkami. Ważna do <DATE>11.04.2024</DATE>.
+<<<SAMPLE>>>
+Notatka pogotowia, <DATE>29.05.2024</DATE>. <PERSON>Regina Wlaziuk</PERSON>, PESEL <PESEL>61091156789</PESEL>, <ADDRESS>ul. Powstańców 15, 20-001 Lublin</ADDRESS>, <PHONE>721 567 890</PHONE>. Nagły ból brzucha. Podejrzenie <DISEASE>nieprzetoki dwunastnicy</DISEASE>. <TEST>RTG brzucha</TEST> — gaz. <TEST>Amylaza</TEST> 345 U/l. Podano <DRUG>Morfina</DRUG> 10 mg iv. Transfer na <HOSPITAL>Szpital Wojewódzki</HOSPITAL>.
+<<<SAMPLE>>>
+Porada specjalisty, <DATE>08.06.2024</DATE>. <PERSON>Dariusz Nowacki</PERSON>, PESEL <PESEL>74021289456</PESEL>, <ADDRESS>Kraków, Nowa 17, 31-000</ADDRESS>, tel. <PHONE>605 890 123</PHONE>. Pacjent z <DISEASE>zapaleniem dwunastnicy</DISEASE>. Zalecam <DRUG>Sulfsalazyna</DRUG> 2 g x3 przez miesiąc. <TEST>Kolonoskopia kontrolna</TEST> za 3 miesiące. Dieta łatwa do trawienia.
+<<<SAMPLE>>>
+Wydanie badania, <DATE>07.12.2023</DATE>. <PERSON>Halina Stankowska</PERSON>, PESEL <PESEL>62121245678</PESEL>, <ADDRESS>ul. Słoneczna 9, Wrocław, 50-101</ADDRESS>, <PHONE>888 345 678</PHONE>. <TEST>Testy na H. pylori</TEST>: serologiczny +, co potwierdzenie wymaga powtórzenia w <DATE>01.2024</DATE>. Pacjentka zaczynać <DRUG>Tetrayklinę</DRUG> z <DRUG>Omeprozolem</DRUG>.
+<<<SAMPLE>>>
+Wniosek o umowę, <DATE>14.02.2024</DATE>. <PERSON>Michał Olszewski</PERSON>, PESEL <PESEL>75061312345</PESEL>, <ADDRESS>Gdańsk, ul. Słowackiego 28/2, 80-001</ADDRESS>, tel <PHONE>602 123 789</PHONE>. Pacjent wymaga leczenia <DISEASE>zapalenia jelit obwodowych</DISEASE>. Dofinansowanie <DRUG>Infliksymabu</DRUG> 5 mg/kg co 8 tyg. Trzeba autoryzacji NFZ.
+<<<SAMPLE>>>
+Historia choroby, <DATE>19.01.2024</DATE>. <PERSON>Wanda Śmigielska</PERSON>, PESEL <PESEL>61030912367</PESEL>, <ADDRESS>Poznań, Górna 44, 61-001</ADDRESS>, <PHONE>723 456 789</PHONE>. Alergia na <DRUG>Penicylinę</DRUG>. Podejrzenie <DISEASE>zapalenia wyrostka robaczkowego</DISEASE>. <TEST>Ultrasonografia</TEST> — wrzód + niejednolite ściany. Zaplanowana <TEST>laparoskopia</TEST> na <DATE>25.01.2024</DATE>.
+<<<SAMPLE>>>
+Skierowanie na badanie krwi, <DATE>05.04.2024</DATE>. <PERSON>Tadeusz Gorczak</PERSON>, PESEL <PESEL>52081456789</PESEL>, <ADDRESS>ul. Leśna 11, Katowice, 40-001</ADDRESS>, <PHONE>695 234 567</PHONE>. Monitorowanie <DISEASE>marskości wątroby</DISEASE>. Zlecam <TEST>INR</TEST>, <TEST>albumina</TEST>, <TEST>bilirubin</TEST> bezpośrednio. Wyniki do <HOSPITAL>Kliniki Hepatologii</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta elektroniczna, <DATE>13.05.2024</DATE>. <PERSON>Danuta Lipińska</PERSON>, PESEL <PESEL>64081234678</PESEL>, <ADDRESS>Warszawa, ul. Marszałkowska 42/5, 00-001</ADDRESS>, <PHONE>789 567 234</PHONE>. Podtrzymujące leczenie <DISEASE>wrzodu trawiennego</DISEASE>. <DRUG>Famotidyna</DRUG> 20 mg x1 wieczorem, <DRUG>Magnesium hydroxide</DRUG> p.o. Liczba porcji: 1, ważna do <DATE>13.06.2024</DATE>.
+<<<SAMPLE>>>
+Notatka z wizyty, <DATE>22.04.2024</DATE>. <PERSON>Rafał Sobczak</PERSON>, PESEL <PESEL>73111812345</PESEL>, <ADDRESS>Łódź, ul. Zachodnia 7/2, 90-001</ADDRESS>, tel. <PHONE>601 345 678</PHONE>. Po operacji <DISEASE>przepukliny pępkowej</DISEASE> 3 miesiące temu. Gojenie bez powikłań. Wraca do aktywności. Zwolnienie z pracy skończyło się.
+<<<SAMPLE>>>
+Informacja o leczeniu, <DATE>31.03.2024</DATE>. <PERSON>Alicja Roskocha</PERSON>, PESEL <PESEL>81050945678</PESEL>, <ADDRESS>ul. Piaskowa 30, Gdynia, 81-001</ADDRESS>, <PHONE>512 678 901</PHONE>. Hospitalizacja na <HOSPITAL>Oddziale Gastroenterologii</HOSPITAL> w związku z <DISEASE>zapaleniem okrężnicy</DISEASE>. <DRUG>Metyloprednizolonu</DRUG> 500 mg x2 iv. <TEST>Morfologia</TEST> przed wypisem. Kontaktu na <DATE>10.04.2024</DATE>.
+<<<SAMPLE>>>
+Opis operacyjny, <DATE>09.06.2024</DATE>. <PERSON>Kazimierz Skowronek</PERSON>, PESEL <PESEL>55020534567</PESEL>, <ADDRESS>ul. Różana 19, Kraków, 30-010</ADDRESS>, <PHONE>721 234 567</PHONE>. Operacja: cholecystektomia laparoskopowa. <DISEASE>Cholecystitis w przebiegu choroby kamicy żółciowej</DISEASE>. Czas: 45 min, bez powikłań. <DRUG>Ceftazydym</DRUG> 1 g perioperacyjnie. Wypisany następnego dnia.
+<<<SAMPLE>>>
+Wynik zakaźności, <DATE>28.02.2024</DATE>. <PERSON>Zofia Antkowiak</PERSON>, PESEL <PESEL>68100534789</PESEL>, <ADDRESS>Wrocław, ul. Kościańska 12, 50-001</ADDRESS>, <PHONE>660 456 789</PHONE>. <TEST>Test na norovirus</TEST>: negatywny. <TEST>Test na rotavirus</TEST>: pozytywny. Izolacja przez 5 dni. Pacjent w <HOSPITAL>Szpitalu Zakaźnym</HOSPITAL>.
+<<<SAMPLE>>>
+Zalecenia dietetyczne, <DATE>06.05.2024</DATE>. <PERSON>Franciszek Pawelski</PERSON>, PESEL <PESEL>57091234567</PESEL>, <ADDRESS>Poznań, ul. Polna 23/4, 61-001</ADDRESS>, tel <PHONE>789 234 567</PHONE>. <DISEASE>Gastroenteropatie związana z łaktozą</DISEASE>. Dieta: bez mleka krowiego. Stosować mleko sojowe. <DRUG>Laktaza</DRUG> w supplements. Powrót za 6 tyg.
+<<<SAMPLE>>>
+Recepta dla pacjenta, <DATE>17.02.2024</DATE>. <PERSON>Irena Modrzejewska</PERSON>, PESEL <PESEL>66020245678</PESEL>, <ADDRESS>ul. Centralna 38, Gdańsk, 80-001</ADDRESS>, <PHONE>661 789 234</PHONE>. <DISEASE>Zapalenie żołądka z bielmą</DISEASE>. <DRUG>Sucralfat</DRUG> 1 g x4 na 1 godzinę przed jedzeniem. Dieta bez kawy i alkoholu. Ważna do <DATE>17.03.2024</DATE>.
+<<<SAMPLE>>>
+Potwierdzenie diagnozy, <DATE>24.06.2024</DATE>. <PERSON>Stefan Gajda</PERSON>, PESEL <PESEL>59031289345</PESEL>, <ADDRESS>Katowice, Nowy Świat 15, 40-001</ADDRESS>, <PHONE>732 567 890</PHONE>. <TEST>Endoskopia верхних odcinków przewodu pokarmowego</TEST> wykazała <DISEASE>dysplazję śluzu żołądka</DISEASE>. <TEST>Biopsja</TEST> wysłana do histopatologii. Wizyta za tydzień.
+<<<SAMPLE>>>
+Konsultacja online, <DATE>01.06.2024</DATE>. <PERSON>Joanna Urbańska</PERSON>, PESEL <PESEL>87112034567</PESEL>, <ADDRESS>Warszawa, ul. Żwirki i Wigury 21, 02-001</ADDRESS>, tel. <PHONE>505 123 456</PHONE>. Pacjentka z <DISEASE>zespołem jelita drażliwego</DISEASE>. Przyjmuje <DRUG>Trimebutin</DRUG> 200 mg x3. Objawy: lepsza ze stołeczna. Zalecam terapeutę, dieta FODMAP.
+<<<SAMPLE>>>
+Fax do kolegi, <DATE>12.04.2024</DATE>. Drogi <PERSON>Stanisław Kowalczyk</PERSON>, pacjent <PERSON>Bernard Sikora</PERSON>, PESEL <PESEL>61050912456</PESEL>, <ADDRESS>ul. Kwiatowa 50, Łódź, 90-001</ADDRESS>, <PHONE>691 456 789</PHONE>. <TEST>Biopsja wątroby</TEST> potwierdzała <DISEASE>stłuszczenie wątroby</DISEASE> (grade 2). Proszę zalecić brak alkoholu. Pozdrawiam <PERSON>Michał Kędzierski</PERSON>.
+<<<SAMPLE>>>
+Zaświadczenie chorobowe, <DATE>11.05.2024</DATE>. <PERSON>Zenon Malinowski</PERSON>, PESEL <PESEL>53110134678</PESEL>, <ADDRESS>Gdynia, ul. Flota 6/2, 81-001</ADDRESS>, tel <PHONE>723 789 012</PHONE>. Leczenie szpitalne <DISEASE>zapalenia pęcherzyka żółciowego</DISEASE> z wylotem żółci. Zwolnienie z pracy na 21 dni. Powtórna wizyta <DATE>01.06.2024</DATE>.
+<<<SAMPLE>>>
+Lista leków domowych, <DATE>20.03.2024</DATE>. <PERSON>Krystyna Cieślik</PERSON>, PESEL <PESEL>70111212345</PESEL>, <ADDRESS>Wrocław, ul. Kolejowa 19, 50-001</ADDRESS>, <PHONE>668 234 567</PHONE>. Bieżące: <DRUG>Omeprazol</DRUG> 20 mg, <DRUG>Donperidone</DRUG> 10 mg x2, <DRUG>Probiotyk Bifidobacterium</DRUG> codziennie. Suplementy: <DRUG>Cynk</DRUG>, <DRUG>Witamina C</DRUG>.
+<<<SAMPLE>>>

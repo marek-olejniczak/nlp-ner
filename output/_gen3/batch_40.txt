@@ -1,0 +1,66 @@
+Notatka z SOR, <DATE>8.11.2024</DATE>. Pacjent <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>72051843567</PESEL>, zam. <ADDRESS>ul. Warszawska 15, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>123 456 789</PHONE>. Zgłoszył się z podejrzeniem <DISEASE>anemii</DISEASE>. <TEST>Morfologia krwi</TEST>: Hb 7.2 g/dl, Hct 22%, RBC 2.1 mln/µl. <TEST>Retikulocyty</TEST> 0.3%. Podejrzenie <DISEASE>niedokrwistości mikrocytarnej</DISEASE>. Bezpieczeństwo ok. Zalecono hospitalizację.
+<<<SAMPLE>>>
+Epikryza z oddziału hematologii, <DATE>15.03.2024</DATE>. Pan <PERSON>Robert Kowalski</PERSON>, PESEL <PESEL>56072134456</PESEL>, <ADDRESS>Kraków, ul. Floriańska 22/5</ADDRESS>. Diagnoza podstawowa: <DISEASE>niedokrwistość hemolityczna</DISEASE>. Badania: <TEST>bilinubina całkowita</TEST> 3.8 mg/dl, <TEST>LDH</TEST> 890 U/l, <TEST>haptoglobina</TEST> 12 mg/dl. Zastosowano <DRUG>prednizolon</DRUG> 60 mg/d p.o. Pacjent wypisany w stanie dobrym.
+<<<SAMPLE>>>
+Zapis z poradni POZ, <DATE>22.05.2024</DATE>. Pani <PERSON>Anna Nowak</PERSON>, PESEL <PESEL>64040567432</PESEL>, tel. <PHONE>501 234 567</PHONE>. Zgłoszenie: zmęczenie, duszność. <TEST>Morfologia</TEST>: Hb 8.9 g/dl, WBC 3.2 K/µl. <DISEASE>Podejrzenie anemii nutritywnej</DISEASE>. Zaordered <TEST>żelazo</TEST>, <TEST>B12</TEST>, <TEST>kwas foliowy</TEST>. Referral na <HOSPITAL>Poradnia Hematologiczna</HOSPITAL>.
+<<<SAMPLE>>>
+SOR, <DATE>3.01.2025</DATE>. Mężczyzna 58 lat, <PERSON>Piotr Szymański</PERSON>, PESEL <PESEL>66081223445</PESEL>, <ADDRESS>ul. Lipowa 8, Warszawa</ADDRESS>. Nagle pogorszenie stanu. <TEST>RR</TEST> 160/95, <TEST>HR</TEST> 112. <TEST>Morfologia</TEST>: Hb 6.8, Hct 20%, Plt 450 K/µl. <DISEASE>Kryzys hemolityczny</DISEASE>. Podano <DRUG>O-neg</DRUG> 2 j. Konsultacja hematologa, planowana hospitalizacja.
+<<<SAMPLE>>>
+Notatka zawiera dane pacjentki: <PERSON>Maria Bąk</PERSON>, ur. <DATE>14.07.1989</DATE>, PESEL <PESEL>89071412345</PESEL>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>, tel. <PHONE>789 123 456</PHONE>. Czułość cardiaca. <TEST>EKG</TEST> normal. <TEST>Troponina</TEST> negatywna. <TEST>Hb</TEST> 9.2. Zalecono <DRUG>ibuprofen</DRUG> 400 mg i zmianę diety.
+<<<SAMPLE>>>
+Opis z USG, <DATE>29.06.2024</DATE>. <PERSON>Janusz Nowicki</PERSON>, PESEL <PESEL>61083012567</PESEL>, <ADDRESS>ul. Różana 42, Łódź</ADDRESS>. <TEST>Ultrasonografia śledziony</TEST>: splenomegalia, wymiary 14 cm. <DISEASE>Powiększenie śledziony</DISEASE> w przebiegu <DISEASE>niedokrwistości hemolitycznej</DISEASE>. <TEST>LDH</TEST> 780 U/l. Zalecono <TEST>TK klatki</TEST>.
+<<<SAMPLE>>>
+Recepta elektroniczna, <DATE>7.10.2024</DATE>. <PERSON>Ewa Michalska</PERSON>, PESEL <PESEL>80091534567</PESEL>, <ADDRESS>ul. Główna 3, Wrocław</ADDRESS>. Diagnoza: <DISEASE>niedokrwistość z niedoboru żelaza</DISEASE>. Receptury: <DRUG>Tardyferon</DRUG> 80 mg 1x dziennie, <DRUG>kwas ascorbinowy</DRUG> 500 mg. Ponad 3 miesiące.
+<<<SAMPLE>>>
+Z poradni hematologicznej, <DATE>12.02.2024</DATE>. Pacjent: <PERSON>Andrzej Krawczyk</PERSON>, PESEL <PESEL>59040234123</PESEL>, tel. <PHONE>601 789 234</PHONE>, <ADDRESS>Gdynia, ul. Morska 5/2</ADDRESS>. <DISEASE>Drażliwe zespoły mielodysplazji</DISEASE>. <TEST>Morfologia</TEST>: Hb 8.0, WBC 2.5, Plt 85. <TEST>Mielograma</TEST> w toku. <DRUG>Epoetin</DRUG> 4000 j. tygodniowo s.c.
+<<<SAMPLE>>>
+Notatka SOR z <DATE>19.08.2024</DATE>. Pani <PERSON>Teresa Wolska</PERSON>, 72 lata, PESEL <PESEL>52041856789</PESEL>, <ADDRESS>Białystok, ul. Antonikowska 22</ADDRESS>. Upadek. <TEST>Hb</TEST> 6.5, <TEST>Hct</TEST> 19%. <DISEASE>Ostra krwawienie</DISEASE>. Podano <DRUG>O-neg</DRUG> 3j, <DRUG>FFP</DRUG> 4 j. <HOSPITAL>Szpital Wojewódzki</HOSPITAL>. Operacja zaplanowana.
+<<<SAMPLE>>>
+Epikryza hematologiczna, <DATE>26.04.2024</DATE>. <PERSON>Krzysztof Nowak</PERSON>, PESEL <PESEL>64071334456</PESEL>, zam. <ADDRESS>ul. Słowackiego 12, Poznań</ADDRESS>, tel. <PHONE>502 345 678</PHONE>. Diagnoza: <DISEASE>limfoma Hodgkina, stadium II</DISEASE>. <TEST>PET-CT</TEST> zmienione. Etap 1 chemoterapii ABVD kompletu.
+<<<SAMPLE>>>
+Z dnia <DATE>11.11.2024</DATE>. Pacjent <PERSON>Sławomir Baranowski</PERSON>, PESEL <PESEL>55062134567</PESEL>, <ADDRESS>Katowice, Nowy Świat 8/3</ADDRESS>. <DISEASE>Polycytemia vera</DISEASE>. Masywna <DISEASE>tromboza żyły wrotnej</DISEASE>. <TEST>HCT</TEST> 62%. <DRUG>Warfarin</DRUG> 5 mg/d, <DRUG>Acard</DRUG> 100 mg/d. Konsultacja chirurgiczna na <HOSPITAL>Szpital Katowicki</HOSPITAL>.
+<<<SAMPLE>>>
+Zabiegi przeprowadzone <DATE>30.05.2024</DATE>. <PERSON>Bogusław Lewicki</PERSON>, PESEL <PESEL>57042112345</PESEL>, <ADDRESS>ul. Nowy Świat 45, Warszawa</ADDRESS>. <TEST>Biopsja szpiku</TEST> z <ADDRESS>grzebienia biodra</ADDRESS>: megaloblastyczne cechy. <DISEASE>Niedokrwistość B12 deficytowa</DISEASE>. <DRUG>Cyanocobalamin</DRUG> 1000 µg i.m. co tydzień. Follow-up za 4 tygodnie.
+<<<SAMPLE>>>
+Notatka z poradni <DATE>8.01.2025</DATE>. Pacjentka <PERSON>Joanna Cieślak</PERSON>, PESEL <PESEL>82092234567</PESEL>, tel. <PHONE>721 456 789</PHONE>, <ADDRESS>Kraków, Nowa Huta, ul. Żaki 19</ADDRESS>. <DISEASE>Trombocytopenia immunologiczna</DISEASE>. <TEST>Plt</TEST> 22 K/µl. <DRUG>Prednizolon</DRUG> 50 mg/d. <TEST>Immunglobulina</TEST> 0.4 g/kg planowana.
+<<<SAMPLE>>>
+Opis <TEST>RTG klatki</TEST>, <DATE>16.07.2024</DATE>. <PERSON>Henryk Białowski</PERSON>, PESEL <PESEL>51031823456</PESEL>, <ADDRESS>ul. Spacerowa 11, Łódź</ADDRESS>. <DISEASE>Śródpiersiowy masyw</DISEASE>, powodujący <DISEASE>ucisk na opłucną</DISEASE>. Słaby <TEST>EKG</TEST> lowvolts. <DISEASE>Podejrzenie limfomy mediastinalnej</DISEASE>. <TEST>TK klatki piersiowej</TEST> ordered.
+<<<SAMPLE>>>
+POZ, <DATE>25.09.2024</DATE>. <PERSON>Danuta Kochowska</PERSON>, PESEL <PESEL>63040712345</PESEL>, <ADDRESS>Gdańsk, ul. Przedmieście 7/5</ADDRESS>, tel. <PHONE>505 678 901</PHONE>. Bóle głowy, <DISEASE>zapalenie</DISEASE> przechodzące. <TEST>Morfologia</TEST> norma. <TEST>CRP</TEST> 1.2 mg/l. Zalecono <DRUG>paracetamol</DRUG> 500 mg p.o.
+<<<SAMPLE>>>
+Z SOR <DATE>2.04.2024</DATE>. <PERSON>Tadeusz Górski</PERSON>, PESEL <PESEL>48051567890</PESEL>, <ADDRESS>Wrocław, Śródmieście 33/2</ADDRESS>. Krwawienie z nosa. <TEST>Hb</TEST> 9.8, <TEST>Plt</TEST> 120. <TEST>INR</TEST> 3.2 (pacjent na <DRUG>Warfarinie</DRUG>). <DISEASE>Epistaxis</DISEASE>. Tamponada, zalecona zmiana kuracji.
+<<<SAMPLE>>>
+Notatka szpitalna, <DATE>13.12.2024</DATE>. <PERSON>Barbara Szulc</PERSON>, PESEL <PESEL>71081534567</PESEL>, <ADDRESS>Poznań, ul. Hetmańska 18</ADDRESS>, tel. <PHONE>723 789 012</PHONE>. Dzień hospitalizacji 6. Wczoraj <DRUG>CHOP</DRUG> blok. <TEST>WBC</TEST> 1.8, <TEST>Plt</TEST> 65, <TEST>Hb</TEST> 9.0. <DISEASE>Toksyczność chemioterapii G2-G3</DISEASE>. Wznawianie zaplanowana na jutro.
+<<<SAMPLE>>>
+Konsultacja hematologiczna, <DATE>10.03.2024</DATE>. <PERSON>Mirosław Szpak</PERSON>, PESEL <PESEL>54032112345</PESEL>, <ADDRESS>ul. Widok 6, Kraków</ADDRESS>. <DISEASE>Białaczka limfatyczna przewlekła</DISEASE>, stadio Rai II. <TEST>Liczba leukocytów</TEST> 125 K/µl. <DRUG>Chlorambucil</DRUG> p.o. lub <DRUG>Fludarabina</DRUG> rozważana.
+<<<SAMPLE>>>
+Z poradni <DATE>27.08.2024</DATE>. Pani <PERSON>Stefania Nowak</PERSON>, PESEL <PESEL>65030267890</PESEL>, <ADDRESS>Białystok, ul. Rybaki 12/4</ADDRESS>, tel. <PHONE>510 234 567</PHONE>. <DISEASE>Hemofilia A</DISEASE>. <TEST>Faktor VIII</TEST> 18%. <DRUG>Kryopreципitat</DRUG> 10 j. zaplanowany przed <TEST>ekstrakcją zęba</TEST>.
+<<<SAMPLE>>>
+SOR <DATE>1.06.2024</DATE>. <PERSON>Lucjan Piotrowski</PERSON>, PESEL <PESEL>57042334567</PESEL>, <ADDRESS>ul. Kościuszki 25, Gdynia</ADDRESS>. Nagłe odczucie słabości. <TEST>Hb</TEST> 6.8, <TEST>Reticulocytes</TEST> 8.5%. <DISEASE>Kryzys hemolityczny</DISEASE>. Wiecej <TEST>LDH</TEST> 1200, <TEST>bilinubina</TEST> 4.2. Transfuzja <DRUG>O-neg</DRUG> 2j. Przetransportowano na <HOSPITAL>Oddział Hematologii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>14.10.2024</DATE>. <PERSON>Zofia Jankowska</PERSON>, PESEL <PESEL>69050534567</PESEL>, <ADDRESS>Kraków, ul. Dominikańska 8</ADDRESS>, tel. <PHONE>668 123 456</PHONE>. Systematyczne zmęczenie. <TEST>TSH</TEST> norma, <TEST>Hb</TEST> 9.5. Zalecono <TEST>żelazo</TEST>, <TEST>B12</TEST>. <DRUG>Suplementacja</DRUG> +żelazo +B12 ordered.
+<<<SAMPLE>>>
+Z oddziału hematologii, <DATE>5.11.2024</DATE>. <PERSON>Włodzimierz Żuk</PERSON>, PESEL <PESEL>52081823456</PESEL>, <ADDRESS>Warszawa, Praga Północ, ul. Jagiellońska 14/2</ADDRESS>. Dzień +28 post-transplantacji szpiku. <TEST>Morfologia</TEST>: Hb 10.2, WBC 2.1, Plt 95. <DISEASE>Odrzucanie</DISEASE> brak. Kontynuacja CsA, <DRUG>Prednizolon</DRUG> taper.
+<<<SAMPLE>>>
+Recepta, <DATE>21.07.2024</DATE>. <PERSON>Paulina Lewandowska</PERSON>, PESEL <PESEL>87010234567</PESEL>, <ADDRESS>ul. Powązkowska 3, Warszawa</ADDRESS>. Diagnoza: <DISEASE>tromboembolizm żylny</DISEASE> po chirurgii kolana. <DRUG>Enoksaparyna</DRUG> 40 mg s.c. co 24h przez 10 dni.
+<<<SAMPLE>>>
+Epikryza onkohematologiczna <DATE>9.09.2024</DATE>. <PERSON>Czesław Marczewski</PERSON>, PESEL <PESEL>56021512345</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 88/15</ADDRESS>, tel. <PHONE>514 789 012</PHONE>. <DISEASE>Mieloma plazmocytowe</DISEASE>. <TEST>Białko M</TEST> 4.2 g/dl. <TEST>LDH</TEST> norma. Etapy Bortezomib + <DRUG>Lenalidomid</DRUG> + <DRUG>Deksametazon</DRUG>.
+<<<SAMPLE>>>
+Z SOR <DATE>18.05.2024</DATE>. <PERSON>Irena Słowik</PERSON>, PESEL <PESEL>68031134567</PESEL>, <ADDRESS>Wrocław, ul. Świdnicka 45/7</ADDRESS>. Głośne krwotoki z desne. <TEST>PT</TEST> 15 s, <TEST>aPTT</TEST> 45 s. <DISEASE>Niedobór protrombiny</DISEASE>. <DRUG>Fitomenadion</DRUG> 10 mg i.v., <DRUG>FFP</DRUG> 4 j.
+<<<SAMPLE>>>
+Notatka z poradni kardiohematologicznej, <DATE>24.02.2024</DATE>. <PERSON>Józef Nowacki</PERSON>, PESEL <PESEL>53061234567</PESEL>, <ADDRESS>Poznań, ul. Gdańska 22/4</ADDRESS>, tel. <PHONE>666 456 789</PHONE>. <DISEASE>Nieprawidłowa hemoglobina S</DISEASE>, heterozygota. <TEST>EKG</TEST> norma. <TEST>Echokardiografia</TEST> bez patologii. Obserwacja ambulatoryjna.
+<<<SAMPLE>>>
+Z oddziału dziecięcego, <DATE>19.01.2025</DATE>. <PERSON>Karolina Michalak</PERSON>, PESEL <PESEL>17021345678</PESEL>, <ADDRESS>Gdańsk, ul. Motławy 5</ADDRESS>. 6-letnia dziewczynka. <DISEASE>Rozsianie białaczki</DISEASE>. <TEST>Morfologia</TEST>: <TEST>blastów</TEST> 95%. <DRUG>Chemoterapia ALL</DRUG> wg schematu BFM. Leczenie włączone.
+<<<SAMPLE>>>
+Zapis z zabiegu <DATE>11.04.2024</DATE>. <PERSON>Romuald Jachimowski</PERSON>, PESEL <PESEL>49021234567</PESEL>, <ADDRESS>Kraków, ul. Rędzińska 12</ADDRESS>. <TEST>ERCP</TEST> z <TEST>biopsją śluzówki żołądka</TEST>. <DISEASE>Limfoma MALT żołądka</DISEASE>. <DRUG>Eradykacja H. pylori</DRUG> zalecona. Histopatologia w toku.
+<<<SAMPLE>>>
+POZ, <DATE>6.08.2024</DATE>. <PERSON>Dorota Wróbel</PERSON>, PESEL <PESEL>75061234567</PESEL>, <ADDRESS>ul. Mickiewicza 7, Łódź</ADDRESS>, tel. <PHONE>669 012 345</PHONE>. Ból w nodach chłonnych. <TEST>Morfologia</TEST> norma. <TEST>USG szyji</TEST> wykazywał <DISEASE>powiększenie węzłów chłonnych</DISEASE> 2 cm. <TEST>TK klatki</TEST> ordered.
+<<<SAMPLE>>>
+Z dnia <DATE>3.10.2024</DATE>. <PERSON>Franciszek Sadowski</PERSON>, PESEL <PESEL>51072134567</PESEL>, <ADDRESS>Białystok, ul. Jasia Terala 9/2</ADDRESS>. <DISEASE>Niedokrwistość sideroblastyczna</DISEASE>. <TEST>Żelazo serowe</TEST> 250 µg/dl, <TEST>TIBC</TEST> 280. <DRUG>Desferoksamina</DRUG> oraz <DRUG>Deferipron</DRUG> włączeni.
+<<<SAMPLE>>>
+Epikryza z <DATE>28.12.2024</DATE>. <PERSON>Lech Nowakowski</PERSON>, PESEL <PESEL>52040134567</PESEL>, <ADDRESS>Warszawa, Ochota, ul. Grójska 14</ADDRESS>, tel. <PHONE>731 234 567</PHONE>. <DISEASE>Zespół mielodysplazji</DISEASE> z nadmiarem blastów. <TEST>Cytoplasmia</TEST> sygnały 15%. Leczenie <DRUG>Azacytydyną</DRUG> wdrożone. Chemoterapia niskodawkowa.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>17.06.2024</DATE>. <PERSON>Stanisław Wysocki</PERSON>, PESEL <PESEL>54091234567</PESEL>, <ADDRESS>Gdynia, ul. Abrahama 8/3</ADDRESS>. Duszność, podejrzenie <DISEASE>kardiomiopatii</DISEASE>. <TEST>EKG</TEST> bez zmian. <TEST>Troponina</TEST> 0.02 ng/ml. <TEST>BNP</TEST> 450 pg/ml. Hospitalizacja kardiologiczna.
+<<<SAMPLE>>>
+Z poradni hematologicznej <DATE>23.11.2024</DATE>. <PERSON>Irmina Stec</PERSON>, PESEL <PESEL>72041234567</PESEL>, <ADDRESS>Kraków, ul. Łobzowska 34/12</ADDRESS>, tel. <PHONE>502 789 012</PHONE>. <DISEASE>Trombofilią</DISEASE> naturalna (niedobór Proteiny C). <DRUG>Acenocoumarol</DRUG> 4 mg/d. <TEST>INR</TEST> docelowy 2-3. Badania za 4 tygodnie.
+<<<SAMPLE>>>

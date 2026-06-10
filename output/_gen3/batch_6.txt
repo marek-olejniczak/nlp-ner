@@ -1,0 +1,99 @@
+Notatka SOR, <DATE>12.02.2024</DATE>. Pacjent <PERSON>Jakub Lewandowski</PERSON>, PESEL <PESEL>12032856789</PESEL>, zam. <ADDRESS>ul. Piłsudskiego 23, 20-001 Lublin</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Chłopiec 5 lat z wysoką gorączką, bólem gardła, kasłem. W <TEST>badaniu fizykalnym</TEST> powiększone migdałki z nawałem, hiperemią gardła. <TEST>Test na streptokok</TEST> dodatni. Podejrzenie <DISEASE>zapalenia gardła i migdałków</DISEASE>. Zalecono <DRUG>amoksycylinę</DRUG> p.o., <DRUG>paracetamol</DRUG> na gorączkę.
+
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>18.05.2024</DATE>. Lek. <PERSON>Agnieszka Kowalska</PERSON> — lekarz rodzinny. Pacjent: chłopiec 8 lat, adres <ADDRESS>Marszałkowska 42/5, Warszawa</ADDRESS>. Kod PESEL <PESEL>16041624567</PESEL>. Rozpoznanie: <DISEASE>astma astmatyczna w fazie remisji</DISEASE>. Zalecenia: <DRUG>Ventolin</DRUG> inhalacja 1-2 wdechy wg potrzeby, <DRUG>Pulmicort</DRUG> 1 wdech 2× dziennie. Kontrola za 3 mies.
+
+<<<SAMPLE>>>
+Notatka ze szpitala dziecięcego, <DATE>25.09.2024</DATE>. Oddział pediatrii. Pacjent <PERSON>Maria Sosnowska</PERSON>, PESEL <PESEL>10062012345</PESEL>, zam. <ADDRESS>ul. Słoneczna 15/3, Poznań</ADDRESS>. Przyjęcie: gorączka, osłabienie, bóle stawów. <TEST>Morfologia</TEST> bez zmian. <TEST>CRP</TEST> 45 mg/l. Podejrzenie <DISEASE>zapalenia stawów idiopatycznego</DISEASE>. Rozpoczęto <DRUG>metotreksatę</DRUG> 10 mg/tydz., <DRUG>prednizolon</DRUG> 1 mg/kg.
+
+<<<SAMPLE>>>
+Opis <TEST>USG jamy brzusznej</TEST>, <DATE>03.08.2024</DATE>. Pacjent <PERSON>Tomasz Grabowski</PERSON>, 9 lat, PESEL <PESEL>15051512345</PESEL>, zam. <ADDRESS>ul. Kwiatowa 7, 31-201 Kraków</ADDRESS>. Badanie wskazuje: <DISEASE>powiększona wątroba</DISEASE>, średnica 11 cm, gł. 14 cm. Wnętrze o niejednorodnej echogenności. Podejrzenie <DISEASE>stłuszczenia wątroby</DISEASE> lub <DISEASE>zapalenia wątroby</DISEASE>. Zalecono <TEST>testy funkcji wątroby</TEST>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>21.11.2024</DATE>. Dziewczynka 3 lata, przywieziona karetką z urazem głowy po upadku. <PERSON>Piotr Michalski</PERSON> — lekarz dyżurny. PESEL <PESEL>21031221567</PESEL>, zam. <ADDRESS>Nowy Świat 55, Warszawa</ADDRESS>, tel. <PHONE>721 654 321</PHONE>. <TEST>CT głowy</TEST> bez <DISEASE>złamania</DISEASE>. Krótki okres nieprzytomności. Obserwacja 4 h. Wypis bez złośliwych wyników.
+
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Pediatrycznego nr 2</HOSPITAL>, <DATE>16.07.2024</DATE>. Pacjent <PERSON>Szymon Lewczuk</PERSON>, PESEL <PESEL>14060512345</PESEL>, zam. <ADDRESS>ul. Grójecka 88/12, Warszawa</ADDRESS>. Pobyt 5 dni z powodu <DISEASE>zapalenia pęcherza moczowego</DISEASE>. <TEST>Badanie moczu</TEST> — bakteriuria do 10^5, leukocyturia. Podano <DRUG>ceftriaksone</DRUG> i.v., następnie <DRUG>cefaleksyna</DRUG> p.o. przez 7 dni. Wypis w dobrym stanie ogólnym.
+
+<<<SAMPLE>>>
+Notatka z poradni alergologicznej, <DATE>02.04.2024</DATE>. Pacjentka <PERSON>Zofia Nowak</PERSON>, 12 lat, zam. <ADDRESS>ul. Parka 23/9, Gdańsk</ADDRESS>, PESEL <PESEL>12041212345</PESEL>, tel. <PHONE>607 234 567</PHONE>. Objaw: <DISEASE>wysypka pokrzywkowa</DISEASE>, <DISEASE>obrzęk warg</DISEASE>. Podejrzenie <DISEASE>alergii kontaktowej</DISEASE> na kosmetykę. <TEST>Testy skórne na alergeny</TEST> planowane. Zalecono <DRUG>desloratadynę</DRUG> 5 mg dziennie, unikanie produktu.
+
+<<<SAMPLE>>>
+E-recepta pediatra, <DATE>28.01.2024</DATE>. Lek. <PERSON>Robert Szpaderski</PERSON> — pediatra. Pacjent: dziewczynka 6 lat, PESEL <PESEL>18011812345</PESEL>, adres <ADDRESS>Puławska 100/7, Warszawa</ADDRESS>. Infekcja ucha środkowego, gorączka. Zalecono <DRUG>amoksycylinę z kwasem klawulanowym</DRUG> 250 mg/5 ml 1 łyżeczka 3× dziennie, <DRUG>ibuprofen</DRUG> 200 mg na ból.
+
+<<<SAMPLE>>>
+Notatka SOR z <DATE>09.12.2024</DATE>. Chłopiec 4 lata, przywieziony z wymiotami i biegiem. Zam. <ADDRESS>ul. Brzozowa 12, 34-001 Kraków</ADDRESS>, PESEL <PESEL>20120412345</PESEL>. <TEST>Badanie krwi</TEST> — dehidracja umiarkowana. <TEST>Poziom glukozy</TELEPHONE></TEST> 92 mg/dl. Podejrzenie <DISEASE>gastroenteritis wirusowego</DISEASE>. Nawodniene i.v., obserwacja 2 h. Wypis z zaleceniami diety.
+
+<<<SAMPLE>>>
+Opis <TEST>RTG klatki piersiowej</TEST>, <DATE>14.06.2024</DATE>. Pacjent <PERSON>Marcin Mróz</PERSON>, 7 lat, PESEL <PESEL>17061712345</PESEL>, zam. <ADDRESS>ul. Jesionowa 34/2, Wrocław</ADDRESS>. Obraz wskazuje <DISEASE>zapalenie płuc</DISEASE> w prawym dolnym polu. Doszczętne zaciemnienie segmentowe. Zalecono <TEST>badanie moczu</TEST> i bronchoskopię. <DRUG>Amoksycylina</DRUG> podana i.v.
+
+<<<SAMPLE>>>
+Notatka z diagnostyki pediatrycznej, <DATE>07.10.2024</DATE>. Pacjentka <PERSON>Natalia Adamczyk</PERSON>, 11 lat, zam. <ADDRESS>Kraków, Nowe Miasto 15/7</ADDRESS>, PESEL <PESEL>13061312345</PESEL>, tel. <PHONE>698 765 432</PHONE>. Skargi: bole brzucha, w <TEST>badaniu fizykalnym</TEST> palpacyjna czułość nad jamą brzuszną. <TEST>Badanie moczu</TEST> nic godnego uwagi. Obserwacja domowa, powrót jeśli pogorszenie.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>23.03.2024</DATE>. Lek. <PERSON>Renata Laskowska</PERSON>. Pacjent: chłopiec 9 lat, PESEL <PESEL>15031512345</PESEL>, zam. <ADDRESS>ul. Przesmyckiego 44, Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>łupież zwyczajny skóry głowy</DISEASE>. Leki: szampon <DRUG>sertakonazolowy</DRUG> 2× tygodniowo, <DRUG>olejek do włosów</DRUG> wieczorem przez 4 tygodnie.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>19.11.2024</DATE>. Dziewczynka 2 lata z podejrzeniem <DISEASE>przełyku Barretta</DISEASE>. <PERSON>Michał Orłowski</PERSON> — lekarz dyżurny. PESEL <PESEL>22120222345</PESEL>, zam. <ADDRESS>ul. Słowackiego 9/4, Poznań</ADDRESS>, tel. <PHONE>517 321 654</PHONE>. <TEST>Endoskopia górnych dróg pokarmowych</TEST> planowana. Zalecono <DRUG>omeprazol</DRUG> 10 mg dziennie.
+
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Kliniki Pediatrii UMK</HOSPITAL>, <DATE>11.08.2024</DATE>. Pacjent <PERSON>Łukasz Borkowski</PERSON>, PESEL <PESEL>16080112345</PESEL>, zam. <ADDRESS>ul. Mostowa 7, 87-001 Toruń</ADDRESS>. Pobyt 3 dni z zapaleniem pęcherza z powikłaniem. <TEST>USG nerek</TEST> — hydronefroza lewa średnia. <TEST>Cystografia moczanowa</TEST> wykazała zwrotny wyciek do moczowodu. Zalecono <TEST>śledzenie lekarskie</TEST>.
+
+<<<SAMPLE>>>
+Notatka z poradni logopedycznej, <DATE>06.05.2024</DATE>. Pacjent <PERSON>Kamil Skok</PERSON>, 5 lat, PESEL <PESEL>19051912345</PESEL>, zam. <ADDRESS>Gdańsk, ul. Leśna 23/8</ADDRESS>. Objaw: <DISEASE>dysartria</DISEASE> w postaci niezrozumiałości mowy. Wstępnie oceniane pod względem <DISEASE>rozszczepów szyi</DISEASE>. Zalecono ćwiczenia artykulacyjne i <TEST>konsultacja neurologa dziecięcego</TEST>.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>30.09.2024</DATE>. Lek. <PERSON>Ewelina Nowak</PERSON> — pediatra. Pacjent: dziewczynka 13 lat, PESEL <PESEL>11091112345</PESEL>, adres <ADDRESS>ul. Mickiewicza 67/3, Łódź</ADDRESS>. Rozpoznanie: <DISEASE>trądzik młodzieńczy</DISEASE> stopnia II-III. Zalecono <DRUG>benzoyl peroksyd</DRUG> żel 2× dziennie, <DRUG>klindamycynę</DRUG> żel wieczorem.
+
+<<<SAMPLE>>>
+Notatka z kardiologii dziecięcej, <DATE>17.02.2024</DATE>. Pacjent <PERSON>Wojciech Wójcik</PERSON>, 8 lat, zam. <ADDRESS>ul. Grunwaldzka 52/11, Gdańsk</ADDRESS>, PESEL <PESEL>16021612345</PESEL>, tel. <PHONE>603 456 789</PHONE>. W <TEST>EKG</TEST> zaburzenia repolaryzacji. <TEST>Echokardiografia</TEST> wykazała <DISEASE>nieszczelność mitralną</DISEASE> stopnia II. Obserwacja kardiologa co 6 mies.
+
+<<<SAMPLE>>>
+Opis <TEST>MRI mózgu</TEST>, <DATE>25.04.2024</DATE>. Pacjentka <PERSON>Iwona Kierska</PERSON>, 10 lat, PESEL <PESEL>14041412345</PESEL>, zam. <ADDRESS>ul. Wysoka 18/2, Wrocław</ADDRESS>. Wskazanie: bóle głowy o charakterze migreny. Badanie bez zmian patologicznych. Uwidacznia się normotensjne rozszerzenie tylnego rogu komory bocznej. Diagnoza: <DISEASE>migrena u dziecka bez aury</DISEASE>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>22.07.2024</DATE>. Chłopiec 6 lat z małym urazem głowy po zderzeniu z drugim dzieckiem na placu. <PERSON>Paweł Rogacki</PERSON> — lekarz dyżurny. PESEL <PESEL>18071812345</PESEL>, zam. <ADDRESS>ul. Gwiezdna 12/9, Warszawa</ADDRESS>. <TEST>CT głowy bez kontras</TEST> bez zmian. Zaburzenia świadomości brak. Wypis z zaleceniami obserwacji domowej.
+
+<<<SAMPLE>>>
+E-recepta z poradni diabetologicznej, <DATE>08.03.2024</DATE>. Lek. <PERSON>Danuta Fiedler</PERSON> — diabetolog dziecięcy. Pacjent: dziewczynka 12 lat, PESEL <PESEL>12031212345</PESEL>, zam. <ADDRESS>ul. Szafirowa 41/5, Kraków</ADDRESS>. Rozpoznanie: <DISEASE>cukrzyca typu 1</DISEASE>. Zalecono <DRUG>insulinę detemir</DRUG> 10 j.m. wieczorem i <DRUG>aspart</DRUG> do posiłków.
+
+<<<SAMPLE>>>
+Notatka z gastroenterologii dziecięcej, <DATE>13.01.2024</DATE>. Pacjent <PERSON>Igor Dąbrowski</PERSON>, 7 lat, zam. <ADDRESS>Poznań, ul. Słoneczna 45/7</ADDRESS>, PESEL <PESEL>17011712345</PESEL>, tel. <PHONE>661 234 567</PHONE>. Skargi: uporczywe wymioty, bóle brzucha nawracające. <TEST>Badanie fizykalnym</TEST> — palp. czułość. <TEST>Badanie krwi</TEST> w normie. Podejrzenie <DISEASE>refluksu żołądkowo-przełykowego</DISEASE>. Zalecono <DRUG>pantoprazol</DRUG> 10 mg p.o.
+
+<<<SAMPLE>>>
+Opis <TEST>RTG obręczy miednicy</TEST>, <DATE>06.09.2024</DATE>. Pacjent <PERSON>Bartosz Sarnecki</PERSON>, 11 lat, PESEL <PESEL>13061312345</PESEL>, zam. <ADDRESS>ul. Jasna 88/3, Kraków</ADDRESS>. Wskazanie: podejrzenie <DISEASE>biodra dysplastycznego</DISEASE>. <TEST>Badanie rentgenowskie</TEST> wykazało prawidłowy kąt Hilgenfreicha (42°). Brak zmian dysplazyjnych. Obserwacja co 2 lata.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>30.10.2024</DATE>. Dziewczynka 4 lata z podejrzeniem zatrucia tabletkami. <PERSON>Katarzyna Wołowska</PERSON> — lekarz dyżurny. PESEL <PESEL>20101012345</PESEL>, zam. <ADDRESS>ul. Cybernetyki 22, Warszawa</ADDRESS>, tel. <PHONE>512 987 654</PHONE>. <TEST>Badanie krwi</TEST> — bez hiperglikemii. <TEST>Badanie moczu</TEST> — nic podejrzanego. Obserwacja 6 h, wypis po ustabilizowaniu stanu.
+
+<<<SAMPLE>>>
+E-recepta pediatra, <DATE>14.12.2024</DATE>. Lek. <PERSON>Agnieszka Kęsy</PERSON>. Pacjent: chłopiec 5 lat, PESEL <PESEL>19051912345</PESEL>, zam. <ADDRESS>ul. Limanowskiego 12/7, Gdańsk</ADDRESS>. Rozpoznanie: <DISEASE>otitis media w toku</DISEASE>. Zalecono <DRUG>ofloksacynę</DRUG> krople uszne 3× dziennie, <DRUG>ibuprofen</DRUG> syrop 200 mg/5 ml.
+
+<<<SAMPLE>>>
+Notatka z ortopedu dziecięcego, <DATE>24.06.2024</DATE>. Pacjent <PERSON>Henryk Wójcik</PERSON>, 9 lat, zam. <ADDRESS>ul. Słowackiego 19/2, Poznań</ADDRESS>, PESEL <PESEL>15061512345</PESEL>. Objaw: <DISEASE>skolioza I-II stopnia</DISEASE> kregosłupa piersiowego. <TEST>RTG kregosłupa</TEST> pokazuje krzywizną 28°. Zalecono gorset ortopedyczny i kontrolę co 6 mies.
+
+<<<SAMPLE>>>
+Opis <TEST>USG przepuklin brzusznej</TEST>, <DATE>10.11.2024</DATE>. Pacjentka <PERSON>Małgorzata Cieślak</PERSON>, 8 lat, PESEL <PESEL>16061612345</PESEL>, zam. <ADDRESS>ul. Kamienna 77, Wrocław</ADDRESS>. Obraz: <DISEASE>przepuklina pępkowa</DISEASE> średnicy 1.5 cm, łatwo dająca się wciśnąć. Brak cechy ukrwienia. Zalecono czekać obserwacyjnie.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>05.08.2024</DATE>. Chłopiec 3 lata z zapaleniem spojówek, łzawieniem oka. <PERSON>Sławomir Borkowski</PERSON> — lekarz dyżurny. PESEL <PESEL>21080312345</PESEL>, zam. <ADDRESS>Kraków, ul. Przyjaciół 33/5</ADDRESS>. <DISEASE>Zapalenie spojówek bakteryjne</DISEASE> podejrzewane. Zalecono <DRUG>krople antybiotykowe</DRUG> do oczu co 2 h oraz <DRUG>kremy żelowe</DRUG> wieczorem.
+
+<<<SAMPLE>>>
+E-recepta z poradni otolaryngologicznej, <DATE>19.05.2024</DATE>. Lek. <PERSON>Zbigniew Chmielak</PERSON> — laryngolog. Pacjent: dziewczynka 7 lat, PESEL <PESEL>17051712345</PESEL>, zam. <ADDRESS>ul. Różana 55/3, Łódź</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie gardła zakaźne</DISEASE>. Zalecono <DRUG>augmentynę</DRUG> 250 mg/5 ml 1 łyżeczka 3× dziennie przez 7 dni.
+
+<<<SAMPLE>>>
+Notatka z neurologii dziecięcej, <DATE>28.07.2024</DATE>. Pacjent <PERSON>Krzysztof Szydłowski</PERSON>, 10 lat, zam. <ADDRESS>ul. Piaskowa 88/11, Gdańsk</ADDRESS>, PESEL <PESEL>14071412345</PESEL>, tel. <PHONE>695 432 109</PHONE>. Skargi: napady padaczkowe, co miesiąc. <TEST>EEG</TEST> wykazał ogniska nadmiernej aktywności w okolicy skroniowej. Rozpoznanie: <DISEASE>epilepsja skroniowa</DISEASE>. Zalecono <DRUG>lewetiracetam</DRUG> 250 mg 2× dziennie.
+
+<<<SAMPLE>>>
+Opis <TEST>USG nerek i moczowodu</TEST>, <DATE>12.04.2024</DATE>. Pacjentka <PERSON>Joanna Kęsy</PERSON>, 6 lat, PESEL <PESEL>18041812345</PESEL>, zam. <ADDRESS>ul. Morska 24/7, Szczecin</ADDRESS>. Wskazanie: gorączka i niepokój moczowy. Badanie bez nieprawidłowości, prawidłowe wymiary nerek. Wstępnie normalne. Badanie kontrolne za 3 mies.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>17.09.2024</DATE>. Dziewczynka 2 lata z urazem głowy po upadku z łóżka. <PERSON>Urszula Krawczyk</PERSON> — lekarz dyżurny. PESEL <PESEL>22091212345</PESEL>, zam. <ADDRESS>ul. Słonecznika 44, Warszawa</ADDRESS>, tel. <PHONE>609 654 321</PHONE>. <TEST>CT głowy bez zmian</TEST>. Obserwacja 4 h, wypis bez incydentów.
+
+<<<SAMPLE>>>
+E-recepta z poradni alergologiczno-immunologicznej, <DATE>26.02.2024</DATE>. Lek. <PERSON>Henryk Piotrowski</PERSON> — alergolog. Pacjent: chłopiec 9 lat, PESEL <PESEL>15021512345</PESEL>, zam. <ADDRESS>ul. Topolowa 12/2, Kraków</ADDRESS>. Rozpoznanie: <DISEASE>alergic rhinitis</DISEASE> sezonowa. Zalecono <DRUG>mometazon</DRUG> spray 2 pstryki 2× dziennie i <DRUG>loratadynę</DRUG> 5 mg wieczorem.
+
+<<<SAMPLE>>>
+Notatka z pulmonologii dziecięcej, <DATE>03.12.2024</DATE>. Pacjent <PERSON>Marian Kowalski</PERSON>, 8 lat, zam. <ADDRESS>Poznań, ul. Bratkowa 77/3</ADDRESS>, PESEL <PESEL>16121612345</PESEL>. Skargi: chroniczny kaszel, gwizdliwy oddech. <TEST>Spirometria</TEST> obniżona FEV1. Diagnoza: <DISEASE>astma astmatyczna z niedostateczną kontrolą</DISEASE>. Ponad <DRUG>Ventolin</DRUG> zalecono <DRUG>Flixotid</DRUG> 125 mcg 2× dziennie.
+
+<<<SAMPLE>>>
