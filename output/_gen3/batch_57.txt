@@ -1,0 +1,64 @@
+Notatka SOR, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Krystyna Lewandowska</PERSON>, PESEL <PESEL>68052134567</PESEL>, zam. <ADDRESS>ul. Warszawska 23/4, 80-001 Gdańsk</ADDRESS>. Zgłasza się z bólem i zaczerwienieniem twarzy, <DISEASE>rozsianie</DISEASE> pęcherzyków na skórze. W <TEST>badaniu dermoskopowym</TEST> widoczny naciek. Podejrzenie <DISEASE>opryszczki</DISEASE>. Zlecono <TEST>wymaz</TEST> i zalecono <DRUG>acyklowir</DRUG> 5 x 800 mg.
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>15.04.2024</DATE>. <PERSON>Marek Kowalski</PERSON>, tel. <PHONE>512 345 678</PHONE>. Pacjent z nawracającym <DISEASE>zapaleniem łojotoku</DISEASE> na czole i licach. Zalecam <DRUG>ketoconazol</DRUG> 2% krem raz dziennie wieczorem + <DRUG>metronidazol</DRUG> żel. Kontrola za 2 tygodnie. Zwolnienie lekarskie na 3 dni.
+<<<SAMPLE>>>
+Notatka dermatologiczna, <DATE>22.05.2024</DATE>. Pacjentka <PERSON>Anna Szydłowska</PERSON>, PESEL <PESEL>91101567890</PESEL>, zam. <ADDRESS>Kraków, Nowa Huta 45</ADDRESS>. Przybyła na <TEST>konsultację</TEST> z powodu <DISEASE>trądziku</DISEASE> na plecach i klatce piersiowej. Dermatolog zlecił <TEST>badanie bakteriologiczne</TEST>. Zalecono <DRUG>izotretinoinę</DRUG> 0,5 mg/kg oraz <DRUG>piridoksynę</DRUG> do wspomagania.
+<<<SAMPLE>>>
+Epikryza po hospitalizacji, <DATE>02.03.2024</DATE>. <PERSON>Piotr Nowak</PERSON>, PESEL <PESEL>72031245678</PESEL>, zam. <ADDRESS>ul. Lipowa 12/8, 31-400 Kraków</ADDRESS>, tel. <PHONE>601 111 222</PHONE>. Pacjent hospitalizowany 5 dni z powodu <DISEASE>egzemy</DISEASE> dyshidrotycznej. <TEST>Badania cytologiczne</TEST> wykazały flora mieszana. Przepisano <DRUG>mometazon</DRUG> 0,1% oraz <DRUG>talidę</DRUG> 2%. Pacjent wypisany w stanie ogólnym dobrym.
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>18.07.2024</DATE>. Zabiór <PERSON>Katarzyna Lewandowska</PERSON> (PESEL <PESEL>85102334567</PESEL>) na <HOSPITAL>Oddział Dermatologii Szpitala Miejskiego</HOSPITAL>. Wykonano <TEST>dermoabrazję laserową</TEST> zmarszczek na czole. Zastosowano <DRUG>lidokainę</DRUG> 1% do znieczulenia. Pacjentka wytrzymała zabieg dobrze. Zalecono unikanie słońca przez 2 tygodnie.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>30.08.2024</DATE>. <PERSON>Tomasz Grabski</PERSON>, tel. <PHONE>789 456 123</PHONE>, zam. <ADDRESS>ul. Młodzieżowa 7, 90-001 Łódź</ADDRESS>. Pacjent zgłasza <DISEASE>łupież</DISEASE> na brodzie i szyi. Zaobserwowano <DISEASE>zmiany strupkowate</DISEASE>. Zalecono <DRUG>piritionem cynku</DRUG> szampon 2% i <DRUG>betametazon</DRUG> 0,05% maść na noc.
+<<<SAMPLE>>>
+Zlecenie badania, <DATE>11.09.2024</DATE>. Dla pacjentki <PERSON>Maria Kuchcińska</PERSON>, PESEL <PESEL>92081456789</PESEL>. Objawy: <DISEASE>rumień</DISEASE> na twarzy, pędędrowanie. Zlecam <TEST>badanie serologiczne</TEST> (przeciwciała przeciwko Borrelia burgdorferi). Podejrzenie <DISEASE>erythema migrans</DISEASE>. Pacjentka poinformowana o wynikach za 3 dni.
+<<<SAMPLE>>>
+Recepta szpitalna, <DATE>25.06.2024</DATE>. Oddział Dermatologii, <HOSPITAL>Szpital Uniwersytecki</HOSPITAL>. Pacjent <PERSON>Wojciech Sałtykowski</PERSON> (PESEL <PESEL>75041234567</PESEL>). Diagnoza: <DISEASE>łuszczyca</DISEASE> płytkowa. Zalecono <DRUG>metotreksat</DRUG> 7.5 mg tygodniowo i <DRUG>retinoid</DRUG> na zmianach skórnych.
+<<<SAMPLE>>>
+Notatka podologiczna, <DATE>03.10.2024</DATE>. <PERSON>Helena Michalska</PERSON>, tel. <PHONE>603 789 012</PHONE>, zam. <ADDRESS>ul. Główna 89, 20-001 Lublin</ADDRESS>. Pacjentka z <DISEASE>kurzajkami</DISEASE> na piętach i <DISEASE>paznokciami grzybiczymi</DISEASE>. Wykonano <TEST>skrobankę do badania mykologicznego</TEST>. Zalecono <DRUG>terbinafinę</DRUG> 250 mg przez 6 tygodni.
+<<<SAMPLE>>>
+Opinia specjalisty, <DATE>17.11.2024</DATE>. <PERSON>Dorota Jankowska</PERSON>, PESEL <PESEL>82072145678</PESEL>, przesłana na <HOSPITAL>Klinikę Dermatologii Kosmetycznej</HOSPITAL>. Pacjentka interesuje się usunięciem <DISEASE>znamion</DISEASE> na plecach. Zlecono <TEST>dermoskopię cyfrową</TEST> i konsultację przed <TEST>kriochirurgią</TEST>.
+<<<SAMPLE>>>
+Notatka pielęgniarki, <DATE>09.12.2024</DATE>. Pacjent <PERSON>Robert Zaremba</PERSON>, PESEL <PESEL>79051245678</PESEL>, zam. <ADDRESS>Poznań, ul. Słoneczna 34/2</ADDRESS>. W trakcie leczenia <DISEASE>opryszczki</DISEASE>. Dziś stosuje <DRUG>acyklowir</DRUG> 5 x 800 mg, <DRUG>paracetamol</DRUG> 1000 mg na ból. Kontrola w <HOSPITAL>Poradni SOR</HOSPITAL> za 2 dni.
+<<<SAMPLE>>>
+Opis zabiegu, <DATE>21.01.2024</DATE>. Na <HOSPITAL>Oddziale Chirurgii Plastycznej</HOSPITAL> przeprowadzono <TEST>usunięcie brodawki pappilomatoznej</TEST> ze skóry szyi u pacjentki <PERSON>Joanna Urbańska</PERSON> (PESEL <PESEL>88031234567</PESEL>). Zastosowano <DRUG>benzokaínę</DRUG> oraz <TEST>mikochirurgię</TEST>. Materiał wysłano na <TEST>badanie histopatologiczne</TEST>.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>16.02.2024</DATE>. Dla <PERSON>Stanisława Kowalika</PERSON>, tel. <PHONE>514 123 456</PHONE>, zam. <ADDRESS>ul. Krótka 5, 10-001 Warszawa</ADDRESS>. Diagnoza: <DISEASE>atopowe zapalenie skóry</DISEASE>. Zlecam <DRUG>emoleint</DRUG> bez zapachu i <DRUG>hydrokortyzonu acetat</DRUG> 1% maść na zmianach. Unikać intensywnego mydła.
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>27.03.2024</DATE>. Pacjentka <PERSON>Urszula Radzińska</PERSON>, PESEL <PESEL>64051234567</PESEL>, zam. <ADDRESS>ul. Bialska 72, 15-001 Białystok</ADDRESS>. U pacjentki <DISEASE>wielopostaciowa wysypka</DISEASE> na nogach i przedramionach. Podejrzenie <DISEASE>liszaju pęcherzykowego</DISEASE>. Zalecono <TEST>badanie dermoskopowe</TEST> w przychodni.
+<<<SAMPLE>>>
+Epikryza ze znieczulenia, <DATE>13.04.2024</DATE>. Pacjent <PERSON>Adam Lewandowski</PERSON>, PESEL <PESEL>81062145678</PESEL>. Zabieg: <TEST>laser CO2 do usunięcia</TEST> <DISEASE>zmarszczek</DISEASE> na czole i wokół oczu. Znieczulenie: <DRUG>lidokaina</DRUG> 1% + <DRUG>prilocaina</DRUG> 1% krem emlą. Pacjent w dobrym stanie ogólnym, bez powikłań.
+<<<SAMPLE>>>
+Zlecenie konsultacji, <DATE>29.05.2024</DATE>. Dla pacjentki <PERSON>Beata Nowacka</PERSON> z <ADDRESS>ul. Jasna 18, 40-001 Zabrze</ADDRESS>, tel. <PHONE>605 234 567</PHONE>. Objawy: <DISEASE>rumień policzków</DISEASE>, <DISEASE>naczyniowatość</DISEASE>. Podejrzenie <DISEASE>różycy</DISEASE>. Pacjentka skierowana na konsultację dermatologiczną na <HOSPITAL>Szpital Wojewódzki</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka dentystyczna, <DATE>06.07.2024</DATE>. <PERSON>Ewa Michalczyk</PERSON>, PESEL <PESEL>89071234567</PESEL>, zam. <ADDRESS>Wrocław, ul. Opacka 23/5</ADDRESS>. Pacjentka z <DISEASE>zapaleniem jamy ustnej</DISEASE> i <DISEASE>aftzami</DISEASE>. Zalecono <DRUG>chlorheksydynę</DRUG> 0,12% do płukania oraz <DRUG>benzydaminę</DRUG> żel do zwierających zmian.
+<<<SAMPLE>>>
+Recepta lekarska, <DATE>19.08.2024</DATE>. Lekarz POZ: <PERSON>dr Jolanta Szymańska</PERSON>, <HOSPITAL>Przychodnia Zdrowia na Saskiej Kępie</HOSPITAL>. Pacjent <PERSON>Zbigniew Dąbrowski</PERSON> (PESEL <PESEL>71081234567</PESEL>). Diagnoza: <DISEASE>grzybica stopy atlety</DISEASE>. <DRUG>Terbinafina</DRUG> 1% krem 2 x dziennie i <DRUG>ketaconazol</DRUG> szampon na grzyb.
+<<<SAMPLE>>>
+Notatka medyczna, <DATE>02.10.2024</DATE>. Pacjentka <PERSON>Magdalena Redzik</PERSON>, PESEL <PESEL>83091234567</PESEL>, tel. <PHONE>607 345 678</PHONE>, zam. <ADDRESS>ul. Szkolna 44, 21-001 Chełm</ADDRESS>. <DISEASE>Ekzema kontaktowa</DISEASE> na rękach po ekspozycji na detergenty. Zalecono <DRUG>betametazonu waleran</DRUG> 0,1% krem i ochronę rękawicami.
+<<<SAMPLE>>>
+Zlecenie badania histopatologicznego, <DATE>14.11.2024</DATE>. Materiał: wycinka ze <DISEASE>znamienia</DISEASE> na ramieniu u pacjentki <PERSON>Katarzyna Oświęcimska</PERSON> (PESEL <PESEL>87112234567</PESEL>). Chirurg: <PERSON>dr Jerzy Romański</PERSON>, <HOSPITAL>Oddział Chirurgii Plastycznej</HOSPITAL>. Pacjentka poinformowana o wynikach w ciągu tygodnia.
+<<<SAMPLE>>>
+Notatka ze szpitala, <DATE>28.12.2024</DATE>. Pacjent <PERSON>Leszek Kowalewski</PERSON>, PESEL <PESEL>70122145678</PESEL>, zam. <ADDRESS>ul. Leśna 67, 35-001 Rzeszów</ADDRESS>. Hospitalizowany z <DISEASE>zapaleniem flegmony</DISEASE> na przedramieniu. <TEST>Badanie bakteriologiczne</TEST> wykazało Staphylococcus aureus. Leczenie: <DRUG>amoksycylina</DRUG> + <DRUG>kwas klawulanowy</DRUG> dożylnie.
+<<<SAMPLE>>>
+Opinia referencji, <DATE>11.01.2025</DATE>. <PERSON>Dr Agnieszka Nowakowa</PERSON>, <HOSPITAL>Klinika Dermatologii Uniwersytetu Jagiellońskiego</HOSPITAL>. Pacjentka <PERSON>Justyna Szymczak</PERSON>, PESEL <PESEL>86011234567</PESEL>. Po <TEST>badaniu histopatologicznym</TEST> potwierdzono <DISEASE>melanoma w situ</DISEASE>. Zalecono <TEST>szeroką resekcję</TEST> ze marginesem 1 cm.
+<<<SAMPLE>>>
+Recepta szpitalna, <DATE>23.02.2025</DATE>. Pacjent <PERSON>Sławomir Łakiski</PERSON>, PESEL <PESEL>74021234567</PESEL>, zam. <ADDRESS>ul. Piękna 90/3, 50-001 Wrocław</ADDRESS>, tel. <PHONE>609 456 789</PHONE>. <DISEASE>Łuszczyca vulgaris</DISEASE>. Zalecono <DRUG>kalcypotriol</DRUG> 50 mcg/g + <DRUG>betametazon dipropionjan</DRUG> 0,05% maść razy dziennie.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>07.03.2025</DATE>. <PERSON>Iwona Kłopotowska</PERSON>, PESEL <PESEL>81031234567</PESEL>. Zgłasza się z <DISEASE>bielactwem</DISEASE> na dłoniach i twarzy. <TEST>Badanie lampą Wooda</TEST> wykazało rozległe odbarwienia. Pacjentka skierowana na <HOSPITAL>Klinikę Dermatologii Kosmetycznej</HOSPITAL> do oceny możliwości <TEST>fotochemioterapii PUVA</TEST>.
+<<<SAMPLE>>>
+Recepta e-recepta, <DATE>19.04.2025</DATE>. Lekarz <PERSON>dr Marcin Tomczyk</PERSON>, POZ <HOSPITAL>Przychodni "Zdrowie" na Pradze</HOSPITAL>. Pacjent <PERSON>Dariusz Nowak</PERSON>, tel. <PHONE>610 567 890</PHONE>. Diagnoza: <DISEASE>trądzik różowaty</DISEASE>. <DRUG>Metronidazol</DRUG> 1% żel rano i wieczorem oraz <DRUG>azelainowa kwas</DRUG> 20% krem.
+<<<SAMPLE>>>
+Notatka z zabiegu, <DATE>25.05.2025</DATE>. Na <HOSPITAL>Oddziale Dermatologii Operacyjnej</HOSPITAL>. Pacjentka <PERSON>Grażyna Czarnecka</PERSON>, PESEL <PESEL>72051234567</PESEL>, zam. <ADDRESS>Gdynia, ul. Morska 12</ADDRESS>. <TEST>Wycięcie</TEST> <DISEASE>lipoma</DISEASE> na plecach pod znieczuleniem <DRUG>lidokainom</DRUG> 1%. Materiał wysłany na <TEST>badanie histopatologiczne</TEST>.
+<<<SAMPLE>>>
+Notatka pediatryczna, <DATE>08.06.2025</DATE>. <PERSON>Natalia Kowalska</PERSON>, dziecko pacjentki <PERSON>Haliny Kowalskiej</PERSON>, PESEL dziecka <PESEL>15060234567</PESEL>, zam. <ADDRESS>ul. Życzliwa 15, 02-001 Warszawa</ADDRESS>. Dziecko z <DISEASE>miliaria</DISEASE> na szyi i tułowiu w związku z wysoka temperaturą. Zalecono <DRUG>pudry talku</DRUG> i przewiewne ubrania. Badania niepotrzebne.
+<<<SAMPLE>>>
+Zlecenie mammografii, <DATE>14.07.2025</DATE>. Pacjentka <PERSON>Oksana Fedorczuk</PERSON>, PESEL <PESEL>68071234567</PESEL>, tel. <PHONE>612 678 901</PHONE>. Ginekolog zlecił <TEST>ultrasonografię piersi</TEST> z powodu zaobserwowanego <DISEASE>zmianu w górnym zewnętrznym kwadrancie piersi lewej</DISEASE>. Wykonanie w ciągu 2 tygodni.
+<<<SAMPLE>>>
+Notatka diagnostyczna, <DATE>22.08.2025</DATE>. <PERSON>Krzysztof Urbański</PERSON>, PESEL <PESEL>79081234567</PESEL>, zam. <ADDRESS>ul. Słupska 33/7, 80-002 Gdańsk</ADDRESS>. U pacjenta <DISEASE>zapalenie skóry powieki</DISEASE> po zastosowaniu <DRUG>latanoprostu</DRUG>. Zalecono przerwę w stosowaniu leku i <DRUG>prednizolon</DRUG> 0,5% krople oczne.
+<<<SAMPLE>>>
+Recepta kontrolna, <DATE>03.09.2025</DATE>. Dla <PERSON>Stanisławy Jaskulskiej</PERSON>, PESEL <PESEL>61091234567</PESEL>, tel. <PHONE>613 789 012</PHONE>, zam. <ADDRESS>Łódź, ul. Piotrkowska 100/5</ADDRESS>. Pacjentka kontrolnie po <TEST>cryoterapii</TEST> <DISEASE>brodawek</DISEASE> na rękach. Gojenie bez powikłań. Dalsze obserwacje w przychodni za miesiąc.
+<<<SAMPLE>>>
+Notatka oddziałowa, <DATE>16.10.2025</DATE>. <PERSON>Filip Marcinkowski</PERSON>, PESEL <PESEL>86101234567</PESEL>, zam. <ADDRESS>ul. Nowa 56, 25-001 Kielce</ADDRESS>. Pacjent hospitalizowany z powodu <DISEASE>zapalenia skóry pęcherzykowego</DISEASE>. <TEST>Badanie RNA</TEST> potwierdziło wirusa ospy wietrznej. Leczenie: <DRUG>acyklowir</DRUG> dożylnie + <DRUG>paracetamol</DRUG> dla bólu. Wyleczony i wypisany.
+<<<SAMPLE>>>
+Notatka specjalisty z zakresu ambulatoryjnego, <DATE>29.11.2025</DATE>. Pacjent <PERSON>Ryszard Duda</PERSON>, PESEL <PESEL>52112134567</PESEL>. Dermatolog zalecił <TEST>test łatki</TEST> (patch test) dla podejrzenia <DISEASE>alergicznego zapalenia kontaktowego</DISEASE> skóry. Pacjent wezwany do przychodni za 5 dni na interpretację wyników.
+<<<SAMPLE>>>

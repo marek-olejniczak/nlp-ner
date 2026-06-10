@@ -1,0 +1,103 @@
+Notatka z <HOSPITAL>Poradni Onkologicznej Szpitala MSWiA</HOSPITAL>, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Paweł Kowalski</PERSON>, PESEL <PESEL>65041523456</PESEL>, zamieszkały <ADDRESS>ul. Wiślana 12/3, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>604 123 456</PHONE>. W <TEST>USG</TEST> miednicy stwierdzono guz przydatka. Badanie <TEST>MRI</TEST> potwierdza <DISEASE>nowotwór jajnika</DISEASE> w II stopniu zaawansowania. Zaplanowana <TEST>laparotomia</TEST> w dn. 02.06.2024. Pacjent otrzymał <DRUG>ciplatyna</DRUG> w neoadiuwantnym schemacie.
+
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Śląskiego</HOSPITAL>, <DATE>11.04.2024</DATE>. <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>57092834567</PESEL>, <ADDRESS>Katowice, ul. Mickiewicza 45</ADDRESS>, <PHONE>695 234 567</PHONE>. Rozpoznanie: <DISEASE>guz płuca o komórkach nierdzeniowych</DISEASE>, stadium IIIB. Wykonano <TEST>PET-CT</TEST>, <TEST>spirometria</TEST>, <TEST>EKG</TEST>. Zlecono <TEST>chemioterapię</TEST> czterema cyklami <DRUG>Abraxane</DRUG> + <DRUG>cisplatyna</DRUG>. Tolerancja leczenia zadowalająca, bez toksyczności III st.
+
+<<<SAMPLE>>>
+Recepta POZ, <DATE>03.06.2024</DATE>. <PERSON>Jan Pawlak</PERSON>, PESEL <PESEL>68112245678</PESEL>, ul. <ADDRESS>Żeromskiego 7, 90-012 Łódź</ADDRESS>, tel <PHONE>721 345 678</PHONE>. Lekarz <PERSON>Anna Przybysz</PERSON> wypisała <DRUG>Tamoksifen</DRUG> 20 mg 1-1-1 przez 5 lat w raku piersi hormonozależnym. Zastrzeżenie: monitoruj <TEST>ciśnienie tętnicze</TEST>, <TEST>BMD</TEST> co roku.
+
+<<<SAMPLE>>>
+Notatka z SOR <HOSPITAL>Szpitala Centralnego</HOSPITAL>, <DATE>15.03.2024</DATE>. Pacjent <PERSON>Tadeusz Nowak</PERSON>, PESEL <PESEL>54051267890</PESEL>, <ADDRESS>Warszawa, Piazza Powstańców 21/4</ADDRESS>, tel. <PHONE>602 456 789</PHONE>. Przyjęto z podejrzeniem <DISEASE>krwotoku z przewodu pokarmowego</DISEASE>. <TEST>Gastroskopia</TEST> wykazała <DISEASE>nowotwór żołądka</DISEASE> z krwawiącą osadzą. Konsultacja z onkologiem — <TEST>CT tułowia</TEST> w dn. 16.03. Pacjent przekazany na oddział chirurgii.
+
+<<<SAMPLE>>>
+Opis <TEST>biopsji</TEST> z <HOSPITAL>Laboratorium Patologii Śląskiego Centrum Onkologii</HOSPITAL>, <DATE>08.02.2024</DATE>. Pacjentka <PERSON>Katarzyna Zielińska</PERSON>, PESEL <PESEL>72081945678</PESEL>. Materiał z <DISEASE>guza piersi</DISEASE>: histopat. <DISEASE>adenokarcinoma duktalnego G2</DISEASE>, receptory estrogenowe (+), receptory progesteronowe (+), HER2 (−). Zalecono <TEST>chemioterapię</TEST> schemat TAC, następnie <TEST>radioterapia</TEST>.
+
+<<<SAMPLE>>>
+Karta zgłoszenia pacjenta do <HOSPITAL>Centrum Onkologii Instytutu</HOSPITAL>, <DATE>25.04.2024</DATE>. <PERSON>Stanisław Ostrowski</PERSON>, PESEL <PESEL>61032512345</PESEL>, <ADDRESS>Poznań, ul. Fredry 14/2</ADDRESS>, <PHONE>606 567 890</PHONE>. Rozpoznanie: <DISEASE>czerniak złośliwy</DISEASE> grubości Breslowa 2.8 mm, stadium IIIC. Wykonać <TEST>sentinel node biopsy</TEST>, <TEST>PET-CT</TEST>. Wskazana <TEST>immunoterapia</TEST> <DRUG>Keytruda</DRUG>.
+
+<<<SAMPLE>>>
+Pismo zwrotne do <HOSPITAL>Przychodni Rejonowej nr 3</HOSPITAL>, <DATE>19.05.2024</DATE>. <PERSON>Bogusław Szymczak</PERSON>, PESEL <PESEL>59071834567</PESEL>, <ADDRESS>ul. Pulaskiego 33, 61-002 Poznań</ADDRESS>. Po badaniu <TEST>mammografii</TEST> i <TEST>USG</TEST> w naszej poradni stwierdzono <DISEASE>mikrozwapnienia suspektne</DISEASE>. Zalecana <TEST>biopsja wielkoiglowa</TEST>. Oczekiwanie na dokładne wyniki, b/z guz złośliwy po wstępnej ocenie.
+
+<<<SAMPLE>>>
+Notatka z konsultacji, <DATE>02.06.2024</DATE>, <HOSPITAL>Szpital Uniwersytecki w Krakowie</HOSPITAL>. Pacjent <PERSON>Piotr Michałowski</PERSON>, PESEL <PESEL>62011745678</PESEL>, <ADDRESS>Kraków, Lipińskiego 24/5</ADDRESS>, tel. <PHONE>723 678 901</PHONE>. <DISEASE>Rak prokardiaka</DISEASE> — brak możliwości operacyjnej, stan rozsiania M1b. Zalecono <TEST>chemioterapię</TEST> paliatywną <DRUG>docetaksel</DRUG> + <DRUG>taksotere</DRUG>. <TEST>ECOG</TEST> 2, Life expectancy ~8 m-cy.
+
+<<<SAMPLE>>>
+Raport z <TEST>colonoskopii</TEST>, <DATE>30.04.2024</DATE>, <HOSPITAL>Klinika Gastroenterologiczna Szpitala Wojskowego</HOSPITAL>. <PERSON>Lucyna Sosnowska</PERSON>, PESEL <PESEL>64032156789</PESEL>, <ADDRESS>ul. Kopernika 12, 30-001 Kraków</ADDRESS>, tel. <PHONE>789 345 612</PHONE>. Znaleziono polip rozmaitości semblujący wczesną <DISEASE>adenokarcinomę</DISEASE> okrężnicy w części wschodniokolankowej. Wykonana <TEST>polipektomia</TEST> en bloc. Materiał do weryfikacji histologicznej.
+
+<<<SAMPLE>>>
+Pismo informacyjne <DATE>10.05.2024</DATE> z <HOSPITAL>Poradni Dermatoonkologicznej</HOSPITAL>. Pacjent <PERSON>Roman Grzelak</PERSON>, PESEL <PESEL>66041267890</PESEL>, <ADDRESS>Wrocław, ul. Słoneczna 7/1</ADDRESS>. Badanie <TEST>dermatoskopowe</TEST> zmian na grzbiecie stopy wskazuje cechy <DISEASE>czerniakowate</DISEASE>. Zalecona <TEST>eksycja diagnostyczna</TEST> i całkowitą <TEST>biopsja</TEST>. Pacjent poinformowany o ryzyku z rozprzestrzenianiem się.
+
+<<<SAMPLE>>>
+Historia choroby, oddział chirurgii onkologicznej, <DATE>01.03.2024</DATE> – <DATE>08.03.2024</DATE>, <HOSPITAL>Szpital Miejski w Warszawie</HOSPITAL>. <PERSON>Elżbieta Nowak</PERSON>, PESEL <PESEL>58072445678</PESEL>, <ADDRESS>ul. Nowy Świat 13, 00-001 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>rak piersi </DISEASE> IIIA, HER2+. Przeprowadzono <TEST>mastektomię</TEST> z <TEST>limfadenektomią</TEST> pazystolną. Materiał operacyjny pobrany do weryfikacji. Pacjentka wypisana w dobrym stanie, zaplanowana <TEST>radioterapia</TEST> + <DRUG>Herceptin</DRUG>.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>14.06.2024</DATE>, lekarz <PERSON>Dariusz Kowal</PERSON>. <PERSON>Jerzy Bobak</PERSON>, PESEL <PESEL>55011834567</PESEL>, <ADDRESS>ul. Słowackiego 44/2, 60-002 Poznań</ADDRESS>, <PHONE>602 123 789</PHONE>. Podanie <DRUG>Avastin</DRUG> (bevacizumab) IV 15 mg/kg, cykl co 3 tygodnie w <DISEASE>raku płuca zaawansowanym</DISEASE>. Premedykacja <DRUG>paracetamol</DRUG>, <DRUG>metoclopramid</DRUG>.
+
+<<<SAMPLE>>>
+Kwestionariusz przedzabiegowy, <DATE>12.05.2024</DATE>, <HOSPITAL>Zakaźne Szpitala Centralnego</HOSPITAL>. <PERSON>Grzegorz Lewandowski</PERSON>, PESEL <PESEL>61081945678</PESEL>, <ADDRESS>Katowice, ul. 1 Maja 5/3</ADDRESS>, tel. <PHONE>505 234 567</PHONE>. Stan: <DISEASE>rak nerki</DISEASE> stadium T3b. Zaplanowana <TEST>nefrektomia</TEST> + <TEST>adrenalektomia</TEST>. <TEST>EKG</TEST>, <TEST>RTG klatki</TEST>, <TEST>morfologia</TEST>, <TEST>APTT</TEST> — bez odchyleń. Pacjent zdolny do operacji.
+
+<<<SAMPLE>>>
+Opis <TEST>MRI mózgu</TEST>, <DATE>23.04.2024</DATE>, <HOSPITAL>Pracownia Radiologii Szpitala Neurochirurgicznego</HOSPITAL>. <PERSON>Zbigniew Górski</PERSON>, PESEL <PESEL>57062334567</PESEL>. Rozpoznanie: <DISEASE>guzek w płacie czołowym</DISEASE>, T1 hiposignalny, T2 hipersignalny, podejrzenie <DISEASE>glioblastomy</DISEASE> multiforme. Zwiększone napięcie śróczaszkowe. Nagłe słabości lewej ręki. Pilna konsultacja neurochirurga.
+
+<<<SAMPLE>>>
+Notatka z poradni <DATE>17.05.2024</DATE>, <HOSPITAL>Szpital Wojewódzki w Białymstoku</HOSPITAL>. <PERSON>Jadwiga Kwiatkowska</PERSON>, PESEL <PESEL>63091245678</PESEL>, <ADDRESS>Białystok, ul. Warszawska 21/4</ADDRESS>, <PHONE>693 456 789</PHONE>. Po <TEST>PET-CT</TEST> stwierdzono <DISEASE>przerzuty węglowe</DISEASE> do żeber i kości miednicy w <DISEASE>raku piersi metastatycznym</DISEASE>. Włączono <DRUG>Ibrance</DRUG> + <DRUG>letrozol</DRUG>. Ból kontrolowany <DRUG>fentanylem</DRUG> 25 mcg/72h.
+
+<<<SAMPLE>>>
+Raport z <TEST>USG endorectalnego</TEST>, <DATE>08.04.2024</DATE>, <HOSPITAL>Klinika Koloproktologiczna Szpitala Akademickiego</HOSPITAL>. <PERSON>Zenon Kubiak</PERSON>, PESEL <PESEL>64031156789</PESEL>, <ADDRESS>ul. Naukowa 19, 30-963 Kraków</ADDRESS>. Masa guza w odbytnicę poniżej czę odznaki włosów, głębokość T3. Zasugerowana <TEST>neoadiuwantna radioterapia</TEST> ze <DRUG>5-fluorouracylem</DRUG>.
+
+<<<SAMPLE>>>
+Karta przyjęcia do szpitala, <DATE>25.03.2024</DATE>, <HOSPITAL>Centrum Onkologii Warszawskiego</HOSPITAL>. <PERSON>Ewa Michalczyk</PERSON>, PESEL <PESEL>59041867890</PESEL>, <ADDRESS>Warszawa, Marszałkowska 42/5</ADDRESS>, tel. <PHONE>798 567 890</PHONE>. Rozpoznanie: <DISEASE>rak endometrium</DISEASE> G2, stadium IB. Przychodzi z objawami: wydzieliny hemorhagiczne. Zaplanowana <TEST>histerektomia</TEST>, <TEST>salpingo-ooforektomia</TEST> dwustronna. Premedykacja <DRUG>Cefazolin</DRUG> 1 g IV.
+
+<<<SAMPLE>>>
+Notatka z SOR, <DATE>19.04.2024</DATE>, <HOSPITAL>Szpital Uniwersytecki Warszawski</HOSPITAL>. <PERSON>Ignacy Dabrowski</PERSON>, PESEL <PESEL>60052245678</PESEL>, <ADDRESS>Piaseczno, ul. Główna 99</ADDRESS>, <PHONE>604 789 012</PHONE>. Przyjęto z bólem głowy i zaburzeniami widzenia. <TEST>CT mózgu</TEST> ujawnił <DISEASE>guzka supraselarna</DISEASE> o średnicy 3 cm z naciekiem syfonu karotydowego. Pilna konsultacja neurochirurga, <TEST>MRI</TEST> zaplanowana dn. 20.04.
+
+<<<SAMPLE>>>
+Opis procedury <TEST>bronchoskopii z biopsją</TEST>, <DATE>06.05.2024</DATE>, <HOSPITAL>Szpital Kliniczny Uniwersytetu Medycznego w Łodzi</HOSPITAL>. <PERSON>Violetta Szpaderska</PERSON>, PESEL <PESEL>62101534567</PESEL>, <ADDRESS>Łódź, ul. Mickiewicza 77/2</ADDRESS>. Zlokalizowano guzka w płacie górnym lewego płuca, pobrano 3 próbki tkanki. Histopat. — <DISEASE>adenokarcinoma sitowate</DISEASE>, EGFR mutacja (L858R). Rekomendacja: <DRUG>erlotynib</DRUG> lub <DRUG>gefitynib</DRUG>.
+
+<<<SAMPLE>>>
+Pismo konsultacyjne, <DATE>13.06.2024</DATE>, <HOSPITAL>Poradnia Hematoonkologiczna Szpitala Wojskowego</HOSPITAL>. <PERSON>Bernard Osiński</PERSON>, PESEL <PESEL>56121756789</PESEL>, <ADDRESS>ul. Armii Krajowej 33, 80-023 Gdańsk</ADDRESS>, tel. <PHONE>501 234 567</PHONE>. <DISEASE>Chłoniak Hodgkina</DISEASE> stadium IIIB z objawami B. <TEST>FDG-PET</TEST> — akumulacja w mediastynie i węzłach szyjnych. Zaproponowany schemat <DRUG>ABVD</DRUG>.
+
+<<<SAMPLE>>>
+Karta wypisania pacjenta, <DATE>29.05.2024</DATE>, oddział chirurgii urologicznej, <HOSPITAL>Szpital Bielański</HOSPITAL>. <PERSON>Wacław Skoczylas</PERSON>, PESEL <PESEL>58031267890</PESEL>, <ADDRESS>Warszawa, ul. Kochanowskiego 8/1</ADDRESS>, <PHONE>602 345 789</PHONE>. Diagnoza: <DISEASE>rak pęcherza moczowego</DISEASE> T1, wysokiego stopnia złośliwości. Przeprowadzono <TEST>TURBT</TEST> (transuretralne wznowienie guza pęcherza). Materiał do weryfikacji. Pacjent wypisany ze wskazaniami do <TEST>chemioterapii</TEST> intravesicalnej.
+
+<<<SAMPLE>>>
+Raport z <TEST>mammografii cyfrowej</TEST>, <DATE>21.03.2024</DATE>, <HOSPITAL>Pracownia Radiologii Szpitala Żeromskiego</HOSPITAL>. <PERSON>Danuta Prochaska</PERSON>, PESEL <PESEL>61081645678</PESEL>, <ADDRESS>Kraków, ul. Floriańska 25/3</ADDRESS>. Kategoryzacja BI-RADS 5: <DISEASE>zwapnienia linear, nieregularne kształty</DISEASE>, wysokie podejrzenie <DISEASE>raku piersi</DISEASE>. Pacjentka już otrzymała skierowanie na <TEST>biopsję szybkostrzelną</TEST>.
+
+<<<SAMPLE>>>
+Historia hospitalizacji, <DATE>07.02.2024</DATE> – <DATE>14.02.2024</DATE>, <HOSPITAL>Szpital Kliniczny w Gdańsku</HOSPITAL>. <PERSON>Krzysztof Nowosad</PERSON>, PESEL <PESEL>59042156789</PESEL>, <ADDRESS>Gdańsk, ul. Schopenhauera 12/7</ADDRESS>, tel. <PHONE>725 678 901</PHONE>. Przyjęty z bólem w górnej części jamy brzusznej. <TEST>CT</TEST> wskazał <DISEASE>przerzuty tumoralne do wątroby</DISEASE>. <TEST>Analiza krwi</TEST> — <TEST>PSA</TEST> 120 ng/ml. Rozpoznanie: <DISEASE>rak prostaty metastatyczny</DISEASE>. Zalecono <DRUG>kastrację chemiczną</DRUG> + <DRUG>enzalutamid</DRUG>.
+
+<<<SAMPLE>>>
+Notatka poradni zdrowia pracownika, <DATE>11.04.2024</DATE>, <HOSPITAL>Przychodni Firmowej ABC</HOSPITAL>. <PERSON>Wiesław Miłosław</PERSON>, PESEL <PESEL>62061534567</PESEL>, <ADDRESS>Poznań, ul. Słowacki 18/4</ADDRESS>. Badanie palpacyjne piersi ujawnia guzek o średnicy 1.5 cm, twardy, nieruchomy, bolesny. Pacjent odesłany do <HOSPITAL>Poradni Onkologicznej Szpitala Barskiej</HOSPITAL> na <TEST>USG</TEST> i <TEST>mammografię</TEST>.
+
+<<<SAMPLE>>>
+Pismo ze wynikami <TEST>testu genetic BRCA1/BRCA2</TEST>, <DATE>17.05.2024</DATE>, <HOSPITAL>Pracownia Genetyki Medycznej</HOSPITAL>. <PERSON>Halina Kuchta</PERSON>, PESEL <PESEL>63092245678</PESEL>, <ADDRESS>ul. Jaracza 15, 31-001 Kraków</ADDRESS>. Dodatni wynik: <DISEASE>mutacja BRCA1 5382insC</DISEASE>. Pacjentka już miała <DISEASE>raka piersi</DISEASE>. Zalecana profilaktyczna <TEST>mastektomia</TEST> i <TEST>ovarektomia</TEST>.
+
+<<<SAMPLE>>>
+Opis <TEST>biopsia transbronchialna</TEST>, <DATE>23.04.2024</DATE>, <HOSPITAL>Szpital Uniwersytecki Uniwersytetu Medycznego w Warszawie</HOSPITAL>. <PERSON>Stanisław Zagórski</PERSON>, PESEL <PESEL>55011145678</PESEL>, <ADDRESS>Warszawa, ul. Freta 13/2</ADDRESS>. Materiał z węzłów śródpiersiowych: <DISEASE>limfoma Hodgkina</DISEASE>, typ klasyczny, subtip scleronodular. <TEST>Flow cytometry</TEST> — CD20+, CD30+. Rekomendacja: <TEST>chemioterapia</TEST> schemat Standarta.
+
+<<<SAMPLE>>>
+Notatka z dnia <DATE>04.06.2024</DATE>, <HOSPITAL>Szpital Specjalistyczny Onkologii w Toruniu</HOSPITAL>. <PERSON>Renata Szeligowska</PERSON>, PESEL <PESEL>60042756789</PESEL>, <ADDRESS>Toruń, ul. Kopernika 5/1</ADDRESS>, tel. <PHONE>606 789 012</PHONE>. Pacjentka w recydywie <DISEASE>raka piersi</DISEASE> 2 lata po chemioterapii. <TEST>PET-CT</TEST> — przerzuty do płuc i kości. Rozpoczyna <TEST>chemioterapię</TEST> ze schematem <DRUG>Taxol</DRUG> + <DRUG>doxorubicyna</DRUG>. Profil toksyczności — monitorować neutropenię.
+
+<<<SAMPLE>>>
+E-recepta z poradni chirurgii onkologicznej, <DATE>08.05.2024</DATE>. Lekarz <PERSON>Marek Lewandowski</PERSON>. <PERSON>Franciszek Zając</PERSON>, PESEL <PESEL>58021834567</PESEL>, <ADDRESS>ul. Pucha 33, 90-001 Łódź</ADDRESS>. <DRUG>Metotreksat</DRUG> 500 mg/m² IV co tydzień przez 12 tygodni. Monitorowanie: <TEST>liczba WBC</TEST>, <TEST>kreatynina</TEST>, <TEST>LDH</TEST>. Pacjent ma wskazania do <TEST>leczenia zaoszczędzającego kończynę</TEST> w <DISEASE>osteosarcoma</DISEASE>.
+
+<<<SAMPLE>>>
+Karta konsultacji stomatologicznej, <DATE>19.03.2024</DATE>, <HOSPITAL>Szpital Stomatologiczny Warszawski</HOSPITAL>. <PERSON>Joanna Dąbrowska</PERSON>, PESEL <PESEL>59081256789</PESEL>, <ADDRESS>Warszawa, ul. Puławskiego 20/5</ADDRESS>. Pacjentka przed <TEST>radioterapią jamy ustnej</TEST> dla <DISEASE>raka wyścieliny policzka</DISEASE>. Zbadano zęby, usunięto wybuchowe, zalecono fluoryzację. Pacjentka skierowana do <HOSPITAL>Poradni Onkologicznej</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka z wstępnego wywiadu onkologicznego, <DATE>26.05.2024</DATE>. <PERSON>Witold Jankowski</PERSON>, PESEL <PESEL>61111534567</PESEL>, <ADDRESS>ul. Gdańska 44, 01-002 Warszawa</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Historia rodzinna: matka <DISEASE>rak piersi</DISEASE> wiek 52, babcia <DISEASE>rak jajnika</DISEASE>. Pacjent sam obciążony <DISEASE>rakiem prostaty</DISEASE> (stadium T2b N0 M0). Zalecana <TEST>genetyka</TEST>.
+
+<<<SAMPLE>>>
+Raport patologiczny z <TEST>nephrectomy</TEST>, <DATE>15.04.2024</DATE>, <HOSPITAL>Laboratorium Patologii Szpitala Klinicznego</HOSPITAL>. <PERSON>Bogdan Ratajczak</PERSON>, PESEL <PESEL>57121645678</PESEL>. Materiał nerki: <DISEASE>chromophobe RCC</DISEASE> Fuhrman grade II, marża negatywna, bez naciekania naczyń. Stadium: pT2b N0 M0. Prognoza: 5-latki przeżycia ~85%. Monitorowanie <TEST>imagingowe</TEST> każde 6 m-cy.
+
+<<<SAMPLE>>>
+Notatka poleptyka <DATE>30.05.2024</DATE>, <HOSPITAL>Szpital Onkologiczny w Szczecinie</HOSPITAL>. <PERSON>Norbert Sacha</PERSON>, PESEL <PESEL>62021245678</PESEL>, <ADDRESS>Szczecin, ul. Piastowska 17/3</ADDRESS>. Po badaniu <TEST>sigmoidoskopii</TEST> — <DISEASE>polip wełkowaty</DISEASE> o średnicy 2.5 cm w esicy. <TEST>Biopsja</TEST> wykazała <DISEASE>adenokarcinomę wysoko zróżnicowaną</DISEASE>. Pacjent skierowany do chirurgii — <TEST>resekcja raka</TEST> w przyszłym tygodniu.
+
+<<<SAMPLE>>>
+Notatka z rutynowego przeglądu onkologicznego, <DATE>02.06.2024</DATE>, <HOSPITAL>Poradnia Onkologiczna Szpitala Uniwersyteckiego w Krakowie</HOSPITAL>. <PERSON>Alicja Rybicki</PERSON>, PESEL <PESEL>64061634567</PESEL>, <ADDRESS>Kraków, ul. Józefa 36/2</ADDRESS>, tel. <PHONE>502 345 678</PHONE>. Pacjentka 3 lata po <TEST>mastektomii</TEST> dla <DISEASE>raka piersi</DISEASE> IIIA (HR+, HER2−). Aktualnie na <DRUG>tamoksyfenie</DRUG>. Badanie palpacyjne — bez cech wznowy. <TEST>Mammografia</TEST> i <TEST>USG</TEST> bez zmian. Dalej <DRUG>tamoksyfen</DRUG>.
+
+<<<SAMPLE>>>
+Opis ze <TEST>endoskopii górnego przewodu pokarmowego</TEST>, <DATE>21.04.2024</DATE>, <HOSPITAL>Klinika Gastroenterologii Szpitala Akademickiego</HOSPITAL>. <PERSON>Adrian Sowiński</PERSON>, PESEL <PESEL>58091756789</PESEL>, <ADDRESS>ul. Warszawska 55, 30-001 Kraków</ADDRESS>. Masa w zatoce żołądkowej, nieregularna, krwawiąca. <TEST>Biopsje</TEST> pobrano z 4 miejsc. Podejrzenie <DISEASE>adenokarcinomy żołądka</DISEASE>. Zaplanować <TEST>CT tułowia</TEST> oraz <TEST>staging laparoscopy</TEST>.
+
+<<<SAMPLE>>>
+Recepta ze szpitala onkologicznego, <DATE>11.05.2024</DATE>. <PERSON>Łukasz Janowski</PERSON>, PESEL <PESEL>60051245678</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 21/4</ADDRESS>, tel. <PHONE>506 234 567</PHONE>. <DRUG>Pemetreksed</DRUG> 500 mg/m² IV co 3 tygodnie dla <DISEASE>raka płuca nierdzeniowego metastatycznego</DISEASE>. Premedykacja: <DRUG>deksametazon</DRUG>, <DRUG>kwas folinowy</DRUG>. <TEST>FEV1</TEST> >60%, pacjent zdolny do leczenia.

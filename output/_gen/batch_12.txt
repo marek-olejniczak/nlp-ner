@@ -1,0 +1,66 @@
+Notatka POZ, <DATE>08.06.2024</DATE>. Pan <PERSON>Marek Zaremba</PERSON>, PESEL <PESEL>75021845623</PESEL>, tel. <PHONE>664 845 923</PHONE>. Pacjent zgłasza się z <DISEASE>podejrzeniem cukrzycy typu 2</DISEASE>. W <TEST>morfologii</TEST> stezenie glukozy <DISEASE>podwyższone</DISEASE>. Skierowanie na <HOSPITAL>Przychodnia Endokrynologiczna nr 5</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta, <DATE>23.11.2024</DATE>. <PERSON>Anna Kowalczyk</PERSON>, PESEL <PESEL>88042067481</PESEL>, zam. <ADDRESS>al. Ujazdowskie 45, 00-676 Warszawa</ADDRESS>. Lek <DRUG>Metformin</DRUG> 850 mg, 2x dziennie przez 3 miesiące. Kontrola <HOSPITAL>Szpital Wolski</HOSPITAL>.
+<<<SAMPLE>>>
+Wypis ze szpitala, <DATE>15.03.2024</DATE>. <PERSON>Tomasz Lewandowski</PERSON>, PESEL <PESEL>82101256789</PESEL>. Diagnoza: <DISEASE>DM2 z powikłaniami, hiperlipidemia</DISEASE>. Podano <DRUG>Gliburyd</DRUG>, <DRUG>Simvastatin</DRUG>. Pacjent wypisany do domu z zaleceniem <TEST>kontroli</TEST> w <HOSPITAL>Klinice Endokrynologicznej UJ</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>01.02.2024</DATE>. <PERSON>Maria Nowak</PERSON>, PESEL <PESEL>71091832456</PESEL>, tel. <PHONE>789 456 123</PHONE>. Pacjentka z <DISEASE>hipoglikemią</DISEASE> — stezenie glukozy 45 mg/dl. Podano <DRUG>glukozę dożylnie</DRUG>. Stan stabilny, wypisana.
+<<<SAMPLE>>>
+Zlecenie badania, <DATE>12.05.2024</DATE>. <PERSON>Piotr Szymczyk</PERSON>, PESEL <PESEL>79061245678</PESEL>, zam. <ADDRESS>ul. Żeromskiego 12, 31-150 Kraków</ADDRESS>. Zlecenie: <TEST>TSH, antyTPO, antyTSH</TEST> z powodu <DISEASE>podejrzenia autoimmunologicznego zapalenia tarczycy</DISEASE>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>27.04.2024</DATE>. <PERSON>Ewa Kamińska</PERSON>, PESEL <PESEL>85031287654</PESEL>. Pacjentka w trakcie leczenia <DISEASE>cukrzycy gestacyjnej</DISEASE>. RR 128/82, HR 78. Zalecenie <DRUG>insuliny</DRUG> <DRUG>Humulin</DRUG>. Następna wizyta za miesiąc w <HOSPITAL>Poradni Endokrynologicznej</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka sprzed pacjenta, <DATE>19.06.2024</DATE>. <PERSON>Robert Kucharski</PERSON>, PESEL <PESEL>81121456789</PESEL>, tel. <PHONE>512 678 901</PHONE>. Powód wizyty: <DISEASE>otyłość klasa II (BMI 37), prediabetes</DISEASE>. Zalecenie <TEST>konsultacji dietetyka</TEST>, <DRUG>Metformin</DRUG> 500 mg na razie.
+<<<SAMPLE>>>
+Epikryza, <DATE>29.01.2024</DATE>. <PERSON>Jadwiga Lewandowska</PERSON>, PESEL <PESEL>76031645932</PESEL>, zam. <ADDRESS>ul. Krakowska 18/5, 80-001 Gdańsk</ADDRESS>. Pobyt 7 dni z powodu <DISEASE>ketoacydozy diabetycznej</DISEASE>. Stezenie glukozy przy przyjęciu 620 mg/dl. Leczenie: <DRUG>insulina</DRUG>, <DRUG>płyny IV</DRUG>. Wypisana w stanie dobrym.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>03.07.2024</DATE>. <PERSON>Stanisław Nawrocki</PERSON>, PESEL <PESEL>72041234567</PESEL>. Pacjent z <DISEASE>zaburzeniami metabolizmu lipidów</DISEASE>. W <TEST>lipidogramie</TEST>: cholesterol całkowity 290, HDL 35. Zalecenie <DRUG>Atorvastatin</DRUG> 20 mg/dobę.
+<<<SAMPLE>>>
+Opis <TEST>USG tarczycy</TEST>, <DATE>14.05.2024</DATE>. <PERSON>Krystyna Pawłowska</PERSON>, PESEL <PESEL>69021887654</PESEL>. Tarcica powiększona, węzełek 8 mm w prawym płacie. Zalecenie <TEST>biopsji</TEST>. Pacjent kierowany do <HOSPITAL>Oddziału Endokrynologii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>11.04.2024</DATE>. <PERSON>Zbigniew Kowalski</PERSON>, PESEL <PESEL>73051123456</PESEL>, tel. <PHONE>607 345 678</PHONE>. Omdlenie, przyczyna: <DISEASE>hipotireoza z <DISEASE>hipotonią</DISEASE></DISEASE>. <TEST>TSH</TEST> 18 mIU/L. Podano <DRUG>L-tyroksynę</DRUG> 75 mcg, pacjent do domu.
+<<<SAMPLE>>>
+E-recepta, <DATE>22.08.2024</DATE>. <PERSON>Daria Zieliniewicz</PERSON>, PESEL <PESEL>92012445782</PESEL>, zam. <ADDRESS>ul. Grójecka 23, 02-130 Warszawa</ADDRESS>. Lek <DRUG>L-tyroksyna</DRUG> 50 mcg, raz dziennie. Kontrola <TEST>TSH</TEST> za 6 tygodni w <HOSPITAL>Przychodni Endokrynologicznej Żoliborz</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>06.09.2024</DATE>. <PERSON>Krzysztof Nowinski</PERSON>, PESEL <PESEL>77082156789</PESEL>. <DISEASE>Hipertireoza, Chorobie Gravesa</DISEASE> w trakcie leczenia. <TEST>TSH</TEST> 0.02 (obniżone), FT4 2.1. Zmniejszenie dawki <DRUG>Tiamazolu</DRUG> do 10 mg dziennie.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>18.10.2024</DATE>. <PERSON>Halina Szulc</PERSON>, PESEL <PESEL>68071287456</PESEL>, tel. <PHONE>695 234 876</PHONE>. Pacjentka z <DISEASE>niedoczynności przytarczyc</DISEASE>. Stezenie wapnia 7.2 (niskie). Zalecenie <DRUG>Calcium Sandoz</DRUG> 3x dziennie, <DRUG>kalcytriol</DRUG> 0.5 mcg 2x dziennie.
+<<<SAMPLE>>>
+Zlecenie badań, <DATE>27.02.2024</DATE>. <PERSON>Witold Grabowski</PERSON>, PESEL <PESEL>81123445678</PESEL>, zam. <ADDRESS>ul. Piotrkowska 41, 90-447 Łódź</ADDRESS>. Zlecenie <TEST>kompleksowe badania hormonalne: testosteron, DHEA-S, LH, FSH</TEST> w związku z <DISEASE>podejrzeniem niedoczynności gonad</DISEASE>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>05.11.2024</DATE>. <PERSON>Agnieszka Michalczyk</PERSON>, PESEL <PESEL>86042578901</PESEL>. Skurcze serca, w <TEST>EKG</TEST> cechy <DISEASE>zaburzeń rytmu</DISEASE>. <TEST>TSH</TEST> 0.05 (hipertireoza). <DRUG>Propranolol</DRUG> 40 mg, 2x dziennie, przekazana na <HOSPITAL>Szpital Miejski</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>13.12.2024</DATE>. <PERSON>Roman Sędzikowski</PERSON>, PESEL <PESEL>74071156789</PESEL>. Pacjent z <DISEASE>kwasicą metaboliczną spowodowaną<DISEASE> leczeniem diabetem</DISEASE></DISEASE>. Bilans elektrolitów: K 3.2 (niski). Podłączono <DRUG>roztwór NaCl</DRUG>, <DRUG>KCl</DRUG> dośródniewie.
+<<<SAMPLE>>>
+Opis <TEST>tomografii</TEST>, <DATE>24.06.2024</DATE>. <PERSON>Zofia Szpiglasowa</PERSON>, PESEL <PESEL>79061234567</PESEL>. TK nadnerczy: guz 28 mm, podejrzenie <DISEASE>guza przysadki</DISEASE>. Kierunek do <HOSPITAL>Kliniki Endokrynologii Uniwersytetu Medycznego</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta, <DATE>09.08.2024</DATE>. <PERSON>Łukasz Dudek</PERSON>, PESEL <PESEL>88091245678</PESEL>, zam. <ADDRESS>ul. Mickiewicza 7/2, 50-081 Wrocław</ADDRESS>. Lek <DRUG>Lisinopril</DRUG> 10 mg + <DRUG>Hydrochlorotiazyd</DRUG> 12.5 mg (leczenie <DISEASE>nadciśnienia towarzyszącego DM</DISEASE>).
+<<<SAMPLE>>>
+Notatka POZ, <DATE>16.07.2024</DATE>. <PERSON>Irena Banasik</PERSON>, PESEL <PESEL>71032145678</PESEL>, tel. <PHONE>789 567 234</PHONE>. <DISEASE>Otyłość, prediabetes, nietolerancja glukozy</DISEASE>. Skierowanie na <TEST>badania genetyczne</TEST> do <HOSPITAL>Poradni Genetycznej</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>02.03.2024</DATE>. <PERSON>Dariusz Szydełko</PERSON>, PESEL <PESEL>75061456789</PESEL>. Ból głowy, nudności. <TEST>Morfologia</TEST>: leukocyty 14.5K (podwyższone). <DISEASE>Podejrzenie zapalenia przysadki</DISEASE>. <DRUG>Decadron</DRUG> IM, hospitalizacja na <HOSPITAL>Oddziału Neurochirurgii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>29.05.2024</DATE>. <PERSON>Marta Urbańska</PERSON>, PESEL <PESEL>89021287654</PESEL>. <DISEASE>Hiperaldosteronizm pierwotny</DISEASE> w trakcie diagnozy. RR 165/105, stezenie potasu 2.8 (niskie). Skierowanie do specjalisty na <HOSPITAL>Szpital Akademii Medycznej</HOSPITAL>.
+<<<SAMPLE>>>
+Zlecenie badania, <DATE>19.09.2024</DATE>. <PERSON>Czesław Kosiński</PERSON>, PESEL <PESEL>72082156789</PESEL>, zam. <ADDRESS>ul. Konopnickiej 15, 61-701 Poznań</ADDRESS>. Zlecenie <TEST>testu tolerancji glukozy OGTT + insulinemia</TEST>, <DISEASE>objawy hipoglikemiczne</DISEASE>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>11.01.2024</DATE>. <PERSON>Małgorzata Migas</PERSON>, PESEL <PESEL>83051234567</PESEL>. Pacjentka z <DISEASE>zespołem metabolicznym</DISEASE>: otyłość, <DISEASE>cukrzyca</DISEASE>, <DISEASE>nadciśnienie</DISEASE>, <DISEASE>dyslipidemia</DISEASE>. Zalecenie utraty masy ciała, <DRUG>Metformin</DRUG> 1000 mg/dobę.
+<<<SAMPLE>>>
+Opis <TEST>scintigrafii tarczycy</TEST>, <DATE>07.04.2024</DATE>. <PERSON>Grzegorz Żurawski</PERSON>, PESEL <PESEL>76091245678</PESEL>. Obraz typowy dla <DISEASE>zaostrzenia choroby Gravesa</DISEASE>. Nachłonięcie równomierne w obydwu płatach. Zalecenie <TEST>kontroli</TEST> za 3 miesiące.
+<<<SAMPLE>>>
+E-recepta, <DATE>21.10.2024</DATE>. <PERSON>Beata Krajewska</PERSON>, PESEL <PESEL>81071156789</PESEL>, tel. <PHONE>512 345 789</PHONE>. Leki: <DRUG>Pioglitazon</DRUG> 30 mg, <DRUG>Gliclazid</DRUG> 80 mg 2x dziennie w leczeniu <DISEASE>cukrzycy typu 2</DISEASE>. Kontrola za 3 miesiące.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>08.05.2024</DATE>. <PERSON>Feliks Dudek</PERSON>, PESEL <PESEL>70121234567</PESEL>. Duszność, bóle w klatce piersiowej. <TEST>EKG</TEST>, <TEST>troponina</TEST> ujemna. <DISEASE>Hipertyreoza</DISEASE> — HR 112. Leczenie <DRUG>Betablokerem</DRUG>, <HOSPITAL>Szpital Akademii Medycznej</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>25.11.2024</DATE>. <PERSON>Helena Kalinowska</PERSON>, PESEL <PESEL>73021287654</PESEL>. <DISEASE>Niedoczynność przysadki</DISEASE>, braki wielohormonalne. Leczenie: <DRUG>L-tyroksyna</DRUG> 75 mcg, <DRUG>hydrokortyzol</DRUG> 15 mg/dobę. Hormony płciowe planowane.
+<<<SAMPLE>>>
+Zlecenie badania, <DATE>14.12.2024</DATE>. <PERSON>Mirosław Szczepaniak</PERSON>, PESEL <PESEL>77041156789</PESEL>, zam. <ADDRESS>ul. Jaworska 32/4, 70-395 Szczecin</ADDRESS>. Zlecenie <TEST>ACTH, kortyzol dobowy, test deksametazony</TEST> — podejrzenie <DISEASE>zespołu Cushinga</DISEASE>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>17.06.2024</DATE>. <PERSON>Danuta Borowska</PERSON>, PESEL <PESEL>68091234567</PESEL>. Pacjentka, opad włosów, zmęczenie. <TEST>TSH</TEST> 12.5, <TEST>antyTPO</TEST> 450. <DISEASE>Hashimoto</DISEASE>. Zalecenie <DRUG>L-tyroksyny</DRUG> 25 mcg/dobę, kontrola za 6-8 tygodni.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>30.07.2024</DATE>. <PERSON>Tadeusz Maj</PERSON>, PESEL <PESEL>75031245678</PESEL>. Drażliwość, bezsenność, poty nocne. <TEST>TSH</TEST> 0.01 (obniżone), FT4 3.5 (wysoka). <DISEASE>Hipertireoza, tachykardia suprawentrikularna</DISEASE>. <DRUG>Amiodaron</DRUG>, na <HOSPITAL>Oddział Kardiologii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>03.10.2024</DATE>. <PERSON>Stanisława Kędzierska</PERSON>, PESEL <PESEL>82011156789</PESEL>. <DISEASE>Cukrzyca typu 1</DISEASE> z wymaganą insuliną. Dosis: <DRUG>insulina Novorapid</DRUG> 10j rano, <DRUG>Levemir</DRUG> 20j wieczorem. <TEST>HbA1c</TEST> 7.2%. Wizyta za miesiąc.
+<<<SAMPLE>>>
+E-recepta, <DATE>24.09.2024</DATE>. <PERSON>Lucjan Ostrowski</PERSON>, PESEL <PESEL>79061234567</PESEL>, tel. <PHONE>601 789 456</PHONE>. Leki: <DRUG>Biguanid (Metformin)</DRUG> 850 mg 3x dziennie + <DRUG>Gliptyna (Linagliptyna)</DRUG> 2.5 mg dziennie, <DISEASE>DM2 z CKD G3a</DISEASE>.
+<<<SAMPLE>>>

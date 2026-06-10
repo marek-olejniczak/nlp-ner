@@ -18,8 +18,8 @@ models/
 wandb/
 
 # macOS
-.DS_Storeoutput/_gen/
+.DS_Store
+
+# Derived datasets (rebuilt from committed sources via tools/build_training_set.py)
 output/ner_dataset_mixed.jsonl
-output/_gen2/
-output/_gen3/
 output/ner_dataset_golden_heldout.jsonl

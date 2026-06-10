@@ -1,0 +1,131 @@
+Notatka SOR z <DATE>23.05.2024</DATE>. Pacjent <PERSON>Wojciech Kowalski</PERSON>, PESEL <PESEL>78041256789</PESEL>, zamieszkały <ADDRESS>ul. Żeromskiego 12/4, 80-001 Gdańsk</ADDRESS>. Kontakt <PHONE>721 456 789</PHONE>. Przybył z ostrym bólem brzucha w dolnej połowie, wymioty. W <TEST>USG</TEST> podejrzenie <DISEASE>zapalenia wyrostka robaczkowatego</DISEASE>. <TEST>WBC</TEST> 14.2, <TEST>CRP</TEST> 67. Konsultacja chirurga <PERSON>Piotr Nowicki</PERSON>. Wdrożono <DRUG>amoksycylina/kwas klawulanowy</DRUG> i.v., kwalifikacja do <HOSPITAL>Szpital Św. Wojciecha</HOSPITAL> na zabieg.
+
+<<<SAMPLE>>>
+
+Epikryza pooperacyjna, <DATE>15.06.2024</DATE>. Pacjent <PERSON>Grzegorz Lewandowski</PERSON>, PESEL <PESEL>92082345671</PESEL>, <ADDRESS>Kraków, Nowa Huta, ul. Żurawinowa 28/12</ADDRESS>, tel. <PHONE>518 234 567</PHONE>. Operacja: <TEST>appendektomia</TEST> laparoskopowa. Rozpoznanie: <DISEASE>ostra appendicitis</DISEASE>, zapalenie otrzewnej. Przebieg sprawny, bez powikłań. Pooperacyjnie <DRUG>Ketonal</DRUG> na ból, <DRUG>ciprofloksacyna</DRUG> p.o. Wypis w dobrym stanie.
+
+<<<SAMPLE>>>
+
+Opis badania ultrasonograficznego z <DATE>03.07.2024</DATE>. <HOSPITAL>Poradnia Chirurgiczna SPSK</HOSPITAL>. Pacjent <PERSON>Anna Marcinkowska</PERSON>, PESEL <PESEL>88121278945</PESEL>, zam. <ADDRESS>ul. Kwarcowa 5, 02-000 Warszawa</ADDRESS>. W <TEST>USG</TEST> pęcherzyka żółciowego: <DISEASE>kamień żółciowy</DISEASE> średnicy 18 mm, bez spajania ścian. Kanał żółciowy niezpośledliwy. Rekomendacja: <TEST>MR cholangiopankreatografia</TEST> dla dokładnej oceny dróg żółciowych.
+
+<<<SAMPLE>>>
+
+Notatka lekarska z oddziału, <DATE>08.04.2024</DATE>. Pacjent <PERSON>Sławomir Nowak</PERSON>, PESEL <PESEL>81031456234</PESEL>, <ADDRESS>Poznań, ul. Adama Mickiewicza 17/2</ADDRESS>, tel. <PHONE>602 111 222</PHONE>. Diagnoza przyjęcia: <DISEASE>herni międzykręgowego dysku</DISEASE>, kompresja nerwu. Przed planowaną <TEST>laminektomią</TEST> poddano <TEST>tomografii komputerowej</TEST> kręgosłupa lędźwiowego. Konsultacja <PERSON>dr Marek Wiśniewski</PERSON>. Przygotowanie do zabiegu, niwelacja bólu <DRUG>ibuprofenu</DRUG>.
+
+<<<SAMPLE>>>
+
+Recepta elektroniczna, <DATE>22.08.2024</DATE>. Wystawca: <PERSON>Barbara Szymańska</PERSON>, <HOSPITAL>Poradnia Chirurgiczna Miejskiego Szpitala</HOSPITAL>. Pacjent <PERSON>Stanisław Rutkowski</PERSON>, PESEL <PESEL>73012345678</PESEL>, <ADDRESS>ul. Grunwaldzka 44, 85-950 Bydgoszcz</ADDRESS>. Po <TEST>hepatektomii</TEST> - przepisane: <DRUG>pantoprazol</DRUG> 40 mg p.o. rano, <DRUG>Acard</DRUG> 75 mg wieczorem, <DRUG>metformina</DRUG> 1000 mg 2x dziennie.
+
+<<<SAMPLE>>>
+
+Opis operacji laparoskopowej z <DATE>30.09.2024</DATE>. Pacjent <PERSON>Ewa Kamińska</PERSON>, PESEL <PESEL>84072234567</PESEL>, zam. <ADDRESS>ul. Słoneczna 89/3, 30-555 Kraków</ADDRESS>, tel. <PHONE>695 345 678</PHONE>. Procedura: <TEST>cholecystektomia</TEST> laparoskopowa. Rozpoznanie: <DISEASE>cholelithiasis</DISEASE> z <DISEASE>cholecystitis</DISEASE>. Czas zabiegu 45 min. Hemostaza doskonała. Pacjentka wybudzona w dobrym stanie, zaplanowana obserwacja na nocy.
+
+<<<SAMPLE>>>
+
+Notatka z konsultacji chirurgicznej, <DATE>11.10.2024</DATE>. <HOSPITAL>Szpital Zmartwychwstańca</HOSPITAL>. Pacjent <PERSON>Jan Szapiel</PERSON>, PESEL <PESEL>90021567891</PESEL>, <ADDRESS>Łódź, ul. Piłsudskiego 12/15</ADDRESS>, tel. <PHONE>723 567 890</PHONE>. Stan po <TEST>mastektomii</TEST> lewej piersi z powodu <DISEASE>raka piersi</DISEASE>. Dziś ocena blizny, zaplanowana <TEST>chirurgia rekonstrukcyjna</TEST>. <DRUG>Tamoksyfen</DRUG> 20 mg codziennie. Prognoza pomyślna.
+
+<<<SAMPLE>>>
+
+Zdanie z karty pobytu, <DATE>05.11.2024</DATE>. Pacjent <PERSON>Tadeusz Lewandowski</PERSON>, PESEL <PESEL>65041245678</PESEL>, zam. <ADDRESS>ul. Warszawska 23, 15-999 Białystok</ADDRESS>. Chory przyjęty z <DISEASE>przewodnikiem żołądka</DISEASE>. <TEST>Gastroskopia</TEST> ujawniła <DISEASE>owrzodzenie jelita cienkiego</DISEASE>. Leczenie konerwatywne <DRUG>omeprazol</DRUG> i.v. przez 5 dni, następnie p.o.
+
+<<<SAMPLE>>>
+
+Raport z oddziału intensywnej terapii, <DATE>14.12.2024</DATE>. <HOSPITAL>OIOM Szpital Centralny</HOSPITAL>. Pacjent <PERSON>Krzysztof Dąbrowski</PERSON>, PESEL <PESEL>72031678945</PESEL>, <ADDRESS>ul. Spacerowa 55/8, 40-100 Katowice</ADDRESS>, tel. <PHONE>506 789 012</PHONE>. Po <TEST>zabiegu on-pump</TEST> - <DISEASE>zawał mięśnia sercowego</DISEASE> w części dolnej. <TEST>EKG</TEST> cechy niedokrwienia. <TEST>Troponina I</TEST> 2.1 ng/ml. Monitorowanie nieprzerwanego EKG, podawanie <DRUG>heparyny</DRUG> infuzyjnie.
+
+<<<SAMPLE>>>
+
+Notatka przewodnika pacjenta, <DATE>25.01.2025</DATE>. Pacjent <PERSON>Maria Nowak</PERSON>, PESEL <PESEL>91023456789</PESEL>, zam. <ADDRESS>ul. Lipowa 34, 60-000 Poznań</ADDRESS>. Plan operacji: <TEST>prostatektomia</TEST> robotyczna. Przed zabiegiem: <TEST>MR miednicy</TEST>, <TEST>poziom PSA</TEST> 8.5 ng/ml. Rozpoznanie: <DISEASE>rak prostaty</DISEASE> stadium II. Pacjent przygotowany, <DRUG>betadyna</DRUG> lokalna przed incyzją.
+
+<<<SAMPLE>>>
+
+Epikryza ze szpitala dnia, <DATE>17.02.2025</DATE>. <HOSPITAL>Szpital Miejski nr 3</HOSPITAL>. Pacjent <PERSON>Zbigniew Piotrowski</PERSON>, PESEL <PESEL>79102345671</PESEL>, <ADDRESS>Wrocław, ul. Krakowska 9/4</ADDRESS>, tel. <PHONE>712 345 678</PHONE>. Procedura: <TEST>hemoroidektomia</TEST> методом zamknięcia. Rozpoznanie: <DISEASE>hemoroidy wewnętrzne stopnia III</DISEASE>. Pooperacyjnie <DRUG>Solcoseryl</DRUG> żel miejscowo, <DRUG>paracetamol</DRUG> 500 mg na ból. Pacjent wypuszony tego samego dnia w dobrym stanie.
+
+<<<SAMPLE>>>
+
+Zwolnienie lekarskie, <DATE>20.03.2025</DATE>. Wystawiający: <PERSON>dr Renata Kilian</PERSON>, <HOSPITAL>Przychownia Rejonowa</HOSPITAL>. Pacjent <PERSON>Rafał Szajowski</PERSON>, PESEL <PESEL>84110234567</PESEL>, <ADDRESS>ul. Słoneczna 12/1, 31-000 Kraków</ADDRESS>. Zwolnienie na 14 dni od <DATE>21.03.2025</DATE> - stan po <TEST>hernioplastyce</TEST> ścian brzucha. Zarazem przepisane: <DRUG>ibuprofenu</DRUG> 400 mg trzy razy dziennie.
+
+<<<SAMPLE>>>
+
+Notatka operacyjna, <DATE>08.04.2025</DATE>. Pacjent <PERSON>Czesław Górski</PERSON>, PESEL <PESEL>68021456789</PESEL>, zam. <ADDRESS>ul. Akacjowa 27, 85-800 Gdańsk</ADDRESS>, tel. <PHONE>518 901 234</PHONE>. <TEST>Kolostomia</TEST> na grubym jelicie. Rozpoznanie preoperacyjne: <DISEASE>rak esicy</DISEASE> z przerzutami. Zespolenie <TEST>resekto-anastomotyczne</TEST> uniemożliwiono z uwagi na zaawansowanie. Pacjent stale w stanowładzie.
+
+<<<SAMPLE>>>
+
+Opis badania tomograficznego, <DATE>16.05.2025</DATE>. <HOSPITAL>Pracownia Radiologii SPSK nr 1</HOSPITAL>. Pacjent <PERSON>Dorota Lipska</PERSON>, PESEL <PESEL>77081245678</PESEL>, <ADDRESS>ul. Białego Kruka 3, 02-888 Warszawa</ADDRESS>. <TEST>TK klatki piersiowej</TEST> wysokiej rozdzielczości: <DISEASE>emfizema podskórna</DISEASE> w górnym przedoddiale klatki piersiowej l. Brak przerzutów, nacieków wielkich naczyń. Rekomendacja: rtg kontrolne za 6 tygodni.
+
+<<<SAMPLE>>>
+
+Recepta przewodnika pacjenta, <DATE>29.06.2025</DATE>. Lekarz: <PERSON>Grzegorz Kwiatkowski</PERSON>, <HOSPITAL>Szpital Urazowo-Ortopedyczny</HOSPITAL>. Pacjent <PERSON>Aleksandra Lewandowska</PERSON>, PESEL <PESEL>89072345671</PESEL>, <ADDRESS>Warszawa, ul. Zielona 56/2</ADDRESS>, tel. <PHONE>601 567 890</PHONE>. Po <TEST>arthroscopy</TEST> kolana lewego - <DISEASE>uszkodzenie łąkotki</DISEASE> wewnętrznej. Przepisane: <DRUG>Ketonal</DRUG> 100 mg 2x dziennie, <DRUG>heparyna</DRUG> dootrzewnowo 5000 j. wieczorem.
+
+<<<SAMPLE>>>
+
+Notatka z SOR-u, <DATE>10.07.2025</DATE>. Pacjent <PERSON>Włodzimierz Nowak</PERSON>, PESEL <PESEL>74032156789</PESEL>, zam. <ADDRESS>ul. Myśliwska 14, 80-555 Gdańsk</ADDRESS>, tel. <PHONE>695 234 567</PHONE>. Wpłynął z ostrym krwawieniem z górnego odcinka przewodu pokarmowego. <TEST>EGD</TEST> ujawniła <DISEASE>owrzodzenie żołądka</DISEASE> z krwawiącą tętnicą. Przeprowadzono <TEST>hemostazę endoskopową</TEST>. Pacjent przekazany na oddział zakaźny do obserwacji.
+
+<<<SAMPLE>>>
+
+Karty szpitalnej - notatka z opieki, <DATE>22.08.2025</DATE>. <HOSPITAL>Oddział Chirurgii Ogólnej</HOSPITAL>. Pacjent <PERSON>Benedykt Marcin</PERSON>, PESEL <PESEL>81041234567</PESEL>, <ADDRESS>ul. Polna 19/3, 30-699 Kraków</ADDRESS>. Dziś <DATE>22.08.2025</DATE> na oddziale po <TEST>abdominoplastyce</TEST>. Rozpoznanie: <DISEASE>naficia skóry brzucha</DISEASE>. Czucie w normie, blizna sucha. Usunięto dreny, wznowiony umiarkowany ruch. <DRUG>Klindamycyna</DRUG> 300 mg trzy razy dziennie p.o.
+
+<<<SAMPLE>>>
+
+Pismo z konsultacji endokrynologicznej, <DATE>03.09.2025</DATE>. Konsultant: <PERSON>dr Maria Żurawska</PERSON>, <HOSPITAL>Poradnia Endokrynologiczna Uniwersytetu</HOSPITAL>. Pacjent <PERSON>Lucjan Stanisławski</PERSON>, PESEL <PESEL>66012345678</PESEL>, <ADDRESS>Poznań, ul. Nowa 44/7</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Stan po <TEST>tyreoidektomii</TEST> z powodu <DISEASE>raka tarczycy</DISEASE>. <TEST>TSH</TEST> 0.4 mlU/l, <TEST>fT4</TEST> 15.2 pmol/l. Zalecana kontynuacja <DRUG>lewotyroksyny</DRUG> 100 mcg codziennie.
+
+<<<SAMPLE>>>
+
+Notatka anestezjologa przed procedurą, <DATE>15.10.2025</DATE>. <HOSPITAL>Blok Operacyjny PZOZ</HOSPITAL>. Pacjent <PERSON>Halina Kucharska</PERSON>, PESEL <PESEL>73052234567</PESEL>, zam. <ADDRESS>ul. Jaśminowa 8, 15-555 Białystok</ADDRESS>, tel. <PHONE>602 234 567</PHONE>. Planowana: <TEST>gastrektomia</TEST> całkowita. Status ASA III. Historia: <DISEASE>rak żołądka</DISEASE> T3N2M0. Premedykacja <DRUG>midazolamem</DRUG> 3 mg + <DRUG>fentanyl</DRUG> 50 mcg.
+
+<<<SAMPLE>>>
+
+Epikryza pobytu, <DATE>28.11.2025</DATE>. Pacjent <PERSON>Mirosław Dudek</PERSON>, PESEL <PESEL>75021456789</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 55/12</ADDRESS>, tel. <PHONE>518 789 012</PHONE>. Pobyt: <DATE>12.11.2025</DATE>–<DATE>28.11.2025</DATE>. Procedura: <TEST>fistulektomia</TEST> spowodowanej <DISEASE>zapaleniem wsierdzia</DISEASE>. Rozpoznanie: <DISEASE>fistula krytyczna</DISEASE>. Po zabiegu: <DRUG>Augmentin</DRUG> 625 mg 3x dziennie, <DRUG>metamizol</DRUG> 500 mg na ból. Wypis w zadowalającym stanie.
+
+<<<SAMPLE>>>
+
+Opis zabiegu biopsji, <DATE>05.12.2025</DATE>. <HOSPITAL>Szpital Uniwersytetu Medycznego</HOSPITAL>. Pacjent <PERSON>Jolanta Zając</PERSON>, PESEL <PESEL>82061234567</PESEL>, <ADDRESS>ul. Wesołe 23/4, 60-555 Poznań</ADDRESS>, tel. <PHONE>721 890 123</PHONE>. <TEST>Biopsja Node gruczołu piersiowego</TEST> lewy górny kwadrant. Pobrano 4 próbki. Rozpoznanie kliniczne: <DISEASE>guz piersi podejrzany</DISEASE>. Wysłano do badania histopatologicznego. Ból łagodzony <DRUG>paracetamolem</DRUG> 500 mg.
+
+<<<SAMPLE>>>
+
+Notatka z wizyt lekarskiej, <DATE>17.01.2026</DATE>. <HOSPITAL>Poradnia Chirurgii Urazowo-Ortopedycznej</HOSPITAL>. Pacjent <PERSON>Stanisław Górski</PERSON>, PESEL <PESEL>68031245678</PESEL>, zam. <ADDRESS>ul. Brzozowa 9, 85-001 Gdańsk</ADDRESS>, tel. <PHONE>606 234 567</PHONE>. Stan po <TEST>osteosyntezą śruby ORIF</TEST> - złamanie kości miednicy. <TEST>RTG</TEST>: stabilna konsolidacja. Przedwczesna obciążeniowa rehabilitacja. Przesunięty termin usunięcia osteosynteza na <DATE>25.02.2026</DATE>.
+
+<<<SAMPLE>>>
+
+Raport z pracowni endoskopii, <DATE>03.02.2026</DATE>. <HOSPITAL>Szpital Miejski</HOSPITAL>. Pacjent <PERSON>Benigno Romanowski</PERSON>, PESEL <PESEL>71041567891</PESEL>, <ADDRESS>Kraków, ul. Filharmonii 5/2</ADDRESS>, tel. <PHONE>695 567 890</PHONE>. <TEST>Kolonoskopia</TEST>: przechodzi bez problemu do ślepej kiszki. Stwierdzone: <DISEASE>polip grępiasty</DISEASE> esicy średnicy 8 mm, <DISEASE>diwertykuloza</DISEASE> opuszki. Polip usunięty elektrotokiem. Biopsja przeprowadzona.
+
+<<<SAMPLE>>>
+
+Zawiadomienie o przyjęciu, <DATE>14.03.2026</DATE>. <HOSPITAL>Oddział Chirurgii Żylnej</HOSPITAL>. Pacjent <PERSON>Joachim Kwiatek</PERSON>, PESEL <PESEL>79071234567</PESEL>, <ADDRESS>ul. Wodna 34, 02-222 Warszawa</ADDRESS>, tel. <PHONE>512 890 123</PHONE>. Przyjęty celem <TEST>stripping żyły</TEST> wielką podskórną nogi lewej. Rozpoznanie: <DISEASE>niedomykalność zaworów żylnych</DISEASE> z obrzękiem. Preoperacyjnie: <TEST>USG</TEST> opróżniającego. Planowa operacja <DATE>15.03.2026</DATE>.
+
+<<<SAMPLE>>>
+
+Notatka z pobytu szpitalnego, <DATE>26.04.2026</DATE>. Pacjent <PERSON>Bogdan Pacjuszewski</PERSON>, PESEL <PESEL>72051345678</PESEL>, zam. <ADDRESS>ul. Świeża 7, 80-888 Gdańsk</ADDRESS>, tel. <PHONE>723 123 456</PHONE>. Pobyt od <DATE>18.04.2026</DATE>. Rozpoznanie: <DISEASE>zapalenie pęcherzyka żółciowego</DISEASE> z <DISEASE>cholangitis</DISEASE>. Przeprowadzono <TEST>ERCP</TEST> z <TEST>sfinterotomią</TEST>. Wyjęty kamiń żółciowy średnicy 15 mm. Pacjent na <DRUG>ampicylinie</DRUG> i.v.
+
+<<<SAMPLE>>>
+
+Recepta z poradni, <DATE>08.05.2026</DATE>. Wystawiający: <PERSON>prof. Andrzej Szpaderski</PERSON>, <HOSPITAL>Szpital Akademicki</HOSPITAL>. Pacjent <PERSON>Emilia Komorowska</PERSON>, PESEL <PESEL>85112234567</PESEL>, <ADDRESS>ul. Dąbrowskiego 12/5, 31-123 Kraków</ADDRESS>, tel. <PHONE>606 345 678</PHONE>. Po <TEST>vasectomii</TEST> - przepisane: <DRUG>ibuprofenu</DRUG> 600 mg 2x dziennie przez 5 dni, <DRUG>Polocard</DRUG> 75 mg codziennie.
+
+<<<SAMPLE>>>
+
+Notatka lekarska - zwolnienie, <DATE>20.06.2026</DATE>. <HOSPITAL>Klinika Chirurgii Szczękowej</HOSPITAL>. Pacjent <PERSON>Feliks Danowski</PERSON>, PESEL <PESEL>77031456789</PESEL>, <ADDRESS>Poznań, ul. Żytnia 23/8</ADDRESS>, tel. <PHONE>519 234 567</PHONE>. Zwolnienie na 10 dni od <DATE>21.06.2026</DATE> - stan po <TEST>redukcji złamania żuchwy</TEST>. Rozpoznanie: <DISEASE>złamanie żuchwy</DISEASE> w obrębie ciała. Opaska zespalająca. Ostrożne otwarcie ust.
+
+<<<SAMPLE>>>
+
+Notatka z posterunku opiekuńczego, <DATE>02.07.2026</DATE>. Pacjent <PERSON>Genowefa Michałowska</PERSON>, PESEL <PESEL>83042345671</PESEL>, <ADDRESS>ul. Słowackiego 44, 85-007 Gdańsk</ADDRESS>. Dziś na oddziale po <TEST>mastektomii</TEST> prawej piersi z powodu <DISEASE>carcinoma duttale</DISEASE>. Czucie w normie, brak objawów zawału tętnic. <TEST>WBC</TEST> 6.8, <TEST>Hb</TEST> 11.2 g/dl. <DRUG>Doxorubicyna</DRUG> 75 mg/m² planowana za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Pismo konsultacyjne, <DATE>15.08.2026</DATE>. Konsultant: <PERSON>dr Paweł Lewkowicz</PERSON>, <HOSPITAL>Poradnia Proctologiczna</HOSPITAL>. Pacjent <PERSON>Hubert Szymczyk</PERSON>, PESEL <PESEL>74061234567</PESEL>, <ADDRESS>ul. Zachodnia 56/3, 15-888 Białystok</ADDRESS>, tel. <PHONE>695 890 123</PHONE>. Stan po <TEST>resecji Hartmann</TEST> odbytnicy na skutek <DISEASE>raka odbytnika</DISEASE>. Chory wymaga <TEST>rekonstrukcji zwieracza</TEST>. Plan: obserwacja 6 m-cy.
+
+<<<SAMPLE>>>
+
+Notatka z zabiegiem, <DATE>27.09.2026</DATE>. <HOSPITAL>Blok Operacyjny Szpitala Powiatowego</HOSPITAL>. Pacjent <PERSON>Ignacy Wiśniewski</PERSON>, PESEL <PESEL>69021345678</PESEL>, zam. <ADDRESS>ul. Sosnowa 18, 60-777 Poznań</ADDRESS>, tel. <PHONE>721 456 789</PHONE>. Procedura: <TEST>ligacja żyły przodniej</TEST>. Rozpoznanie: <DISEASE>niedrożność żylna</DISEASE> na skutek zranienia. Czesław operujący: <PERSON>mgr Paweł Szacki</PERSON>. Kat. włos, bólusu koniec zabiegu.
+
+<<<SAMPLE>>>
+
+Epikryza ze szpitala, <DATE>10.10.2026</DATE>. <HOSPITAL>Szpital Centralny MSWiA</HOSPITAL>. Pacjent <PERSON>Józefa Kamieńska</PERSON>, PESEL <PESEL>76082234567</PESEL>, <ADDRESS>Łódź, ul. Powstańców 12/4</ADDRESS>, tel. <PHONE>518 567 890</PHONE>. Pobyt <DATE>01.10.2026</DATE>–<DATE>10.10.2026</DATE>. Procedura: <TEST>splenektomia</TEST> z powodu <DISEASE>trombocytopenią autoimmunologiczną</DISEASE>. <TEST>PLT</TEST> przed zabiegiem 22k/ul, po zabiegu 180k/ul. Powikłanie: <DISEASE>głośny szmer zastawki aorty</DISEASE>. Odpis na <DRUG>prednizone</DRUG> 20 mg.
+
+<<<SAMPLE>>>
+
+Opis badania diagnostycznego, <DATE>22.11.2026</DATE>. <HOSPITAL>Centrum Diagnostyki Obrazowej</HOSPITAL>. Pacjent <PERSON>Kazimierz Szpaderski</PERSON>, PESEL <PESEL>72031567891</PESEL>, <ADDRESS>ul. Łąkowa 7, 02-555 Warszawa</ADDRESS>, tel. <PHONE>606 123 456</PHONE>. <TEST>MR miednic</TEST> i miedznicy: <DISEASE>guz w kącie prostokątny</DISEASE> o wymiarach 4.5 x 3.2 cm. Naciek się rozciąga na mięśnie. <DISEASE>Rozpoznanie: rak</DISEASE> endometrium stadium IB. Konsultacja onkologa rekomendowana.
+
+<<<SAMPLE>>>
+
+Notatka z intubacją pacjenta, <DATE>03.12.2026</DATE>. <HOSPITAL>OIOM Szpital Zakaźny</HOSPITAL>. Pacjent <PERSON>Leopold Grabowski</PERSON>, PESEL <PESEL>65041234567</PESEL>, zam. <ADDRESS>ul. Długa 89, 85-555 Gdańsk</ADDRESS>, tel. <PHONE>512 234 567</PHONE>. Po <TEST>tracheotomii</TEST> z powodu <DISEASE>opухи larynksa</DISEASE>. Intubacja rurka Shiley. Wentylacja kontrolowana. <TEST>pCO2</TEST> 42 mmHg, <TEST>pH</TEST> 7.38. Sedacja <DRUG>propofol</DRUG> + <DRUG>remifentanil</DRUG>.
+
+<<<SAMPLE>>>

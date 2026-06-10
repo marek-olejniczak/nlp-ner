@@ -1,0 +1,135 @@
+Wypis SOR z <DATE>15.11.2024</DATE>. Pacjent <PERSON>Ewa Kowalska</PERSON>, PESEL <PESEL>75031542876</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Zgłosiła się z bólem brzucha i wymiotami trwającymi 6 godzin. W <TEST>USG</TEST> podejrzenie <DISEASE>zapalenia wyrostka robaczkowego</DISEASE>. <TEST>WBC</TEST> 14.2, <TEST>CRP</TEST> 45 mg/l. Skierowana na <HOSPITAL>Szpital Ujazdowski</HOSPITAL> do chirurgii. Tel. <PHONE>512 345 678</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR <DATE>08.11.2024</DATE> godz. 23:15. <PERSON>Marek Lewandowski</PERSON>, PESEL <PESEL>68042187234</PESEL>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. Upadek ze schodów. W badaniu neurolog. żaden deficyt. <TEST>TK głowy</TEST> bez zmian. <TEST>RR</TEST> 145/92, <TEST>HR</TEST> 78. Podano <DRUG>Ibuprom</DRUG> i/m. Wypisany ze wskazaniami do lekarza POZ. Tel. <PHONE>698 765 432</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza <DATE>22.10.2024</DATE>. Pacjentka <PERSON>Anna Szydłowska</PERSON>, PESEL <PESEL>82091567890</PESEL>, <ADDRESS>ul. Kopernika 9, 31-034 Kraków</ADDRESS>. Przyjęta na SOR z <DISEASE>zaostrzeniem astmy</DISEASE>. <TEST>SpO2</TEST> 88% na powietrzu pokojowym. Podano <DRUG>nebulizat salbutamolu</DRUG> i <DRUG>kortykoidy</DRUG> p.o. Po terapii SpO2 96%. Wypisana ze wskazaniami kontroli u alergologa. Tel. <PHONE>601 222 999</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ratownika <DATE>02.12.2024</DATE> 14:45. Wypadek drogowy. <PERSON>Piotr Nowaczyk</PERSON>, PESEL <PESEL>71050234567</PESEL>, <ADDRESS>Lublin, ul. Ścieżna 33</ADDRESS>. Kobieta kierowca, obrażenia głowy i lewej kości udowej. <TEST>GCS</TEST> 14. <TEST>RR</TEST> 130/85, <TEST>HR</TEST> 105. Transport na <HOSPITAL>Szpital Wojewódzki nr 1</HOSPITAL>. <DRUG>Analgezja</DRUG> nie podawana. Tel. <PHONE>723 456 789</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta POZ <DATE>11.11.2024</DATE>. <PERSON>Katarzyna Wójcik</PERSON>, PESEL <PESEL>89120345678</PESEL>, <ADDRESS>ul. Słoneczna 12, 80-001 Gdańsk</ADDRESS>. Diagnoza: <DISEASE>przewlekłe zapalenie zatok</DISEASE>. Ordynuję: <DRUG>amoksycylina</DRUG> 500 mg, 3x dziennie, 10 dni; <DRUG>Neosinupret</DRUG> krople 3x dziennie 10 dni. Wizyty weryfikacyjne u lekarza POZ co 2 tygodnie. Tel. <PHONE>577 888 111</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota z SOR <DATE>25.10.2024</DATE> 08:20. <PERSON>Robert Kosiński</PERSON>, PESEL <PESEL>64031278945</PESEL>, <ADDRESS>Wrocław, Nowy Dwór 28/1</ADDRESS>. Synkopa. W anamnzie <DISEASE>arytmia serca</DISEASE>. <TEST>EKG</TEST> — <DISEASE>blok przedsionkowo-komorowy II st.</DISEASE>. <TEST>Troponina</TEST> ujemna. Hospitalizowany na oddział kardiologii. <DRUG>Atropina</DRUG> 0.5 mg i.v., obserwacja. Tel. <PHONE>609 111 222</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis z SOR <DATE>30.11.2024</DATE> 16:00. <PERSON>Jolanta Grabowska</PERSON>, PESEL <PESEL>56010412345</PESEL>, <ADDRESS>ul. Krakowska 77, 50-030 Wrocław</ADDRESS>. Hipoglikemia (<DISEASE>cukrzyca</DISEASE>). <TEST>Glukoza</TEST> 45 mg/dl. Podano <DRUG>glukozę 40%</DRUG> i.v. 20 ml. Wynik <TEST>Glukoza</TEST> po 15 min — 120 mg/dl. Pacjentka przy zmysłach, wypisana po obserwacji 2 godz. Tel. <PHONE>603 333 444</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota z pobytu SOR <DATE>07.12.2024</DATE>. <PERSON>Stanisław Mrozowski</PERSON>, PESEL <PESEL>52040656789</PESEL>, <ADDRESS>Łódź, ul. Akademicka 14/2</ADDRESS>. Zatrucie alkoholowe. Chory nieprzytomny, <TEST>RR</TEST> 95/60, <TEST>HR</TEST> 120. <TEST>Alkoholemia</TEST> 4.2 promila. Intubacja, transport na <HOSPITAL>Szpital im. Pirogowa</HOSPITAL>. Obserwacja na OIOM-ie. Tel. <PHONE>798 555 666</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza SOR <DATE>19.10.2024</DATE> 11:30. <PERSON>Urszula Grabska</PERSON>, PESEL <PESEL>78030567890</PESEL>, <ADDRESS>ul. Zielna 5, 00-950 Warszawa</ADDRESS>. Omdlenie w pracy. Badanie neurolog. bez patologii. <TEST>EKG</TEST> norma. <TEST>Holter</TEST> (24h) — bez arytmii. Wypisana z zaleceniami: wizyta u kardiologa za 2 tygodnie. Tel. <PHONE>512 777 888</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ratownika <DATE>03.11.2024</DATE> 19:45. Upadek z wysokości. <PERSON>Tadeusz Pawlak</PERSON>, PESEL <PESEL>59080823456</PESEL>, <ADDRESS>Białystok, ul. Antoniuk 41</ADDRESS>. Obrażenia prawa strona klatki piersiowej. <TEST>SpO2</TEST> 92%, <TEST>RR</TEST> 148/95. Podejrzenie <DISEASE>złamania żeber</DISEASE>. Transport na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL> w Białymstoku. <DRUG>Analgetyk</DRUG> i.m. Tel. <PHONE>686 444 555</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis z SOR <DATE>21.11.2024</DATE> 13:15. <PERSON>Beata Nowicka</PERSON>, PESEL <PESEL>83091145678</PESEL>, <ADDRESS>ul. Słowackiego 23, 33-100 Tarnów</ADDRESS>. Migrena. <TEST>TK głowy</TEST> bez zmian. <TEST>RR</TEST> 165/100. Podano <DRUG>sumatryptan</DRUG> 6 mg s.c., <DRUG>metoklopramid</DRUG> 10 mg i.v. Po 30 min ból ustąpił. Wypisana z zaleceniami wizyty u neurologa. Tel. <PHONE>607 999 000</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota SOR <DATE>12.12.2024</DATE> 06:00. <PERSON>Krzysztof Szulc</PERSON>, PESEL <PESEL>70031467890</PESEL>, <ADDRESS>Poznań, ul. Grunwaldzka 88/12</ADDRESS>. Sól do oka, drażnienie. <TEST>badanie OD pod lupą</TEST> — ciało obce. Usunięte igłą. <TEST>flurescyna</TEST> ujemna na drapnięcia. <DRUG>Albucid</DRUG> krople 4x dziennie 7 dni. Tel. <PHONE>511 222 333</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza z SOR <DATE>28.10.2024</DATE> 22:30. <PERSON>Lidia Zalewska</PERSON>, PESEL <PESEL>61051234567</PESEL>, <ADDRESS>ul. Piotrkowska 12, 90-001 Łódź</ADDRESS>. <DISEASE>Astma nieokontrolowana</DISEASE>. <TEST>SpO2</TEST> 85%, <TEST>PEF</TEST> 120 l/min. Podano <DRUG>salbutamol</DRUG> wdechowo 5x, <DRUG>prednizon</DRUG> 30 mg p.o. Hospitalizowana na oddział pulmonologii. Tel. <PHONE>602 444 555</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR <DATE>09.11.2024</DATE> 15:20. <PERSON>Rafał Sikorski</PERSON>, PESEL <PESEL>74040912345</PESEL>, <ADDRESS>Gdańsk, ul. Długa 55/8</ADDRESS>. Oparzenie II st. dłoni prawej. Powierzchnia ok. 5% pow. Zmyto wodą, <DRUG>maść antybiotykowa</DRUG>, opatrunek. Zastrzyk <DRUG>antitetanus</DRUG>. Wypisany z zaleceniami opatrywania. Tel. <PHONE>692 666 777</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta POZ <DATE>16.11.2024</DATE>. <PERSON>Magdalena Sichowska</PERSON>, PESEL <PESEL>88051267890</PESEL>, <ADDRESS>ul. Widok 9, 31-103 Kraków</ADDRESS>. Diagnoza: <DISEASE>hiperciśnienie tętnicze</DISEASE>. <DRUG>Amlodipina</DRUG> 5 mg raz dziennie; <DRUG>losartan</DRUG> 50 mg raz dziennie. Kontrola RR co tydzień u pielęgniarki POZ. Tel. <PHONE>605 888 999</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis SOR <DATE>04.12.2024</DATE> 10:45. <PERSON>Danuta Kwiatkowska</PERSON>, PESEL <PESEL>45030645678</PESEL>, <ADDRESS>Kraków, ul. Warszawska 34/2</ADDRESS>. Ból w górnej części brzucha. <TEST>USG</TEST> — <DISEASE>kamienie żółciowe</DISEASE>, bez zapalenia. <TEST>lipaza</TEST> 78 U/L (norma). Obserwacja 4 godz., wypisana ze wskazaniami do chirurga. Tel. <PHONE>513 777 888</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota ratownika <DATE>24.10.2024</DATE> 18:00. Pacjent <PERSON>Adam Szymczak</PERSON>, PESEL <PESEL>69080534567</PESEL>, <ADDRESS>Wrocław, ul. Ołbina 7</ADDRESS>. <DISEASE>Zawał serca</DISEASE> (ściana przednia). <TEST>EKG</TEST> — uniesienie ST w V1-V4. <TEST>Troponina</TEST> 2.1 ng/ml. Transport natychmiast na <HOSPITAL>Szpital Zachodni</HOSPITAL>. <DRUG>Acard</DRUG> 500 mg, <DRUG>klopidogrel</DRUG> 600 mg p.o. Tel. <PHONE>695 888 999</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza z SOR <DATE>31.10.2024</DATE> 14:00. <PERSON>Zofia Dąbrowska</PERSON>, PESEL <PESEL>52010856789</PESEL>, <ADDRESS>ul. Nowa 3, 20-001 Lublin</ADDRESS>. Zapalenie ucha środkowego. <TEST>otoskopia</TEST> — rumień błony bębenkowej. <TEST>Temperatura</TEST> 38.5°C. <DRUG>Amoksycylina</DRUG> 500 mg, 3x dziennie 7 dni; <DRUG>paracetamol</DRUG> 500 mg co 6 godz. Tel. <PHONE>606 999 111</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota z SOR <DATE>13.11.2024</DATE> 21:00. <PERSON>Jakub Podlaski</PERSON>, PESEL <PESEL>81050367890</PESEL>, <ADDRESS>Poznań, Ostrów Tumski 20/3</ADDRESS>. Ból gardła, <DISEASE>zapalenie gardła</DISEASE>. <TEST>szybki test Strep</TEST> dodatni. <DRUG>Penicylina</DRUG> V 500 mg, 4x dziennie 10 dni. <DRUG>Ibuprom</DRUG> 200 mg co 8 godz. Wypisany, obserwacja. Tel. <PHONE>604 222 333</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis SOR <DATE>20.11.2024</DATE> 12:30. <PERSON>Weronika Lewandowska</PERSON>, PESEL <PESEL>86091778945</PESEL>, <ADDRESS>ul. Mariacka 14, 80-002 Gdańsk</ADDRESS>. Omdlenie w metrze. Ciąża 6 tyg. <TEST>USG ginekolog</TEST> — ciąża wewnątrzmaciczna, serduszko bije. <TEST>RR</TEST> 110/70, <TEST>Hb</TEST> 11.2. Wypisana ze wskazaniami do poradni ginekologicznej. Tel. <PHONE>726 333 444</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ratownika <DATE>05.12.2024</DATE> 08:15. Wypadek rowerowy. <PERSON>Sławomir Kamiński</PERSON>, PESEL <PESEL>63071245678</PESEL>, <ADDRESS>Łódź, ul. Narutowicza 72/4</ADDRESS>. Możliwe <DISEASE>złamanie przegubu ręki</DISEASE>. <TEST>RR</TEST> 125/80, <TEST>SpO2</TEST> 98%. <TEST>RTG ręki</TEST> nie wykonany na SOR. Transport na <HOSPITAL>Szpital Pediatryczny</HOSPITAL> (tylko), unieruchomienie. Tel. <PHONE>789 444 555</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza SOR <DATE>29.10.2024</DATE> 19:45. <PERSON>Henryk Walczak</PERSON>, PESEL <PESEL>55041267890</PESEL>, <ADDRESS>Kraków, ul. Dominikańska 6/1</ADDRESS>. Krwotok z nosa. <TEST>pomiar RR</TEST> 160/100. Tamponada obustronnie, <DRUG>naftazolina</DRUG> krople. <TEST>hemoglobina</TEST> 13.2 g/dl. Wypisany po ustąpieniu krwotoku, zalecenia do laryngologa. Tel. <PHONE>510 555 666</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota z SOR <DATE>06.11.2024</DATE> 23:30. <PERSON>Lucyna Grabowska</PERSON>, PESEL <PESEL>47092134567</PESEL>, <ADDRESS>ul. Szewska 8, 31-009 Kraków</ADDRESS>. Zaostrzenie <DISEASE>POCHP</DISEASE>. <TEST>SpO2</TEST> 89%, <TEST>RR</TEST> 28. Podano <DRUG>salbutamol + ipratropium</DRUG> przez nebulizator, <DRUG>prednizon</DRUG> 40 mg p.o. <TEST>RTG klatki</TEST> — bez zapalenia. Hospitalizowana. Tel. <PHONE>721 666 777</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis z SOR <DATE>17.11.2024</DATE> 09:00. <PERSON>Franciszek Nowakowski</PERSON>, PESEL <PESEL>48031856789</PESEL>, <ADDRESS>Warszawa, ul. Świętokrzyska 31/5</ADDRESS>. Bóle w klatce piersiowej. <TEST>EKG</TEST> norma, <TEST>troponina</TEST> ujemna, <TEST>D-dimer</TEST> 0.3. Diagnoza: <DISEASE>ból kostochondralny</DISEASE>. <DRUG>Ibuprom</DRUG> 400 mg, 3x dziennie 5 dni. Tel. <PHONE>694 777 888</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta POZ <DATE>10.12.2024</DATE>. <PERSON>Elżbieta Szymczuk</PERSON>, PESEL <PESEL>67050934567</PESEL>, <ADDRESS>Białystok, ul. Suraska 12/3</ADDRESS>. Diagnoza: <DISEASE>depresja</DISEASE>. <DRUG>Sertralin</DRUG> 50 mg raz dziennie; <DRUG>melatonina</DRUG> 3 mg na noc 30 dni. Wizyta u psychiatry za 4 tygodnie. Tel. <PHONE>688 888 999</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR <DATE>23.11.2024</DATE> 16:20. <PERSON>Bogdan Grabowski</PERSON>, PESEL <PESEL>59060245678</PESEL>, <ADDRESS>Poznań, ul. Św. Marcina 45/8</ADDRESS>. Kaszel z krwią. <TEST>RTG klatki</TEST> — zagęszczenie górnego płata lewego płuca. Podejrzenie <DISEASE>tuberkuloza</DISEASE>. Hospitalizowany na zakaźnym. <DRUG>izoniazyd, ryfampicyna, pirazinamid, etambutol</DRUG> — schemat. Tel. <PHONE>722 999 111</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza z SOR <DATE>01.11.2024</DATE> 11:00. <PERSON>Grażyna Lewandowska</PERSON>, PESEL <PESEL>62040556789</PESEL>, <ADDRESS>ul. Floriańska 16, 31-021 Kraków</ADDRESS>. Zapalenie pęcherzyka żółciowego. <TEST>USG</TEST> — ściana grubsza, wodobrzusze. <TEST>lipaza</TEST> 120 U/L. <DRUG>Antybiotyk ceftriakson</DRUG> 2g dziennie, <DRUG>no-spa</DRUG> i.v. Obserwacja 24h, wypisana. Tel. <PHONE>607 111 222</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota z SOR <DATE>08.12.2024</DATE> 14:45. <PERSON>Czesław Kruk</PERSON>, PESEL <PESEL>52060167890</PESEL>, <ADDRESS>Gdańsk, ul. Heweliusza 77/2</ADDRESS>. Zatrucie grzybami. Nudności, biegunka. Pobrano próbki, <TEST>transaminazy</TEST> podwyższone. Obserwacja na OIOM, wspomaganie. Transport na <HOSPITAL>Szpital św. Wojciecha</HOSPITAL>. Tel. <PHONE>695 222 333</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis SOR <DATE>26.10.2024</DATE> 13:30. <PERSON>Monika Witkowska</PERSON>, PESEL <PESEL>85101234567</PESEL>, <ADDRESS>ul. Akademicka 22, 31-063 Kraków</ADDRESS>. Przedmiotowa hipoglicemia, <DISEASE>cukrzyca typ 1</DISEASE>. <TEST>Glukoza</TEST> 68 mg/dl (pacjentka przyznaje przeoczony posiłek). <DRUG>Glukagon</DRUG> i.m. 1 mg. SpO2 98%, orientacja pełna. Wypisana, edukacja. Tel. <PHONE>518 333 444</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta POZ <DATE>02.12.2024</DATE>. <PERSON>Stanisław Borowski</PERSON>, PESEL <PESEL>56111256789</PESEL>, <ADDRESS>Łódź, ul. Konstytucji 45/6</ADDRESS>. Diagnoza: <DISEASE>zapalenie ścięgna Achillesa</DISEASE>. <DRUG>Diklofenak</DRUG> 75 mg i.m. jednorazowo; <DRUG>ibuprofen</DRUG> 400 mg, 3x dziennie 10 dni. Fizjoterapia. Tel. <PHONE>603 444 555</PHONE>.
+
+<<<SAMPLE>>>
+
+Nota ratownika <DATE>11.11.2024</DATE> 20:00. Upadek na lodzie. <PERSON>Renata Szpaderska</PERSON>, PESEL <PESEL>70030334567</PESEL>, <ADDRESS>Wrocław, ul. Ruska 19/1</ADDRESS>. Możliwe <DISEASE>złamanie kostki</DISEASE>. <TEST>RR</TEST> 135/88, przytomna. Unieruchomienie gipsem tymczasowym. Transport na <HOSPITAL>Szpital im. Chałubińskiego</HOSPITAL>. <DRUG>Analgetyk</DRUG> i.m. Tel. <PHONE>733 555 666</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza SOR <DATE>14.11.2024</DATE> 10:30. <PERSON>Jerzy Chmielewski</PERSON>, PESEL <PESEL>48021178945</PESEL>, <ADDRESS>ul. Piotrkowska 45, 90-010 Łódź</ADDRESS>. Omdlenie, podejrzenie <DISEASE>zaburzenia rytmu serca</DISEASE>. <TEST>EKG</TEST> — <DISEASE>migotanie przedsionków</DISEASE>. <TEST>troponina</TEST> ujemna. Hospitalizowany na kardiologii. <DRUG>Amiodarone</DRUG> 300 mg i.v. Tel. <PHONE>512 666 777</PHONE>.
+
+<<<SAMPLE>>>
+
+Wypis z SOR <DATE>27.11.2024</DATE> 15:15. <PERSON>Alicja Kamińska</PERSON>, PESEL <PESEL>79041245678</PESEL>, <ADDRESS>Poznań, ul. Zwierzyniecka 8/4</ADDRESS>. Zakwaterowanie (homeless). Hipotermia. <TEST>temperatura</TEST> 34.2°C. Powolne ogrzewanie, <DRUG>glukoza 5%</DRUG> i.v. Obserwacja 6 godz. Wypisana, kontakt z asystą społeczną. Tel. <PHONE>722 777 888</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR <DATE>18.12.2024</DATE> 22:45. <PERSON>Tomasz Jankowski</PERSON>, PESEL <PESEL>61090567890</PESEL>, <ADDRESS>Kraków, ul. Słowiańska 12/2</ADDRESS>. Urgentna <DISEASE>arytmia serca</DISEASE> w <DISEASE>tachykardia komorowa</DISEASE>. <TEST>RR</TEST> 85/50. <TEST>EKG</TEST> węższy kompleks. <DRUG>Amiodaron</DRUG> 300 mg i.v., kardiowersja. Rozpoznanie: <DISEASE>VT</DISEASE>. Transport na <HOSPITAL>Szpital Czerniakowski</HOSPITAL>. Tel. <PHONE>604 888 999</PHONE>.
+
+<<<SAMPLE>>>

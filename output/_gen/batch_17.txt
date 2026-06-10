@@ -1,0 +1,70 @@
+Notatka z przyjęcia POZ, <DATE>8.06.2024</DATE>. Pan <PERSON>Marek Szulc</PERSON>, PESEL <PESEL>62051234567</PESEL>, ul. <ADDRESS>Marszałkowska 42/5, Warszawa</ADDRESS>, tel. <PHONE>722 456 789</PHONE>. Zgłasza się z <DISEASE>bólem zęba</DISEASE>. Ostatnio przyjmuje <DRUG>Atorvastatin</DRUG> 20mg. Skierowanie do <HOSPITAL>Poradnia stomatologiczna SPZOZ</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>15.11.2024</DATE>. <PERSON>Anna Kowalska</PERSON>, PESEL <PESEL>82021567890</PESEL>, <ADDRESS>Kraków, ul. Grodzka 12</ADDRESS>. Rozp.: <DRUG>Acard</DRUG> 75mg 1x dziennie, <DRUG>Metformin</DRUG> 500mg 2x dziennie. Kontakt <PHONE>512 345 678</PHONE>. Wydał dr M. Lewandowski.
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>3.12.2024</DATE>. Pani <PERSON>Zofia Wieczorek</PERSON>, PESEL <PESEL>48031234560</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 88/3</ADDRESS>. Stan po <DISEASE>udarze</DISEASE>. Wykonano <TEST>pomiar RR</TEST>: 142/88. Zalecam <DRUG>Polocard</DRUG>. Pogorszenie stanu — tel. <PHONE>668 111 222</PHONE> do poradni.
+<<<SAMPLE>>>
+E-recepta: <PERSON>Jerzy Nowicki</PERSON>, PESEL <PESEL>70112345678</PESEL>, <ADDRESS>Gdańsk, ul. Długa 25/1</ADDRESS>. <DATE>7.06.2024</DATE>. Rozp.: <DRUG>Nifedipina</DRUG> 30mg 1x dziennie, <DRUG>Furosemid</DRUG> 40mg 1x dziennie na <DISEASE>nadciśnienie</DISEASE>. Tel.: <PHONE>791 555 666</PHONE>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Robert Dąbrowski</PERSON>, PESEL <PESEL>58121234500</PESEL>, <ADDRESS>Wrocław, ul. Oławska 15</ADDRESS>. Zgłoś. <DISEASE>dysuria</DISEASE>. W <TEST>badaniu ogólnym moczu</TEST> — leukozytura. Rozp. <DRUG>Ciprofloksacyna</DRUG> 500mg 2x 7 dni. Kontakt <PHONE>607 888 999</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska POZ, <DATE>11.06.2024</DATE>. <PERSON>Magdalena Lewandowska</PERSON>, PESEL <PESEL>86102345678</PESEL>, <ADDRESS>Poznań, ul. Święty Marcin 78/2</ADDRESS>. Przychód. <DISEASE>kaszel</DISEASE> od 5 dni. Bez gorączki. W <TEST>RTG klatki</TEST> norma. Rozp.: <DRUG>Ambrobene</DRUG> syrop 15ml 3x dziennie. Tel. <PHONE>515 222 333</PHONE>.
+<<<SAMPLE>>>
+Wynik <TEST>EKG</TEST> z <DATE>2.06.2024</DATE>. Pacjent: <PERSON>Zbigniew Kowalski</PERSON>, PESEL <PESEL>52061234567</PESEL>, <ADDRESS>Warszawa, ul. Puławska 122</ADDRESS>. Opis: <DISEASE>prawidłowy zapis</DISEASE>. RR 135/82, HR 72. Przesłanie do <HOSPITAL>Poradnia kardiologiczna św. Łukasza</HOSPITAL>, tel. <PHONE>601 444 555</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizytacji, <DATE>25.04.2024</DATE>. Pani <PERSON>Irena Nowak</PERSON>, PESEL <PESEL>54031234502</PESEL>, <ADDRESS>Gdynia, ul. Morska 56</ADDRESS>. Monitorowanie <DISEASE>cukrzycy typu 2</DISEASE>. <TEST>Glukoza</TEST> na czczo 142. Zalecam <DRUG>Metformin</DRUG> zwiększyć. Tel. <PHONE>721 333 444</PHONE>.
+<<<SAMPLE>>>
+Recepta zdalna, <DATE>9.06.2024</DATE>. <PERSON>Piotr Michalik</PERSON>, PESEL <PESEL>75041234567</PESEL>, <ADDRESS>Szczecin, ul. Niemcewicza 34/2</ADDRESS>. Rozp.: <DRUG>Omeprazol</DRUG> 20mg 1x rano na <DISEASE>refluks</DISEASE>. Tel.: <PHONE>668 555 777</PHONE>. Ważna do <DATE>8.12.2024</DATE>.
+<<<SAMPLE>>>
+Notatka z OSP, <DATE>19.05.2024</DATE>. Pacjent <PERSON>Tadeusz Zając</PERSON>, PESEL <PESEL>59031234560</PESEL>, <ADDRESS>Białystok, ul. Antoniuka 12</ADDRESS>. Ulgowy <DISEASE>zapalenie zatok</DISEASE>. W <TEST>TK czaszki</TEST> zapalenie zatok szczękowych. <DRUG>Amoksycylina</DRUG> 500mg 3x 7 dni. Udzielono rady tel. <PHONE>512 777 888</PHONE>.
+<<<SAMPLE>>>
+Notatka zdalna POZ, <DATE>7.06.2024</DATE>. <PERSON>Ewa Pietrzak</PERSON>, PESEL <PESEL>81081234567</PESEL>, <ADDRESS>Kraków, ul. Karmelicka 8/3</ADDRESS>. Zgłasza <DISEASE>bole głowy</DISEASE> obustronne. Brak dodatkowości. Rozp.: <DRUG>Ibuprofen</DRUG> 400mg 3x dziennie. Wizyta stacjonarna za 2 tygodnie, tel. <PHONE>789 222 333</PHONE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>3.06.2024</DATE>. <PERSON>Danuta Wilczek</PERSON>, PESEL <PESEL>63091234578</PESEL>, <ADDRESS>Łódź, ul. Zachodnia 45/1</ADDRESS>. Na <DISEASE>arytmię</DISEASE>: <DRUG>Bisoprolol</DRUG> 5mg 1x dziennie, <DRUG>Digoksynę</DRUG> 0,25mg 1x dziennie. Tel. <PHONE>607 333 555</PHONE>.
+<<<SAMPLE>>>
+Notatka z poradni, <DATE>28.05.2024</DATE>. Pan <PERSON>Stanisław Bąk</PERSON>, PESEL <PESEL>64121234561</PESEL>, <ADDRESS>Gdańsk, ul. Hałupki 22</ADDRESS>. Zgłoś. <DISEASE>zaburzenia rytmu serca</DISEASE>. W <TEST>holterze</TEST> epizody bradykardii. Zalecono hospitalizację na <HOSPITAL>Odział Kardiologiczny Szpitala Miejskiego</HOSPITAL>. Tel. <PHONE>512 666 888</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>4.06.2024</DATE>. <PERSON>Katarzyna Górska</PERSON>, PESEL <PESEL>85112345670</PESEL>, <ADDRESS>Wrocław, ul. Kopernika 14/2</ADDRESS>. Kontrola <DISEASE>nadciśnienia</DISEASE>. RR 138/86. Bez objawów. Zalecam ciągłość <DRUG>Lisinopril</DRUG> 10mg. Tel. <PHONE>721 444 666</PHONE>.
+<<<SAMPLE>>>
+Recepta z POZ, <DATE>6.06.2024</DATE>. <PERSON>Franciszek Lewandowski</PERSON>, PESEL <PESEL>56021234562</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 12/4</ADDRESS>. Na <DISEASE>depresję</DISEASE>: <DRUG>Sertralin</DRUG> 50mg 1x dziennie. Wizyta za 4 tygodnie. Tel. <PHONE>668 666 777</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizytacji POZ, <DATE>5.06.2024</DATE>. Pani <PERSON>Halina Urbanowicz</PERSON>, PESEL <PESEL>62081234567</PESEL>, <ADDRESS>Warszawa, ul. Mokotowska 35</ADDRESS>. Monitorowanie <DISEASE>astmy</DISEASE>. <TEST>PEF</TEST> 380 L/min. Zalecam inhalator <DRUG>Ventolin</DRUG> p.o. Tel. <PHONE>791 333 444</PHONE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>8.06.2024</DATE>. <PERSON>Janusz Czarnecki</PERSON>, PESEL <PESEL>71051234560</PESEL>, <ADDRESS>Gdynia, ul. Spacerowa 7/1</ADDRESS>. <DRUG>Rybavirin</DRUG> 200mg 3x dziennie na <DISEASE>grypę</DISEASE>. Rozpocząć niezwłocznie. Skontaktować się po <DATE>3 dni</DATE>. Tel. <PHONE>512 888 999</PHONE>.
+<<<SAMPLE>>>
+Notatka z OSP, <DATE>1.06.2024</DATE>. Pacjent <PERSON>Witold Szymański</PERSON>, PESEL <PESEL>59121234578</PESEL>, <ADDRESS>Szczecin, ul. Kwiatkowskiego 18</ADDRESS>. <DISEASE>kolka nerkowa</DISEASE>. Podano <DRUG>Diclofenac</DRUG> 75mg. Skierowanie do <HOSPITAL>SOR Szpitala Zachodniopomorskiego</HOSPITAL>. Tel. <PHONE>607 777 555</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska POZ, <DATE>7.06.2024</DATE>. <PERSON>Beata Nawrocka</PERSON>, PESEL <PESEL>84071234561</PESEL>, <ADDRESS>Białystok, ul. Warszawska 56/3</ADDRESS>. Zgłasza <DISEASE>bole stawów</DISEASE>. W <TEST>RTG ręki</DISEASE> cechy <DISEASE>zapalenia stawów</DISEASE>. <DRUG>Naproxen</DRUG> 500mg 2x dziennie. Tel. <PHONE>721 555 666</PHONE>.
+<<<SAMPLE>>>
+Recepta, <DATE>8.06.2024</DATE>. <PERSON>Marian Skiba</PERSON>, PESEL <PESEL>66031234567</PESEL>, <ADDRESS>Kraków, ul. Stanisława Leszczyńskiego 4</ADDRESS>. Na <DISEASE>bronchit</DISEASE>: <DRUG>Fluibron</DRUG> syrop 10ml 3x dziennie. Wizyta za tydzień. Tel. <PHONE>668 444 555</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>3.06.2024</DATE>. Pani <PERSON>Krystyna Stefanowicz</PERSON>, PESEL <PESEL>57061234502</PESEL>, <ADDRESS>Łódź, ul. Sienkiewicza 99/2</ADDRESS>. Po <DISEASE>złamaniu ręki</DISEASE>. Gips w dobrym stanie. <TEST>Kontrolne RTG</TEST> za 2 tygodnie. Zalecam ruch. Tel. <PHONE>512 333 777</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>6.06.2024</DATE>. <PERSON>Andrzej Szewczyk</PERSON>, PESEL <PESEL>63121234560</PESEL>, <ADDRESS>Gdańsk, ul. Świętojańska 33/1</ADDRESS>. <DISEASE>ból pleców</DISEASE>. W <TEST>MRI</TEST> nie stwierdzono zmiany. Fizykoterapia. <DRUG>Paracetamol</DRUG> 500mg p.o. Tel. <PHONE>791 666 888</PHONE>.
+<<<SAMPLE>>>
+E-recepta zdalna, <DATE>4.06.2024</DATE>. <PERSON>Renata Krawczyk</PERSON>, PESEL <PESEL>80091234567</PESEL>, <ADDRESS>Wrocław, ul. Bacciarellego 20</ADDRESS>. <DRUG>Aspirin</DRUG> 100mg 1x dziennie na <DISEASE>profilaktykę</DISEASE>. Wizyta za miesiąc. Tel. <PHONE>607 555 666</PHONE>.
+<<<SAMPLE>>>
+Notatka z POZ, <DATE>5.06.2024</DATE>. Pan <PERSON>Henryk Ostrowicz</PERSON>, PESEL <PESEL>58091234578</PESEL>, <ADDRESS>Poznań, ul. Fredry 8/2</ADDRESS>. Zgłasza <DISEASE>zawroty głowy</DISEASE>. <TEST>Badanie lekarskie</TEST> bez patologii. Zalecam dietetykę. Tel. <PHONE>721 777 888</PHONE>.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>7.06.2024</DATE>. <PERSON>Jadwiga Tomczak</PERSON>, PESEL <PESEL>65051234561</PESEL>, <ADDRESS>Warszawa, ul. Raszyńska 8</ADDRESS>. Na <DISEASE>zapalenie pęcherza</DISEASE>: <DRUG>Nitrofurantoin</DRUG> 100mg 2x 7 dni. Tel. <PHONE>668 333 444</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>2.06.2024</DATE>. <PERSON>Stefan Nowosad</PERSON>, PESEL <PESEL>61071234560</PESEL>, <ADDRESS>Gdynia, ul. Słowackiego 12/3</ADDRESS>. <DISEASE>zapalenie ucha</DISEASE>. W <TEST>otoskopii</TEST> zapalenie ucha zewnętrznego. <DRUG>Otipax</DRUG> krople 3x dziennie. Tel. <PHONE>512 444 555</PHONE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>6.06.2024</DATE>. <PERSON>Wanda Głowacka</PERSON>, PESEL <PESEL>82121234567</PESEL>, <ADDRESS>Szczecin, ul. Matejki 15/1</ADDRESS>. <DRUG>Metoprolol</DRUG> 50mg 1x dziennie na <DISEASE>tachykardię</DISEASE>. Termin wizyty za 6 tygodni. Tel. <PHONE>607 666 777</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizytacji, <DATE>8.06.2024</DATE>. Pani <PERSON>Zofia Brągiel</PERSON>, PESEL <PESEL>59031234502</PESEL>, <ADDRESS>Białystok, ul. Nowy Świat 22</ADDRESS>. Monitorowanie <DISEASE>cukrzycy</DISEASE>. <TEST>HbA1c</TEST> 7.2%. Brak zmian. Tel. <PHONE>721 333 555</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska POZ, <DATE>3.06.2024</DATE>. <PERSON>Czesław Rudy</PERSON>, PESEL <PESEL>64081234578</PESEL>, <ADDRESS>Kraków, ul. Podwale 7/2</ADDRESS>. Zgłasza <DISEASE>skurczy mięśni</DISEASE>. Bez gorączki. Zalecam <DRUG>Magnez</DRUG> suplementacja. Tel. <PHONE>668 555 666</PHONE>.
+<<<SAMPLE>>>
+Recepta, <DATE>4.06.2024</DATE>. <PERSON>Urszula Żak</PERSON>, PESEL <PESEL>81061234567</PESEL>, <ADDRESS>Łódź, ul. Przędzalniana 45/3</ADDRESS>. <DRUG>Levotyroxyna</DRUG> 75 μg 1x dziennie na <DISEASE>niedoczynność tarczycy</DISEASE>. Wizyta za 8 tygodni. Tel. <PHONE>512 666 777</PHONE>.
+<<<SAMPLE>>>
+Notatka z OSP, <DATE>1.06.2024</DATE>. Pacjent <PERSON>Ryszard Kuch</PERSON>, PESEL <PESEL>57121234560</PESEL>, <ADDRESS>Gdańsk, ul. Heweliusza 25</ADDRESS>. <DISEASE>zatrucie pokarmowe</DISEASE>. Podano płyny i <DRUG>Metoclopramid</DRUG>. Rady dotyczące diety. Tel. <PHONE>791 444 666</PHONE>.
+<<<SAMPLE>>>
+E-recepta zdalna, <DATE>5.06.2024</DATE>. <PERSON>Stanisława Grabowska</PERSON>, PESEL <PESEL>72091234561</PESEL>, <ADDRESS>Wrocław, ul. Traugutta 6</ADDRESS>. <DRUG>Salbutamol</DRUG> inhalator p.o. na <DISEASE>astmę</DISEASE>. Wizyta ambulatoryjna za 3 tygodnie. Tel. <PHONE>607 777 888</PHONE>.
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>7.06.2024</DATE>. Pan <PERSON>Tadeusz Mazurkiewicz</PERSON>, PESEL <PESEL>63061234578</PESEL>, <ADDRESS>Poznań, ul. Krańcowa 10/1</ADDRESS>. Monitorowanie <DISEASE>nadciśnienia</DISEASE>. <TEST>Pomiar RR</TEST> 140/85. Bez objawów. Kontynuować <DRUG>Losartan</DRUG>. Tel. <PHONE>721 555 777</PHONE>.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>6.06.2024</DATE>. <PERSON>Danuta Kędzierska</PERSON>, PESEL <PESEL>75031234567</PESEL>, <ADDRESS>Warszawa, ul. Wilanowska 18/2</ADDRESS>. Na <DISEASE>zapalenie błony śluzowej żołądka</DISEASE>: <DRUG>Famotidyna</DRUG> 20mg 2x dziennie. Tel. <PHONE>668 666 888</PHONE>.
+<<<SAMPLE>>>
+Notatka z wizyty domowej, <DATE>2.06.2024</DATE>. Pani <PERSON>Zofia Nowosielska</PERSON>, PESEL <PESEL>58071234502</PESEL>, <ADDRESS>Gdynia, ul. Portowa 33/1</ADDRESS>. Stan po <DISEASE>operacji</DISEASE>. Gojenie się prawidłowo. Zalecam oprawy. Tel. <PHONE>512 777 666</PHONE>.
+<<<SAMPLE>>>

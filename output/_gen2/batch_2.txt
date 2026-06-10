@@ -1,0 +1,66 @@
+Notatka SOR, <DATE>3.06.2024</DATE>. Pacjent <PERSON>Maria Kowalska</PERSON>, PESEL <PESEL>78052614789</PESEL>, zam. <ADDRESS>Kraków, ul. Św. Anny 15/2</ADDRESS>. Zgłosiła się z bólem gardła, gorączką. <TEST>RR</TEST> 135/85, <TEST>HR</TEST> 92. W badaniu gardła zapalenie błony śluzowej. <TEST>Szybki test strepto</TEST> dodatni. Diagnoza: <DISEASE>angina bakteryjna</DISEASE>. Zalecono <DRUG>amoksycylinę</DRUG> 500 mg co 8h.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>28.05.2024</DATE>. <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>85071523456</PESEL>, <ADDRESS>Warszawa, Marszałkowska 42/5</ADDRESS>, tel. <PHONE>721 456 789</PHONE>. Bóle głowy od 2 dni, nudności. <TEST>EKG</TEST> prawidłowy. <TEST>BP</TEST> 140/90. Podejrzenie <DISEASE>migrenę</DISEASE>. Zalecono <DRUG>ibuprofen</DRUG> 400 mg oraz kontrolę u neurologa.
+<<<SAMPLE>>>
+E-recepta, <DATE>15.04.2024</DATE>. Na recepty: <PERSON>Anna Szymańska</PERSON>, data ur. <DATE>1956.02.14</DATE>, PESEL <PESEL>56021412340</PESEL>, zam. <ADDRESS>Poznań, ul. Nowe Miasto 15/7</ADDRESS>. Choroby towarzyszące: <DISEASE>cukrzyca typ 2</DISEASE>, <DISEASE>nadciśnienie tętnicze</DISEASE>. Przepisano: <DRUG>metforminę</DRUG> 1000 mg 2x dziennie, <DRUG>lisinopril</DRUG> 10 mg 1x dziennie.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>22.03.2024</DATE>. <PERSON>Jan Kucharski</PERSON>, PESEL <PESEL>72031015678</PESEL>, <ADDRESS>Wrocław, ul. Grunwaldzka 87</ADDRESS>. Stan po <DISEASE>zawale serca</DISEASE> <DATE>2023</DATE>. Rehabilitacja kardiologiczna przebiegła prawidłowo. <TEST>Próba wysiłkowa</TEST> bez objawów niedokrwienia. <TEST>EF</TEST> 50%. Kontynuować <DRUG>Acard</DRUG> 75 mg.
+<<<SAMPLE>>>
+Opis badania <TEST>RTG</TEST> klatki piersiowej, <DATE>10.05.2024</DATE>. Pacjent <PERSON>Tomasz Nowicki</PERSON>, PESEL <PESEL>81082634512</PESEL>. W górnym płacie prawego płuca widoczny <DISEASE>naciek</DISEASE>. Dodatkowo <DISEASE>zacienienie</DISEASE> w podstawie lewego płuca. Zalecono <TEST>CT</TEST> i konsultacja pneumologa.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>7.06.2024</DATE>. <PERSON>Katarzyna Mazur</PERSON>, PESEL <PESEL>92123456789</PESEL>, zam. <ADDRESS>Gdańsk, Oliwa 32/4</ADDRESS>. Upadek ze schodów. W badaniu fizykralnym lekkie <DISEASE>obrzęki</DISEASE> lewej kostki. <TEST>RTG</TEST> nie wykazuje złamania. Diagnoza: <DISEASE>zwichnięcie stawu skokowego</DISEASE> I°. Zastosowano <DRUG>imobilizację</DRUG> i <DRUG>lód</DRUG>.
+<<<SAMPLE>>>
+Wypis ze szpitala, <DATE>1.04.2024</DATE>. Pacjent <PERSON>Łukasz Domański</PERSON>, PESEL <PESEL>88042567340</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 101</ADDRESS>, tel. <PHONE>602 123 456</PHONE>. Przebywał z powodu <DISEASE>zapalenia płuc</DISEASE>. <TEST>RTG</TEST> potwierdzić zapalenie w płacie dolnym prawym. <TEST>Morfologia</TEST> bez zmian. <TEST>Gasometria</TEST> prawidłowa. Wypiszemy na <DRUG>amoksycylinę</DRUG> + <DRUG>klawulat</DRUG> p.o.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>11.02.2024</DATE>. <PERSON>Halina Nowak</PERSON>, PESEL <PESEL>45020512340</PESEL>, zam. <ADDRESS>Szczecin, ul. Bogurodzicy 12</ADDRESS>. Kontrola ciśnienia. <TEST>RR</TEST> 145/95, średnia z 3 pomiarów. Objaw <DISEASE>otyłości</DISEASE> br/z indeks BMI 31. Zalecono zmianę stylu życia, wskazana intensyfikacja <DRUG>terapii farmakologicznej</DRUG>.
+<<<SAMPLE>>>
+Recepta tradycyjna, <DATE>5.03.2024</DATE>. Dla <PERSON>Michała Szmatla</PERSON>, PESEL <PESEL>77081923456</PESEL>, <ADDRESS>Kraków, ul. Sobieskiego 54/3</ADDRESS>. Na: <DRUG>Polocard</DRUG> 75 mg 1x dziennie, <DRUG>atorwastatynę</DRUG> 20 mg 1x wieczorem. Wskazania: <DISEASE>hiperlipidemia</DISEASE>, <DISEASE>miażdżyca naczyń</DISEASE>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>19.05.2024</DATE>. Pacjent <PERSON>Robert Nowak</PERSON>, PESEL <PESEL>81021234567</PESEL>. Przywieziony karetką z podejrzeniem <DISEASE>apopleksji mózgu</DISEASE>. <TEST>Czas przywiezienia</TEST> <DATE>19:45</DATE>. <TEST>TK mózgowia</TEST> wykonano w szpitalu. Wymagane leczenie trombolityczne.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>29.04.2024</DATE>. <PERSON>Beata Lewandowska</PERSON>, PESEL <PESEL>86052134789</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 7/2</ADDRESS>, tel. <PHONE>791 234 567</PHONE>. Dolegliwości żołądkowe: żenując, biegunka. Rozpoznanie: <DISEASE>gastroenteritis wirusowa</DISEASE>. <TEST>Badanie stolca</TEST> zaplanowane na <DATE>5.05</DATE>. Hydratacja, <DRUG>metoclopramid</DRUG> p.r.n.
+<<<SAMPLE>>>
+Wypis ze szpitala, <DATE>8.06.2024</DATE>. Pani <PERSON>Joanna Babiak</PERSON>, PESEL <PESEL>67031556780</PESEL>, <ADDRESS>Wrocław, ul. Szewska 22</ADDRESS>. Leczenie <DISEASE>zapalenia pęcherzyka żółciowego</DISEASE>. <TEST>USG jamy brzusznej</TEST> potwierdził <DISEASE>kamicę pęcherzyka</DISEASE> z objawami. Zaplanowana <TEST>cholecystektomia laparoskopowa</TEST> na <DATE>15.06</DATE>. Zalecono <DRUG>dibromon</DRUG> p.o.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>2.05.2024</DATE>. <PERSON>Ewa Szpaderska</PERSON>, PESEL <PESEL>72081834562</PESEL>, <ADDRESS>Gdańsk, ul. Długa 45/9</ADDRESS>. Kontrola após stanu <DISEASE>hipotyreozy</DISEASE>. <TEST>TSH</TEST> 1.2 mlU/l (prawidłowy). Kontynuować <DRUG>levotyroksynę</DRUG> 75 µg 1x dziennie.
+<<<SAMPLE>>>
+Recepta, <DATE>18.03.2024</DATE>. <PERSON>Stanisław Gorczak</PERSON>, PESEL <PESEL>52081245678</PESEL>, <ADDRESS>Łódź, Piotrkowska 78/5</ADDRESS>, tel. <PHONE>605 567 890</PHONE>. Przepisano <DRUG>pasty do zębów fluorkową</DRUG>, <DRUG>witaminę D3</DRUG> 2000 j.m. Zalecenia: <DISEASE>karies</DISEASE> — wizyta u stomatologa.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>25.05.2024</DATE>. <PERSON>Dariusz Świercz</PERSON>, PESEL <PESEL>83092156780</PESEL>. Uraz głowy po wypadku rowerowym. <TEST>TK czaszki</TEST> bez zmian. <TEST>GCS</TEST> 15. Obserwacja 4h, następnie zwolniony. Zalecono bezwzględny <DISEASE>odpoczynek umysłowy</DISEASE> i kontrolę neurologa.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>6.06.2024</DATE>. <PERSON>Lidia Pęk</PERSON>, PESEL <PESEL>54030234567</PESEL>, <ADDRESS>Kraków, ul. Karmelicka 19/1</ADDRESS>. Kontrola <DISEASE>depresji</DISEASE>. Leczenie <DRUG>sertraliną</DRUG> 50 mg — pacjentka czuje się lepiej. Kontynuacja bez zmian. Skierowanie na psychoterapię.
+<<<SAMPLE>>>
+Epikryza, <DATE>4.06.2024</DATE>. Pacjent <PERSON>Krzysztof Wąs</PERSON>, PESEL <PESEL>75062134567</PESEL>, <ADDRESS>Szczecin, ul. Jagiellońska 33/7</ADDRESS>. Hospitalizacja z powodu <DISEASE>zapaleń oskrzeli</DISEASE>. Leczenie antybiotykami: <DRUG>azytromycyna</DRUG> 500 mg. <TEST>Radiografia klatki</TEST> wykazała <DISEASE>zaciemnienie</DISEASE> w podstawach. Zwolniony w stanie dobrym z zaleceniami: <DRUG>inhalacje salbutamolem</DRUG>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>21.04.2024</DATE>. <PERSON>Renata Kopacz</PERSON>, PESEL <PESEL>68090256780</PESEL>, <ADDRESS>Poznań, ul. 27 Grudnia 15/3</ADDRESS>, tel. <PHONE>721 567 890</PHONE>. Objaw: duszność przy wysile, <DISEASE>kołatania serca</DISEASE>. <TEST>EKG</TEST> umiarkowana tachykardia. <TEST>Echokardiografia</TEST> zaplanowana na <DATE>28.04</DATE>. Tymczasowo <DRUG>beta-bloker</DRUG>.
+<<<SAMPLE>>>
+E-recepta, <DATE>16.05.2024</DATE>. Dla <PERSON>Stanisława Zielińskiego</PERSON>, PESEL <PESEL>46031278945</PESEL>, <ADDRESS>Wrocław, Nowy Tarów 88/12</ADDRESS>. Diagnoza: <DISEASE>artretyzm</DISEASE> kolana lewego. Przepisano <DRUG>ibuprofenową maść</DRUG>, <DRUG>diclofenac</DRUG> 75 mg 1x dziennie. Wskazana <TEST>fizjoterapia</TEST>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>23.02.2024</DATE>. <PERSON>Agnieszka Lewkowska</PERSON>, PESEL <PESEL>88022834567</PESEL>. Bóle brzucha, nudności. <TEST>Badanie palpacyjne</TEST> napięcie mięśni brzusznych. <TEST>USG jamy brzusznej</TEST> wykonane w szpitalu — wynik prawidłowy. Najprawdopodobniej <DISEASE>gastroenteritis</DISEASE>. Zwolniona z zaleceniami: <DRUG>dieta łagodna</DRUG>, <DRUG>pantoprazol</DRUG> 40 mg.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>31.03.2024</DATE>. <PERSON>Zbigniew Marek</PERSON>, PESEL <PESEL>59051345678</PESEL>, <ADDRESS>Gdańsk, ul. Grunwaldzka 56/4</ADDRESS>. Kontrola <DISEASE>cukrzycy typ 2</DISEASE>. <TEST>Glikemia</TEST> 145 mg/dl (przed śniadaniem). <TEST>HbA1c</TEST> 7.1%. Zalecono zmianę dawki <DRUG>metforminy</DRUG> na 2500 mg dziennie.
+<<<SAMPLE>>>
+Recepta, <DATE>12.02.2024</DATE>. <PERSON>Czesław Filo</PERSON>, PESEL <PESEL>52080234567</PESEL>, <ADDRESS>Łódź, ul. Włókniarzy 45</ADDRESS>, tel. <PHONE>603 456 789</PHONE>. Na: <DRUG>aspirynę</DRUG> 100 mg (po zawale serca <DATE>2023</DATE>), <DRUG>enalapryl</DRUG> 5 mg, <DRUG>simwastatynę</DRUG> 10 mg.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>17.04.2024</DATE>. <PERSON>Urszula Krawczyk</PERSON>, PESEL <PESEL>71042156780</PESEL>, <ADDRESS>Kraków, ul. Szkolna 7/2</ADDRESS>. Wypadanie włosów, zmęczenie. <TEST>Morfologia</TEST> normalna, <TEST>TSH</TEST> prawidłowy. Podejrzenie <DISEASE>telogenowe wyprahluzenie włosów</DISEASE> na tle stresu. Zalecono <DRUG>witaminę B12</DRUG>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>9.05.2024</DATE>. <PERSON>Konrad Socha</PERSON>, PESEL <PESEL>82091234567</PESEL>. Uraz twarzy — uderzenie w twarz podczas gry w piłkę. <TEST>RTG czaszki</TEST> + <TEST>RTG zębów</TEST> bez złamań. <DISEASE>Otarcie skóry</DISEASE> — leczenie miejscowe. Zwolniony w dobrym stanie.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>24.03.2024</DATE>. <PERSON>Dorota Michalak</PERSON>, PESEL <PESEL>68032245678</PESEL>, <ADDRESS>Poznań, ul. Jesionowa 12/8</ADDRESS>, tel. <PHONE>789 123 456</PHONE>. Zapalenie ucha średniego lewego. <TEST>Otoskopia</TEST> cechy zapalenia. Zalecono <DRUG>amoksycylinę</DRUG> 500 mg co 8h, krople do uszu <DRUG>Otipax</DRUG>.
+<<<SAMPLE>>>
+Wypis POZ, <DATE>14.01.2024</DATE>. Pacjent <PERSON>Wojciech Ryba</PERSON>, PESEL <PESEL>56021456780</PESEL>, <ADDRESS>Wrocław, ul. Kiepury 22/3</ADDRESS>. Stan po zapaleniu pęcherza moczowego. <TEST>Mocz ogólny</TEST> prawidłowy, <TEST>urine culture</TEST> ujemna. Zalecenie: pić dużo płynów, kontynuować <DRUG>nitrofurantoinę</DRUG> p.o. x 3 dni.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>8.03.2024</DATE>. <PERSON>Zofia Zając</PERSON>, PESEL <PESEL>47060578945</PESEL>, <ADDRESS>Szczecin, ul. Krasińskiego 78</ADDRESS>. Kontrola <DISEASE>nadciśnienia tętniczego</DISEASE>. <TEST>Pomiar RR</TEST> domu: 138/88 (średnia). Przychylna odpowiedź na terapię. Kontynuować <DRUG>atenolol</DRUG> 50 mg.
+<<<SAMPLE>>>
+E-recepta, <DATE>30.04.2024</DATE>. Dla <PERSON>Marian Nowosad</PERSON>, PESEL <PESEL>53091267834</PESEL>, <ADDRESS>Gdańsk, ul. Żeglarska 15/5</ADDRESS>. Na <DISEASE>obstrukcyjne zapalenie płuc</DISEASE>: <DRUG>Ventolin</DRUG> inhalator 2x dziennie, <DRUG>fluticason</DRUG> 100 µg 1x dziennie.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>1.06.2024</DATE>. <PERSON>Magdalena Zaręba</PERSON>, PESEL <PESEL>85081234567</PESEL>. Poranienie rąk nożyczkami. <TEST>Badanie fizykalne</TEST> rana w obrębie dłoni lewej, głęb. 2 cm, bez uszkodzenia naczyń. <DISEASE>Poranienie złożone</DISEASE>. Zszywanie rany, zalecono <DRUG>flukloksacylinę</DRUG> 500 mg.
+<<<SAMPLE>>>
+Wizyta POZ, <DATE>20.05.2024</DATE>. <PERSON>Tadeusz Modrzewski</PERSON>, PESEL <PESEL>51031245678</PESEL>, <ADDRESS>Kraków, ul. Długa 89/1</ADDRESS>, tel. <PHONE>512 789 456</PHONE>. Objaw: swędzenie skóry na nogach, <DISEASE>trądzik pospolityCO</DISEASE> twarzy. <TEST>Badanie dermato</TEST> — świeży wybuch. <DRUG>Żel benzoilu</DRUG> 5%, <DRUG>antybiotyk</DRUG> lokalnie.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>26.02.2024</DATE>. <PERSON>Helena Nowak</PERSON>, PESEL <PESEL>60040234567</PESEL>, <ADDRESS>Łódź, ul. Pamiątkowa 34/2</ADDRESS>. Problemy ze snem od 1 miesiąca, <DISEASE>bezsenność</DISEASE> b/z na tle stresu zawodowego. Zalecono <DRUG>melatonin</DRUG> 5 mg wieczorem. Skierowanie do psychiatry psychologa.
+<<<SAMPLE>>>
+Recepta, <DATE>7.04.2024</DATE>. <PERSON>Bogdan Szumski</PERSON>, PESEL <PESEL>62072234567</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 101/7</ADDRESS>. Przepisano: <DRUG>albuterol</DRUG> inhalator (do użytku doraźnego), <DRUG>fluticason</DRUG> propionat 110 µg inhalator 2x dziennie. Diagnoza: <DISEASE>astma łagodna utrwalona</DISEASE>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>11.03.2024</DATE>. <PERSON>Jakub Kotlarski</PERSON>, PESEL <PESEL>89120156780</PESEL>. Zaczerwienienie i obrzęk twarzy. <TEST>Badanie ORL</TEST> — zapalenie zatok czołowych i szczękowych. Zalecono <DRUG>deksametazon</DRUG> 4 mg, <DRUG>ampicylinę</DRUG>. Skierowanie na <TEST>CT zatok</TEST>.
+<<<SAMPLE>>>

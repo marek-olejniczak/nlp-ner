@@ -1,0 +1,65 @@
+Notatka SOR, <DATE>14.03.2024</DATE>. Pacjent <PERSON>Jan Nowak</PERSON>, PESEL <PESEL>85031512345</PESEL>, zam. <ADDRESS>ul. Polna 7, 30-001 Kraków</ADDRESS>, tel. <PHONE>601 234 567</PHONE>. Bóle w klatce, w <TEST>EKG</TEST> cechy <DISEASE>STEMI</DISEASE>. <TEST>Troponina</TEST> 0.9 ng/ml. Podano <DRUG>Acard</DRUG>, przekazano na <HOSPITAL>Szpital Wojewódzki</HOSPITAL>.
+<<<SAMPLE>>>
+<DATE>22.11.2023</DATE> - e-recepta. <PERSON>Maria Lewandowska</PERSON> (PESEL <PESEL>76052487654</PESEL>) - <ADDRESS>Krakowska 12/3, 02-004 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>arytmia przedsionkowa</DISEASE>. Ordynacja: <DRUG>metoprolol</DRUG> 50mg 2×dziennie, <DRUG>warfaryna</DRUG> INR 2-3.
+<<<SAMPLE>>>
+Opis <TEST>USG serca</TEST>, <DATE>08.02.2024</DATE>. U <PERSON>Piotr Kamiński</PERSON> (PESEL <PESEL>92110634521</PESEL>) wykazano <DISEASE>dysfunkcję lewej komory</DISEASE>, EF 35%. <DISEASE>Niedomykalność mitral</DISEASE> III stopnia. Zalecono hospitalizację na <HOSPITAL>Centrum Kardiologii</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta, <DATE>01.12.2023</DATE>. <PERSON>Stanisław Grabowski</PERSON>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>, tel. <PHONE>789 456 123</PHONE>. Po <TEST>EKG</TEST> - <DISEASE>blok przedsionkowo-komorowy stopnia II</DISEASE>. <DRUG>Lekosyn</DRUG> 50mg, <DRUG>BiprESSel</DRUG> 5mg.
+<<<SAMPLE>>>
+Notatka ze szpitala. <DATE>19.10.2023</DATE> - pacjent <PERSON>Anna Kowalczyk</PERSON> (PESEL <PESEL>88042756782</PESEL>) po <TEST>angiografii wieńcowej</TEST> - stwierdzono <DISEASE>stenozy w gałęzi międzykomorowej</DISEASE>. Założono stent DES. <DRUG>Clopidogrel</DRUG> 75mg co dzień przez rok.
+<<<SAMPLE>>>
+Opis <TEST>rentgenu klatki</TEST>, <DATE>27.05.2024</DATE>. <PERSON>Jerzy Nowacki</PERSON>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Widoczne <DISEASE>powiększenie sylwetki serca</DISEASE>, <DISEASE>застой w płucach</DISEASE>. Zalecono <TEST>USG serca</TEST> i konsultację <HOSPITAL>Kliniki Kardiologii UJ</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta <DATE>03.09.2023</DATE>. <PERSON>Krzysztof Malinowski</PERSON>, PESEL <PESEL>79031245678</PESEL>, tel. <PHONE>512 345 678</PHONE>. Po zawale - <DRUG>Acard</DRUG> 75mg, <DRUG>ramipril</DRUG> 5mg, <DRUG>atorwastatyna</DRUG> 40mg, <DRUG>bisoprolol</DRUG> 1.25mg.
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Kardiologicznego</HOSPITAL>, <DATE>16.07.2024</DATE>. <PERSON>Zofia Lewandowska</PERSON> (PESEL <PESEL>84011956234</PESEL>) - <DISEASE>NSTEMI</DISEASE>, wymaz tważy <TEST>troponina</TEST> 0.7 ng/ml, <TEST>CK-MB</TEST> 12 mIU/l. <DISEASE>Niedomykalność aortalna</DISEASE> II°. Rozliczono na <DRUG>Polocard</DRUG> + <DRUG>ticagrelor</DRUG>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>12.04.2024</DATE>. <PERSON>Henryk Zieliński</PERSON>, <ADDRESS>Łódź, Piotrkowska 88, 90-001</ADDRESS>. RR 165/95, HR 88. Wynik <TEST>lipidogramu</TEST>: <DISEASE>hiperkolesterolemia</DISEASE>. <DRUG>Lisinopril</DRUG> 10mg, <DRUG>simwastatyna</DRUG> 20mg. Kontrola za 4 tyg.
+<<<SAMPLE>>>
+Opis <TEST>EKG</TEST>, <DATE>24.01.2024</DATE>. <PERSON>Katarzyna Wójcik</PERSON> (PESEL <PESEL>91052387456</PESEL>) - <DISEASE>tachykardia zatokowa</DISEASE> 110/min, niedoszczepienia w ścianę przednią. Badanie <TEST>echokardiografia</TEST> - EF 52%. Podano <DRUG>iwabradynę</DRUG> 2×5mg.
+<<<SAMPLE>>>
+Recepta ze szpitala <DATE>06.06.2024</DATE>. <PERSON>Włodzimierz Szymański</PERSON>, zam. <ADDRESS>Szczecin, ul. Powstańców Warszawy 23/2</ADDRESS>, tel. <PHONE>664 789 321</PHONE>. Po <TEST>zabiegu PTCA</TEST> - <DISEASE>restenoza in-stent</DISEASE>. <DRUG>prasugrel</DRUG> 10mg, <DRUG>acetazolamid</DRUG> 250mg.
+<<<SAMPLE>>>
+Notatka ze skrzyni zdrowia, <DATE>29.11.2023</DATE>. <PERSON>Ewa Markiewicz</PERSON>, PESEL <PESEL>72010145789</PESEL>. Zgłasza duszność, obrzęki nóg. <TEST>NT</TEST> 180/110, desaturacja. <DISEASE>Niewydolność serca NYHA III</DISEASE>. Skierowana do <HOSPITAL>Szpital Bielański</HOSPITAL> do oddziału kardiologicznego.
+<<<SAMPLE>>>
+E-recepta <DATE>18.08.2023</DATE>. <PERSON>Roman Baranowski</PERSON>, <ADDRESS>Gdańsk, ul. Długa 45, 80-841</ADDRESS>. <DISEASE>Fibrylacja przedsionkowa paroksyzmalna</DISEASE>, <TEST>holter EKG</TEST> - 15% załamań. <DRUG>flecainid</DRUG> 100mg 2×, <DRUG>apixaban</DRUG> 5mg 2×dziennie.
+<<<SAMPLE>>>
+Opis <TEST>tomografii serca</TEST>, <DATE>11.03.2024</DATE>. <PERSON>Aleksandra Nowak</PERSON> (PESEL <PESEL>87051234567</PESEL>) - guz <DISEASE>rhabdomyosarcome</DISEASE> serca. Stwierdzono <DISEASE>tamponadę serca</DISEASE>. Zalecono <TEST>zabiegu TAVI</TEST> na <HOSPITAL>Centrum Kardiochirurgii</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka kardiologiczna <DATE>02.05.2024</DATE>. <PERSON>Michał Grabski</PERSON>, tel. <PHONE>798 123 456</PHONE>. Po <TEST>teście wysiłkowym</TEST> - duszność, <DISEASE>cechy niedokrwienia ściany dolnej</DISEASE>. <TEST>Troponina hs</TEST> ujemna. Zalecono <TEST>scintigrafię miokardu</TEST>.
+<<<SAMPLE>>>
+E-recepta ze <HOSPITAL>Przychodni Kardiologicznej</HOSPITAL> <DATE>25.07.2023</DATE>. <PERSON>Jolanta Szewczyk</PERSON> (PESEL <PESEL>80091876543</PESEL>) - <DISEASE>kardiomiopatia rozstrzeniowa</DISEASE>, EF 25%, <DISEASE>śmiertelne arytmie komorowe</DISEASE> w przeszłości. <DRUG>ICD-CRT</DRUG> implantowany. Ordynacja: <DRUG>enalapril</DRUG> 10mg, <DRUG>karwedilol</DRUG> 6.25mg 2×.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>30.09.2023</DATE>. <PERSON>Tadeusz Rybski</PERSON>, <ADDRESS>Wrocław, ul. Świdnicka 78/4, 50-045</ADDRESS>. Ból w klatce, niecierpliwość. <TEST>EKG</TEST> - <DISEASE>infarkt ściany dolnej w toku</DISEASE>. <TEST>CK-MB i troponina</TEST> wznosząca. Przekazano do <HOSPITAL>Szpitala Uniwersyteckiego</HOSPITAL> hemodynamiką.
+<<<SAMPLE>>>
+Recepta <DATE>14.02.2024</DATE>. <PERSON>Danuta Cieślak</PERSON>, PESEL <PESEL>75070542316</PESEL>, zam. <ADDRESS>Kraków, ul. Sławkowska 12</ADDRESS>. Rozpoznanie: <DISEASE>angina bolesna stabilna</DISEASE> III CCS. <DRUG>atenolol</DRUG> 100mg, <DRUG>isosorbid dinitrat</DRUG> doraźnie.
+<<<SAMPLE>>>
+Notatka lekarza POZ, <DATE>08.11.2023</DATE>. <PERSON>Grzegorz Lewandowski</PERSON>, tel. <PHONE>605 432 109</PHONE>. <TEST>Cholesterol całkowity</TEST> 280 mg/dl, LDL 185 mg/dl, <DISEASE>hiperlipidemia</DISEASE>. Zmiana <DRUG>atorwastatyny</DRUG> z 20mg na 80mg.
+<<<SAMPLE>>>
+Opis <TEST>ekokardiogramu</TEST>, <DATE>21.06.2024</DATE>. <PERSON>Lidia Krupska</PERSON> (PESEL <PESEL>83081267890</PESEL>) - <DISEASE>zwężenie zastawki mitralnej</DISEASE> II°, gradient 32 mmHg. <DISEASE>Drgania przedsionków</DISEASE>. Zalecono badanie <TEST>TEE</TEST>.
+<<<SAMPLE>>>
+E-recepta <DATE>10.01.2024</DATE>. <PERSON>Paweł Nowicki</PERSON>, <ADDRESS>Poznań, ul. Winogrady 45/8, 60-123</ADDRESS>, tel. <PHONE>721 567 234</PHONE>. Rozpoznanie: <DISEASE>arytmia komorowa (PVC liczne)</DISEASE>. <DRUG>propranolol</DRUG> 40mg 3×, <DRUG>amiodaron</DRUG> 200mg 1×.
+<<<SAMPLE>>>
+Notatka ze szpitala, <DATE>07.04.2024</DATE>. <PERSON>Elżbieta Wójtowicz</PERSON>, PESEL <PESEL>81011543289</PESEL>. Zawał mięśnia sercowego, <DISEASE>uszkodzenie RV</DISEASE>. <TEST>EKG</TEST> - świeży ST-elevation. Pilnie <TEST>angiografia</TEST> na <HOSPITAL>Kardiologia Interwencyjna Warszawa</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta kardiologiczna <DATE>19.10.2023</DATE>. <PERSON>Jarosław Szpak</PERSON>, zam. <ADDRESS>Gdynia, Morska 56/3, 81-001</ADDRESS>. <DISEASE>Kardiomiopatia restrykcyjna</DISEASE>, zvęż. mitr. II°. <DRUG>furosemid</DRUG> 40mg, <DRUG>enalapril</DRUG> 5mg, <DRUG>spironolakton</DRUG> 25mg.
+<<<SAMPLE>>>
+Notatka pulpitu ratunkowego, <DATE>23.12.2023</DATE>. <PERSON>Krystyna Adamska</PERSON> (PESEL <PESEL>77121856234</PESEL>), tel. <PHONE>666 234 567</PHONE>. Kaszel, duszność nocy. <DISEASE>Niewydolność serca akutna</DISEASE> NYHA IV. <TEST>BNP</TEST> 850 pg/ml. Rutyna <DRUG>dobutamina</DRUG> 10μg/kg/min iv.
+<<<SAMPLE>>>
+Opis <TEST>rentgena klatki piersiowej</TEST>, <DATE>05.05.2024</DATE>. <PERSON>Stanisław Kędrowski</PERSON>, <ADDRESS>Lublin, Nadbystrzycka 74, 20-081</ADDRESS>. <DISEASE>Powiększenie serca</DISEASE> (CTR 0.62), <DISEASE>obrzęk płuc</DISEASE>. Odciążanie diuretyczne.
+<<<SAMPLE>>>
+E-recepta <DATE>31.03.2024</DATE>. <PERSON>Renata Borowska</PERSON>, PESEL <PESEL>82050678901</PESEL>. Po <TEST>zabiegu ablacji</TEST> <DISEASE>arytmii suprakomowej</DISEASE>. <DRUG>propafenon</DRUG> 150mg 2×, kardiolog <HOSPITAL>Szpital im. Żeromskiego</HOSPITAL> za 3 tyg.
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>16.08.2023</DATE>. <PERSON>Czesław Nowak</PERSON>, tel. <PHONE>502 111 222</PHONE>. <TEST>RR</TEST> 195/105, asymptomatyczny. <DISEASE>Nadciśnienie tętnicze stadium II</DISEASE>. <DRUG>losartan</DRUG> 100mg + <DRUG>indapamid</DRUG> 1.25mg.
+<<<SAMPLE>>>
+Opis <TEST>echokardiografii</TEST>, <DATE>09.09.2023</DATE>. <PERSON>Irena Grabowska</PERSON> (PESEL <PESEL>73032145678</PESEL>) - <DISEASE>zwężenie aortalne krytyczne</DISEASE> (gradient max 85 mmHg), EF 55%. Zalecono <TEST>TAVI</TEST> lub <TEST>zabiegu wymiany zastawki</TEST> na <HOSPITAL>Centrum Kardiochirurgii</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta ze <HOSPITAL>Poradni Kardiologicznej</HOSPITAL>, <DATE>28.02.2024</DATE>. <PERSON>Dariusz Żebrowski</PERSON>, <ADDRESS>Białystok, ul. Lipowa 34, 15-001</ADDRESS>. <DISEASE>Wada serca wrodzona - ASD II</DISEASE>, <DISEASE>hipertensja płucna umiarkowana</DISEASE>. <DRUG>sildenafil</DRUG> 20mg 3×, <DRUG>digoksyna</DRUG> 0.25mg.
+<<<SAMPLE>>>
+Notatka szpitalna, <DATE>17.11.2023</DATE>. <PERSON>Bogusław Chmielewski</PERSON>, PESEL <PESEL>68051223456</PESEL>, tel. <PHONE>512 876 543</PHONE>. <DISEASE>Trzepot przedsionków</DISEASE> po operacji baypasów. RV<TEST>ęk</TEST> 150/min. <DRUG>diltiazem</DRUG> iv, <DRUG>amiodarone</DRUG> loading.
+<<<SAMPLE>>>
+Opis <TEST>CT serca z angiografią</TEST>, <DATE>22.06.2024</DATE>. <PERSON>Małgorzata Dudek</PERSON> (PESEL <PESEL>81020156789</PESEL>) - <DISEASE>tętniak aorty wstępującej</DISEASE> 52 mm, <DISEASE>dyssekacja aorty</DISEASE> typu A domniemana. Skierowana pilnie do <HOSPITAL>Szpitala Kardiochirurgii Warszawskiej</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>12.07.2023</DATE>. <PERSON>Ryszard Lewandowski</PERSON>, <ADDRESS>Kraków, ul. Długa 78/2, 31-145</ADDRESS>. <DISEASE>Arytmia bradykardyjna</DISEASE>, HR 42. <TEST>Holter</TEST> - pauzy 4.2 s. Zalecono <TEST>implantu rozrusznika</TEST>.
+<<<SAMPLE>>>
+Notatka ze szpitala, <DATE>03.10.2023</DATE>. <PERSON>Zofia Michalska</PERSON>, PESEL <PESEL>76070634512</PESEL>. Zawał z powikłaniem <DISEASE>przerwania ściany międzykomorowej</DISEASE>. <TEST>Echokardiografia</TEST> - przetoka. Pilna <TEST>operacja naprawcza</TEST> na <HOSPITAL>Kardiochirurgia Uniwersytetu Medycznego</HOSPITAL>.

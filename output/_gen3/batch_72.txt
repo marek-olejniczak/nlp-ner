@@ -1,0 +1,66 @@
+Notatka SOR, <DATE>08.06.2024</DATE>. Chłopiec <PERSON>Konrad Lewandowski</PERSON>, lat 4, PESEL <PESEL>20032156789</PESEL>, z <ADDRESS>ul. Słoneczna 12, 80-001 Gdańsk</ADDRESS>. tel. <PHONE>512 345 678</PHONE>. Gorączka 39,2°C, kaszel, duszność. <TEST>RtG KLP</TEST> — zapalenie płuc. <TEST>OB</TEST> 32 mm/h. <DRUG>Amoksycylina</DRUG> dożylnie. Przekazano na <HOSPITAL>Szpital Pediatryczny nr 1</HOSPITAL>.
+<<<SAMPLE>>>
+Epikryza z Poradni Gastroenterologicznej, <DATE>3.05.2024</DATE>. Dziewczynka <PERSON>Magdalena Kuchta</PERSON>, lat 8, PESEL <PESEL>16061212345</PESEL>, zamieszkana <ADDRESS>Kraków, ul. Akademicka 5/2</ADDRESS>. Przewlekłe bóle brzucha, biegunka. <TEST>Badanie USG</TEST> brzucha bez zmian ogniskowych. <TEST>Morfologia</TEST>: normalnie. Rozpoznano <DISEASE>zespół jelita drażliwego</DISEASE>. Rekomendacja diety bez laktozy, <DRUG>Imodium</DRUG> p.o. 1-2x dz.
+<<<SAMPLE>>>
+Recepta POZ, <DATE>20.04.2024</DATE>. Pacjent <PERSON>Szymon Michalski</PERSON>, 12 lat, NIP do zidentyfikowania, <ADDRESS>Warszawa, Pulaskiego 42</ADDRESS>. Diagnoza: <DISEASE>alergiczny katar sezonowy</DISEASE>. Leki: <DRUG>Cetirizyna</DRUG> 10 mg 1x dz., <DRUG>Mometazon</DRUG> w sprayu donosowo. Wznowić po 2 tygodniach.
+<<<SAMPLE>>>
+Opis <TEST>TK głowy</TEST>, <DATE>11.02.2024</DATE>. Pacjent chłopiec <PERSON>Jakub Nowakowski</PERSON>, 6 lat, PESEL <PESEL>18111856789</PESEL>, <ADDRESS>ul. Leszczynowa 8, 31-900 Kraków</ADDRESS>. tel <PHONE>698 765 432</PHONE>. Po urazie głowy. Wynik: brak urazów, bez objawów <DISEASE>wstrząsu mózgu</DISEASE>. Rekomendacja obserwacji. Przekazanie do <HOSPITAL>Poliklinika Neuro</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka pediatry POZ, <DATE>7.06.2024</DATE>. Dziecko <PERSON>Weronika Słowik</PERSON>, 2 lata, PESEL <PESEL>22010515678</PESEL>, z <ADDRESS>Poznań, al. Marcinkowskiego 15/7</ADDRESS>. Gorączka, wysypka. Badanie: wysypka petechii. Rozpoznanie <DISEASE>róża zakaźna</DISEASE>. <DRUG>Amoksycylina</DRUG> doustnie 3x dz. Skierowanie do <HOSPITAL>Szpital Miejski Poznań</HOSPITAL>.
+<<<SAMPLE>>>
+Karta e-Recepty, <DATE>25.03.2024</DATE>. <PERSON>Tomasz Zając</PERSON>, 5 lat, <ADDRESS>Białystok, ul. Zielona 22/3</ADDRESS>. Pacjent po <DISEASE>zapaleniu ucha środkowego</DISEASE>. Leki: <DRUG>Amoxicilline-clavulanate</DRUG> 250/62 mg/5ml, 5ml 2x dz., <DRUG>Ibuprofen</DRUG> czopki 200 mg p.o. na ból. Kontrola za 5 dni.
+<<<SAMPLE>>>
+Wypis ze szpitala, <DATE>19.01.2024</DATE>. Pacjentka <PERSON>Aneta Kowalski</PERSON>, lat 9, PESEL <PESEL>15091515678</PESEL>, <ADDRESS>ul. Armii Krajowej 33, 53-315 Wrocław</ADDRESS>, tel <PHONE>723 456 789</PHONE>. Diagnoza: <DISEASE>apendicitis</DISEASE>. Leczenie: zapalenie wyrostka robaczkowatego — operacja, postępowanie powikłań. Wypisana w dobrym stanie ogólnym. Zakaz obciążeń przez 2 tygodnie.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>02.06.2024</DATE>. Chłopczyk <PERSON>Piotr Górski</PERSON>, lat 1, PESEL <PESEL>23030914567</PESEL>, z <ADDRESS>Gdynia, ul. Abrahama 44</ADDRESS>. tel <PHONE>534 123 456</PHONE>. Przysłany krytycznie — gowno żółte, odwodnienie. <TEST>Morfologia</TEST> — leukocytoza 18 tys. <TEST>CRP</TEST> 45 mg/l. <DISEASE>Zapalenie jelit zakaźne</DISEASE>. Hospitalizacja. <DRUG>Ceftriakson</DRUG> i.v., rehydratacja.
+<<<SAMPLE>>>
+Opis <TEST>USG nerek</TEST>, <DATE>14.04.2024</DATE>. Pacjent <PERSON>Filip Wójcik</PERSON>, 4 lata, PESEL <PESEL>20060456789</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 67</ADDRESS>. Po przedostaniu się kamienia nerkowego. Wynik: <DISEASE>przerost nerek</DISEASE>, <DISEASE>postanie moczowe</DISEASE>. Konsultacja <HOSPITAL>Poradnia Urologiczna Dziecięca</HOSPITAL>.
+<<<SAMPLE>>>
+Wizyta zdalna pediatry, <DATE>6.06.2024</DATE>. Dziewczynka <PERSON>Ola Lipska</PERSON>, 7 lat, PESEL <PESEL>17100312345</PESEL>, <ADDRESS>Poznań, Stary Rynek 5</ADDRESS>. Problemy z zapamiętywaniem w szkole, rozdrażnienie, bezsenność. Zalecenie <TEST>badania neurologicznego</TEST> w <HOSPITAL>Poradni Neurologicznej</HOSPITAL>. Możliwość <DISEASE>ADHD</DISEASE>. <DRUG>Melatonina</DRUG> 5 mg przed snem.
+<<<SAMPLE>>>
+Recepta specjalistyczna (stomatolog), <DATE>30.05.2024</DATE>. Pacjent <PERSON>Kacper Duda</PERSON>, 10 lat, <ADDRESS>ul. Spacerowa 11, 30-045 Kraków</ADDRESS>. Stan: <DISEASE>próchnica mleczaków</DISEASE>. Procedura: wypełnienie muflem pięciu zębów. <DRUG>Lidokaina</DRUG> żel 2%. Plan wizyty za miesiąc.
+<<<SAMPLE>>>
+Zaświadczenie z szkoły (pediatria), <DATE>1.06.2024</DATE>. <PERSON>Natalia Bogucka</PERSON>, 6 lat, zam. <ADDRESS>Gliwice, ul. Żakowska 77/4</ADDRESS>. Diagnoza: <DISEASE>ostre zapalenie dróg oddechowych</DISEASE>. Niezdolna do nauki przez 7 dni, od <DATE>1.06</DATE> do <DATE>8.06.2024</DATE>. Pediatra: <PERSON>dr Ireneusz Kowalski</PERSON>.
+<<<SAMPLE>>>
+E-porada kardiologa dziecięcego, <DATE>22.03.2024</DATE>. <PERSON>Artur Lewandowski</PERSON>, 3 lata, PESEL <PESEL>21052063456</PESEL>, <ADDRESS>Warszawa, ul. Puławska 88</ADDRESS>. W przeszłości: <DISEASE>wada serca врождённого typu</DISEASE> (operowana). Aktualnie asymptomatycze. <TEST>Echokardiografia</TEST> w normie. Rekomendacja: zabiegi higieniczne.
+<<<SAMPLE>>>
+Raport zakaźny (szkoła), <DATE>5.06.2024</DATE>. Dziecko <PERSON>Julia Szpak</PERSON>, 8 lat, <ADDRESS>Wrocław, ul. Trzebnicka 20/2</ADDRESS>. Diagnoza: <DISEASE>korona wirus — COVID-19</DISEASE>. Test potwierdzony <TEST>PCR</TEST> z <DATE>4.06.2024</DATE>. Izolacja obowiązkowa do <DATE>11.06.2024</DATE>. Szkoła poinformowana.
+<<<SAMPLE>>>
+Konsultacja endokrynologa dziecięcego, <DATE>18.02.2024</DATE>. <PERSON>Michał Zieliński</PERSON>, 11 lat, PESEL <PESEL>13031212345</PESEL>, <ADDRESS>Kraków, ul. Jagiellońska 15</ADDRESS>, tel <PHONE>601 999 888</PHONE>. Podejrzenie <DISEASE>cukrzycy typu 1</DISEASE>. <TEST>Glikemia</TEST> 250 mg/dl, <TEST>HbA1c</TEST> 8.2%. Rozpoznanie potwierdzono. Zacząć <DRUG>insulinę</DRUG> (schemat bazowo-bolusowy) i dieta.
+<<<SAMPLE>>>
+Zaświadczenie lekarskie (niepełnosprawność), <DATE>27.05.2024</DATE>. <PERSON>Bartosz Orłowski</PERSON>, 9 lat, PESEL <PESEL>15080612345</PESEL>, zam. <ADDRESS>Lublin, ul. Głowackiego 33</ADDRESS>. Diagnoza: <DISEASE>zaburzenia motoryki</DISEASE> (wada jednostronna nogi). Otrzymuje: zasiłek opiekuńczy, ulgę w komunikacji. Lekarz: <PERSON>lek. med. Stanisław Nowak</PERSON>, <HOSPITAL>Poradnia Niepełnosprawności</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka alergologa, <DATE>10.04.2024</DATE>. Pacjent <PERSON>Dominik Kamiński</PERSON>, 5 lat, <ADDRESS>Gdańsk, ul. Derdowskiego 7</ADDRESS>. <TEST>Test skórny</TEST>: pozytywnie na pyłki brzozy, kurz, sierść kota. Diagnoza: <DISEASE>alergiczny nieżyt nosa</DISEASE>. Zalecenie: unikać alergenów, <DRUG>Loratadyna</DRUG> 5 mg/5ml 1x dz., <DRUG>Flutikason</DRUG> spray donosowy.
+<<<SAMPLE>>>
+Raport z procedury (urologiczne), <DATE>13.03.2024</DATE>. Pacjentka <PERSON>Zuzanna Nowak</PERSON>, 4 lata, PESEL <PESEL>20040312345</PESEL>, <ADDRESS>Poznań, ul. Słowiańska 44/8</ADDRESS>. Procedura: <TEST>cysto-ureterogafia</TEST> (CUG). Wynik: <DISEASE>zwrotny refluks pęcherzowo-moczowodowy</DISEASE> stopień II/IV. Zalecenie: długotrwała profilaktyka <DRUG>trimetoprymem</DRUG>, <HOSPITAL>Poradnia Urologii Dziecięcej</HOSPITAL>.
+<<<SAMPLE>>>
+Karta z sanatorium (ortopedia), <DATE>31.01.2024</DATE>. <PERSON>Stanisław Adamczyk</PERSON>, 7 lat, <ADDRESS>Warszawa, al. Prymasa Tysiąclecia 22</ADDRESS>. Pobyt: <DATE>31.01</DATE> - <DATE>14.02.2024</DATE>. Diagnoza wejściowa: <DISEASE>kifoza груди</DISEASE>. Procedury: fizykoterapia 15 sesji, <TEST>masaż leczniczy</TEST> 10 sesji. Postęp widoczny — obniżenie bólu pleców o 60%.
+<<<SAMPLE>>>
+Notatka logopedy (szkolny), <DATE>24.05.2024</DATE>. Dziecko <PERSON>Ewelina Kuchta</PERSON>, 6 lat, <ADDRESS>Kraków, ul. Bohdana Zaleskiego 9/2</ADDRESS>. Diagnoza: <DISEASE>zaburzenia wymowy głosów syczących</DISEASE>. Sesje: 2x tygodniowo, 30 min. Postęp: wymowa /s/ i /z/ znacznie lepsza po 8 sesjach.
+<<<SAMPLE>>>
+Wizyta ortodontysty (dziecko), <DATE>17.06.2024</DATE>. <PERSON>Marcin Lewicki</PERSON>, 9 lat, PESEL <PESEL>15010763456</PESEL>, <ADDRESS>ul. Miłostnika Przyrody 5, 30-050 Kraków</ADDRESS>. Stan: <DISEASE>przodozgryz</DISEASE>, <DISEASE>crowding</DISEASE> zębów przednich. Zalecenie aparatu ortodontycznego (metal). Plan: instalacja za 2 tygodnie.
+<<<SAMPLE>>>
+Raport neuropsychologiczny, <DATE>12.04.2024</DATE>. Pacjent <PERSON>Adrian Nowak</PERSON>, 8 lat, <ADDRESS>Wrocław, ul. Kotlarska 15</ADDRESS>. Badanie: <TEST>WISC-R</TEST> (IQ 89, prawidłowe dla wieku), <TEST>test Rorschacha</TEST>. Diagnoza: <DISEASE>zaburzenia emocjonalne</DISEASE>, brak psychozy. Rekomendacja: psychoterapia, obserwacja w <HOSPITAL>Poradni Zdrowia Psychicznego</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka z e-wizyty (dermatologia), <DATE>6.06.2024</DATE>. Dziewczynka <PERSON>Katarzyna Lisowska</PERSON>, 5 lat, PESEL <PESEL>19090534567</PESEL>, <ADDRESS>Poznań, ul. Gliwicka 22/5</ADDRESS>. Zdjęcie: wysypka plamiasto-papulozna. Diagnoza: <DISEASE>ostre zapalenie skóry (dermatitis)</DISEASE>. Leczenie: <DRUG>Fluticason</DRUG> maść 0.005% 1-2x dz., <DRUG>Azelastyna</DRUG> przed snem. Kontrola za tydzień.
+<<<SAMPLE>>>
+Certyfikat szczepienia, <DATE>8.05.2024</DATE>. <PERSON>Tomasz Sikora</PERSON>, 2 lata, PESEL <PESEL>22031245678</PESEL>, <ADDRESS>Gdańsk, ul. Stowackiego 18</ADDRESS>. Szczepienia wykonane: <DRUG>BCG</DRUG>, <DRUG>DPT</DRUG> (dawka III), <DRUG>polio</DRUG>, <DRUG>HepB</DRUG> (II dawka), <DRUG>Hib</DRUG> (III). Następne: <DRUG>MMR</DRUG> w <DATE>08.2024</DATE>.
+<<<SAMPLE>>>
+Opis <TEST>EKG</TEST>, <DATE>9.02.2024</DATE>. Pacjent <PERSON>Paweł Dembowski</PERSON>, 12 lat, PESEL <PESEL>12031212345</PESEL>, <ADDRESS>Warszawa, ul. Mokotowska 44</ADDRESS>. Przyczyna: palpitacje. Wynik: <DISEASE>arytmia sinusowa</DISEASE>, HR 68/min. Badanie dodatkowe: <TEST>Holter EKG</TEST>. Kardiolog: <PERSON>dr Zofia Gawlak</PERSON>.
+<<<SAMPLE>>>
+Wniosek do OPS (opiekuńczy), <DATE>1.06.2024</DATE>. <PERSON>Monika Górska</PERSON>, 7 lat, PESEL <PESEL>17010115678</PESEL>, <ADDRESS>Kraków, ul. Floriańska 66/3</ADDRESS>. Diagnoza: <DISEASE>porażenie mózgowe</DISEASE> (obustronny spastyczny). Wniosek: zasiłek opiekuńczy (do 1500 zł). Dokument przygotowała <PERSON>pani psycholog</PERSON>.
+<<<SAMPLE>>>
+Notatka z e-poradni okulisty, <DATE>5.06.2024</DATE>. <PERSON>Kaja Wesołowska</PERSON>, 4 lata, <ADDRESS>Łódź, ul. Narutowicza 33</ADDRESS>. Wizyta: problemy ze wzrokiem (matka obserwuje łzawienie). <TEST>Ostrość wzroku</TEST> normalnie. Diagnoza: <DISEASE>łzawienie drażnieniowe</DISEASE>. Zalecenie: test na alergenowość, <DRUG>krople Tropicamid</DRUG> p.o. do badania.
+<<<SAMPLE>>>
+Zaświadczenie dla szkoły (sport), <DATE>4.06.2024</DATE>. <PERSON>Rafał Sułowski</PERSON>, 10 lat, PESEL <PESEL>14040512345</PESEL>, zam. <ADDRESS>Wrocław, ul. Szewska 17/2</ADDRESS>. Stan zdrowia: pozytywny. Pacjent dopuszczony do pełnego udziału w zajęciach WF. Podpis: <PERSON>lek. Andrzej Kłopotek</PERSON>, <HOSPITAL>Przychodnia nr 7</HOSPITAL>.
+<<<SAMPLE>>>
+Raport z badania słuchu (audiometria), <DATE>29.03.2024</DATE>. Pacjent <PERSON>Oskar Kowalczyk</PERSON>, 6 lat, PESEL <PESEL>18041856789</PESEL>, <ADDRESS>Gdańsk, ul. Wały Jagiellonskie 44</ADDRESS>. <TEST>Audiometryczna próba Webera</TEST>: strata słuchu prawe ucho. Diagnoza: <DISEASE>niedosłuch przewodzeniowy</DISEASE>. Zalecenie: korygowanie aparat słuchowy, <HOSPITAL>Poradnia Audiologiczna</HOSPITAL>.
+<<<SAMPLE>>>
+Recepta na okulary, <DATE>20.05.2024</DATE>. <PERSON>Julia Wójtowicz</PERSON>, 8 lat, PESEL <PESEL>16052356789</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 15/4</ADDRESS>. Diagnoza: <DISEASE>krótkowzroczność</DISEASE> -2.5 oku obydwa. Przepis: okulary korekcyjne. Zalecenie: noszenie ciągłe, szczególnie w szkole.
+<<<SAMPLE>>>
+Notatka fizjoterapeuty, <DATE>3.06.2024</DATE>. <PERSON>Szymon Białek</PERSON>, 5 lat, <ADDRESS>Kraków, ul. Senatorska 7</ADDRESS>. Diagnoza: <DISEASE>płaskostopie</DISEASE> (dwustronne). Sesje: 2x tygodniowo, 25 min. Procedury: <TEST>masaż stóp</TEST>, ćwiczenia wzmacniające. Postęp: zmniejszenie dolegliwości o 40% po 10 sesjach.
+<<<SAMPLE>>>
+Zaświadczenie medyczne (nieobecność w szkole), <DATE>2.06.2024</DATE>. Dziecko <PERSON>Natalia Sobolewska</PERSON>, 9 lat, PESEL <PESEL>15080815678</PESEL>, <ADDRESS>Białystok, ul. Warszawska 88</ADDRESS>. Diagnoza: <DISEASE>ostre zapalenie krtani</DISEASE>. Niezdolne do nauki: <DATE>2.06</DATE> - <DATE>5.06.2024</DATE> (4 dni). Lekarz pediatra: <PERSON>lek. Joanna Mizera</PERSON>.
+<<<SAMPLE>>>
+Notatka psychologa szkolnego, <DATE>31.05.2024</DATE>. <PERSON>Łukasz Zawicki</PERSON>, 7 lat, <ADDRESS>Wrocław, ul. Legnicka 22/3</ADDRESS>. Obserwacja: <DISEASE>lęk szkolny</DISEASE>, trudności z separacją. Sesje: 1x tygodniowo. Postęp: poprawe zaadaptacji społecznej, zmniejszenie bezpieczeństwa.
+<<<SAMPLE>>>

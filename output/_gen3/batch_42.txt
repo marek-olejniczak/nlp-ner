@@ -1,0 +1,93 @@
+Notatka SOR, <DATE>7.02.2024</DATE>. Pacjent <PERSON>Stanisław Kowalski</PERSON>, PESEL <PESEL>54072315678</PESEL>, tel. <PHONE>721 456 789</PHONE>. Zgłoszenie: bóle gardła od 3 dni, kaszel. W <TEST>oświetleniu laryngoskopem</TEST> obrzęk błon śluzowych gardła, wysięk ropny. Temperatura 38.5°C. Rozpoznanie: <DISEASE>zapalenie gardła bakteryjne</DISEASE>. Podano <DRUG>amoksycylina</DRUG> 1500mg/dobę.
+
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>15.03.2024</DATE>. <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>92042734521</PESEL>, zam. <ADDRESS>ul. Mickiewicza 23, 80-012 Gdańsk</ADDRESS>. Rozpoznanie: <DISEASE>zmęczenie głosu zawodowego</DISEASE>. Zalecenia: dieta mała, spokój głosowy 2 tygodnie. Przepisano: <DRUG>Lizobakт</DRUG> spray 4×4 rozpylenia, <DRUG>Decasept</DRUG> tabletki.
+
+<<<SAMPLE>>>
+Konsultacja laryngologiczna, <DATE>21.01.2024</DATE>. Pacjent <PERSON>Andrzej Szymański</PERSON>, ur. <DATE>15.06.1968</DATE>, tel. <PHONE>602 134 567</PHONE>. Skierowanie z POZ. Objawy: duszność, chrypka od 2 miesięcy, uczucie kłucia w gardле. <TEST>USG tarczycy</TEST> bez patologii. <TEST>Laryngoskopia bezpośrednia</TEST>: <DISEASE>guzek na fałdzie głosowym prawy</DISEASE>. Zalecenie: <TEST>biopsja</TEST>, konsultacja onkologa.
+
+<<<SAMPLE>>>
+Notatka z SOR, <DATE>3.04.2024</DATE>. <PERSON>Ewa Nowak</PERSON>, PESEL <PESEL>87051223456</PESEL>, zam. <ADDRESS>Kraków, Stare Miasto 45/2</ADDRESS>. Bóle ucha i gardła, wysoka temperatura. <TEST>Otoskopia</TEST>: <DISEASE>zapalenie ucha środkowego</DISEASE>. <TEST>Osmolarity</TEST> w normie. Podano <DRUG>Ibuprofen</DRUG> 600mg, <DRUG>Otipax</DRUG> krople uszne.
+
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Specjalistycznego nr 2</HOSPITAL>, <DATE>28.02.2024</DATE>. <PERSON>Piotr Wójcik</PERSON>, PESEL <PESEL>75041567891</PESEL>, tel. <PHONE>696 789 123</PHONE>. Przebieg: pacjent hospitalizowany z powodu <DISEASE>aftonii głosu</DISEASE>. Wykonano <TEST>TK krtani</TEST> — bez zmian neoplastycznych. Pobyт 4 dni, wypisany w stanie ogólnie dobrym, zalecono logopedę.
+
+<<<SAMPLE>>>
+Opis <TEST>laryngografii CT</TEST>, <DATE>12.05.2024</DATE>. <PERSON>Tomasz Jakubowski</PERSON>, PESEL <PESEL>88033456789</PESEL>. Badanie wykonane w <HOSPITAL>Centrum Diagnostycznym Medyk</HOSPITAL>. Stwierdzono: <DISEASE>naciek w przednim trzecim krtani</DISEASE>, bez zniszczenia chrząstki. Szerokość: 8 mm. Wniosek: kwalifikacja do <TEST>laryngofissury</TEST>.
+
+<<<SAMPLE>>>
+Recepta z poradni POZ, <DATE>19.06.2024</DATE>. <PERSON>Joanna Brzezińska</PERSON>, tel. <PHONE>534 456 789</PHONE>, zam. <ADDRESS>ul. Warszawska 77, 31-000 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie trzustki głosu</DISEASE>. Przepisy: <DRUG>Strepsils</DRUG> tabletki 3×3, <DRUG>Propolis spray</DRUG>, <DRUG>Paracetamol</DRUG> 500mg doraźnie.
+
+<<<SAMPLE>>>
+Notatka SOR z <DATE>8.07.2024</DATE>. <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>79121234567</PESEL>. Pacjent zgłosił się z bólem gardła i krwiopluwaniem. <TEST>Laryngoskopia</TEST>: <DISEASE>ruptura naczynia na fałdzie głosowym</DISEASE>. Zastosowano <DRUG> адреналinę</DRUG> 1:1000 topicznie. Pacjent udzielony do obserwacji przez 2h.
+
+<<<SAMPLE>>>
+Formularz konsultacyjny, <DATE>25.03.2024</DATE>. Kierujący: <PERSON>dr Barbara Górska</PERSON> z <HOSPITAL>Przychodni Zdrowia Rodzinnego przy ul. Puławskiej</HOSPITAL>. Pacjent: <PERSON>Lucyna Kowals­ka</PERSON>, PESEL <PESEL>61081456239</PESEL>, tel. <PHONE>723 567 890</PHONE>. Powód: <DISEASE>dysfonia przewlekła</DISEASE>. Zalecono <DRUG>Lozungów</DRUG> + logopedię 2×/tydzień.
+
+<<<SAMPLE>>>
+Opis <TEST>endoskopii krtani</TEST>, <DATE>14.04.2024</DATE>. Pacjent <PERSON>Ryszard Ostrowski</PERSON>, ur. <DATE>22.11.1955</DATE>, PESEL <PESEL>55112256789</PESEL>. W <HOSPITAL>Klinice Laryngologicznej UJ</HOSPITAL>. Stwierdzono: <DISEASE>polip na fałdzie głosowym lewym</DISEASE>, szerokość 5 mm, zaćma laryngealna. Zalecenie: <TEST>usunięcie chirurgiczne</TEST>.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>10.05.2024</DATE>. <PERSON>Halina Nowacka</PERSON>, PESEL <PESEL>73051234567</PESEL>, zam. <ADDRESS>Poznań, ul. Słowiańska 12/4</ADDRESS>, tel. <PHONE>605 234 567</PHONE>. Rozpoznanie: <DISEASE>zapalenie trzustki głosu zawodowego</DISEASE>. Przepisano: <DRUG>Strepsils Plus spray</DRUG> 3×4 rozpylenia, <DRUG>Decasept</DRUG>, <DRUG>Vitrum C</DRUG>.
+
+<<<SAMPLE>>>
+Notatka ze SOR, <DATE>17.06.2024</DATE>. <PERSON>Jerzy Skoczylas</PERSON>, PESEL <PESEL>68111267543</PESEL>, tel. <PHONE>799 456 789</PHONE>. Prezentacja: bóle gardła, trudności w połykaniu. <TEST>Osinoskopia</TEST> ujawniła <DISEASE>wysięk w gardle tylnym</DISEASE>. Wydzielina pobrana do <TEST>hodowli</TEST>. Zastosowano <DRUG>Octenidol spray</DRUG>.
+
+<<<SAMPLE>>>
+Konsultacja laryngologiczna z <DATE>2.07.2024</DATE>. <PERSON>Urszula Zalewska</PERSON>, PESEL <PESEL>81031223456</PESEL>, zam. <ADDRESS>ul. Grochowska 156, 03-462 Warszawa</ADDRESS>, tel. <PHONE>721 876 543</PHONE>. Objawy: przewlekły kaszel, uczucie chrapki. <TEST>Laryngoskopia</TEST> wykazała <DISEASE>zmiany zapalنne na fałdach głosowych</DISEASE>. Podejrzenie <DISEASE>refluksу kwaśnego</DISEASE>. Zalecono <DRUG>Omeprazol</DRUG> 20mg 1×dziennie.
+
+<<<SAMPLE>>>
+Opis <TEST>radiografii szyi</TEST>, <DATE>29.04.2024</DATE>. Badanie wykonane w <HOSPITAL>Radiologii Zakamarnej</HOSPITAL>. Pacjent <PERSON>Zbigniew Musiał</PERSON>, PESEL <PESEL>72012389456</PESEL>. Stwierdzono: <DISEASE>zwężenie przezofagusowe na wysokości C4-C5</DISEASE>, możliwą przyczynę dysfonii. Zalecono <TEST>TK dodatkowo</TEST>.
+
+<<<SAMPLE>>>
+Notatka z oddziału laryngologicznego, <DATE>5.08.2024</DATE>. Pacjent <PERSON>Henryk Kucharski</PERSON>, ur. <DATE>13.07.1960</DATE>, PESEL <PESEL>60071356789</PESEL>, tel. <PHONE>663 789 123</PHONE>. Diagnoza przy przyjęciu: <DISEASE>absces garlowy</DISEASE>. <TEST>USG szyi</TEST> potwierdził zbiornik 25mm. Wykonano <TEST>punkcję</TEST>. Wydzielina wysiana. Podano <DRUG>Cefotaksym</DRUG> 2g co 8h i.v.
+
+<<<SAMPLE>>>
+Recepta POZ, <DATE>23.05.2024</DATE>. <PERSON>Danuta Michalska</PERSON>, PESEL <PESEL>69051267234</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 87/5</ADDRESS>. Rozpoznanie: <DISEASE>angina follicularis</DISEASE>. Przepisano: <DRUG>Amoksycylina-Klawulan</DRUG> 625mg 3×dziennie, <DRUG>Benzydamina</DRUG> spray, <DRUG>Ibuprofen</DRUG> 400mg.
+
+<<<SAMPLE>>>
+Notatka dyżuru SOR, <DATE>11.09.2024</DATE>. <PERSON>Marek Szusterman</PERSON>, PESEL <PESEL>77050234567</PESEL>, tel. <PHONE>512 345 678</PHONE>. Zgłoszenie: wysoka temperatura 39.2°C, bóle gardła, trudności w połykaniu. <TEST>Laryngoskopia</TEST>: <DISEASE>zapalenie gardła rzekomoprzywodnikowe</DISEASE>. Temperatura powyżej 38.5°C. Zalecono obserwację, <DRUG>Paracetamol</DRUG> 1000mg co 6h.
+
+<<<SAMPLE>>>
+Konsultacyjna notatka specjalisty, <DATE>18.10.2024</DATE>. <PERSON>Zofia Owczarczyk</PERSON>, PESEL <PESEL>84102145678</PESEL>, zam. <ADDRESS>ul. Konstytucji 10, 02-202 Warszawa</ADDRESS>, tel. <PHONE>604 789 012</PHONE>. Kierowanie z <HOSPITAL>Przychodni nr 15</HOSPITAL>. Problem: <DISEASE>dyzestezja krtani</DISEASE>. Wykonano <TEST>laryngofiberoskopię</TEST> — bez zmian. Zalecono psychologię i logopedię.
+
+<<<SAMPLE>>>
+Opis <TEST>magnetu rezonansem krtani</TEST>, <DATE>7.11.2024</DATE>. Pacjent <PERSON>Stanisław Niemczyk</PERSON>, PESEL <PESEL>70122156789</PESEL>. Badanie w <HOSPITAL>Centrum Medycyny Diagnostycznej</HOSPITAL>. Stwierdzono: <DISEASE>guzek na fałdzie głosowym prawy</DISEASE> 6×4 mm, <DISEASE>pogrubieniе na lewym</DISEASE>. Zalecenie: obserwacja, powtórzyć badanie za 3 miesiące.
+
+<<<SAMPLE>>>
+Recepta z SOR, <DATE>22.12.2024</DATE>. <PERSON>Katarzyna Włodarczyk</PERSON>, PESEL <PESEL>88072234567</PESEL>, tel. <PHONE>724 567 890</PHONE>, zam. <ADDRESS>Wrocław, ul. Generała Romela 13</ADDRESS>. Rozpoznanie: <DISEASE>ból gardła ostrой</DISEASE>. Przepisano: <DRUG>Acard</DRUG> 100mg, <DRUG>Strepsils</DRUG>, <DRUG>Lizobakt</DRUG>, <DRUG>Pentalgin</DRUG> 500mg doraźnie.
+
+<<<SAMPLE>>>
+Notatka z laryngologu, <DATE>3.01.2025</DATE>. Pacjent <PERSON>Witold Kamiński</PERSON>, ur. <DATE>25.03.1952</DATE>, PESEL <PESEL>52032545678</PESEL>, tel. <PHONE>731 456 789</PHONE>. Powód wizyty: chrypka od 4 tygodni. <TEST>Laryngoskopia indyrekta</TEST>: <DISEASE>paraliza fałdu głosowego lewego</DISEASE>. Zalecono <TEST>EMG krtani</TEST> i konsultację neurologa.
+
+<<<SAMPLE>>>
+Epikryza ze <HOSPITAL>Szpitala Bielańskiego</HOSPITAL>, <DATE>15.02.2025</DATE>. <PERSON>Renata Bogucka</PERSON>, PESEL <PESEL>75012334567</PESEL>, zam. <ADDRESS>Warszawa, Nowe Miasto 45/7</ADDRESS>, tel. <PHONE>605 678 901</PHONE>. Przebieg: pacjentka hospitalizowana z powodu <DISEASE>ropnia okolic krtani</DISEASE>. Wykonano <TEST>drenaż</TEST>. Wysłano wydzielizę na <TEST>kultur</TEST>. Wypisana w dobrym stanie, zalecono antybiotykoterapię p.o.
+
+<<<SAMPLE>>>
+Notatka z gabinetu laryngologicznego, <DATE>28.02.2025</DATE>. <PERSON>Adam Nowak</PERSON>, PESEL <PESEL>73051234567</PESEL>. Pacjent zgłasza się na kontrolę po <TEST>usunięciu polipa</TEST> wykonanym miesiąc temu. <TEST>Laryngoskopia</TEST>: gojenie prawidłowe, <DISEASE>bez wznowy</DISEASE>. Zalecono dalszą obserwację raz na 6 miesięcy.
+
+<<<SAMPLE>>>
+Recepta z poradni, <DATE>10.03.2025</DATE>. <PERSON>Beata Gorczyńska</PERSON>, PESEL <PESEL>82031245678</PESEL>, tel. <PHONE>698 123 456</PHONE>, zam. <ADDRESS>ul. Szkolna 28, 30-701 Kraków</ADDRESS>. Rozpoznanie: <DISEASE>przewlekłе zapalenie gardła</DISEASE>. Przepisano: <DRUG>Benzocaina spray</DRUG> 3×dziennie, <DRUG>Propolis</DRUG>, <DRUG>Witamina C</DRUG> 1000mg.
+
+<<<SAMPLE>>>
+Notatka z dyżuru SOR, <DATE>18.04.2025</DATE>. <PERSON>Grzegorz Lewandowski</PERSON>, PESEL <PESEL>69050156789</PESEL>, tel. <PHONE>661 789 234</PHONE>. Pacjent przybywa z podejrzeniem <DISEASE>zgorzeli gardła</DISEASE>. Temperature 40.1°C. <TEST>Laryngoskopia</TEST>: łatwy dostęp do badania, brak zgorzelnych zmian. Rozpoznanie ostatecznie: <DISEASE>zapalenie gardła ostrе niespecyficzne</DISEASE>. Podano <DRUG>Antibiotyk szerokowidmowy</DRUG>.
+
+<<<SAMPLE>>>
+Konsultacja specjalisty, <DATE>5.05.2025</DATE>. <PERSON>Lidia Zielińska</PERSON>, PESEL <PESEL>76030234567</PESEL>, zam. <ADDRESS>Poznań, ul. Nowy Świat 52/3</ADDRESS>, tel. <PHONE>722 456 789</PHONE>. Powód: <DISEASE>dysodia spowodowana zespołem Sjögrena</DISEASE>. <TEST>Laryngoskopia</TEST> wykazała <DISEASE>suchość błon śluzowych</DISEASE>. Zalecono: <DRUG>Sztuczna ślina</DRUG> spray, <DRUG>Decasept</DRUG>, logopedię.
+
+<<<SAMPLE>>>
+Opis <TEST>bronchofilmoskopii</TEST>, <DATE>20.05.2025</DATE>. Pacjent <PERSON>Piotr Żabiński</PERSON>, PESEL <PESEL>74042356789</PESEL>. Badanie w <HOSPITAL>Klinice Chorób Płuc</HOSPITAL>. Stwierdzono: <DISEASE>zapalenie krtani poniżej głośni</DISEASE>, <DISEASE>zwężenie trzeciоwne</DISEASE>. Pobrano próbkę do <TEST>biopsji</TEST>. Wdrożono <DRUG>Deksametazon</DRUG> nebulizowany.
+
+<<<SAMPLE>>>
+Notatka lekarska, <DATE>1.06.2025</DATE>. <PERSON>Ewelina Borkowska</PERSON>, PESEL <PESEL>85061234567</PESEL>, tel. <PHONE>512 678 901</PHONE>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Pacjent po <TEST>trachjeotomii</TEST> wykonanej 3 tygodnie temu. Kontrola: kanula w prawidłowej pozycji, no sign of infection. Zalecono zmianę kanuli raz na tydzień.
+
+<<<SAMPLE>>>
+Recepta z gabinetu, <DATE>15.06.2025</DATE>. <PERSON>Magdalena Radecka</PERSON>, PESEL <PESEL>79081256789</PESEL>, zam. <ADDRESS>Gdańsk, ul. Słowackiego 18/2</ADDRESS>. Rozpoznanie: <DISEASE>przewlekła chrypka zawodowa</DISEASE>. Przepisano: <DRUG>Strepsils spray</DRUG>, <DRUG>Decasept spray</DRUG>, <DRUG>Magnerot</DRUG> suplement, logopedia obowiązkowa.
+
+<<<SAMPLE>>>
+Notatka z konsultacji, <DATE>28.06.2025</DATE>. <PERSON>Wojciech Szulc</PERSON>, PESEL <PESEL>68030145678</PESEL>, tel. <PHONE>731 234 567</PHONE>. Pacjent na <TEST>laryngoskopii kontrolnej</TEST> po <TEST>usunięciu węzłów chłonnych</DISEASE> ze szyi wykonanym 6 tygodni temu. Gojenie bez komplikacji. <DISEASE>Przewodowy ból</DISEASE> zanikł. Zalecono physiotherapy.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>10.07.2025</DATE>. <PERSON>Zofia Żurawska</PERSON>, PESEL <PESEL>71071134567</PESEL>, tel. <PHONE>696 345 678</PHONE>, zam. <ADDRESS>ul. Filtrowa 14, 02-057 Warszawa</ADDRESS>. Pacjentka zgłasza się z kaslem i <DISEASE>dysfonią ostrą</DISEASE>. <TEST>Laryngoskopia</TEST> wykazała <DISEASE>zapalenie błon śluzowych powyżej głośni</DISEASE>. Podano <DRUG>Inhalacje budesonidu</DRUG> i <DRUG>Lizobakt</DRUG>.
+
+<<<SAMPLE>>>

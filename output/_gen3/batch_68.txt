@@ -1,0 +1,109 @@
+Notatka z wizyty, <DATE>08.06.2024</DATE>. Pan <PERSON>Marek Kowalski</PERSON>, PESEL <PESEL>75061234567</PESEL>, tel. <PHONE>602 345 678</PHONE>, zam. <ADDRESS>ul. Mickiewicza 12, 80-001 Gdańsk</ADDRESS>. Zgłasza się z bólem gardła od 3 dni. W badaniu: zaczerwienienie podniebienia, bez wysięku. <TEST>Odsiewka</TEST> nie pobrana (objawy łagodne). Podejrzenie <DISEASE>anginy wirusowej</DISEASE>. Zalecenia: odpoczynek, płyny, paracetamol. Bez antybiotyku.
+
+<<<SAMPLE>>>
+E-recepta, wydana <DATE>12.05.2024</DATE> przez <PERSON>Dr. Urszula Piotrowska</PERSON> w <HOSPITAL>POZ Centrum Zdrowia</HOSPITAL>. Pacjentka <PERSON>Zofia Lewandowska</PERSON>, PESEL <PESEL>92112345678</PESEL>, adres <ADDRESS>Krakowskie Przedmieście 15/3, 00-927 Warszawa</ADDRESS>. <DRUG>Metformina</DRUG> 1000 mg 2x dziennie do kontroli cukrzycy. <DRUG>Lisinopril</DRUG> 10 mg 1x dziennie. Na przepadek wznowienia: <DRUG>Ibuprofen</DRUG> 400 mg doraźnie.
+
+<<<SAMPLE>>>
+Wywiad z pacjentem przychodni. Pan <PERSON>Robert Szydłowski</PERSON>, PESEL <PESEL>68031587654</PESEL>, tel. <PHONE>512 876 543</PHONE>, mieszka <ADDRESS>Pęchlewo, ul. Leśna 7a, 62-060 Puszczykowo</ADDRESS>. Cukrzyca typu 2 od 12 lat, nadciśnienie od 10 lat. W ostatnich miesiącach notuje się przybycie ~ 4 kg. <TEST>RR</TEST> dzisiaj 142/88 mmHg, <TEST>HR</TEST> 78 bpm. <DISEASE>Otyłość</DISEASE> stopnia II. Zalecenia: redukcja masy, zwiększenie aktywności fizycznej, kontrola <DRUG>Atorwastatyny</DRUG>.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>03.04.2024</DATE>. Pacjent <PERSON>Jerzy Nowacki</PERSON>, PESEL <PESEL>59102345789</PESEL>, tel. <PHONE>698 765 432</PHONE>, adres <ADDRESS>ul. Słoneczna 21, 31-123 Kraków</ADDRESS>. Przywieziony RZQ z urazem głowy po upadku. <TEST>GCS</TEST> 15. <TEST>CT głowy</TEST> bez zmian ogniskowych. <DISEASE>Stłuczenie mózgu</DISEASE> stopnia lekkiego. Podano <DRUG>Paracetamol</DRUG> i.v. Obserwacja 4 h bez powikłań, wypisany.
+
+<<<SAMPLE>>>
+Opis z pracowni <TEST>USG</TEST>, <DATE>19.06.2024</DATE>. Pacjentka <PERSON>Barbara Kuchcińska</PERSON>, PESEL <PESEL>61051234562</PESEL>, tel. <PHONE>723 456 789</PHONE>, zam. <ADDRESS>Piła, ul. Wyzwolenia 44/12</ADDRESS>. Badanie piersi. W kwadrancie wewnętrznym górnym lewej piersi <DISEASE>guz 12x8 mm</DISEASE> o niewyraźnych brzegach. Badanie wypadłoby pilnie rozszerzyć <TEST>biopsją</TEST>. Skierowanie na <HOSPITAL>Szpital Onkologiczny</HOSPITAL> w ekspresowym trybie.
+
+<<<SAMPLE>>>
+Notatka z POZ, <DATE>11.03.2024</DATE>. Pani <PERSON>Magdalena Tomczak</PERSON>, PESEL <PESEL>87032134567</PESEL>, tel. <PHONE>789 123 456</PHONE>, zamieszkała <ADDRESS>Łódź, ul. Zielona 9, 90-001</ADDRESS>. Zgłasza zmęczenie i senność przez miesiąc. <TEST>Morfologia</TEST>: RBC 3.8, Hb 9.5 g/dl. <DISEASE>Niedokrwistość</DISEASE> o niejasnej etiologii. Przepisano <DRUG>Żelazo II</DRUG> w formie tabletek oraz skierowanie na <TEST>gastroskopię</TEST>.
+
+<<<SAMPLE>>>
+Epikryza szpitalna, <DATE>27.05.2024</DATE>. Pan <PERSON>Tadeusz Białas</PERSON>, PESEL <PESEL>64011567890</PESEL>, tel. <PHONE>604 567 890</PHONE>, adres <ADDRESS>Białystok, ul. Piastowska 33/5, 15-345</ADDRESS>. Hospitalizacja na <HOSPITAL>Oddziale Kardiologii</HOSPITAL> w związku z <DISEASE>zawałem mięśnia sercowego</DISEASE>. <TEST>Troponina</TEST> max 2.1 ng/ml. Przeprowadzono <TEST>angiografię wieńcową</TEST>, podano <DRUG>Acard</DRUG>, <DRUG>Klopidogrel</DRUG> i <DRUG>Enalapryl</DRUG>. Pacjent opuszcza szpital w stabilnym stanie.
+
+<<<SAMPLE>>>
+Zwolnienie lekarskie, <DATE>01.06.2024</DATE> do <DATE>15.06.2024</DATE>. Pacjent <PERSON>Adam Górski</PERSON>, PESEL <PESEL>72071245678</PESEL>, tel. <PHONE>721 234 567</PHONE>, pracownik zam. <ADDRESS>ul. Słowackiego 5, 50-001 Wrocław</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie błony śluzowej żołądka</DISEASE> z wymiotami. Zalecenie zawieszenia pracy na 14 dni. Powrót do pracy po ustąpieniu dolegliwości i normalnym odżywianiu.
+
+<<<SAMPLE>>>
+Notatka Z pielęgniarki POZ, <DATE>18.04.2024</DATE>. Pani <PERSON>Halina Skowrońska</PERSON>, PESEL <PESEL>56082134568</PESEL>, tel. <PHONE>607 890 123</PHONE>, zam. <ADDRESS>Poznań, ul. Ratajczaka 12, 61-002</ADDRESS>. Kontrola <TEST>RR</TEST> po zmianie leku: 138/86 mmHg. <TEST>Waga</TEST>: 68 kg (ostatni miesiąc -2 kg, pozytywnie). Edukacja żywieniowa. Następna wizyta za miesiąc.
+
+<<<SAMPLE>>>
+Opis zabiegu <TEST>holtera</TEST>, <DATE>22.03.2024</DATE>. Pacjent <PERSON>Stanisław Niedźwiedź</PERSON>, PESEL <PESEL>65051289456</PESEL>, tel. <PHONE>664 123 456</PHONE>, zam. <ADDRESS>Szczecin, ul. Żeglarska 7a, 70-123</ADDRESS>. Rejestracja 24-godzinna. Średnie <TEST>HR</TEST> 71 bpm. Pojedyncze <DISEASE>arytmie nadkomorowe</DISEASE> w godzinach porannych (< 5 epizodów). Bez <DISEASE>arytmii komorowych</DISEASE>. Wniosek: rytm przeważnie zatokowy, bez niepokojących zmian.
+
+<<<SAMPLE>>>
+Notatka sądowo-medyczna, <DATE>09.05.2024</DATE>. Badanie <PERSON>Marii Olejarz</PERSON>, PESEL <PESEL>81032456789</PESEL>, tel. <PHONE>502 345 678</PHONE>, zam. <ADDRESS>ul. Warszawska 102/7, 26-010 Kielce</ADDRESS> w ramach procedury cywilnej. Obecne ślady uderzenia w górnych partiach pleców. Uszkodzenia tkanek miękkich, zasinienie w trakcie gojenia. Prognoza: pełny powrót do zdolności w 3-4 tygodnie.
+
+<<<SAMPLE>>>
+Zalecenia dietetyczne, <DATE>14.02.2024</DATE>. Pacjentka <PERSON>Irena Mazur</PERSON>, PESEL <PESEL>62041289567</PESEL>, tel. <PHONE>717 654 321</PHONE>, zam. <ADDRESS>Gdynia, ul. Armii Krajowej 18/3, 81-456</ADDRESS> z rozpoznaniem <DISEASE>cukrzycy gestacyjnej</DISEASE>. <TEST>Glikemia</TEST> poranna 108 mg/dl. Dieta niskowęglowodanowa z wysją zawartością błonnika. Pomiar <TEST>glikemii</TEST> 4x dziennie. Powrót za 2 tygodnie.
+
+<<<SAMPLE>>>
+Notatka z <TEST>USG</TEST> tarczycy, <DATE>25.06.2024</DATE>. Pacjent <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>73021567834</PESEL>, tel. <PHONE>789 456 123</PHONE>, zam. <ADDRESS>Toruń, ul. Konopnicowej 11, 87-100</ADDRESS>. <TEST>USG tarczycy</TEST> wykazuje powiększenie gruczołu z wieloma małymi guzkami. <TEST>TSH</TEST> 2.3 mlU/l. Zalecenie: monitorowanie co 6 miesięcy lub <TEST>FNAB</TEST> w zależności od zmian.
+
+<<<SAMPLE>>>
+Notatka SOR, <DATE>30.01.2024</DATE>. Pacjentka <PERSON>Dorota Wójcik</PERSON>, PESEL <PESEL>89093456123</PESEL>, tel. <PHONE>695 123 456</PHONE>, zam. <ADDRESS>Wrocław, ul. Okulickiego 42, 50-230</ADDRESS>. Zawał przedni ściany serca potwierdzony <TEST>EKG</TEST> i <TEST>troponinami</TEST>. Podano <DRUG>ASA</DRUG>, <DRUG>kloksamazon</DRUG>, oraz <DRUG>Heparynę</DRUG> i.v. Szybkie przetransportowanie na <HOSPITAL>Oddział Kardiochirurgii</HOSPITAL> do <TEST>PCI</TEST>.
+
+<<<SAMPLE>>>
+Przepis na <DRUG>Leki bezpośrednio przepisane</DRUG>, <DATE>07.04.2024</DATE>. Pacjent <PERSON>Bogdan Szcześniewski</PERSON>, PESEL <PESEL>68102345890</PESEL>, tel. <PHONE>728 901 234</PHONE>, adres <ADDRESS>Katowice, ul. Spacerowa 5, 40-001</ADDRESS>. <DRUG>Omeprazol</DRUG> 20 mg rano na czczo, <DRUG>Domperidon</DRUG> 10 mg 3x przed posiłkami w związku z <DISEASE>zapaleniem żołądka z refluks</DISEASE>. Karton 60 tabletek.
+
+<<<SAMPLE>>>
+Raport laboratoryjny, <DATE>16.05.2024</DATE>. Pacjentka <PERSON>Ewa Nowakowska</PERSON>, PESEL <PESEL>81021256789</PESEL>, tel. <PHONE>604 678 901</PHONE>, zam. <ADDRESS>Łódź, ul. Lipowa 23/4, 90-123</ADDRESS>. <TEST>Profil lipidowy</TEST>: cholesterol całkowity 248 mg/dl, <TEST>LDL</TEST> 165 mg/dl, <TEST>HDL</TEST> 38 mg/dl, trójglicerydy 185 mg/dl. Podejrzenie <DISEASE>dyslipidemii</DISEASE>. Zwiększenie dawki <DRUG>Atorwastatyny</DRUG> do 40 mg + <DRUG>Ezetimib</DRUG>.
+
+<<<SAMPLE>>>
+Notatka telekonsultacji, <DATE>23.06.2024</DATE>. Pacjent <PERSON>Jacek Sarnacki</PERSON>, PESEL <PESEL>74050134567</PESEL>, tel. <PHONE>533 789 012</PHONE>, zam. <ADDRESS>Słupsk, ul. Marynarki Wojennej 8, 76-200</ADDRESS>. Monitorowanie <DISEASE>depresji</DISEASE> po hospitalizacji psychiatrycznej. <TEST>Skala PHQ-9</TEST>: 12 pkt (łagodna). Kontynuacja <DRUG>Sertralu</DRUG> 50 mg z zaleceniem psychoterapii. Następna wizyta za 4 tygodnie.
+
+<<<SAMPLE>>>
+Notatka pogotowia ratunkowego, <DATE>02.02.2024</DATE>. Pacjent <PERSON>Piotr Kamola</PERSON>, PESEL <PESEL>59031245670</PESEL>, tel. <PHONE>666 234 567</PHONE>, zam. <ADDRESS>Radom, ul. Pułaskiego 15/9, 26-600</ADDRESS>. Zawał serca potwierdzony w terenie <TEST>EKG przetwornika</TEST>. <DISEASE>STEMI przedni</DISEASE>. Podano <DRUG>Acard</DRUG> i <DRUG>Morfina</DRUG> i.v. Szybka transportacja na <HOSPITAL>Szpital Kardiologiczny</HOSPITAL>.
+
+<<<SAMPLE>>>
+Recepta na <DRUG>Insulinę aspart</DRUG>, <DATE>19.03.2024</DATE>. Pacjent <PERSON>Włodzimierz Szachta</PERSON>, PESEL <PESEL>62112445678</PESEL>, tel. <PHONE>712 567 890</PHONE>, zam. <ADDRESS>Olsztyn, ul. Wysoka 77/3, 10-001</ADDRESS>. <DRUG>Insulina aspart</DRUG> w piórkach, dawkowanie indywidualne dostosowane do <TEST>glikemii</TEST> w programie. Skierowanie do <HOSPITAL>Poradni Diabetologicznej</HOSPITAL> na edukację.
+
+<<<SAMPLE>>>
+Notatka z zabiegu <TEST>wyciskania bandażu naciskowego</TEST>, <DATE>11.01.2024</DATE>. Pacjentka <PERSON>Pia Rymer</PERSON>, PESEL <PESEL>76011234589</PESEL>, tel. <PHONE>789 012 345</PHONE>, zam. <ADDRESS>Zabrze, ul. Piastów 12/2, 41-800</ADDRESS>. Uciśnięcie nogi lewej w wyniku <DISEASE>unaczyniania żył głębokich</DISEASE>. Zastosowano bandaż 3-warstwowy, następna zmiana za 3 dni. Zalecenie możliwie najwięcej ruchu.
+
+<<<SAMPLE>>>
+Epikryza psychologiczna, <DATE>08.04.2024</DATE>. Pacjent <PERSON>Stefan Borkowski</PERSON>, PESEL <PESEL>63051567890</PESEL>, tel. <PHONE>601 890 123</PHONE>, zam. <ADDRESS>Radomsko, ul. Mickiewicza 3, 97-500</ADDRESS>. Diagnoza: <DISEASE>zaburzenia lękowe uogólnione</DISEASE> z <TEST>skala GAD-7</TEST> wynik 18. Rekomendacja: psychoterapia poznawczo-behawioralna + <DRUG>Escitalopram</DRUG> 10 mg.
+
+<<<SAMPLE>>>
+Notatka z ambulatorii dziecięcej, <DATE>30.05.2024</DATE>. Pacjent <PERSON>Szymon Kawecki</PERSON>, wiek 7 lat, PESEL <PESEL>16111234588</PESEL>, tel. <PHONE>602 567 890</PHONE>, zam. <ADDRESS>Kłodzko, ul. Kolejowa 14, 57-300</ADDRESS>. Gorączka 38.8°C od 2 dni. <TEST>Odsiewka z gardła</TEST> w trakcie. Podejrzenie <DISEASE>zapalenia migdałków</DISEASE>. Podano <DRUG>Paracetamol</DRUG> i <DRUG>Ibuprofen</DRUG> zmiennie. Obserwacja domowa z instrukcją wezwania RZQ przy gorączce > 39°C.
+
+<<<SAMPLE>>>
+Formularz zgłoszenia choroby zawodowej, <DATE>06.06.2024</DATE>. Pracownik <PERSON>Joachim Urbanek</PERSON>, PESEL <PESEL>67080912345</PESEL>, tel. <PHONE>721 890 123</PHONE>, zam. <ADDRESS>Gliwice, ul. Pracy 11/6, 44-100</ADDRESS>, pracownik w stoczni. Diagnoza: <DISEASE>zmiana zwyrodnieniowa w odcinku szyjnym kregosłupa</DISEASE> związana z pracą (natężone, powtarzające ruchy szyi). <TEST>RTG szyi</TEST> potwierdza. Skierowanie do ZAIKS.
+
+<<<SAMPLE>>>
+Notatka z zabiegu <TEST>punkcji lędźwiowej</TEST>, <DATE>24.02.2024</DATE>. Pacjent <PERSON>Rafał Mikołajski</PERSON>, PESEL <PESEL>71061234567</PESEL>, tel. <PHONE>664 567 890</PHONE>, zam. <ADDRESS>Poznań, ul. Daszyńskiego 17, 61-123</ADDRESS>. Procedura w <TEST>USG</TEST>, trzeci/czwarty межпозвоночный espacios. <TEST>Płyn mózgowo-rdzeniowy</TEST> - jasny, bez zanieczyszczeń. <TEST>Ciśnienie otwarcia</TEST> 18 cm H2O (norma). Wysłany na <TEST>cytologię i mikrobiologię</TEST>.
+
+<<<SAMPLE>>>
+Notatka dietetyka, <DATE>13.03.2024</DATE>. Pacjentka <PERSON>Grażyna Kościelniak</PERSON>, PESEL <PESEL>59021567890</PESEL>, tel. <PHONE>725 678 901</PHONE>, zam. <ADDRESS>Koszalin, ul. Morcin 21/4, 75-001</ADDRESS>. Dieta niskowęglowodanowa na potrzeby <DISEASE>cukrzycy typu 2</DISEASE> i <DISEASE>nadwagi</DISEASE> (BMI 31). Plan 1800 kcal dziennie. Harmonogram wizyt co 2 tygodnie, monitorowanie <TEST>glikemii poranne</TEST>.
+
+<<<SAMPLE>>>
+Notatka ze szczepienia, <DATE>17.04.2024</DATE>. Pacjent <PERSON>Karol Augustyn</PERSON>, PESEL <PESEL>85021345679</PESEL>, tel. <PHONE>694 456 789</PHONE>, zam. <ADDRESS>Gorzów Wielkopolski, ul. Warszawska 6, 66-400</ADDRESS>. Szczepienie przeciw <DISEASE>grypie</DISEASE> sezonowej - szczepionka inaktywowana całooceny. Dawka 0.5 ml i.m. w ramię lewe. Brak przeciwwskazań, nieznane działania niepożądane podczas wizyt.
+
+<<<SAMPLE>>>
+Notatka z porady urologa, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Ludwik Gawlikowski</PERSON>, PESEL <PESEL>63071234567</PESEL>, tel. <PHONE>607 678 901</PHONE>, zam. <ADDRESS>Wierzbno, ul. Leśna 22a, 34-123</ADDRESS>. <DISEASE>Zapalenie prostaty</DISEASE> bakteryjne chroniczne. <TEST>PSA</TEST> 4.8 ng/ml. Zalecenie antibiotykoterapii <DRUG>Ciprofloksacyną</DRUG> 500 mg 2x dziennie przez 28 dni. Powtórna <TEST>U/K</TEST> po terapii.
+
+<<<SAMPLE>>>
+Notatka fizjoterapeuty, <DATE>28.05.2024</DATE>. Pacjentka <PERSON>Lidia Głowacka</PERSON>, PESEL <PESEL>74021256788</PESEL>, tel. <PHONE>789 345 678</PHONE>, zam. <ADDRESS>Tychy, ul. Słoneczna 8/1, 43-100</ADDRESS>. <DISEASE>Ból dolnego odcinka kregosłupa</DISEASE> o charakterze mięśniowym (pozioma praca biurowa). Wykonana kinezyterapia z naciskiem na stabilizację rdzenia. Plan 10 sesji 2x tygodniowo.
+
+<<<SAMPLE>>>
+Zwolnienie lekarskie poporodowe, <DATE>09.06.2024</DATE> do <DATE>25.06.2024</DATE>. Pacjentka <PERSON>Natalia Urbańska</PERSON>, PESEL <PESEL>88031134567</PESEL>, tel. <PHONE>512 234 567</PHONE>, zam. <ADDRESS>Jastrzębie-Zdrój, ul. Stalowa 5/8, 44-300</ADDRESS>. Poród siłami natury dnia <DATE>09.06.2024</DATE>. Powikłania: <DISEASE>pęknięcie krocza II stopnia</DISEASE> zszyte, <DISEASE>otarcie krocza</DISEASE>. Zabiegi: <DRUG>Oksytocyna</DRUG> poporodowa. Zwolnienie 16 dni.
+
+<<<SAMPLE>>>
+Notatka z zabiegu <TEST>gastroskopii</TEST>, <DATE>11.02.2024</DATE>. Pacjent <PERSON>Andrzej Pietrowski</PERSON>, PESEL <PESEL>60021245675</PESEL>, tel. <PHONE>723 567 890</PHONE>, zam. <ADDRESS>Oleśnica, ul. Pocztowa 7, 63-500</ADDRESS>. Wskazanie: podejrzenie <DISEASE>wrzodu żołądka</DISEASE>. Znaleziono <DISEASE>owrzodzenie w antrumie żołądka</DISEASE> średnicy 1.5 cm. <TEST>Biopsja pobrania</TEST> do <DISEASE>H. pylori</DISEASE>. Zabiegi hemostazy nie wymagane.
+
+<<<SAMPLE>>>
+Opis <TEST>EKG</TEST> spoczynkowego, <DATE>26.01.2024</DATE>. Pacjent <PERSON>Konrad Sobczyk</PERSON>, PESEL <PESEL>70051567892</PESEL>, tel. <PHONE>698 901 234</PHONE>, zam. <ADDRESS>Chorzów, ul. Kasztanów 12/7, 41-500</ADDRESS>. <TEST>Rytm zatokowy</TEST> 72 bpm. <DISEASE>Blok lewej gałęzi pęczka Hisa</DISEASE>. Bez zmian niedokrwiennych. Parametry QT w normie. Wniosek: <DISEASE>blok gałęzi</DISEASE> nowy czy stary — niejasne; porównanie z archiwum.
+
+<<<SAMPLE>>>
+Notatka z konsultacji neurologa, <DATE>04.05.2024</DATE>. Pacjentka <PERSON>Aleksandra Norek</PERSON>, PESEL <PESEL>82031456789</PESEL>, tel. <PHONE>666 567 890</PHONE>, zam. <ADDRESS>Poznań, ul. Wilsona 33/9, 61-234</ADDRESS>. <DISEASE>Migrena z aurą</DISEASE> - częstość 2-3 epizody miesięcznie. <TEST>MRI mózgu</TEST> wykonane (bez zmian ogniskowych). Zalecenie: <DRUG>Tryptan</DRUG> doraźnie, rozważenie profilaktyki <DRUG>Topiramatem</DRUG>.
+
+<<<SAMPLE>>>
+Notatka z porady ortopedycznej, <DATE>19.04.2024</DATE>. Pacjent <PERSON>Filip Żarnecki</PERSON>, PESEL <PESEL>75041234589</PESEL>, tel. <PHONE>512 123 456</PHONE>, zam. <ADDRESS>Łowicz, ul. Piłsudskiego 44, 99-400</ADDRESS>. <DISEASE>Artrozą stawu kolanowego</DISEASE> stopnia II (radiologicznie). Ból przy schodzeniu po schodach. Podano wstrzyknięcie <DRUG>Hyaluronianu sodu</DRUG> do stawu kolanowego. Zalecenie: zmniejszenie obciążenia, ćwiczenia wzmacniające mięśnie uda.
+
+<<<SAMPLE>>>
+Raport z <TEST>holtera</TEST> ciśnienia, <DATE>15.03.2024</DATE>. Pacjent <PERSON>Sebastian Machnikowski</PERSON>, PESEL <PESEL>64101234567</PESEL>, tel. <PHONE>607 789 012</PHONE>, zam. <ADDRESS>Lublin, ul. Narutowicza 6, 20-001</ADDRESS>. <TEST>Średnie RR</TEST> dzienne 134/84 mmHg, <TEST>nocne</TEST> 120/76 mmHg. Wzrost ciśnienia w godzinach porannych (6-9). Zalecenie zwiększenia <DRUG>Metoprololą</DRUG> do 100 mg.
+
+<<<SAMPLE>>>
+Formularz skierowania na <TEST>mammografię</TEST>, <DATE>22.06.2024</DATE>. Pacjentka <PERSON>Celina Żychowska</PERSON>, PESEL <PESEL>66031234568</PESEL>, tel. <PHONE>734 456 789</PHONE>, zam. <ADDRESS>Piastów, ul. 3 Maja 7/2, 05-800</ADDRESS>. Wiek 58 lat. Badanie w ramach profilaktyki. Ostatnia <TEST>mammografia</TEST> 2 lata temu (bez zmian). Skierowanie do <HOSPITAL>Poradni Mammografii</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka ze szczepienia dziecka, <DATE>24.05.2024</DATE>. Pacjent <PERSON>Maksymilian Ostrowski</PERSON>, wiek 6 lat, PESEL <PESEL>17051234589</PESEL>, tel. <PHONE>667 234 567</PHONE>, zam. <ADDRESS>Tychy, ul. Chopina 12, 43-100</ADDRESS>. Szczepienie przed nową nauką szkolną - <DISEASE>krztusiec</DISEASE>/<DISEASE>błonica</DISEASE>/<DISEASE>tężec</DISEASE> (DPT). Dawka 0.5 ml i.m. Efekt uboczny: lekki opuchlizna w miejscu wstrzyknięcia (pozytywny znak).
+
+<<<SAMPLE>>>
+Notatka z porady stomatologicznej, <DATE>03.04.2024</DATE>. Pacjent <PERSON>Ryszard Klimek</PERSON>, PESEL <PESEL>61030134567</PESEL>, tel. <PHONE>721 567 890</PHONE>, zam. <ADDRESS>Ostrołęka, ul. Kwiatków 5, 05-270</ADDRESS>. <DISEASE>Próchnica zęba 46</DISEASE>. Wykonane wypełnienie kompozytowe. Pacjent toleruje dobrze zabiegi stomatologiczne. Zalecenie: profilaktyka regularnym myciu, wizyta za 6 miesięcy.

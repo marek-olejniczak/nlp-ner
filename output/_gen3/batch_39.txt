@@ -1,0 +1,120 @@
+Notatka ze SOR, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Katarzyna Lewandowska</PERSON>, PESEL <PESEL>78041234567</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, 00-001 Warszawa</ADDRESS>. Zgłosiła się ze skarżami na reumatyczne bóle stawów, szczególnie stawów kolanowych i bioder. W <TEST>morfologią</TEST> nie stwierdzono zapalennych zmian. <TEST>CRP</TEST> 2.1 mg/l, <TEST>OB</TEST> 18 mm/h. Zalecono zwiększenie dawek <DRUG>ibuprofenu</DRUG> do 600 mg dziennie i konsultację reumatologu.
+
+<<<SAMPLE>>>
+
+Epikryza szpitalna, <DATE>15.05.2024</DATE>. Pacjent <PERSON>Andrzej Kowalski</PERSON>, PESEL <PESEL>62051567890</PESEL>, przebywał na <HOSPITAL>Szpitalu Klinicznym Uniwersytetu Jagiellońskiego</HOSPITAL> w dniach 10-15.05. Diagnoza: <DISEASE>reumatoidalne zapalenie stawów</DISEASE> (RZS) w okresie zaostrzenia. Liczba stawów obrzękniętych – 6. Badania: <TEST>RF</TEST> 185 IU/ml, <TEST>anty-CCP</TEST> 450 j/ml. Zastosowano <DRUG>metotreksatem</DRUG> 15 mg tygodniowo. Zaleceno kontynuowanie <DRUG>prednisolonu</DRUG> 7,5 mg dziennie.
+
+<<<SAMPLE>>>
+
+Recepta POZ, <DATE>02.06.2024</DATE>. <PERSON>Beata Kamiński</PERSON>, PESEL <PESEL>85102234567</PESEL>, ul. Słonimskiego 19, 31-000 Kraków, tel. <PHONE>512 345 678</PHONE>. Rozpoznanie: <DISEASE>osteoartretyzm stawu kolanowego</DISEASE> (gonartoza). Zlecenie: <DRUG>sulfasalazynę</DRUG> 500 mg, 3x dziennie przez 2 miesiące; <DRUG>krem z diclofenakiem</DRUG> do użytku miejscowego na kolano 2x dziennie; <TEST>RTG</TEST> stawu kolanowego za 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Opis badania <TEST>USG</TEST> stawu ramiennego, <DATE>22.04.2024</DATE>. Badany: <PERSON>Henryk Nowak</PERSON>, PESEL <PESEL>56031912345</PESEL>. Lokalizacja: <HOSPITAL>Poradnia Reumatologiczna MZOZ Świętokrzyskie</HOSPITAL>. Stwierdzono: synovitis w stawie ramiennym, wysiąk płynny 8 mm, cechy tendinitis bicepsa. Bez widocznych złamań. Podejrzenie <DISEASE>zapalenia maziówki</DISEASE>. Zalecono <DRUG>injekcję kortyzonu</DRUG> do stawu; wznowić <DRUG>methotrexate</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>30.05.2024</DATE>. Pacjent <PERSON>Jolanta Olczyk</PERSON>, PESEL <PESEL>72060534567</PESEL>, zam. <ADDRESS>Nowy Dwór Mazowiecki, Sienkiewicza 7</ADDRESS>. Wizyta kontrolna po 3 miesiącach leczenia <DISEASE>twardziny układowej (ScS)</DISEASE>. Poprawa: zmniejszenie sztywności palców. <TEST>Spirometria</TEST> bez zmian. <TEST>Anty-centromere antibody</TEST> pozytywne. Kontynuować <DRUG>bosentan</DRUG> 125 mg 2x dziennie + <DRUG>sildenafilem</DRUG>.
+
+<<<SAMPLE>>>
+
+Opisy badań laboratoryjnych, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Stanisław Górski</PERSON>, PESEL <PESEL>58022312345</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 110</ADDRESS>. Wyniki: <TEST>ESR</TEST> 32 mm/h, <TEST>CRP</TEST> 8.5 mg/l, <TEST>morfologia</TEST> norma, <TEST>ASO</TEST> 280 j/ml, <TEST>RF</TEST> ujemny. Podejrzenie <DISEASE>streptokok-zależnego zapalenia stawów</DISEASE>. Zalecono <TEST>echo serca</TEST> i konsultację gościnną.
+
+<<<SAMPLE>>>
+
+Rezerwacja na <TEST>punkcję maziówki</TEST>, <DATE>25.06.2024</DATE>. <PERSON>Maria Szydłowska</PERSON>, PESEL <PESEL>79081123456</PESEL>, tel. <PHONE>664 234 567</PHONE>. Lokalizacja procedury: <HOSPITAL>Pracownia Procedur Zabiegowych SOR Śląskiego</HOSPITAL>. Wskazanie: <DISEASE>zapalenie stawu kolanowego</DISEASE> – pobranie płynu do <TEST>badania mikroskopowego</TEST> i <TEST>hodowli</TEST>. Pacjent na czczo, przyjść z obrazem z <TEST>USG</TEST>.
+
+<<<SAMPLE>>>
+
+Epikryza reumatologiczna, <DATE>10.05.2024</DATE>. Pacjent <PERSON>Zbigniew Zielinski</PERSON>, PESEL <PESEL>63041667890</PESEL>, <ADDRESS>Wrocław, ul. Ołowiana 3, 50-001</ADDRESS>. Leczenie: <DISEASE>Zesztywniające zapalenie kręgosłupa (AZKS)</DISEASE>. Przebieg stabilny, ograniczenie ruchomości kręgosłupa nie uległo pogorszeniu. <TEST>MRI</TEST> kręgosłupa bez nowych zmian zapalnych. Kontynuować <DRUG>infliksymab</DRUG> 5 mg/kg co 6 tygodni.
+
+<<<SAMPLE>>>
+
+Notatka ze Szpitalnego Oddziału Ratunkowego, <DATE>03.06.2024</DATE>. <PERSON>Agnieszka Grabowska</PERSON>, PESEL <PESEL>81100334567</PESEL>, tel. <PHONE>723 567 890</PHONE>, zam. <ADDRESS>Gdańsk, al. Ujazdowskie 12/4</ADDRESS>. Przyjęcie z powodu ostrych bolów stawu biodrowego – <DISEASE>zaostrzenie artrezy biodra</DISEASE>. <TEST>RTG</TEST> bez złamań. <TEST>Troponina</TEST> norma. Podano <DRUG>ketorol</DRUG> 30 mg i.m., następnie <DRUG>prednisolon</DRUG> 100 mg i.v. Pacjent wypisany do domu.
+
+<<<SAMPLE>>>
+
+Opis <TEST>tomografii komputerowej</TEST> (CT) stawów, <DATE>19.04.2024</DATE>. Pacjent <PERSON>Rafał Kozłowski</PERSON>, PESEL <PESEL>70120512345</PESEL>. Badanie wykonane w <HOSPITAL>Centrum Diagnostyki Obrazowej Kraków</HOSPITAL>. Stwierdzono: <DISEASE>zwężenia stawów międzyfałankowych</DISEASE>, ossikel w stawach międzykostnych. Cechy <DISEASE>osteoartrezy zaawansowanej</DISEASE>. Rekomendacja: <TEST>USG</TEST> stawów w celu oceny zapalenia.
+
+<<<SAMPLE>>>
+
+Notatka lekarza POZ, <DATE>01.06.2024</DATE>. <PERSON>Wanda Kisiel</PERSON>, PESEL <PESEL>68021423456</PESEL>, <ADDRESS>Lublin, ul. Królewska 56</ADDRESS>, tel. <PHONE>691 234 567</PHONE>. Pacjentka zgłasza się co miesiąc. Rozpoznanie: <DISEASE>reumatoidalne zapalenie stawów</DISEASE> w remisji od 6 miesięcy. <TEST>Morfologia krwi</TEST> norma. Zalecono <DRUG>chlorochinę</DRUG> 200 mg dziennie i dalszą obserwację co 3 miesiące.
+
+<<<SAMPLE>>>
+
+Wniosek konsultacyjny, <DATE>27.05.2024</DATE>. Od: <HOSPITAL>Poradnia Chorób Wewnętrznych</HOSPITAL>. Do: <HOSPITAL>Poradnia Reumatologiczna</HOSPITAL>. Pacjent: <PERSON>Krzysztof Olejnik</PERSON>, PESEL <PESEL>72091234567</PESEL>. Powód: wykluczeniewodczu <DISEASE>łuszczycy</DISEASE> z zajęciem stawów — <DISEASE>łuszczycy płową (PsA)</DISEASE>. W badaniu: pustule na stopach i dłoniach, obrzęk palucha u nogi. <TEST>CRP</TEST> 6.2 mg/l. Zeznolić <DRUG>acitretynę</DRUG>.
+
+<<<SAMPLE>>>
+
+Raport z <TEST>scintyografii kości</TEST>, <DATE>12.05.2024</DATE>. Pacjent <PERSON>Roman Kasprzyk</PERSON>, PESEL <PESEL>59051234567</PESEL>, <ADDRESS>Poznań, ul. Fredry 5, 61-001</ADDRESS>. Badanie wykonane w <HOSPITAL>Klinika Medycyny Nuklearnej UMP</HOSPITAL>. Obraz: zwiększone gromadzenie radioizotopu w obydwu stawach kolanowych — <DISEASE>zapalne zapalenie obu kolan</DISEASE>. Zalecono <TEST>MRI</TEST> obu kolan dla precyzyjnej oceny.
+
+<<<SAMPLE>>>
+
+Notatka reumatologiczna SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Ewa Pietrzak</PERSON>, PESEL <PESEL>80120534567</PESEL>, tel. <PHONE>785 234 567</PHONE>. Zgłosiła się z ostrym zapaleniem obu stawów kolanowych i stawów międzyfałankowych dłoni. <TEST>Morfologia</TEST> + <TEST>CRP</TEST> wykonane. <TEST>Badanie serologiczne</TEST> ujemne na RF i aCCP. Pierwsza wizyta — podejrzenie <DISEASE>nieoklasyczną artropatii</DISEASE>. Skierowana na <TEST>USG</TEST> stawów.
+
+<<<SAMPLE>>>
+
+Rezerwacja zabiegu <TEST>infiltracji kortyzonu</TEST>, <DATE>20.06.2024</DATE>. Pacjent <PERSON>Tadeusz Dudek</PERSON>, PESEL <PESEL>54030823456</PESEL>, <ADDRESS>Bytom, ul. 3 Maja 18/2</ADDRESS>. Wskazanie: <DISEASE>zapalenie stawu łokciowego (epikondylitis)</DISEASE>. Zabieg przewidziany w <HOSPITAL>Pracowni Zabiegowej Poradni Reumatologicznej</HOSPITAL>. Pacjent przejdzie badanie <TEST>USG</TEST> przed procedurą.
+
+<<<SAMPLE>>>
+
+Zlecenie <TEST>badania markerów zapalnych</TEST>, <DATE>04.06.2024</DATE>. <PERSON>Lidia Kuchta</PERSON>, PESEL <PESEL>75021223456</PESEL>, zam. <ADDRESS>Gdynia, ul. Zwycięstwa 45</ADDRESS>. Rozpoznanie: <DISEASE>polimialgia reumatyczna</DISEASE>. Zlecenie: <TEST>ESR</TEST>, <TEST>CRP</TEST>, <TEST>morfologia</TEST>, <TEST>biokwas</TEST>. Pacjent będzie badany w lokalnym laboratorium. Wyniki oczekiwane w ciągu 48 godzin.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna – obserwacja, <DATE>31.05.2024</DATE>. <PERSON>Urszula Wojcik</PERSON>, PESEL <PESEL>73041534567</PESEL>, <ADDRESS>Kraków, ul. Szujskiego 7</ADDRESS>, tel. <PHONE>601 567 890</PHONE>. Pacjentka w trakcie leczenia <DISEASE>systmowego zapalenia tkanki łącznej (SLE)</DISEASE>. Aktualnie objawy: wysypka na policzkach i nosie. <TEST>ANA</TEST> pozytywne (tytr 1:640), <TEST>anty-dsDNA</TEST> pozytywne. Zmniejszono dawkę <DRUG>prednisolonu</DRUG> do 5 mg dziennie.
+
+<<<SAMPLE>>>
+
+Opinia reumatologiczna, <DATE>15.05.2024</DATE>. <PERSON>Dominik Lewis</PERSON>, PESEL <PESEL>77030912345</PESEL>, <ADDRESS>Wrocław, ul. Widok 4</ADDRESS>. Historia: <DISEASE>reaktywne zapalenie stawów</DISEASE> po infekcji GI. Obecne: artralgia paluchy, kostki, kolana. <TEST>RF</TEST> ujemny, <TEST>CRP</TEST> 3.1 mg/l. Zalecono <DRUG>indometacynę</DRUG> 50 mg dziennie i obserwację — spodziewane ustąpienie objawów w ciągu 4-6 tygodni.
+
+<<<SAMPLE>>>
+
+Wniosek diagnostyczny na <TEST>rezonans magnetyczny (MRI)</TEST>, <DATE>28.05.2024</DATE>. <PERSON>Sylwia Nowak</PERSON>, PESEL <PESEL>81082234567</PESEL>, tel. <PHONE>512 890 123</PHONE>. Lokalizacja badania: <HOSPITAL>Oddział Radiologii Diagnostycznej Szpitala Uniwersyteckiego</HOSPITAL>. Wskazanie: <DISEASE>zapalenie worka subacromial</DISEASE> ramienia. Badanie planowe <DATE>10.07.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Notatka ze Szpitalnego Oddziału Ratunkowego, <DATE>02.06.2024</DATE>. <PERSON>Jarosław Witkowski</PERSON>, PESEL <PESEL>58072345678</PESEL>, <ADDRESS>Warszawa, al. Jerozolimskie 80</ADDRESS>. Przyjęcie: gwałtowny obrzęk stawu kolanowego z ograniczeniem ruchomości. Podejrzenie <DISEASE>zapalenia stawu przyczajonego</DISEASE> lub <DISEASE>krystalicznego</DISEASE>. <TEST>RTG</TEST> bez złamań. Skierowany na <TEST>punkcję maziówki</TEST> i morfologię. Podano <DRUG>diclofenacum</DRUG> 50 mg i.m.
+
+<<<SAMPLE>>>
+
+Raport laboratoryjny, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Paweł Górski</PERSON>, PESEL <PESEL>72051234567</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 115, 90-001</ADDRESS>. Wyniki badań: <TEST>Anty-TPO</TEST> 145 IU/ml (podwyższone), <TEST>TSH</TEST> 3.8 mlU/l (u górnej granicy), <TEST>CRP</TEST> 4.5 mg/l. Diagnoza: <DISEASE>autoimmunologiczne zapalenie tarczycy</DISEASE> — współwystępujące z artralgiami. Zalecono <DRUG>lewotyroksyne</DRUG> 75 µg dziennie.
+
+<<<SAMPLE>>>
+
+Notatka z konsultacji reumatologicznej, <DATE>24.05.2024</DATE>. <PERSON>Alicja Morawska</PERSON>, PESEL <PESEL>66021934567</PESEL>, tel. <PHONE>723 456 789</PHONE>. Historia: <DISEASE>artroza wielostawowa</DISEASE> z dominacją zmian w obu biodrah i lędźwiowo-krzyżowo. Pacjentka na <DRUG>metforminę</DRUG> (cukrzyca typu 2). <TEST>RTG</TEST> miednicy potwierdza grube zmiany degeneracyjne. Zalecono <DRUG>glucosaminę</DRUG> 1500 mg dziennie i fizjoterapię.
+
+<<<SAMPLE>>>
+
+Zlecenie <TEST>diagnostyki autoimmunologicznej</TEST>, <DATE>01.06.2024</DATE>. <PERSON>Grzegorz Sadowski</PERSON>, PESEL <PESEL>69051223456</PESEL>, <ADDRESS>Szczecin, ul. Łokietka 20/3</ADDRESS>. Badania do wykonania: <TEST>ANA panel</TEST>, <TEST>anty-Ro52</TEST>, <TEST>anty-La</TEST>, <TEST>morfologia z różnicowaniem</TEST>, <TEST>CRP</TEST>. Podejrzenie <DISEASE>zespołu Sjögrena</DISEASE>. Pacjent będzie wezwany do pobrania krwi w ciągu tygodnia.
+
+<<<SAMPLE>>>
+
+Notatka SOR — zawał, <DATE>03.06.2024</DATE>. <PERSON>Tadeusz Przybylski</PERSON>, PESEL <PESEL>55021534567</PESEL>, <ADDRESS>Wrocław, ul. Kopernika 42</ADDRESS>. Pacjent przywieziony z ostrym bólem klatki piersiowej i stawów. Objawy mogą być związane z <DISEASE>zapaleniem osierdzia</DISEASE> lub <DISEASE>reumatoidalnym zapaleniem stawów</DISEASE>. <TEST>EKG</TEST> ST elevacji brak. <TEST>Troponina</TEST> 0.02 ng/ml. Skierowany na diagnostykę reumatologiczną.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>07.06.2024</DATE>. <PERSON>Krystyna Lewandowska</PERSON>, PESEL <PESEL>61091234567</PESEL>, tel. <PHONE>691 234 567</PHONE>, zam. <ADDRESS>ul. Marszałkowska 50, 00-001 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie pęcherzyków synovialnych</DISEASE> w obu dłoniach. Leczenie: <DRUG>metamizol</DRUG> 500 mg 3x dziennie, <DRUG>ibuprofen</DRUG> 400 mg 2x dziennie (wieczorem). Zalecono składanie dłoni w gipsie i zimne okłady.
+
+<<<SAMPLE>>>
+
+Opinia specjalistyczna z oddziału reumatologicznego, <DATE>19.05.2024</DATE>. <PERSON>Stefan Bogdanowicz</PERSON>, PESEL <PESEL>62031334567</PESEL>, <ADDRESS>Poznań, ul. Fredry 1</ADDRESS>. Leczenie bieżące: <DISEASE>Reumatoidalne zapalenie stawów</DISEASE> na biologicznych LMARDs. Status: remisja niskoa aktywności (DAS28-CRP = 2.8). Bez obrzęków, sztywności porannej 0 min. Zalecono kontynuowanie <DRUG>adalimumab</DRUG> 40 mg co 2 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka z wizyty domowej, <DATE>05.06.2024</DATE>. <PERSON>Zofia Kowalczyk</PERSON>, PESEL <PESEL>48021034567</PESEL>, <ADDRESS>Gdańsk, ul. Długa 15</ADDRESS>. Pacjentka 75-letnia, immobilna, <DISEASE>postępujące zapalenie wielostawowe</DISEASE>. Bóle maksymalne nocą. Podawana <DRUG>paracetamol</DRUG> 500 mg co 6 godzin i <DRUG>tramadol</DRUG> 50 mg co 12 godzin. Zalecono fizykoterapię ruchów biernych.
+
+<<<SAMPLE>>>
+
+Wniosek na <TEST>badanie HLA-B27</TEST>, <DATE>30.05.2024</DATE>. <PERSON>Maciej Zieliński</PERSON>, PESEL <PESEL>74112212345</PESEL>, tel. <PHONE>664 567 890</PHONE>. Pacjent z bólami pleców na <DISEASE>podejrzenia zesztywniającego zapalenia kręgosłupa</DISEASE>. <TEST>ESR</TEST> 28 mm/h. Zlecenie: <TEST>HLA-B27</TEST>, <TEST>RTG kręgosłupa</TEST>, <TEST>morfologia</TEST>. Badania planowe w najbliższym laboratorium.
+
+<<<SAMPLE>>>
+
+Zapis z porady reumatologicznej, <DATE>02.06.2024</DATE>. <PERSON>Irmina Plewka</PERSON>, PESEL <PESEL>79040934567</PESEL>, <ADDRESS>Kraków, ul. Szujskiego 15/2</ADDRESS>, tel. <PHONE>723 234 567</PHONE>. Choroba: <DISEASE>Zapalenie pęcherzyków synovialnych w stylu Heberdenów</DISEASE> obu dłoni. Postęp: stopniowe zniekształcenie opuszek palców. <TEST>RTG</TEST> potwierdza zmiany osteofitowe. Leczenie: <DRUG>etorikoxib</DRUG> 60 mg dziennie, <DRUG>krem z diclofenakiem</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka ze Szpitalnego Oddziału Ratunkowego, <DATE>08.06.2024</DATE>. <PERSON>Wiktor Baranowski</PERSON>, PESEL <PESEL>53011234567</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 200</ADDRESS>. Przyjęcie: ostry obrzęk stawu biodrowego i kolanka prawego po upadku. Podejrzenie <DISEASE>złamania kości panewki biodra</DISEASE> lub <DISEASE>zapalenia stawu</DISEASE>. <TEST>RTG</TEST> bez złamań. <TEST>Morfologia</TEST> norma. Rozpoznanie: <DISEASE>skuwanie się stawu biodrowego</DISEASE>. Zalecono <DRUG>metamizol</DRUG> 500 mg i wznowienie ruchu.
+
+<<<SAMPLE>>>
+

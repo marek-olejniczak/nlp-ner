@@ -1,0 +1,59 @@
+Notatka z SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Michał Kowalski</PERSON>, PESEL <PESEL>92051234567</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Zgłosił bóle żołądka, nudności. W <TEST>USG jamy brzucha</TEST> widoczne <DISEASE>zapalenie przewodu pokarmowego</DISEASE>. Zalecono <DRUG>omeprazol</DRUG> 20 mg.
+<<<SAMPLE>>>
+Epikryza po hospitalizacji, <DATE>20.10.2024</DATE>. <PERSON>Maria Lewandowska</PERSON>, PESEL <PESEL>75123456789</PESEL>, <ADDRESS>Kraków, Nowe Miasto 15/7</ADDRESS>. Leczenie <DISEASE>wrzodów dwunastnicy</DISEASE>. Wykonano <TEST>gastroskopię</TEST> z biopsją. Wynik: <DISEASE>metaplazja jelitowa</DISEASE>. Zalecono kontynuację <DRUG>pantoprazolu</DRUG>.
+<<<SAMPLE>>>
+E-recepta POZ, wydana <DATE>08.11.2024</DATE>. Lek. <PERSON>Janusz Brzozowski</PERSON> poradni gastroenterologicznej na <HOSPITAL>Szpital Unikatowy im. Pasteura</HOSPITAL>, ul. Pasteura 2, Łódź. Pacjent <PERSON>Krzysztof Nowak</PERSON>, PESEL <PESEL>88071245890</PESEL>, tel. <PHONE>723 456 789</PHONE>. <DRUG>Ranitidin</DRUG> tabl. 150 mg, 2×1 dziennie przez 4 tygodnie.
+<<<SAMPLE>>>
+Opis zabiegu <TEST>kolonoskopii</TEST>, <DATE>12.11.2024</DATE>. Wykonał dr <PERSON>Anna Kowalczyk</PERSON>. Pacjent <PERSON>Zbigniew Duda</PERSON>, PESEL <PESEL>61091512345</PESEL>. Znaleziono <DISEASE>polipowatość krągicy</DISEASE>. Polipy usunięto, pobrano materiał do <TEST>histopatologii</TEST>. Brak ostrych powikłań.
+<<<SAMPLE>>>
+Protokół USG, <DATE>18.11.2024</DATE>. Badanie jamy brzucha. Pacjent <PERSON>Piotr Szymański</PERSON>, zam. <ADDRESS>Poznań, ul. Nowe Ogrody 23</ADDRESS>. W <TEST>USG</TEST> <DISEASE>kamienie pęcherzyka żółciowego</DISEASE>, bez cech zapalenia. Zalecono obserwację. Wydano zlecenie na <TEST>HIDA scan</TEST>.
+<<<SAMPLE>>>
+Notatka Z ambulatorium, <DATE>05.11.2024</DATE>. Pacjent <PERSON>Helena Mazurkiewicz</PERSON>, PESEL <PESEL>52032345678</PESEL>, tel. <PHONE>601 123 456</PHONE>. Skarga na refluks, zawroty głowy. W diagnostyce <DISEASE>refluksowa choroba żołądka</DISEASE>. Podwyższona <TEST>pH metria</TEST>. Zalecono <DRUG>Nexium</DRUG> 40 mg rano.
+<<<SAMPLE>>>
+Wynik <TEST>gastroskopii z biopsją</TEST>, <DATE>10.11.2024</DATE>. Wykonawca dr <PERSON>Robert Lewicki</PERSON>, <HOSPITAL>Centrum Zdrowia Dobrzyków</HOSPITAL>. Pacjent <PERSON>Tomasz Wiśniewski</PERSON>, PESEL <PESEL>75051112345</PESEL>, zam. <ADDRESS>Wrocław, ul. Św. Mikołaja 18/2</ADDRESS>. Stwierdzono <DISEASE>zapalenie błony śluzowej żołądka</DISEASE>. Biopsja: <DISEASE>gastrит typu A</DISEASE>. Zalecono <DRUG>amoksycylinę</DRUG> + <DRUG>klarytromycynę</DRUG>.
+<<<SAMPLE>>>
+Notatka z SOR, <DATE>22.11.2024</DATE>. Pacjent <PERSON>Stanisław Kucharski</PERSON>, PESEL <PESEL>58091245678</PESEL>. Ostry ból jamy brzucha, wymioty. W <TEST>tomografii</TEST> <DISEASE>niedrożność jelit</DISEASE>. Przekazano na oddział chirurgii. Telefon pogotowia <PHONE>999 123 456</PHONE>.
+<<<SAMPLE>>>
+E-recepta, <DATE>25.10.2024</DATE>. Lekarz <PERSON>Ewa Nowacka</PERSON> z poradni gastroenterologicznej na <HOSPITAL>Szpital Miejski w Gdańsku</HOSPITAL>. Pacjent <PERSON>Jacek Stojowski</PERSON>, PESEL <PESEL>77032356789</PESEL>, tel. <PHONE>789 654 321</PHONE>. <DRUG>Pancreazym</DRUG> tabl. 1×1 przed posiłkami, niedokrwistość b/z.
+<<<SAMPLE>>>
+Opis zabiegu <TEST>endoskopii</TEST>, <DATE>30.10.2024</DATE>. Dr <PERSON>Beata Górska</PERSON>. Pacjent <PERSON>Danuta Lewandowska</PERSON>, PESEL <PESEL>69061223456</PESEL>, zam. <ADDRESS>ul. Mokotowska 77, Warszawa</ADDRESS>. Widoczne <DISEASE>żylaki przełyku klasy II-III</DISEASE>. Zastosowano <TEST>ligaturę</TEST>. Procedura bez powikłań.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>03.11.2024</DATE>. Pacjent <PERSON>Ryszard Kłosowski</PERSON>, PESEL <PESEL>54031945678</PESEL>. Kontrola po <DISEASE>cholecystektomii</DISEASE> wykonanej <DATE>15.10.2024</DATE>. Powrót do normy. W <TEST>USG</TEST> stan po zabiegu bez powikłań. Zalecono dieta. Wizyta u dr <PERSON>Tomasza Jabłońskiego</PERSON> za miesiąc.
+<<<SAMPLE>>>
+Zlecenie <TEST>badania laboratoryjnego</TEST>, <DATE>07.11.2024</DATE>. Lekarz POZ <PERSON>Iwona Nowakowska</PERSON>. Pacjent <PERSON>Grzegorz Sikorski</PERSON>, zam. <ADDRESS>Poznań, Nowe Miasto 5/12</ADDRESS>, tel. <PHONE>512 345 678</PHONE>. Podejrzenie <DISEASE>nietolerancji laktozy</DISEASE>. Zlecono <TEST>test wodorowy</TEST>, <TEST>morfologię</TEST>, <TEST>badanie kału</TEST>.
+<<<SAMPLE>>>
+Raport <TEST>kolonoskopii</TEST>, <DATE>19.11.2024</DATE>. Operator dr <PERSON>Sławomir Polak</PERSON> na <HOSPITAL>Szpital Bielański</HOSPITAL>. Pacjent <PERSON>Urszula Dąbrowska</PERSON>, PESEL <PESEL>63072456789</PESEL>. Stwierdzono <DISEASE>polipowatość całego jelita grubego</DISEASE>. Pobrano 8 próbek. Zalecono rekolonoskopię za rok.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>21.11.2024</DATE>. Pacjent <PERSON>Bohdan Zieliński</PERSON>, PESEL <PESEL>59041234567</PESEL>, zam. <ADDRESS>ul. Pulaskiego 18, Łódź</ADDRESS>. Wymioty z krwią. <TEST>EGD</TEST>: <DISEASE>rozległy krwotok z wrzodu</DISEASE>. Hemostaza endoskopowa. Przetoczono 2 j.p.k. Hospitalizacja.
+<<<SAMPLE>>>
+E-recepta, <DATE>26.10.2024</DATE>. Lek. <PERSON>Joanna Szewczyk</PERSON> z gastroenterologii na <HOSPITAL>Szpital Uniwersytecki w Krakowie</HOSPITAL>. Pacjent <PERSON>Witold Kamiński</PERSON>, PESEL <PESEL>66112345678</PESEL>, tel. <PHONE>723 111 222</PHONE>. <DRUG>Sulfazalatyna</DRUG> 0.5 g, 3×2 dziennie dla <DISEASE>zapalnego schorzenia jelit</DISEASE>.
+<<<SAMPLE>>>
+Opis <TEST>biopsji</TEST>, <DATE>23.11.2024</DATE>. Pobór materiału dr <PERSON>Magdalena Skowron</PERSON>. Pacjent <PERSON>Lucyna Górska</PERSON>, PESEL <PESEL>72101256789</PESEL>. Materiał z <DISEASE>wrzodu żołądka</DISEASE>. Wynik: <DISEASE>niedorębnkowość</DISEASE>, obecność H. pylori (+++). Zalecono eradykację trzema lekami.
+<<<SAMPLE>>>
+Notatka poradni, <DATE>09.11.2024</DATE>. Dr <PERSON>Tadeusz Lewandowski</PERSON>. Pacjent <PERSON>Katarzyna Nowak</PERSON>, PESEL <PESEL>81061234567</PESEL>, zam. <ADDRESS>Kraków, ul. Grodzka 45</ADDRESS>. Kontrola po leczeniu <DISEASE>choroby refluksowej</DISEASE>. Stan poprawiający się. Kontynuacja <DRUG>omeprazolu</DRUG> 20 mg/dobę.
+<<<SAMPLE>>>
+Protokół <TEST>pH-metrii</TEST>, <DATE>11.11.2024</DATE>. Pacjent <PERSON>Jarosław Kopacz</PERSON>, PESEL <PESEL>70081245678</PESEL>. Wynik: ekspozycja na refluks 8.2% czasu. Stwierdzono <DISEASE>GERD</DISEASE> łagodny. Zalecono zmianę stylu życia i <DRUG>pantoprazol</DRUG>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>27.11.2024</DATE>. Pacjent <PERSON>Felicja Krawczyk</PERSON>, PESEL <PESEL>52091256789</PESEL>, tel. <PHONE>601 222 333</PHONE>. Ból brzucha, biegunek, gorączka. Przypuszczenie <DISEASE>zapalenia jelita grubego</DISEASE>. <TEST>Badanie kału na krew ukrytą</TEST> pozytywne. Zlecono <TEST>kolonoskopię</TEST> i <TEST>CRP</TEST>.
+<<<SAMPLE>>>
+E-recepta, <DATE>02.11.2024</DATE>. Lekarz <PERSON>Henryk Nowosielski</PERSON> poradni hepatologicznej na <HOSPITAL>Instytut Zaburzeń Metabolicznych w Warszawie</HOSPITAL>. Pacjent <PERSON>Agnieszka Lewkowska</PERSON>, PESEL <PESEL>64102345678</PESEL>, zam. <ADDRESS>Warszawa, ul. Nowy Świat 55</ADDRESS>. <DRUG>Ursodeoksycholan</DRUG> 300 mg, 2×1 dla <DISEASE>cholestazy wewnątrzwątrobowej</DISEASE>.
+<<<SAMPLE>>>
+Raport <TEST>ERCP</TEST>, <DATE>16.11.2024</DATE>. Endoskopista dr <PERSON>Krzysztof Pawlak</PERSON>. Pacjent <PERSON>Stanisław Lewandowski</PERSON>, PESEL <PESEL>55071234567</PESEL>. Stwierdzono <DISEASE>kamień w przewodzie żółciowym</DISEASE>. Wykonano <TEST>papillotomię</TEST> i ekstrakcję kamienia. Procedura udana.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>24.11.2024</DATE>. Dr <PERSON>Zofia Lewandowska</PERSON>. Pacjent <PERSON>Waldemar Szymczak</PERSON>, PESEL <PESEL>62051145678</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 123/15</ADDRESS>. Kontrola po <DATE>08.2024</DATE>. Stan dużo lepszy. <TEST>Badania</TEST> w normie. Kontynuacja diety.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>28.11.2024</DATE>. Pacjent <PERSON>Józef Michałowski</PERSON>, PESEL <PESEL>48031345678</PESEL>, tel. <PHONE>798 765 432</PHONE>. Ostry ból w prawym podrebrziu, nudności. W <TEST>USG</TEST> <DISEASE>zapalenie pęcherzyka żółciowego</DISEASE>. Konsultacja chirurga. Hospitalizacja na chirurgię.
+<<<SAMPLE>>>
+Wynik <TEST>endosonografii</TEST>, <DATE>06.11.2024</DATE>. Operator dr <PERSON>Dorota Marcinkowska</PERSON> na <HOSPITAL>Szpital św. Raafaela w Warszawie</HOSPITAL>. Pacjent <PERSON>Ewa Kowalska</PERSON>, PESEL <PESEL>73091256789</PESEL>. Stwierdzono <DISEASE>pseudocystę trzustki</DISEASE> 4 cm. Zlecono <TEST>MRI pancreasu</TEST>.
+<<<SAMPLE>>>
+Notatka poradni, <DATE>13.11.2024</DATE>. Lekarz <PERSON>Marek Rutkowski</PERSON>. Pacjent <PERSON>Lidia Michalska</PERSON>, PESEL <PESEL>65121234567</PESEL>, zam. <ADDRESS>Gdańsk, ul. Długa 72/3</ADDRESS>. Powikłania po <DISEASE>zapaleniu trzustki</DISEASE>. Zalecono <DRUG>dietę niskotłuszczową</DRUG> i <DRUG>pankreazymę</DRUG> 1×2 do posiłków.
+<<<SAMPLE>>>
+E-recepta, <DATE>31.10.2024</DATE>. Dr <PERSON>Teresa Gawęska</PERSON> z poradni gastroenterologicznej. Pacjent <PERSON>Marian Grabowski</PERSON>, PESEL <PESEL>67081245678</PESEL>, tel. <PHONE>888 234 567</PHONE>. <DRUG>Bisoprolol</DRUG> 5 mg + <DRUG>omeprazol</DRUG> 20 mg na <DISEASE>portal hypertension</DISEASE> i <DISEASE>zapalenie żołądka</DISEASE>.
+<<<SAMPLE>>>
+Opis <TEST>manometrii przełyku</TEST>, <DATE>17.11.2024</DATE>. Pacjent <PERSON>Halina Nowak</PERSON>, PESEL <PESEL>59061345678</PESEL>. Wynik: <DISEASE>achalazja</DISEASE> typu II. Zalecono <TEST>dilatację balonową</TEST> lub <DRUG>botulinę</DRUG>.
+<<<SAMPLE>>>
+Notatka SOR, <DATE>29.11.2024</DATE>. Pacjent <PERSON>Kazimierz Dominik</PERSON>, PESEL <PESEL>61041256789</PESEL>, zam. <ADDRESS>Warszawa, Mokotów, ul. Belgijska 10/4</ADDRESS>. Biegunek trwający 2 dni, ból brzucha. <TEST>Badanie kału</TEST> w toku. Zalecono rehidrację, fluwaks. Obserwacja domowa.
+<<<SAMPLE>>>
+Raport <TEST>rezonancji magnetycznej jamy brzucha</TEST>, <DATE>04.11.2024</DATE>. Radiolog dr <PERSON>Sławomir Grzybowski</PERSON> na <HOSPITAL>Centrum Radiologii Cyfrowej w Poznaniu</HOSPITAL>. Pacjent <PERSON>Urszula Mazurkiewicz</PERSON>, PESEL <PESEL>70072345678</PESEL>. Opisano <DISEASE>torbiel wątroby</DISEASE> 3 cm, <DISEASE>stłuszczenie wątroby</DISEASE>. Brak cech nowotworowych.
+<<<SAMPLE>>>
+Notatka poradni, <DATE>14.11.2024</DATE>. Dr <PERSON>Andrzej Sobczak</PERSON>. Pacjent <PERSON>Jolanta Wójcik</PERSON>, PESEL <PESEL>74051234567</PESEL>, tel. <PHONE>695 111 222</PHONE>. Po <DISEASE>gastrektomii</DISEASE> wykonanej w czerwcu. Powikłania: <DISEASE>syndrom Roux-en-Y</DISEASE>. Zalecono drobne posiłki, eksperymentalna terapia.

@@ -1,0 +1,68 @@
+Notatka SOR, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Maria Kucharska</PERSON>, PESEL <PESEL>78052145678</PESEL>, zam. <ADDRESS>ul. Szeroka 12, 31-053 Kraków</ADDRESS>. Zgłasza się z <DISEASE>zapaleniem spojówek</DISEASE>. Oko prawe zaczerwienione, łzawiące. W <TEST>badaniu okulistycznym</TEST> naciek na <DISEASE>błonie śluzowej</DISEASE>. Podano <DRUG>Ofalmex</DRUG> krople. Zalecono obserwację.
+<<<SAMPLE>>>
+E-recepta, <DATE>2024-06-08</DATE>. <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>92111256789</PESEL>, <ADDRESS>Marszałkowska 42/5, 00-001 Warszawa</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Diagnoza: <DISEASE>krótkowzroczność</DISEASE>. Zalecenie: <DRUG>Dorzolamid</DRUG> krople 2x dziennie do oka lewego. Wizyta u <HOSPITAL>Polikliniki Okulistycznej Nr 3</HOSPITAL> za 4 tygodnie.
+<<<SAMPLE>>>
+Epikryza SOR. Pacjent <PERSON>Józef Nowicki</PERSON>, PESEL <PESEL>55032178901</PESEL>, zam. <ADDRESS>ul. Słoneczna 8a, 50-123 Wrocław</ADDRESS>. Przyjęty <DATE>06.06.2024</DATE> z <DISEASE>urazem oka prawego</DISEASE> — trafiłem kamieniem podczas kopalnia. W <TEST>TK orbity</TEST> widoczny <DISEASE>krwiak podkonjunktywny</DISEASE>. <TEST>Ostrość wzroku</TEST> 0.8. Zastosowano <DRUG>Maxidex</DRUG> w postaci maści. Zwolniony <DATE>07.06.2024</DATE>.
+<<<SAMPLE>>>
+Notatka POZ, <DATE>01.06.2024</DATE>. Pan <PERSON>Andrzej Szymański</PERSON>, PESEL <PESEL>68041532456</PESEL>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. Zgłasza <DISEASE>zaburzenia widzenia</DISEASE> od 3 m-cy. <TEST>Badanie wzroku</TEST> wykazało <DISEASE>astygmatyzm</DISEASE> 1.5 D. Skierowanie na <TEST>pełne badanie okulistyczne</TEST> do <HOSPITAL>Szpitala Bielańskiego</HOSPITAL>. Zlecony <DRUG>Lutein Complex</DRUG> na 2 m-ce.
+<<<SAMPLE>>>
+Opis <TEST>fotografii dna oka</TEST>. Pacjent <PERSON>Ewa Dąbrowska</PERSON>, PESEL <PESEL>81111234567</PESEL>, tel. <PHONE>601 987 654</PHONE>. Data badania: <DATE>05.06.2024</DATE>. Prawe oko: widoczna <DISEASE>makułopatia zwyrodnieniowa</DISEASE> w stadium wczesnym. Lewe oko: norma. Zalecenie: przychód za 6 m-cy, uzupełnienie <DRUG>witaminy E</DRUG>.
+<<<SAMPLE>>>
+Notatka SOR <DATE>04.06.2024</DATE>. <PERSON>Katarzyna Nowak</PERSON>, PESEL <PESEL>90072145123</PESEL>, <ADDRESS>ul. Kwiatowa 33, 80-298 Gdańsk</ADDRESS>, tel. <PHONE>534 123 456</PHONE>. Ból oka prawego, światłowstręt. <TEST>Pomiar ciśnienia wewnątrzgałkowego</TEST> 42 mmHg (norm <22). Podejrzenie <DISEASE>jaskry</DISEASE>. <DRUG>Timolol</DRUG> krople p.o., skierowanie pilne na <HOSPITAL>Klinikę Okulistyczną UJ</HOSPITAL>.
+<<<SAMPLE>>>
+E-recepta, <DATE>08.06.2024</DATE>. <PERSON>Tadeusz Górski</PERSON>, PESEL <PESEL>63052278945</PESEL>, zam. <ADDRESS>Kraków, ul. Grodzka 7</ADDRESS>. Diagnoza: <DISEASE>suchość oczu</DISEASE>. <DRUG>Refresh Plus</DRUG> krople, 3x dziennie do obu oczu. Zalecono <DRUG>okulary korekcyjne</DRUG> z <DRUG>filtrem niebieskim</DRUG>. Kontrola za 2 tygodnie.
+<<<SAMPLE>>>
+Notatka z oddziału, <DATE>07.06.2024</DATE>. <PERSON>Zofia Szulc</PERSON>, PESEL <PESEL>72101345678</PESEL>, <ADDRESS>ul. Spacerowa 19b, 91-434 Łódź</ADDRESS>. Hospitalizacja od <DATE>05.06</DATE> z <DISEASE>zapaleniem spojówek wirusowym</DISEASE>. Stan pacjentki ustabilizował się. <TEST>Badanie ogólne</TEST> b/z. Wypisana <DATE>07.06</DATE> z zaleceniem <DRUG>Oftalmex</DRUG> krople 4x dziennie.
+<<<SAMPLE>>>
+Opis <TEST>USG oka</TEST>. <PERSON>Michał Kowalczyk</PERSON>, PESEL <PESEL>75081265432</PESEL>, tel. <PHONE>789 567 234</PHONE>. Data: <DATE>06.06.2024</DATE>. Prawe oko: wymiar przednio-tylny 23.8 mm, <DISEASE>zaćma</DISEASE> O-osadnika w jądrze. Lewe oko: 23.5 mm, czystość soczewki b/z. Rekomendacja: konsultacja u <HOSPITAL>Szpitala św. Ludwika</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka SOR <DATE>03.06.2024</DATE>. <PERSON>Halina Jakubowska</PERSON>, PESEL <PESEL>54082312345</PESEL>, <ADDRESS>Warszawa, ul. Marszałkowska 101</ADDRESS>. Pacjentka z <DISEASE>łzawieniem oka lewego</DISEASE> trwającym 1 tydzień. <TEST>Badanie biomikroskopem</TEST> wykazało <DISEASE>zapalenie woreczka łzowego</DISEASE>. <DRUG>Amoksycylina</DRUG> 500 mg 3x dziennie. Lokalne: <DRUG>Ciprofloxacin</DRUG> krople 4x dziennie.
+<<<SAMPLE>>>
+E-recepta, <DATE>08.06.2024</DATE>. <PERSON>Roman Grabowski</PERSON>, PESEL <PESEL>66031487654</PESEL>, <ADDRESS>ul. Piłsudskiego 25, 42-200 Częstochowa</ADDRESS>, tel. <PHONE>657 234 567</PHONE>. <DISEASE>Zmęczenie oczu</DISEASE> po pracy przy komputerze. <DRUG>Soczewki kontaktowe overnight</DRUG> + <DRUG>płyn do soczewek</DRUG>. Zalecono 20/20/20 rule i okulary na bifokale.
+<<<SAMPLE>>>
+Notatka POZ <DATE>02.06.2024</DATE>. <PERSON>Irena Lewandowska</PERSON>, PESEL <PESEL>59123456789</PESEL>, <ADDRESS>Poznań, Stare Miasto 8/12</ADDRESS>. Pacjentka z <DISEASE>łyszczym spojówek</DISEASE> i bólem oka. <TEST>Badanie okulistyczne</TEST> wykazało <DISEASE>egzema powiek</DISEASE>. Zalecono <DRUG>Hydrocortizon</DRUG> maść, <DRUG>Zaditor</DRUG> krople i ochronę UV.
+<<<SAMPLE>>>
+Opis <TEST>pola widzenia</TEST>. <PERSON>Kazimierz Nowak</PERSON>, PESEL <PESEL>61071234567</PESEL>. Data badania: <DATE>07.06.2024</DATE>, <ADDRESS>ul. Warszawska 14, 31-155 Kraków</ADDRESS>. Prawe oko: <DISEASE>defekt górnej połowy</DISEASE> pola. Lewe oko: norma. Przypuszczenie: <DISEASE>hemianopsja górna</DISEASE> towarzysząca <DISEASE>zatętniakowi</DISEASE>. Zalecono <TEST>rezonans magnetyczny mózgu</TEST>.
+<<<SAMPLE>>>
+Notatka SOR <DATE>06.06.2024</DATE>. <PERSON>Danuta Kowalska</PERSON>, PESEL <PESEL>73091234567</PESEL>, tel. <PHONE>512 345 678</PHONE>, <ADDRESS>ul. Zielona 44/2, 53-016 Wrocław</ADDRESS>. <DISEASE>Zapalenie rogu rogówki</DISEASE>. Stan ostry z bólem i obniżoną ostrością. <TEST>Badanie fluoresceiną</TEST> dodatnie. Podano <DRUG>Oftalmin</DRUG> krople i <DRUG>Maxidex</DRUG> maść przez noc.
+<<<SAMPLE>>>
+E-recepta <DATE>08.06.2024</DATE>. <PERSON>Stanisław Dudek</PERSON>, PESEL <PESEL>69041598765</PESEL>, <ADDRESS>Białystok, ul. Lipowa 5</ADDRESS>. Diagnoza: <DISEASE>astygmatyzm i hipermetropia</DISEASE>. Zalecenie: <DRUG>okulary progresywne</DRUG>. Kontrola za 3 m-ce. Skierowanie na <TEST>komputerową diagnostykę wzroku</TEST>.
+<<<SAMPLE>>>
+Notatka hospitalizacji <DATE>01.06.2024</DATE>. <PERSON>Genowefa Szpaderska</PERSON>, PESEL <PESEL>52111234567</PESEL>, <ADDRESS>ul. Królewska 17, 87-100 Thorn</ADDRESS>. Przyjęta z <DISEASE>urazem chemicznym oka lewego</DISEASE> — ciecz do akumulatora. Przepłukiwanie soli fizjologicznej w <TEST>SOR</TEST>. <DRUG>Gentamycyna</DRUG> maść 3x dziennie, <DRUG>Maxidex</DRUG> maść. Obserwacja do <DATE>03.06</DATE>.
+<<<SAMPLE>>>
+Opis <TEST>tonometrii</TEST>. <PERSON>Jacek Leśniewski</PERSON>, PESEL <PESEL>70101234567</PESEL>. <DATE>05.06.2024</DATE>. Prawe oko: 18 mmHg, lewe: 19 mmHg — oba norma. Brak podejrzenia <DISEASE>jaskry</DISEASE>. Zalecono kontrolę za 12 m-cy.
+<<<SAMPLE>>>
+Notatka SOR <DATE>04.06.2024</DATE>. <PERSON>Wanda Świątek</PERSON>, PESEL <PESEL>48121234567</PESEL>, <ADDRESS>Gdynia, ul. Morska 33/8, 81-300 Gdynia</ADDRESS>, tel. <PHONE>609 876 543</PHONE>. Pacjentka zgłasza się z <DISEASE>migotaniem w polu widzenia</DISEASE> i bólem głowy. Podejrzenie <DISEASE>migreny ocznej</DISEASE>. <TEST>Badanie neurologiczne</TEST> b/z. Podano <DRUG>Ibuprofen</DRUG> 400 mg IV.
+<<<SAMPLE>>>
+Notatka POZ <DATE>08.06.2024</DATE>. <PERSON>Bogdan Sikorski</PERSON>, PESEL <PESEL>62021234567</PESEL>, <ADDRESS>Łódź, ul. Piotrkowska 101/15</ADDRESS>. Pacjent po operacji usunięcia zaćmy 3 m-ce temu. Kontrolna wizyta — <TEST>ostrość wzroku</TEST> 1.0. Lekkie <DISEASE>załamania rogówki</DISEASE> po operacji. Zalecono <DRUG>krople nawilżające</DRUG> p.o.
+<<<SAMPLE>>>
+Opis <TEST>OCT siatkówki</TEST>. <PERSON>Urszula Michalska</PERSON>, PESEL <PESEL>77051234567</PESEL>. <DATE>07.06.2024</DATE>, <ADDRESS>ul. Słupska 22, 82-400 Malbork</ADDRESS>. Prawe oko: <DISEASE>zmarszczka cystoidalna w plamce</DISEASE> 320 µm. Lewe oko: norma. Zalecono <DRUG>Prednisolon</DRUG> krople i <TEST>kontrolę OCT za 4 tygodnie</TEST>.
+<<<SAMPLE>>>
+Notatka SOR <DATE>02.06.2024</DATE>. <PERSON>Cezary Adamski</PERSON>, PESEL <PESEL>65031234567</PESEL>, <ADDRESS>Kraków, ul. Długa 47</ADDRESS>, tel. <PHONE>723 111 222</PHONE>. <DISEASE>Uraz mechaniczny oka prawego</DISEASE> — uderzenie badmintonem. Krwawiące naczynia podkonjunktywalne, brak perforacji. <TEST>Tomografia obu oczu</TEST> b/z. Obserwacja, <DRUG>Maxidex</DRUG> maść 3x dziennie.
+<<<SAMPLE>>>
+E-recepta <DATE>08.06.2024</DATE>. <PERSON>Lidia Kościuk</PERSON>, PESEL <PESEL>71061234567</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 19/4, 60-110 Poznań</ADDRESS>. Diagnoza: <DISEASE>zapalenie powiek</DISEASE> (blefaritis). <DRUG>Chloramfenikol</DRUG> maść 2x dziennie, <DRUG>Dexamethason</DRUG> krople 3x dziennie. Zalecono mycie powiek solą fizjologiczną.
+<<<SAMPLE>>>
+Notatka szpitalna <DATE>06.06.2024</DATE>. <PERSON>Franciszek Nowak</PERSON>, PESEL <PESEL>50111234567</PESEL>, <ADDRESS>ul. Krakowska 8a, 30-001 Kraków</ADDRESS>. Pacjent z <DISEASE>światłowstrętem i łzawieniem</DISEASE>. <TEST>Badanie rogu rogówki</TEST> — <DISEASE>niedojrzała zaćma</DISEASE> z obrzękiem. Zalecono <DRUG>Osmolyte</DRUG> krople + przyspieszenie operacji. Planowana <DATE>10.06.2024</DATE>.
+<<<SAMPLE>>>
+Opis <TEST>biometrii oka</TEST>. <PERSON>Grażyna Lewandowska</PERSON>, PESEL <PESEL>74081234567</PESEL>. <DATE>05.06.2024</DATE>, tel. <PHONE>789 234 567</PHONE>. Prawe oko: <DISEASE>przednio-tylna długość 25.2 mm</DISEASE> (hipermetropia). Lewe: 24.8 mm (norma). Zalecono operację LASIK obu oczu.
+<<<SAMPLE>>>
+Notatka POZ <DATE>07.06.2024</DATE>. <PERSON>Helena Sochacka</PERSON>, PESEL <PESEL>56121234567</PESEL>, <ADDRESS>Warszawa, ul. Racławicka 33/10</ADDRESS>. Pacjentka z <DISEASE>nadwrażliwością powiek na światło</DISEASE> od 2 m-cy. Podejrzenie <DISEASE>fotokeratitis</DISEASE> po nieumyślnym ekspozycji UV. Zalecono <DRUG>Refresh</DRUG> krople, okulary słoneczne i ponowna kontrola.
+<<<SAMPLE>>>
+Notatka SOR <DATE>03.06.2024</DATE>. <PERSON>Włodzimierz Kowalski</PERSON>, PESEL <PESEL>61051234567</PESEL>, <ADDRESS>Gdańsk, ul. Długa Grobla 101, 80-831 Gdańsk</ADDRESS>, tel. <PHONE>512 555 666</PHONE>. <DISEASE>Uczucie ciała obcego w oku lewym</DISEASE>. <TEST>Badanie biomikroskopem</TEST> — włosek pod powieką. Usunięty bezpiecznie. <DRUG>Ofalmex</DRUG> krople dla komfortu.
+<<<SAMPLE>>>
+E-recepta <DATE>08.06.2024</DATE>. <PERSON>Stefania Przybylska</PERSON>, PESEL <PESEL>69091234567</PESEL>, <ADDRESS>ul. Kopernika 12/7, 31-018 Kraków</ADDRESS>. Diagnoza: <DISEASE>refrakcyjna przyczyna zaburzeń widzenia</DISEASE>. Zalecenie: <DRUG>okulary czytające +1.5</DRUG> oraz <DRUG>okulary na odległość -2.0</DRUG>. Kontrola za 6 m-cy.
+<<<SAMPLE>>>
+Notatka hospitalizacji <DATE>04.06.2024</DATE>. <PERSON>Ryszard Nowicki</PERSON>, PESEL <PESEL>54031234567</PESEL>, <ADDRESS>ul. Warszawska 14a, 82-100 Nowy Dwór Gdański</ADDRESS>. Przyjęty z <DISEASE>zapaleniem przedniego segmentu oka</DISEASE> po operacji zaćmy 10 dni wcześniej. Podwyższone cisnienie 34 mmHg. <DRUG>Timolol</DRUG> + <DRUG>Trusopt</DRUG> krople. Zlecono <TEST>biometrie</TEST> obu oczu.
+<<<SAMPLE>>>
+Opis <TEST>pola widzenia Humphreyego</TEST>. <PERSON>Adrianna Szpaderska</PERSON>, PESEL <PESEL>73031234567</PESEL>, <DATE>08.06.2024</DATE>. Prawe oko: <DISEASE>defekt arcuate</DISEASE> świadczący o <DISEASE>jaskrze</DISEASE>. Lewe oko: łagodny defekt. Zalecono intensyfikację terapii <DRUG>Latanoprostem</DRUG>.
+<<<SAMPLE>>>
+Notatka SOR <DATE>06.06.2024</DATE>. <PERSON>Krzysztof Kędzierski</PERSON>, PESEL <PESEL>63091234567</PESEL>, tel. <PHONE>601 234 789</PHONE>, <ADDRESS>Poznań, ul. Nowy Świat 7/3</ADDRESS>. <DISEASE>Obrzęk powiek obu oczu</DISEASE> i świąd — alergic. <TEST>Badanie unaczynienia</TEST> b/z. <DRUG>Ketotifen</DRUG> krople p.o. do obu oczu + <DRUG>Hydrocortizon</DRUG> maść wieczorem.
+<<<SAMPLE>>>
+Notatka POZ <DATE>08.06.2024</DATE>. <PERSON>Ewa Szymczak</PERSON>, PESEL <PESEL>75121234567</PESEL>, <ADDRESS>ul. Piaskowa 19, 58-300 Wałbrzych</ADDRESS>. Pacjentka z <DISEASE>otarciami na rogówce</DISEASE> z powodu noszenia starych, zniszczonych soczewek. <DRUG>Soczewki wymienione</DRUG>. Zalecono <DRUG>krople do soczewek Bausch+Lomb</DRUG> + wizyta za 1 tydzień.
+<<<SAMPLE>>>
+Opis <TEST>gonioskopii</TEST>. <PERSON>Marek Dudek</PERSON>, PESEL <PESEL>67101234567</PESEL>, <DATE>07.06.2024</DATE>, <ADDRESS>Kraków, ul. Lubicz 46</ADDRESS>. Kąty przemieszenia otwarte bilateralnie, bez patologicznych nacinów. <DISEASE>Jaskra primitiva</DISEASE> bez zamknięcia kąta. Zalecono <DRUG>Prostaglandyny</DRUG> p.o.
+<<<SAMPLE>>>
+Notatka SOR <DATE>05.06.2024</DATE>. <PERSON>Wacław Szmit</PERSON>, PESEL <PESEL>52121234567</PESEL>, <ADDRESS>Warszawa, ul. Puławska 155, 02-595 Warszawa</ADDRESS>, tel. <PHONE>722 333 444</PHONE>. <DISEASE>Uraz zarysowany rogówki</DISEASE> — gałąź drzewa w oko. <TEST>Fluoresceina</TEST> potwierdziła zarysowanie. <DRUG>Gentamycyna</DRUG> maść nocy i <DRUG>Maxidex</DRUG> 4x dziennie. Kontrola <DATE>06.06</DATE>.
+<<<SAMPLE>>>
+E-recepta <DATE>08.06.2024</DATE>. <PERSON>Agnieszka Filipowicz</PERSON>, PESEL <PESEL>81071234567</PESEL>, <ADDRESS>ul. Szewska 8/2, 31-009 Kraków</ADDRESS>. Diagnoza: <DISEASE>niska wrażliwość rogówki</DISEASE> po <DISEASE>zaćmie</DISEASE>. <DRUG>Refresh Plus Preservative Free</DRUG> krople 6x dziennie. Monitoring czułości rogówki co 3 m-ce.
+<<<SAMPLE>>>

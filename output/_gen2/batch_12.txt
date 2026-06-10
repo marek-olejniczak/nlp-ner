@@ -1,0 +1,66 @@
+Notatka SOR, <DATE>15.11.2024</DATE>. Pacjent <PERSON>Małgorzata Kowalski</PERSON>, PESEL <PESEL>72041856234</PESEL>, tel. <PHONE>728 456 123</PHONE>. Dolegliwości: osłabienie, <DISEASE>poliuria</DISEASE>, <DISEASE>pragnienie</DISEASE>. Ostatni raz <TEST>HbA1c</TEST> przed 3 msc 8.2%. Podejrzenie <DISEASE>cukrzycy typu 2</DISEASE>. Skierowany do poradni endokrynologicznej na <HOSPITAL>CMKP Warszawskie Centrum Zdrowia</HOSPITAL>.
+<<<SAMPLE>>>
+Zalecenia pielęgnacyjne, <DATE>08.10.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>85021534567</PESEL>, zam. <ADDRESS>Marszałkowska 42/5, Warszawa</ADDRESS>. Diagnoza: <DISEASE>cukrzyca typu 1</DISEASE> od 12 lat. Obecnie na <DRUG>insulinie glargina</DRUG> 20 j.m. rano i <DRUG>insulinie aspart</DRUG> p.o. Poziom <TEST>glikemii</TEST> 140-180 mg/dl. Zalecono: dieta, wskazania dot. ćwiczeń, kontrola <TEST>HbA1c</TEST> co 3 mce.
+<<<SAMPLE>>>
+E-recepta POZ, <DATE>22.06.2024</DATE>. Lek. <PERSON>Anna Nowak</PERSON>. Pacjent <PERSON>Jan Wiśniewski</PERSON>, PESEL <PESEL>78051234567</PESEL>. Rozpoznanie: <DISEASE>hipotireoza</DISEASE>. Lek: <DRUG>lewotyroksyna</DRUG> 75 µg 1x dziennie rano p.o. Odjąć <TEST>TSH</TEST> za 6 tygodni.
+<<<SAMPLE>>>
+Epikryza endokrynologiczna, <DATE>30.05.2024</DATE>. <PERSON>Maria Szydłowska</PERSON>, PESEL <PESEL>52081234567</PESEL>, zam. <ADDRESS>ul. Nowogrodzka 14, 00-511 Warszawa</ADDRESS>. Przyjęta z <DISEASE>cukrzycą typu 2</DISEASE> zdiagnozowaną 3 lata temu. Podczas hospitalizacji: <TEST>glikemia</TEST> porannego 156 mg/dl, <TEST>HbA1c</TEST> 7.8%. Rozpoczęto <DRUG>metforminą</DRUG> 1000 mg 2x dziennie. Wypisana w dobrym stanie ogólnym.
+<<<SAMPLE>>>
+Opis USG tarczycy, <DATE>12.03.2024</DATE>. Pacjent <PERSON>Tomasz Kamiński</PERSON>, tel. <PHONE>501 234 567</PHONE>. W <TEST>USG</TEST> tarczycę: <DISEASE>guzek hipoechoiczny</DISEASE> w płacie lewym, wymiary 8x6 mm. Zalecono powtórzyć <TEST>USG</TEST> za 6 mcy. Kierunek do endokrynologa na <HOSPITAL>Szpital Uniwersytecki nr 2</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>17.07.2024</DATE>. Pacjent <PERSON>Ewa Zielińska</PERSON>, PESEL <PESEL>65031234567</PESEL>, zam. <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. Kontrola: <DISEASE>cukrzyca typu 2</DISEASE> od 8 lat. Na <DRUG>glipizizie</DRUG> 5 mg 2x dziennie + <DRUG>metformina</DRUG> 850 mg 3x dziennie. <TEST>Glikemia</TEST> 110 mg/dl, <TEST>HbA1c</TEST> 6.9%. Stan satysfakcjonujący. Zalecenie: utrzymać leczenie, zmniejszyć spożycie cukru.
+<<<SAMPLE>>>
+Skierowanie do szpitala, <DATE>02.11.2024</DATE>. Dr <PERSON>Jerzy Nowinski</PERSON>. Skierowany: <PERSON>Henryk Szymański</PERSON>, PESEL <PESEL>48091534567</PESEL>. Diagnosis: podejrzenie <DISEASE>kwasicy diabetycznej</DISEASE>. <TEST>Glikemia</TEST> 389 mg/dl, <TEST>pH krwi</TEST> 7.18. Pilna hospitalizacja na <HOSPITAL>Klinika Chorób Metabolicznych i Endokrynologii</HOSPITAL>.
+<<<SAMPLE>>>
+Opis TK przysadki, <DATE>19.09.2024</DATE>. Pacjent <PERSON>Barbara Kucharska</PERSON>, PESEL <PESEL>61051234567</PESEL>. W <TEST>TK</TEST> przysadkę: <DISEASE>mniejszy guzek</DISEASE>, wymiary 7x6x5 mm, bez cech ucisku. Zalecono <TEST>MRI mózgu</TEST> dla uściślenia. Wyniki: wysokość przysadki 9 mm, hipofiza bez istotnych zmian.
+<<<SAMPLE>>>
+Formularz zapalenia tarczycy, <DATE>08.04.2024</DATE>. Pacjent <PERSON>Stanisław Lewandowski</PERSON>, tel. <PHONE>604 234 567</PHONE>, zam. <ADDRESS>ul. Żeromskiego 23/2, Kraków</ADDRESS>. Diagnoza: <DISEASE>zapalenie tarczycy typu Hashimoto</DISEASE>. <TEST>Przeciwciała anty-TPO</TEST> 450 IU/ml, <TEST>TSH</TEST> 6.2 mlU/l. Przyznano <DRUG>lewotyroksyna</DRUG> 50 µg. Kontakt za miesiąc.
+<<<SAMPLE>>>
+Notatka z dyżuru nocnego, <DATE>21.01.2024</DATE>. Pacjent <PERSON>Urszula Adamczyk</PERSON>, PESEL <PESEL>56012345670</PESEL>. Przyjęcie: ból głowy, <DISEASE>hiperglikemia</DISEASE>, nudności. <TEST>Glikemia</TEST> 456 mg/dl, <TEST>ketonemia</TEST> +. Podejrzenie <DISEASE>ketonuria</DISEASE>. Podano <DRUG>insulinę</DRUG> iv. Skierowana na <HOSPITAL>Oddział Intensywnej Terapii</HOSPITAL>.
+<<<SAMPLE>>>
+Plan leczenia ambulatoryjnego, <DATE>05.12.2024</DATE>. <PERSON>Zbigniew Nowak</PERSON>, PESEL <PESEL>60031534567</PESEL>, zam. <ADDRESS>ul. Floriańska 18, Kraków</ADDRESS>. <DISEASE>Cukrzyca typu 2</DISEASE>, słaba kontrola metaboliczna. Dotychczasowe leczenie: <DRUG>sitagliptyna</DRUG> 100 mg. Zmiana: dodanie <DRUG>dapagliflozyny</DRUG> 5 mg. Odjąć <TEST>albuminę w moczu</TEST>, <TEST>HbA1c</TEST> za 3 mce.
+<<<SAMPLE>>>
+Opis 24-godzinowego monitorowania ciśnienia, <DATE>13.08.2024</DATE>. Pacjent <PERSON>Grzegorz Kowalczyk</PERSON>, PESEL <PESEL>72081534567</PESEL>. Diagn: <DISEASE>cukrzyca typu 2</DISEASE> + <DISEASE>nadciśnienie tętnicze</DISEASE>. <TEST>Średnie RR</TEST> dzień 148/92 mmHg, noc 140/88 mmHg. Zalecono zwiększyć <DRUG>ramipril</DRUG> do 10 mg.
+<<<SAMPLE>>>
+Historia choroby — endokrynologia, <DATE>25.10.2024</DATE>. <PERSON>Danuta Milewska</PERSON>, PESEL <PESEL>48051234567</PESEL>, zam. <ADDRESS>Gdańsk, ul. Długa 32/4</ADDRESS>, tel. <PHONE>791 234 567</PHONE>. Przyjęcie: <DISEASE>struma</DISEASE> (powiększenie tarczycy). <TEST>USG tarczycę</TEST>: wymiary 18x22 mm, homogenna. <TEST>TSH</TEST> 0.6 mlU/l, <TEST>fT4</TEST> 12 ng/dl — norma. Obserwacja.
+<<<SAMPLE>>>
+Badanie laboratoryjne, <DATE>11.02.2024</DATE>. Pacjent <PERSON>Krzysztof Nowinski</PERSON>, PESEL <PESEL>65021534567</PESEL>. Wyniki: <TEST>glukoza</TEST> 126 mg/dl, <TEST>HbA1c</TEST> 7.2%, <TEST>cholesterol całkowity</TEST> 245 mg/dl, <TEST>LDL</TEST> 160 mg/dl. Diagnoza: <DISEASE>cukrzyca typu 2</DISEASE> nowo rozpoznana + <DISEASE>dyslipidemia</DISEASE>. Zalecano dietę.
+<<<SAMPLE>>>
+Wizyta kontrolna, <DATE>29.03.2024</DATE>. Pacjent <PERSON>Halina Sławińska</PERSON>, PESEL <PESEL>52031234567</PESEL>, zam. <ADDRESS>ul. Kopernika 5, Wrocław</ADDRESS>. <DISEASE>Hipotireoza</DISEASE> od 10 lat. Dawka <DRUG>lewotyroksyny</DRUG> 100 µg. <TEST>TSH</TEST> 2.1 mlU/l — dobrze dobrana. Pacjentka bez dolegliwości. Zalecanie: powtórzyć <TEST>TSH</TEST> za rok.
+<<<SAMPLE>>>
+Notatka ze SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Ludwik Simons</PERSON>, PESEL <PESEL>58031234567</PESEL>. Przyjęcie: osłabienie, zaparcia, zimno. Dodatkowo: wcześniejsze leczenie <DISEASE>hipotireozą</DISEASE>. <TEST>TSH</TEST> 8.9 mlU/l, <TEST>fT4</TEST> 8 ng/dl. Zbyt niska dawka <DRUG>lewotyroksyny</DRUG>. Zwiększono do 100 µg.
+<<<SAMPLE>>>
+Poradnia endokrynologiczna, <DATE>14.04.2024</DATE>. <PERSON>Joanna Rutkowska</PERSON>, PESEL <PESEL>73041234567</PESEL>, tel. <PHONE>604 567 890</PHONE>, zam. <ADDRESS>ul. Polna 7, 30-001 Kraków</ADDRESS>. Przesłanie: <DISEASE>otyłość</DISEASE> BMI 34 + <DISEASE>cukrzyca typu 2</DISEASE>. Ostatni <TEST>HbA1c</TEST> 8.5%. Plan: leczenie zachowawcze + rozpatrzenie <DRUG>GLP-1 agonisty</DRUG>.
+<<<SAMPLE>>>
+Test tolerancji glukozy, <DATE>20.05.2024</DATE>. Pacjent <PERSON>Michał Szpaderski</PERSON>, PESEL <PESEL>79051234567</PESEL>. <TEST>Glikemia na czczo</TEST> 102 mg/dl, <TEST>po 2 godzinach (po OGTT)</TEST> 148 mg/dl. Diagnoza: <DISEASE>nieprawidłowa tolerancja glukozy</DISEASE> (IGT). Zalecenie: zmiana stylu życia, kontrola co 6 mcy.
+<<<SAMPLE>>>
+Opis TK nadnerczy, <DATE>27.07.2024</DATE>. Pacjent <PERSON>Tadeusz Wesołowski</PERSON>, PESEL <PESEL>62071234567</PESEL>, zam. <ADDRESS>ul. Nowy Świat 47, Warszawa</ADDRESS>. W <TEST>TK</TEST> nadnerczy: <DISEASE>guzek lewego nadnercza</DISEASE>, wymiary 18x15 mm, gęstość 8 HU. Zaleć <TEST>hormon ACTH</TEST>, <TEST>kortyzol 24h</TEST> dla uściślenia.
+<<<SAMPLE>>>
+Skierowanie do dietetyka, <DATE>03.09.2024</DATE>. Dr <PERSON>Magdalena Nowak</PERSON>. Pacjent <PERSON>Waldemar Zając</PERSON>, PESEL <PESEL>66091234567</PESEL>. Diagnoza: <DISEASE>cukrzyca typu 2</DISEASE> + <DISEASE>dyslipidemia</DISEASE>. Obecnie: <DRUG>metformina</DRUG> 1000 mg, <DRUG>atorwastatyna</DRUG> 20 mg. Wysłanie do specjalisty: porada żywieniowa, redukcja wagi.
+<<<SAMPLE>>>
+Rezultaty testu somatotropiny, <DATE>16.10.2024</DATE>. Pacjent <PERSON>Ryszard Jakubowski</PERSON>, PESEL <PESEL>61101234567</PESEL>, tel. <PHONE>512 234 567</PHONE>. <TEST>IGF-1</TEST> 285 µg/l (norma 84-233). Podejrzenie <DISEASE>akromegalii</DISEASE>. Zalecono <TEST>OGTT z pomiarem hormonu wzrostu</TEST> i <TEST>MRI przysadki</TEST> na <HOSPITAL>Uniwersyteckie Centrum Kliniczne</HOSPITAL>.
+<<<SAMPLE>>>
+Notatka ambulatoryjna, <DATE>09.11.2024</DATE>. Pacjent <PERSON>Irena Bronisławska</PERSON>, PESEL <PESEL>57111234567</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 99/5</ADDRESS>. <DISEASE>Hipotireoza</DISEASE> + <DISEASE>poliartralgia</DISEASE>. Zwiększenie <DRUG>lewotyroksyny</DRUG> z 75 µg do 88 µg. <TEST>TSH</TEST> za 4-6 tygodni. Zalecono: fizjoterapia, suplementacja <DRUG>witamin D</DRUG>.
+<<<SAMPLE>>>
+Dokumentacja laboratorium, <DATE>24.12.2024</DATE>. Pacjent <PERSON>Kazimierz Lewandowski</PERSON>, PESEL <PESEL>64121234567</PESEL>. Badanie: <TEST>cortisol poranny</TEST> 18 µg/dl, <TEST>ACTH</TEST> 35 pg/ml. Zwiększone wartości. Podejrzenie <DISEASE>zespołu Cushinga</DISEASE>. Skierowanie do endokrynologa dla dalszej diagnostyki.
+<<<SAMPLE>>>
+Wizyta ze skierowania, <DATE>17.01.2024</DATE>. <PERSON>Bogusław Kopaczewski</PERSON>, PESEL <PESEL>69011234567</PESEL>, tel. <PHONE>723 567 890</PHONE>, zam. <ADDRESS>ul. Matejki 12, Poznań</ADDRESS>. Przesłanie: <DISEASE>nieprawidłowa funkcja tarczycy w wywiadzie</DISEASE>. <TEST>TSH</TEST> 0.05 mlU/l, <TEST>fT4</TEST> 18 ng/dl — hiperfunkcja. Zalecono <TEST>USG tarczycę</TEST> i powtórzyć próbkę.
+<<<SAMPLE>>>
+Rezultat oznaczenia prolaktyny, <DATE>07.02.2024</DATE>. Pacjent <PERSON>Agnieszka Stefańska</PERSON>, PESEL <PESEL>74021234567</PESEL>. <TEST>Prolaktyna</TEST> 45 µg/l (norma < 30). Dolegliwości: nieregularne okresy, wydzielina z sutek. Zalecono <TEST>MRI przysadki</TEST> dla wykluczenia <DISEASE>prolaktinomy</DISEASE>.
+<<<SAMPLE>>>
+E-recepta endokrynologiczna, <DATE>31.03.2024</DATE>. Lek. <PERSON>Urszula Noworolska</PERSON>. Pacjent <PERSON>Sławomir Górski</PERSON>, PESEL <PESEL>63031234567</PESEL>. Rozpoznanie: <DISEASE>cukrzyca typu 1</DISEASE>. Leki: <DRUG>insulina detemir</DRUG> 16 j.m. wiecz + <DRUG>insulina aspart</DRUG> p.o., <DRUG>metformina</DRUG> 500 mg 2x dziennie. Kontrola <TEST>glikemii</TEST> przed posiłkami.
+<<<SAMPLE>>>
+Notatka z poradni zapalenia, <DATE>18.04.2024</DATE>. Pacjent <PERSON>Lidia Zalewska</PERSON>, PESEL <PESEL>55041234567</PESEL>, zam. <ADDRESS>ul. Gdańska 8/1, Gdańsk</ADDRESS>. Diagnoza: <DISEASE>zapalenie tarczycy postwirusowe</DISEASE>. <TEST>TPO</TEST> 120 IU/ml, <TEST>przeciwciała anty-TG</TEST> 80 IU/ml. Leczenie: <DRUG>indometacyna</DRUG> 50 mg 3x dziennie. Powtórzyć <TEST>TSH</TEST> za 2 tygodnie.
+<<<SAMPLE>>>
+Skierowanie do SOR, <DATE>22.05.2024</DATE>. Pacjent <PERSON>Aleksander Lewandowski</PERSON>, PESEL <PESEL>58051234567</PESEL>. Zespół: <DISEASE>hipoglikemia ciężka</DISEASE> (bezprzytomność). Wywiad: <DISEASE>cukrzyca typu 1</DISEASE> od 15 lat na <DRUG>insulinie</DRUG>. <TEST>Glikemia</TEST> przy przyjęciu 52 mg/dl. Podano glukozy iv. Hospitalizacja dla stabilizacji.
+<<<SAMPLE>>>
+Badanie hormonów płciowych, <DATE>19.06.2024</DATE>. Pacjent <PERSON>Dominika Wróblewska</PERSON>, PESEL <PESEL>76061234567</PESEL>. <TEST>TSH</TEST> 2.3 mlU/l, <TEST>testosteron całkowity</TEST> 35 ng/dl (niski), <TEST>SHBG</TEST> 52 nmol/l. Podejrzenie <DISEASE>hipogonadyzmu</DISEASE>. Zalecono konsultację w poradni andrologii.
+<<<SAMPLE>>>
+Notatka wdrożeniowa, <DATE>14.07.2024</DATE>. Pacjent <PERSON>Jarosław Szymczak</PERSON>, PESEL <PESEL>61071234567</PESEL>, tel. <PHONE>603 890 123</PHONE>, zam. <ADDRESS>ul. Królewska 25, Wrocław</ADDRESS>. Wdrażanie <DRUG>insuliny NPH</DRUG> 8 j.m. rano + <DRUG>insuliny aspart</DRUG> przed posiłkami dla <DISEASE>cukrzicy typu 2</DISEASE>. Edukacja pacjenta, przepis technics wstrzyku.
+<<<SAMPLE>>>
+Dokumentacja bilansu mocznika, <DATE>30.08.2024</DATE>. Pacjent <PERSON>Elżbieta Wojtasik</PERSON>, PESEL <PESEL>62081234567</PESEL>. <TEST>Mocznik krwi</TEST> 48 mg/dl, <TEST>kreatynina</TEST> 1.2 mg/dl, <TEST>GFR</TEST> 58 ml/min/1.73m2. Średniozaawansowana <DISEASE>choroba nerek</DISEASE>. Zwiększone ryzyko w <DISEASE>cukrzicy</DISEASE>. Zalecono kontrolę co 3 mce + <DRUG>ACE inhibitor</DRUG>.
+<<<SAMPLE>>>
+Wynik analizy insulinopodobnego czynnika wzrostu, <DATE>12.09.2024</DATE>. Pacjent <PERSON>Tomasz Rutkowski</PERSON>, PESEL <PESEL>70091234567</PESEL>. <TEST>IGF-1</TEST> 124 µg/l (norma). <TEST>hormon wzrostu bazowy</TEST> 0.8 ng/ml — norma. Wykluczona <DISEASE>akromegalia</DISEASE>. Objawy przypisane <DISEASE>hipotireozi</DISEASE> już leczeniu.
+<<<SAMPLE>>>
+Porada endokrynologiczna dla pacjenta, <DATE>26.10.2024</DATE>. <PERSON>Renata Szafrańska</PERSON>, PESEL <PESEL>67101234567</PESEL>, zam. <ADDRESS>ul. Marszałkowska 15, Warszawa</ADDRESS>. Przesłanie: <DISEASE>insulinooporność</DISEASE> + <DISEASE>cukrzyca typu 2</DISEASE>. BMI 32. Plan: <DRUG>metformina</DRUG> 1500 mg + dieta niskowęglowodanowa + program aktywności fizycznej.
+<<<SAMPLE>>>

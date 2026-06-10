@@ -1,0 +1,133 @@
+Notatka ambulatoryjna, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Maria Kowalska</PERSON>, PESEL <PESEL>82051256789</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Tel. <PHONE>721 456 789</PHONE>. Zwrócił się z powodu <DISEASE>trądziku různorodnego</DISEASE> na twarzy i karku. W <TEST>badaniu klinicznym</TEST> widoczne komedon, papule i pustule. Zalecono <DRUG>tretinoinę</DRUG> 0.025% wieczorem. Kontrola za 6 tygodni na <HOSPITAL>Przychodni Dermatologicznej nr 3</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta z POZ, <DATE>02.06.2024</DATE>. Lek. <PERSON>Piotr Lewandowski</PERSON> na <HOSPITAL>Przychodni Śródmieście</HOSPITAL>. Pacjent <PERSON>Anna Szymczyk</PERSON>, PESEL <PESEL>75021845123</PESEL>. Rozpoznanie: <DISEASE>grzybica stóp</DISEASE>. Przepisano <DRUG>terbinafina</DRUG> 250 mg, 1 tabl. dziennie przez 6 tygodni. Zastrzeżenie: pacjent ma <DISEASE>cukrzycę</DISEASE>.
+
+<<<SAMPLE>>>
+
+Opis zabiegu laserem, <DATE>15.05.2024</DATE>. Lekarz <PERSON>Dr Katarzyna Nowak</PERSON>. Pacjent <PERSON>Tomasz Janus</PERSON>, PESEL <PESEL>88112234567</PESEL>, zam. <ADDRESS>Kraków, Nowe Miasto 15/7</ADDRESS>. Procedura: <TEST>laser frakcyjny</TEST> twarzy w celu zmniejszenia <DISEASE>blizn potrądzikowych</DISEASE>. Wykonano 3 przejścia, moc 40 mJ. Pacjent tolerował dobrze. Zalecono <DRUG>krem z filtrem SPF 50+</DRUG> przez 4 tygodnie.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>22.04.2024</DATE>. Pacjent <PERSON>Joanna Wójcik</PERSON>, PESEL <PESEL>92031567890</PESEL>, tel. <PHONE>517 234 567</PHONE>. Dolegliwości: <DISEASE>oparzenie słoneczne</DISEASE> rąk i szyi po wypadzie. W badaniu: obrzęk, rumień, pęcherzyki. Podano <DRUG>paracetamol</DRUG> 500 mg, nasmarowano <DRUG>Bepantol</DRUG>. Wypisano do domu z zaleceniem <TEST>chłodzenia</TEST> i unikania słońca.
+
+<<<SAMPLE>>>
+
+Korespondencja między ośrodkami, <DATE>10.06.2024</DATE>. Od <PERSON>Dr Marek Sokal</PERSON> na <HOSPITAL>Szpitalu Bielańskim</HOSPITAL> do <PERSON>Dr Ewa Mazur</PERSON> na <HOSPITAL>Przychodni Mokotów</HOSPITAL>. Pacjent <PERSON>Zbigniew Lewyk</PERSON>, PESEL <PESEL>61051234567</PESEL>. Stwierdzono <DISEASE>rogowacenie barwnikowe</DISEASE> na grzbiecie dłoni. Sugerujemy <TEST>dermatoskopię</TEST> i ewentualnie <TEST>biopsję</TEST>. Wyklucz <DISEASE>czerniaką</DISEASE>.
+
+<<<SAMPLE>>>
+
+E-recepta, <DATE>28.05.2024</DATE>. Pacjent <PERSON>Renata Borys</PERSON>, PESEL <PESEL>79121934567</PESEL>, zam. <ADDRESS>ul. Wiśniowa 9, 02-520 Warszawa</ADDRESS>. Diagnoza: <DISEASE>łuszczyca plackowata</DISEASE>. Przepisano <DRUG>tazorotene</DRUG> 0.1% żel wieczorem na ogniska. Alternatywa: <DRUG>kalaininę</DRUG> 0.3%.
+
+<<<SAMPLE>>>
+
+Notatka dermatologiczna, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Kamil Szewczyk</PERSON>, PESEL <PESEL>95071234567</PESEL>, tel. <PHONE>666 789 234</PHONE>. Zgłosił się z <DISEASE>trądzikiem różowatym</DISEASE> (rosacea) — rumienieć, papule, teleangiektazje na twarzy. W <TEST>badaniu histopatologicznym</TEST> poprzedniej próbki: zapalenie naczyń. Zalecono <DRUG>metronidazol</DRUG> 0.75% żel 2x dziennie, <DRUG>dokoksycyklinę</DRUG> 40 mg dziennie, unikanie czynników wyzwalających.
+
+<<<SAMPLE>>>
+
+Zgłoszenie do specjalisty, <DATE>05.06.2024</DATE>. Od <PERSON>Dr Stanisław Nowak</PERSON> (POZ) dla pacjenta <PERSON>Katarzyna Błaszczyk</PERSON>, PESEL <PESEL>88091234567</PESEL>, zam. <ADDRESS>Poznań, ul. Fredry 12/4</ADDRESS>. Podejrzenie <DISEASE>atopowego zapalenia skóry</DISEASE> — suchość, swędzenie, zasinienia. Proszę o <TEST>wizytę dermatologiczną</TEST> i badanie <TEST>testami natywkowymi</TEST>.
+
+<<<SAMPLE>>>
+
+Wynik biopsji, <DATE>09.06.2024</DATE>. Pracownia histopatologiczna na <HOSPITAL>Szpitalu Warszawskim</HOSPITAL>. Pacjent <PERSON>Henryk Michalski</PERSON>, PESEL <PESEL>52071234567</PESEL>. Material: wycinki ze <DISEASE>niebielaka</DISEASE> skóry czołu, 3 fragmenty. Opis: proliferacja komórek bazalnych, bez cech złośliwości. Niedosyt marginesów.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>03.06.2024</DATE>. Lekarz <PERSON>Dr Sylwia Krawczyk</PERSON>. Pacjent <PERSON>Dorota Siedlecka</PERSON>, PESEL <PESEL>85021156789</PESEL>, tel. <PHONE>725 123 456</PHONE>. Powikłanie po <TEST>peelingu chemicznym</TEST>: <DISEASE>zapalenie pozapalowe</DISEASE> na policzkami. Zalecono <DRUG>hydrokortyzonu</DRUG> 1% krem 2x dziennie, <DRUG>ochronę słoneczną</DRUG>.
+
+<<<SAMPLE>>>
+
+Recept, <DATE>15.04.2024</DATE>. Pacjent <PERSON>Łukasz Wiśniewski</PERSON>, PESEL <PESEL>90111234567</PESEL>, zam. <ADDRESS>ul. Słoneczna 34, 80-001 Gdańsk</ADDRESS>. Rozpoznanie: <DISEASE>łupież pstry</DISEASE>. Ordynacja: <DRUG>ketokonazolu</DRUG> 2% szampon 2x w tygodniu, <DRUG>terbinafina</DRUG> 1% krem dziennie przez 3 tygodnie.
+
+<<<SAMPLE>>>
+
+Opis zabiegu cryoterapii, <DATE>20.05.2024</DATE>. Pacjent <PERSON>Jacek Czarnecki</PERSON>, PESEL <PESEL>77061234567</PESEL>, zam. <ADDRESS>Łódź, ul. Piotrkowska 78/12</ADDRESS>. Procedura: <TEST>zamrażanie azotkiem płynnym</TEST> trzech <DISEASE>brodawek wirusowych</DISEASE> na ręce. Pacjent tolerował dobrze, pęcherz spodziewany w ciągu 2 tygodni.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>25.05.2024</DATE>. Lek. <PERSON>Barbara Stępień</PERSON> na <HOSPITAL>Przychodni Centrum</HOSPITAL>. Pacjent <PERSON>Marta Kuchnia</PERSON>, PESEL <PESEL>93041234567</PESEL>. Diagnoza: <DISEASE>trądzik mitochondrialny</DISEASE>. Przepisano <DRUG>azelainę</DRUG> 20% żel rano i wieczorem, <DRUG>niacinamidę</DRUG> serum.
+
+<<<SAMPLE>>>
+
+Notatka szpitalna, <DATE>07.06.2024</DATE>. Oddział Dermatologii na <HOSPITAL>Szpitalu Uniwersyteckim</HOSPITAL>. Pacjent <PERSON>Ryszard Ostrowski</PERSON>, PESEL <PESEL>56091234567</PESEL>, tel. <PHONE>602 456 789</PHONE>. Przyjęty z powodu <DISEASE>ziarniniaka pierścieniowatego</DISEASE> na przedramionach i nogach. <TEST>Badanie dermoskopowe</TEST> potwierdzające. Leczenie: obserwacja, zalecono <DRUG>krem z kortykosteroidem</DRUG> I klasy.
+
+<<<SAMPLE>>>
+
+Opis zabiegowy, <DATE>18.05.2024</DATE>. Pacjent <PERSON>Agnieszka Lewandowska</PERSON>, PESEL <PESEL>88021234567</PESEL>, zam. <ADDRESS>ul. Warszawska 56/9, 00-123 Warszawa</ADDRESS>. Zabieg: <TEST>mikrodermabrazja diamentowa</TEST> twarzy. Wskazanie: <DISEASE>hiperpigmentacja pozapalowa</DISEASE> po aknie. Wykonano 8 przejść, krwawienie nieznaczne. Pacjent wypisany do domu z zaleceniami higieny.
+
+<<<SAMPLE>>>
+
+Zalecenia dermatologiczne, <DATE>04.06.2024</DATE>. Specjalista <PERSON>Dr Urszula Kopała</PERSON>. Pacjent <PERSON>Władysław Górski</PERSON>, PESEL <PESEL>62031234567</PESEL>, tel. <PHONE>513 789 012</PHONE>. <DISEASE>Trądzik periorální</DISEASE> — zapis: przestanie <DRUG>maści o kortykosteroidach</DRUG>, wprowadzenie <DRUG>tretinoinę</DRUG> stopniowo, <DRUG>doksycyklinę</DRUG> 100 mg dziennie przez 8 tygodni.
+
+<<<SAMPLE>>>
+
+Konsultacja dermato-wenerołogiczna, <DATE>11.06.2024</DATE>. Konsultant <PERSON>Dr Grzegorz Białecki</PERSON> na <HOSPITAL>Szpitalu Miejskim</HOSPITAL>. Pacjent <PERSON>Beata Adamczyk</PERSON>, PESEL <PESEL>81051234567</PESEL>, zam. <ADDRESS>Poznań, ul. Szewska 23/2</ADDRESS>. Podejrzenie <DISEASE>infekcji mykobakteryjnej skóry</DISEASE>. Zaordynowano <TEST>posiew</TEST>, <TEST>badanie mikroskopowe</TEST>. Leczenie początkowe: obserwacja.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Marian Lipski</PERSON>, PESEL <PESEL>70111234567</PESEL>. Diagnoza: <DISEASE>psoriaza dłoni i stóp</DISEASE>. Leki: <DRUG>dithranol</DRUG> 0.5% maść wieczorem 30 minut, następnie zmyć, <DRUG>urea</DRUG> 20% krem na dzień, <DRUG>kalcypotriol</DRUG> 50 μg/g maść.
+
+<<<SAMPLE>>>
+
+Notatka z poradni, <DATE>09.06.2024</DATE>. Lekarz <PERSON>Dr Joanna Kędzierska</PERSON>. Pacjent <PERSON>Sławomir Zając</PERSON>, PESEL <PESEL>75071234567</PESEL>, tel. <PHONE>728 456 123</PHONE>. Zgłaszał się z <DISEASE>bradawicą pospolitą</DISEASE> na dłoniach — potwierdzono HPV-2. <TEST>Badanie immunologiczne</TEST> w normie. Propozycja: <TEST>usunięcie lazerem CO2</TEST>.
+
+<<<SAMPLE>>>
+
+Opis biopsji głębokie, <DATE>17.05.2024</DATE>. Pracownia histopatologiczna. Pacjent <PERSON>Czesław Marszałek</PERSON>, PESEL <PESEL>58051234567</PESEL>, zam. <ADDRESS>ul. Kopernika 7, 31-002 Kraków</ADDRESS>. Materiał: wycinek ze <DISEASE>czerniakiem</DISEASE> grzbiet nogi prawej, głębokość Breslowa 2.3 mm, indeks mitotyczny 4, brak rozsiewu limfatycznego. Zalecono <TEST>scentyografi z sowiną bądź SLNB</TEST>.
+
+<<<SAMPLE>>>
+
+Zalecenie terapeutyczne, <DATE>02.06.2024</DATE>. Specjalista <PERSON>Dr Magdalena Sobecka</PERSON> na <HOSPITAL>Centrum Zdrowia Skóry</HOSPITAL>. Pacjent <PERSON>Grażyna Michalak</PERSON>, PESEL <PESEL>76061234567</PESEL>. Diagnoza: <DISEASE>wyprysk kontaktowy</DISEASE> po biżuterii. Leczenie: unikanie niklu, <DRUG>hydrokortyzonu</DRUG> 1% krem 3x dziennie przez tydzień, następnie stopniowo zmniejszyć.
+
+<<<SAMPLE>>>
+
+Notatka szpitalna, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Stanisław Kolodziej</PERSON>, PESEL <PESEL>64031234567</PESEL>, tel. <PHONE>604 234 567</PHONE>. Oddział Dermatologii Zakażnej. Przyjęty z <DISEASE>opryszczką rozsianych</DISEASE> — temperatura 38.5°C, wysypka na twarzy i tułowiu. <TEST>PCR HSV-1</TEST> dodatni. Ordynacja: <DRUG>acyklowiru</DRUG> 5x 800 mg dziennie, dożylnie <DRUG>paracetamolu</DRUG>.
+
+<<<SAMPLE>>>
+
+Recept z POZ, <DATE>21.05.2024</DATE>. Lek. <PERSON>Marek Dudek</PERSON> na <HOSPITAL>Przychodni Północ</HOSPITAL>. Pacjent <PERSON>Urszula Nowotna</PERSON>, PESEL <PESEL>89121234567</PESEL>, zam. <ADDRESS>Warszawa, ul. Jerozolimskie 15/3</ADDRESS>. Rozpoznanie: <DISEASE>trądzik zwykły łagodny</DISEASE>. Zalecenie: <DRUG>benzoilu peroksydu</DRUG> 2.5% żel wieczorem, <DRUG>azelainę</DRUG> 20% maść rano.
+
+<<<SAMPLE>>>
+
+Opis zabiegu, <DATE>31.05.2024</DATE>. Pacjent <PERSON>Krzysztof Zieliński</PERSON>, PESEL <PESEL>79051234567</PESEL>, zam. <ADDRESS>ul. Lipowa 22, 50-001 Wrocław</ADDRESS>. Procedura: <TEST>radiofrekwencja mikroigłowa</TEST> w celu zmniejszenia <DISEASE>rozstępów</DISEASE> na pośladkach. Wykonano 3 sesje w odstępach 4-tygodniowych. Pacjent zadowolony z efektu.
+
+<<<SAMPLE>>>
+
+E-recepta, <DATE>12.06.2024</DATE>. Pacjent <PERSON>Halina Urbańska</PERSON>, PESEL <PESEL>72021234567</PESEL>. Rozpoznanie: <DISEASE>trądzik różowaty V (ochranicze zmowy)</DISEASE> — rumień nawracający na twarzy. Leczenie: <DRUG>metronidazolu</DRUG> 1% żel, <DRUG>minogliklinę</DRUG> 50 mg dziennie, <DRUG>sukralfat</DRUG> w razie nasileniaścia.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna z kontroli, <DATE>06.06.2024</DATE>. Lekarz <PERSON>Dr Konrad Owsiński</PERSON>. Pacjent <PERSON>Stefan Kossowski</PERSON>, PESEL <PESEL>68111234567</PESEL>, tel. <PHONE>516 123 456</PHONE>. Powrót do badania po 3 miesiącach leczenia <DISEASE>łuszczycy plackowatej</DISEASE>. Stan: znaczna poprawa, zmniejszenie ognisk o 70%. Kontynuacja <DRUG>tazorotenu</DRUG> 0.1% żel wieczorem.
+
+<<<SAMPLE>>>
+
+Korespondencja do dermatologa, <DATE>10.06.2024</DATE>. Od <PERSON>Dr Dariusz Krawczyk</PERSON> (POZ) dla pacjenta <PERSON>Elżbieta Niemczyk</PERSON>, PESEL <PESEL>86031234567</PESEL>, zam. <ADDRESS>Łódź, ul. Gdańska 101/8</ADDRESS>. Pacjentka skarży się na <DISEASE>łysienie androgeniczne</DISEASE>. Proszę o poradę. Wcześniej leczył się <DRUG>minoksydylem</DRUG> bez efektu.
+
+<<<SAMPLE>>>
+
+Opis procedury laserowej, <DATE>24.05.2024</DATE>. Pacjent <PERSON>Wojciech Adamiak</PERSON>, PESEL <PESEL>81071234567</PESEL>. Procedura: <TEST>laser Nd:YAG</TEST> na <DISEASE>naczyniastę różowatości policzków</DISEASE>. Wykonano 4 przejścia, parametry: 15 J/cm², 6 mm, 20 Hz. Pacjent tolerował dobrze, udzielono zalecenia <DRUG>ochrony UV</DRUG> przez 6 tygodni.
+
+<<<SAMPLE>>>
+
+Zalecenie specjalisty, <DATE>13.06.2024</DATE>. Dermatolog <PERSON>Dr Lidia Sadowska</PERSON> na <HOSPITAL>Szpitalu Wojewódzkim</HOSPITAL>. Pacjent <PERSON>Danuta Kędzierska</PERSON>, PESEL <PESEL>74091234567</PESEL>. Diagnoza: <DISEASE>łuszczyca paznokciowa</DISEASE> — zgęstnienia, deformacje paznokci stóp. Leczenie: <DRUG>kalcypotriolą</DRUG> 50 μg/g aerozol na paznokcie, obserwacja co 8 tygodni.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>29.05.2024</DATE>. Lek. <PERSON>Bolesław Szydłowski</PERSON> na <HOSPITAL>Przychodni Południowej</HOSPITAL>. Pacjent <PERSON>Renata Gajewska</PERSON>, PESEL <PESEL>77021234567</PESEL>. Rozpoznanie: <DISEASE>forbogiedendrowy zapalenia skóry</DISEASE>. Przepisano: <DRUG>pimekrolimusu</DRUG> 1% maść 2x dziennie, <DRUG>hydrokortyzonu</DRUG> 1% krem doraźnie.
+
+<<<SAMPLE>>>
+
+Notatka z umawiania, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Kazimierz Nowacki</PERSON>, PESEL <PESEL>61121234567</PESEL>, tel. <PHONE>797 234 567</PHONE>. Zwracał się z powodu <DISEASE>nitki zarazliwe</DISEASE> (tinea corporis) na tułowiu. <TEST>Badanie KOH-u</TEST> potwierdzające grzybicę. Zalecono: <DRUG>mikonazolu</DRUG> 2% krem 2x dziennie przez 3 tygodnie, unikanie pot-gromadzenia.
+
+<<<SAMPLE>>>
+
+Wynik testu rozszerzającego, <DATE>03.06.2024</DATE>. Pracownia diagnostyki alergologicznej na <HOSPITAL>Klinice Dermatologicznej</HOSPITAL>. Pacjent <PERSON>Małgorzata Franczuk</PERSON>, PESEL <PESEL>80111234567</PESEL>, zam. <ADDRESS>ul. Różana 45, 15-001 Białystok</ADDRESS>. <TEST>Testy płatkowe</TEST> na najczęstsze alergeny: dodatnia reakcja na nikiel (++) i lanolin (+). Diagnoza: <DISEASE>dermatitis kontaktowa alergiczna</DISEASE>.
+
+<<<SAMPLE>>>
+
+Zalecenia po zabiegu chemicznym, <DATE>28.05.2024</DATE>. Specjalista <PERSON>Dr Paweł Szubert</PERSON>. Pacjent <PERSON>Barbara Leśniak</PERSON>, PESEL <PESEL>83051234567</PESEL>. Po <TEST>peelingu salicylowym</TEST> 30%: <DISEASE>obrzęk, pieczenie</DISEASE> — normalny przebieg. Zalecenia: <DRUG>ochrona SPF 50+</DRUG>, избегать makijażu przez 48 godzin, <DRUG>maść dermatologiczna</DRUG> 3x dziennie.
+
+<<<SAMPLE>>>
+
+35

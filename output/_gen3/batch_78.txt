@@ -1,0 +1,99 @@
+Notatka SOR, <DATE>21.06.2024</DATE>. Pacjent <PERSON>Maria Kowalski</PERSON>, PESEL <PESEL>72112534567</PESEL>, zam. <ADDRESS>ul. Krótka 12, 80-001 Gdańsk</ADDRESS>, tel. <PHONE>721 456 789</PHONE>. Dolegliwości: pragnienie, częste oddawanie moczu. <TEST>Glikemia</TEST> 382 mg/dl. Rozp. <DISEASE>cukrzyca typu 2 nowo rozpoznana</DISEASE>. <DRUG>Metformina</DRUG> 500 mg p.o. b.i.d., kons. POZ.
+
+<<<SAMPLE>>>
+Epikryza endokrynologiczna, pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>85031254321</PESEL>, <DATE>03.05.2024</DATE>. Pobyt na Oddziale 21.04-03.05.2024. Rozpoznanie przy przyjęciu: <DISEASE>tyreotoksykoza</DISEASE> spowodowana <DISEASE>chorobą Gravesa-Basedowa</DISEASE>. <TEST>TSH</TEST> <0.01 mlU/l, <TEST>T3 wolny</TEST> 8.2 pmol/l. Zastosowano <DRUG>Thiamazol</DRUG> 10 mg t.i.d. Pacjent w dobrej ogólnej formie, zalecono obserwację.
+
+<<<SAMPLE>>>
+Recepta POZ, <DATE>10.06.2024</DATE>. Pan <PERSON>Andrzej Michalski</PERSON>, PESEL <PESEL>65082134567</PESEL>, ul. Długa 45/3, <HOSPITAL>Poradnia Endokrynologiczna przy Centrum Zdrowia Warszawa</HOSPITAL>. <DRUG>Glibenklamid</DRUG> 5 mg, 1 tabl. rano; <DRUG>Atorwastatyna</DRUG> 20 mg, 1 tabl. wieczorem. Okres leczenia 3 miesiące.
+
+<<<SAMPLE>>>
+Opis <TEST>USG</TEST> tarczycy, <DATE>15.06.2024</DATE>. Pacjentka <PERSON>Joanna Szpindler</PERSON>, PESEL <PESEL>78031212345</PESEL>. Tarcyca powiększona, wymiary ok. 28 ml. Liczne guzki hipoechogeniczne, największy 8 mm w prawym płacie. W <TEST>PunkcjI aspiracyjnej</TEST> czuły na anty-TPO. Rozp. <DISEASE>guzki tarcycy</DISEASE>, z.o. złośliwości.
+
+<<<SAMPLE>>>
+E-recepta wystawiona <DATE>08.06.2024</DATE> dla <PERSON>Bogdan Nowicki</PERSON>, PESEL <PESEL>58041534567</PESEL>, zam. <ADDRESS>al. Wilanowska 22, 02-765 Warszawa</ADDRESS>. Lekarz: <PERSON>Dr Iwona Kowalczyk</PERSON>. <DRUG>Levotyroksyna</DRUG> 75 μg, 1 tabl. rano na czczo. Liczba opakowań: 3. Ważna do: 08.12.2024.
+
+<<<SAMPLE>>>
+Notatka Z SOR, godz. 14:35, <DATE>12.06.2024</DATE>. Pacjent <PERSON>Krzysztof Plewnia</PERSON>, PESEL <PESEL>72061234567</PESEL>, tel. <PHONE>662 123 456</PHONE>, zam. <ADDRESS>Poznań, ul. Mickiewicza 7/2</ADDRESS>. Ostre podwyższenie <TEST>glukozy</TEST> do 520 mg/dl, objawy <DISEASE>kwasicy ketonowej</DISEASE>. <TEST>pH</TEST> 7.15, <TEST>HCO3</TEST> 12 mmol/l. Wdrożono insulinę, płyny i.v. Transportu na <HOSPITAL>Szpital Kliniczny Nr 1</HOSPITAL>.
+
+<<<SAMPLE>>>
+Konsultacja endokrynologiczna telemedyczna, <DATE>05.06.2024</DATE>. <PERSON>Danuta Owczarek</PERSON>, PESEL <PESEL>61021534567</PESEL>, prowadzona przez <PERSON>Dr Marek Jankowicz</PERSON>. <TEST>Wyniki ostatniego lab</TEST>: <TEST>HbA1c</TEST> 7.2%, <TEST>glikemia na czczo</TEST> 145 mg/dl. Zalecono <DRUG>Sitagliptyna</DRUG> 100 mg d.o.d., wizyta kontrolna za 8 tygodni.
+
+<<<SAMPLE>>>
+Opis zabiegu <TEST>FNAB</TEST> tarczycy, <DATE>18.06.2024</DATE>. Pacjentka <PERSON>Monika Stępien</PERSON>, PESEL <PESEL>82091212345</PESEL>, zam. <ADDRESS>ul. Słoneczna 34, 30-123 Kraków</ADDRESS>. Punkcja guzka 12 mm w lewym płacie. Wynik: niejednoznaczne znaczenie (Bethesda II). Zalecono powtórkę <TEST>USG</TEST> za 6 miesięcy lub <TEST>PET-CT</TEST>.
+
+<<<SAMPLE>>>
+Notatka pielęgniarki diabetologicznej, <DATE>07.06.2024</DATE>. <PERSON>Stanisław Bąk</PERSON>, PESEL <PESEL>59032134567</PESEL>, tel. <PHONE>501 876 543</PHONE>. Szkolenie w obsłudze <TEST>glukometru</TEST> i <TEST>pompki insulinowej</TEST>. Edukacja żywieniowa w <DISEASE>cukrzycy typu 1</DISEASE>. Pacjent zrozumiał zalecenia. Następna wizyta za 2 tygodnie.
+
+<<<SAMPLE>>>
+Wydanie zaświadczenia lekarskiego, <DATE>09.06.2024</DATE>. <PERSON>Zofia Sadowska</PERSON>, PESEL <PESEL>68011312345</PESEL>, zam. <ADDRESS>Wrocław, Stare Miasto 56/7</ADDRESS>. Choroba: <DISEASE>cukrzyca typu 2 niekontrolowana</DISEASE>. Ograniczenia w pracy zawodowej. Zwolnienie od <DATE>09.06</DATE> do <DATE>19.06.2024</DATE>. Lekarz: <PERSON>Dr Grzegorz Łuczyński</PERSON>.
+
+<<<SAMPLE>>>
+Raport laboratoryjny, <DATE>11.06.2024</DATE>. <PERSON>Ryszard Kamiński</PERSON>, PESEL <PESEL>53081534567</PESEL>, pobranie <DATE>10.06.2024</DATE>. <TEST>TSH</TEST> 4.2 mlU/l, <TEST>T4 wolny</TEST> 14 pmol/l — wskazanie na <DISEASE>hipotireozę subcliniczną</DISEASE>. <DRUG>Levotyroksyna</DRUG> do zwiększenia o 12.5 μg. Powtórz <TEST>TSH</TEST> za 6 tygodni.
+
+<<<SAMPLE>>>
+Opis <TEST>scintigrafii tarczycy</TEST>, <DATE>20.06.2024</DATE>. Pacjent <PERSON>Jacek Murawski</PERSON>, PESEL <PESEL>74061234567</PESEL>. Podano <DRUG>Pertechnetat Tc-99m</DRUG> 10 mCi i.v. Obraz: dystrybucja niejednorodna, guzki "zimne" w obu płatach. <DISEASE>Guzki tarcycy nieczynne hormonalnie</DISEASE>. Rekomendacja: <TEST>biopsja aspiracyjna</TEST>.
+
+<<<SAMPLE>>>
+Epikryza ze szpitalizacji, pacjent <PERSON>Henryk Borowski</PERSON>, PESEL <PESEL>61072534567</PESEL>, pobyt <DATE>15.06-17.06.2024</DATE>. Przyjęcie: <DISEASE>hipoglikemia wtórna</DISEASE> w przebiegu <DISEASE>cukrzycy typu 2 leczenia insuliną</DISEASE>. Przy przyjęciu <TEST>glikemia</TEST> 39 mg/dl, nieprzytomny. Podano glukozę i.v., pacjent przytomny. Edukacja, zmiana schematu insuliny, wypisany w dobrym stanie.
+
+<<<SAMPLE>>>
+Recepta na insulinę, <DATE>13.06.2024</DATE>. <PERSON>Alicja Pawlak</PERSON>, PESEL <PESEL>79101234567</PESEL>, zam. <ADDRESS>ul. Złota 9, 00-019 Warszawa</ADDRESS>. <DRUG>Insulina glargina</DRUG> 100 jm./ml, 2 opakowania po 3 ml. <DRUG>Insulina lispro</DRUG> 100 jm./ml, 3 opakowania po 3 ml. Okres ważności: 13.12.2024.
+
+<<<SAMPLE>>>
+Skierowanie do poradni endokrynologicznej, <DATE>06.06.2024</DATE>. <PERSON>Witold Śliwa</PERSON>, PESEL <PESEL>60031234567</PESEL>, tel. <PHONE>512 345 678</PHONE>, zam. <ADDRESS>Kraków, Nowa Huta, ul. Góry 18/5</ADDRESS>. Podejrzenie <DISEASE>hiperthyreoidyzmu</DISEASE> — skargi na wahania nastroju, tachykardię. <TEST>TSH</TEST> obniżone (<0.01), <TEST>fT4</TEST> podwyższone. Cel: diagnostyka i decyzja o terapii. <HOSPITAL>Poradnia Endokrynologiczna Szpitala Uniwersyteckiego</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka ze wspomagania decyzji terapeutycznej, <DATE>14.06.2024</DATE>. <PERSON>Lidia Szymczyk</PERSON>, PESEL <PESEL>72021234567</PESEL>. <TEST>HbA1c</TEST> 8.1%, dodatnie <TEST>autoantygeny Beta-komórek</TEST>. Dyskusja: <DISEASE>cukrzyca autoimunologiczna dorosłych (LADA)</DISEASE> vs. typ 2 niezapalny. Decyzja: wdrożyć insulinę pomimo wieku. Pierwsza injekcja <DRUG>insuliny lantus</DRUG> demonstracyjnie, pacjent szkolony.
+
+<<<SAMPLE>>>
+Konsultacja ortopedyczno-endokrynologiczna, <DATE>19.06.2024</DATE>. <PERSON>Kazimierz Dąbrowski</PERSON>, PESEL <PESEL>55041234567</PESEL>, zam. <ADDRESS>ul. Wysoka 77, Łódź</ADDRESS>. Rozpoznanie: <DISEASE>osteoporoza wtórna</DISEASE> w przebiegu nieadekwatnie leczonej <DISEASE>hipotyreozy</DISEASE>. <TEST>TSH</TEST> 8.5 mlU/l, <TEST>T-score DEXA</TEST> -2.8 w obrębie kręgów lędźwiowych. Zalecono zwiększenie <DRUG>Levotyroksyny</DRUG> i wpis do <HOSPITAL>Poradni Osteoporozy</HOSPITAL>.
+
+<<<SAMPLE>>>
+Notatka pierwszej wizyty diabetologicznej, <DATE>10.06.2024</DATE>. <PERSON>Grażyna Nowak</PERSON>, PESEL <PESEL>68021534567</PESEL>, tel. <PHONE>603 456 789</PHONE>. Objawy: pragnienie, zmęczenie przez 3 tygodnie. <TEST>Glikemia random</TEST> 318 mg/dl, <TEST>HbA1c</TEST> 9.2%. Obraz: <DISEASE>cukrzyca typu 2 ze słabą kompensacją</DISEASE>. Wdrożono <DRUG>Metforminę</DRUG> 1000 mg d.o.d. i <DRUG>Gliptynę</DRUG> 100 mg d.o.d. Powrót za 4 tygodnie.
+
+<<<SAMPLE>>>
+Opis <TEST>mammografii</TEST> w kontekście endokrynologicznym, <DATE>08.06.2024</DATE>. <PERSON>Barbara Kubiak</PERSON>, PESEL <PESEL>77102134567</PESEL>, zam. <ADDRESS>Poznań, ul. Stęczyńskiego 12</ADDRESS>. Pierce pod wpływem <DRUG>Terapii Hormonalnej Zastępczej</DRUG>. Obraz: gęstość równomiernie rozproszona, b/z zmian złośliwych. Zalecono mammografię kontrolną za 12 miesięcy.
+
+<<<SAMPLE>>>
+E-recepta, <DATE>04.06.2024</DATE>, <PERSON>Dr Ewa Nowicka</PERSON>, NIP endokrynolog. Pacjent: <PERSON>Stanisław Krawczyk</PERSON>, PESEL <PESEL>56121534567</PESEL>, <ADDRESS>Gdańsk, ul. Szeroka 55/2</ADDRESS>. <DRUG>Saxagliptyna</DRUG> 5 mg raz dziennie; <DRUG>Metformina</DRUG> XR 1000 mg wieczorem. Ważna: 04.12.2024.
+
+<<<SAMPLE>>>
+Notatka kontrolna pacjenta ze <DISEASE>PCOS</DISEASE>, <DATE>16.06.2024</DATE>. <PERSON>Natalia Zajewska</PERSON>, PESEL <PESEL>94021234567</PESEL>, tel. <PHONE>721 987 654</PHONE>. <TEST>Testosteron wolny</TEST> 0.8 pg/ml (poniżej normy), <TEST>DHEA-S</TEST> 189 µg/dl. <TEST>USG przezpochwowe</DISEASE> — obserwuje się zmniejszenie liczby folikulów. Leczenie <DRUG>Metforminą</DRUG> i <DRUG>Akretarem</DRUG> przynosi efekty. Wizyta za 3 miesiące.
+
+<<<SAMPLE>>>
+Raport ze stanowiska ratowniczego, <DATE>22.06.2024</DATE> godz. 02:15. <PERSON>Tomasz Wolski</PERSON>, PESEL <PESEL>63071234567</PESEL>, tel. <PHONE>602 111 222</PHONE>, zam. <ADDRESS>Warszawa, Piaseczno, ul. Słoneczna 8</ADDRESS>. Wezwanie: zatrata przytomności. <TEST>Glikometrem</TEST> zmierzona <TEST>glikemia</TEST> 34 mg/dl. Pacjent w <DISEASE>hipoglikemii ciężkiej</DISEASE>. Podana <DRUG>glukoza żelu</DRUG>, następnie i.v. Transport do <HOSPITAL>Szpitala Centralnego</HOSPITAL>.
+
+<<<SAMPLE>>>
+Wydanie opinii do ZUS, <DATE>11.06.2024</DATE>. <PERSON>Zbigniew Madejski</PERSON>, PESEL <PESEL>59051234567</PESEL>, zam. <ADDRESS>ul. Jagiełły 28, Kraków</ADDRESS>. Stan zdrowia: <DISEASE>cukrzyca typu 2 niekontrolowana z licznymi powikłaniami — neuropatia, retinopatia, nephropatia</DISEASE>. Niezdolny do pracy. Zalecana invalida. Lekarz: <PERSON>Prof. Dr Zygmunt Skarub</PERSON>, Szpital Uniwersytecki.
+
+<<<SAMPLE>>>
+Notatka z porady telemedycznej, <DATE>17.06.2024</DATE>, godzina 17:00. <PERSON>Ewa Szpakowska</PERSON>, PESEL <PESEL>75031234567</PESEL>, tel. <PHONE>666 555 444</PHONE>. Problem: nocne hipoglikemie pomimo zmniejszenia insuliny. <TEST>Glikemia przed snem</TEST> zwykle 180-220 mg/dl. Zalecono rozdzielenie dawki wieczornej <DRUG>insuliny degludec</DRUG> (zmniejszyć ze 20 do 18 jm.). Pacjent zrozumiał, powrót telefoniczny za tydzień.
+
+<<<SAMPLE>>>
+Opis <TEST>endosonografii trzustki</TEST>, <DATE>12.06.2024</DATE>. <PERSON>Lucjan Opolski</PERSON>, PESEL <PESEL>62081534567</PESEL>. Trzustka bez cech zwiększenia rozmiaru, echogeniczność prawidłowa. b/z zmian głownie sugestywnych dla <DISEASE>pankreatitis</DISEASE>. <TEST>Markery nowotworu CA 19-9</TEST> w normie. Wniosek: b/z radonów — hipoechoic focus d.o. obserwacji.
+
+<<<SAMPLE>>>
+Recepta dla pacjenta z <DISEASE>hipotireozą</DISEASE>, wystawiona <DATE>09.06.2024</DATE>. <PERSON>Urszula Lewandowska</PERSON>, PESEL <PESEL>71061234567</PESEL>, zam. <ADDRESS>ul. Piękna 42/6, Wrocław</ADDRESS>. <DRUG>L-Tyroksyna</DRUG> 100 μg, 1 tabl. rano na czczo, 100 tabl. Ważna: 09.12.2024. Wystawca: <PERSON>Dr Tadeusz Kowalik</PERSON>, lekarze rodzinny.
+
+<<<SAMPLE>>>
+Notatka z akredytowanego szkolenia pacjentów, <DATE>13.06.2024</DATE>. Pacjenci ze <DISEASE>cukrzycą typu 1</DISEASE>: <PERSON>Marta Glapiński</PERSON>, PESEL <PESEL>87021234567</PESEL>; <PERSON>Dawid Rogowski</PERSON>, PESEL <PESEL>89031234567</PESEL>. Temat: <TEST>monitorowanie ciągłe glukozy (CGM)</TEST>, obsługa pompki. Materiały wydane. Wszyscy pacjenci aktywnie uczestniczyli. Certyfikat: 4 godz.
+
+<<<SAMPLE>>>
+Zapis z dyżurki nocnej, <DATE>21.06.2024</DATE> 03:45. <PERSON>Piotr Zakrzewski</PERSON>, PESEL <PESEL>61011234567</PESEL>, tel. <PHONE>517 654 321</PHONE>, zam. <ADDRESS>Poznań, Wilda, ul. Mickiewicza 99/3</ADDRESS>. Pacjent zgłosił bóle w klatce piersiowej, odczuwa się <DISEASE>bezbolesny zawał</DISEASE> w przebiegu <DISEASE>cukrzycy 15 lat</DISEASE>. <TEST>EKG</TEST> zmienione, <TEST>troponina</TEST> 0.6 ng/ml. Wezwano zespół koronografii, transport na <HOSPITAL>Szpital Kardiologiczny</HOSPITAL>.
+
+<<<SAMPLE>>>
+Skierowanie na <TEST>biopsję tarczycy</TEST>, <DATE>02.06.2024</DATE>. <PERSON>Oksana Duda</PERSON>, PESEL <PESEL>80021234567</PESEL>, zam. <ADDRESS>ul. Życzkowska 17, Poznań</ADDRESS>, tel. <PHONE>725 123 456</PHONE>. Wskazanie: guzek 18 mm w prawym płacie, echogeniczność mieszana, wskaźnik TI-RADS 4a. Kierujący: <PERSON>Dr Michał Szalkowski</PERSON>, Poradnia Endokrynologiczna Akademicka.
+
+<<<SAMPLE>>>
+Notatka kontrolna ze <DISEASE>cukrzycą gestacyjną</DISEASE>, <DATE>06.06.2024</DATE>. <PERSON>Natalia Kostrubska</PERSON>, PESEL <PESEL>99020812345</PESEL>, ciąża 28 tygodni. <TEST>Test tolerancji glukozy 75g</TEST> — wynik: <TEST>glikemia 0 min</TEST> 101 mg/dl, <TEST>120 min</TEST> 187 mg/dl, <TEST>180 min</TEST> 149 mg/dl. Diagnoza potwierdzona. Zalecono dietę, monitoring glukozy 4x dziennie, następna wizyta za tydzień.
+
+<<<SAMPLE>>>
+Wydanie zaświadczenia do pracodawcy, <DATE>18.06.2024</DATE>. <PERSON>Adrian Urbański</PERSON>, PESEL <PESEL>68081534567</PESEL>, zam. <ADDRESS>Kraków, ul. Daszyńskiego 15</ADDRESS>. Schorzenie: <DISEASE>hiperthyreoidyzm będący w leczeniu</DISEASE>. Zdolny do pracy z ograniczeniami — brak pracy w warunkach stresu i temperatury. Wystawca: <PERSON>Lek. Jolanta Szczepan</PERSON>, POZ.
+
+<<<SAMPLE>>>
+Raport z monitorowania ambulatoryjnego, <DATE>10.06.2024</DATE>. <PERSON>Roman Góralski</PERSON>, PESEL <PESEL>57021234567</PESEL>. Urządzenie <TEST>flash glucose monitoring</TEST> założone <DATE>03.06</DATE>. Średnia <TEST>glikemia</TEST> 147 mg/dl, czas <DISEASE>hipoglikemii</DISEASE> <4%, czas <DISEASE>hiperglukemii</DISEASE> 35%. Zalecono zmianę insuIiny bazowej o +2 jm. Pacjent zadowolony z technologii.
+
+<<<SAMPLE>>>
+Notatka z wizyty pooperacyjnej, <DATE>17.06.2024</DATE>. <PERSON>Sylwia Borowska</PERSON>, PESEL <PESEL>76051234567</PESEL>, po <TEST>strumektomii całkowitej</TEST> wykonanej <DATE>10.06.2024</DATE> na <DISEASE>raka pęcherzyka tarczowego</DISEASE>. Gojenie rany prawidłowe. <TEST>TSH</TEST> <0.01, <TEST>Thyroglobulin</TEST> <0.1 ng/ml — wskaźniki bezrecydywowe. Zalecono kontynuację leczenia <DRUG>Levotyroksyna</DRUG> 150 μg z docelowym <TEST>TSH</TEST> <0.5. Następna wizyta za 3 miesiące.
+
+<<<SAMPLE>>>

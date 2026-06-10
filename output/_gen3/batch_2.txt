@@ -1,0 +1,63 @@
+Wizyta w POZ, <DATE>08.06.2026</DATE>. Pacjent <PERSON>Krzysztof Lewandowski</PERSON>, PESEL <PESEL>74051234567</PESEL>, tel. <PHONE>723 456 789</PHONE>. Mieszkańczy <ADDRESS>ul. Kopernika 12, 02-031 Warszawa</ADDRESS>. Zgłasza ostre bóle gardła, <TEST>objawy</TEST> od 3 dni. W badaniu: zapalenie, bez <DISEASE>anginy streptokokowej</DISEASE>. Zalecono płuczmy, <DRUG>paracetamol</DRUG> 500 mg co 6 h.
+<<<SAMPLE>>>
+<DATE>15.04.2025</DATE> — e-recepta. <PERSON>Anna Kowalski</PERSON>, PESEL <PESEL>92071556789</PESEL>. <DISEASE>Cukrzyca typu 2</DISEASE>, niezadowalająca kontrola. Wyniku <TEST>HbA1c</TEST>: 7.8%. Zwiększenie dawki <DRUG>metforminy</DRUG> do 2x1000 mg. Kontrola za 3 m-ce w POZ.
+<<<SAMPLE>>>
+Notatka: pacjent <PERSON>Piotr Nowacki</PERSON>, PESEL <PESEL>81032876543</PESEL>, zam. <ADDRESS>Kraków, ul. Stanisławskiego 5/3</ADDRESS>. Telefonicznie zgłasza <DISEASE>syndrom przeziębienia</DISEASE>. <TEST>Temperatura</TEST> 37.2°C, kaszel suchy. Zalecono obserwację domową, <DRUG>ibuprofen</DRUG> 400 mg p.o. co 8 h.
+<<<SAMPLE>>>
+Wywiad: <PERSON>Elżbieta Zielińska</PERSON>, PESEL <PESEL>65082234521</PESEL>, wiek 61 lat, tel. <PHONE>517 654 321</PHONE>. Zamieszkana <ADDRESS>ul. Piłsudskiego 77, 31-109 Kraków</ADDRESS>. Od roku <DISEASE>arytmia serca</DISEASE>, ostatnio częstsze napady. <TEST>EKG</TEST> zaplanowane, przesłanie kardiologowi. Kontynuacja <DRUG>Concor</DRUG> 2.5 mg 1x dzień.
+<<<SAMPLE>>>
+<DATE>22.05.2026</DATE>. Zaburzenia snu u <PERSON>Michała Ostrowskiego</PERSON>, PESEL <PESEL>79041267890</PESEL>. <DISEASE>Bezsenność przewlekła</DISEASE> od 2 lat. Próba <DRUG>melatoniny</DRUG> i higieny snu. Jeśli brak poprawy, skierowanie do neurologa.
+<<<SAMPLE>>>
+Recepta e-wydana dla <PERSON>Joanna Lipińska</PERSON>, PESEL <PESEL>88100532145</PESEL>, tel. <PHONE>602 789 012</PHONE>. <DISEASE>Łuszczyca</DISEASE> na łokciach i kolanach. Zalecono <DRUG>krem z retinoidem</DRUG> 0.025% wieczorem, <DRUG>emolientem</DRUG> rano. Fotografia do oceny postępu.
+<<<SAMPLE>>>
+Pacjent <PERSON>Robert Szymański</PERSON>, PESEL <PESEL>72091534567</PESEL>, zam. <ADDRESS>ul. Marszałkowska 42/5, 00-001 Warszawa</ADDRESS>. Ponad rok <DISEASE>migrena</DISEASE> z aurą. <TEST>Rezonans magnetyczny</TEST> mózgu zaplanowany. Zwiększenie <DRUG>propranololu</DRUG> do 120 mg dziennie. Próba <DRUG>magnezu</DRUG> oraz zmian stylu życia.
+<<<SAMPLE>>>
+<DATE>30.03.2026</DATE>. Notatka z wizyty. <PERSON>Danuta Kowalczyk</PERSON>, PESEL <PESEL>58071123456</PESEL>, tel. <PHONE>789 234 567</PHONE>. Obrzęk kostek, <DISEASE>niewydolność serca</DISEASE> skłonności rodzinne. <TEST>Echo serca</TEST> pilnie, skierowanie do kardiologu. <DRUG>Furosemid</DRUG> rozpoczęty 40 mg dziennie.
+<<<SAMPLE>>>
+<PERSON>Sylwester Grabowski</PERSON>, PESEL <PESEL>66012267890</PESEL>, mieszkaniec <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>, tel. <PHONE>698 456 123</PHONE>. Zgłasza <DISEASE>ból pleców dolnych</DISEASE> po upadku. <TEST>Badanie fizykalne</TEST> bez objawów neurологicznych. <DRUG>Diklofenak</DRUG> 50 mg b.d. p.o., fizjoterapia zalecana.
+<<<SAMPLE>>>
+Epikryza ze szpitala: <PERSON>Stanisław Lewandowski</PERSON>, PESEL <PESEL>55023344556</PESEL>. Hospitalizacja <DATE>12-18.05.2026</DATE> z powodu <DISEASE>zapalenia płuc</DISEASE>. <TEST>Rentgen klatki</TEST> — infiltrat dolny prawe. <TEST>Morfologia, CRP</TEST> — CRP 65 mg/l. Leczenie antybiotykami IV. Wypisano z <DRUG>amoksycyliną</DRUG> 500 mg x3 na 10 dni.
+<<<SAMPLE>>>
+Pacjent <PERSON>Janusz Nowak</PERSON>, PESEL <PESEL>81051234567</PESEL>. <DISEASE>Nadciśnienie tętnicze</DISEASE> źle kontrolowane (RR 165/105). Zwiększenie <DRUG>amlodypiny</DRUG> z 5 do 10 mg. Dodanie <DRUG>lisinoprylu</DRUG> 5 mg. Pomiary RR domowe zalecone.
+<<<SAMPLE>>>
+<DATE>02.06.2026</DATE>. <PERSON>Urszula Kucharz</PERSON>, PESEL <PESEL>72082299887</PESEL>, tel. <PHONE>512 678 901</PHONE>, zam. <ADDRESS>ul. Floriańska 8, 31-019 Kraków</ADDRESS>. Wynik <TEST>densytometrii</TEST> — <DISEASE>osteoporoza</DISEASE>. Zalecono <DRUG>wapń + witaminę D3</DRUG>, ćwiczenia wzmacniające, zmiana diety. Skierowanie do endokrynologa.
+<<<SAMPLE>>>
+Notatka telefoniczna: <PERSON>Grzegorz Zieliński</PERSON>, PESEL <PESEL>69010234567</PESEL>. Zakażenie <DISEASE>COVID-19</DISEASE>, objaw kaszlu i zmęczenia od 5 dni. <TEST>Test antygenowy</TEST> dodatni. Kwarantanna domowa do <DATE>15.06.2026</DATE>. <DRUG>Paracetamol</DRUG> p.o. z powodu temperatury.
+<<<SAMPLE>>>
+<PERSON>Beata Ostrowska</PERSON>, PESEL <PESEL>75070534521</PESEL>, wiek 49 lat, tel. <PHONE>608 321 654</PHONE>. <DISEASE>Zapalenie ścięgniste</DISEASE> podkolanowe prawe. <TEST>USG</TEST> potwierdza, zwolnienie pracy z wychyleniach za 2 tygodnie. <DRUG>Ketoprofen</DRUG> żel miejscowo, <DRUG>ibuprofen</DRUG> 200 mg p.o. p.d.n.
+<<<SAMPLE>>>
+Wizyta kontrolna <DATE>07.06.2026</DATE>. <PERSON>Marek Adamczyk</PERSON>, PESEL <PESEL>62030945678</PESEL>, zam. <ADDRESS>ul. Bolesława Chrobrego 22, 50-001 Wrocław</ADDRESS>. Po <DISEASE>zawale serca</DISEASE> <DATE>marzec 2025</DATE>. Stabilny klinicznie. Kontynuacja <DRUG>Acardu</DRUG> 75 mg, <DRUG>bizoprololu</DRUG> 5 mg, <DRUG>atorwastatyny</DRUG> 40 mg. <TEST>EKG</TEST> bez zmian.
+<<<SAMPLE>>>
+<PERSON>Małgorzata Jankowska</PERSON>, PESEL <PESEL>86042276543</PESEL>, tel. <PHONE>606 789 234</PHONE>. <DISEASE>Asthma bronchialna</DISEASE> często objawiająca się nocnie. <TEST>PEF</TEST> zmienne. Dodano inhalator <DRUG>fluticasonu</DRUG> 125 µg b.d. + <DRUG>salbutamol</DRUG> doraźnie. Edukacja o poprawnej inhalacji.
+<<<SAMPLE>>>
+Recepta: <PERSON>Tadeusz Szulc</PERSON>, PESEL <PESEL>58011534567</PESEL>, mieszkaniec <ADDRESS>ul. Żeromskiego 3/9, 90-001 Łódź</ADDRESS>. <DISEASE>Zaburzenia nerwicowe</DISEASE> z <DISEASE>napadami paniki</DISEASE>. Próba <DRUG>sertraliny</DRUG> 50 mg 1x dzień rano. Zakresu zapalenia, następna wizyta za 3 m-ce.
+<<<SAMPLE>>>
+<DATE>29.05.2026</DATE>. <PERSON>Zofia Lewandowska</PERSON>, PESEL <PESEL>70031187654</PESEL>, tel. <PHONE>723 890 123</PHONE>. <DISEASE>Infekcja dróg moczowych</DISEASE> recydywująca. <TEST>Urinaliza</TEST> — nitryny +, leukocyty +. Zalecono <DRUG>nitrofurantoinę</DRUG> 100 mg b.d. na 5 dni. Picie dużo wody, zmiana higieny.
+<<<SAMPLE>>>
+Pacjent <PERSON>Włodzimierz Duda</PERSON>, PESEL <PESEL>64021234567</PESEL>. <DISEASE>Choroba refluksowa przełyku</DISEASE> źle kontrolowana. Zwiększenie <DRUG>omeprazolu</DRUG> z 20 na 40 mg dziennie. Zalecono zmianę pozycji podczas snu, unikanie potraw tłustych i pikantnych.
+<<<SAMPLE>>>
+E-konsultacja: <PERSON>Katarzyna Wysocka</PERSON>, PESEL <PESEL>77060012345</PESEL>, zam. <ADDRESS>ul. Krakowskie Przedmieście 26/1, 00-071 Warszawa</ADDRESS>. Wynik <TEST>TSH</TEST> 4.2 mlU/l, podejrzenie <DISEASE>niedoczynności tarczycy</DISEASE>. Rozpoczęcie <DRUG>lewotyroksyny</DRUG> 25 µg dziennie, ponowny <TEST>TSH</TEST> za 6 t-ni.
+<<<SAMPLE>>>
+<DATE>01.06.2026</DATE>. Notatka z badania. <PERSON>Arkadiusz Krawczyk</PERSON>, PESEL <PESEL>73050534567</PESEL>, tel. <PHONE>721 234 567</PHONE>. <DISEASE>Zapalenie spojówek alergicznych</DISEASE>. <DRUG>Okulentum antybiotyczne</DRUG> 3x dziennie. Unikanie kontaktu z pyłkami, okulary przeciwsłoneczne zalecane.
+<<<SAMPLE>>>
+Pacjentka <PERSON>Jolanta Pawluk</PERSON>, PESEL <PESEL>69121234567</PESEL>, wiek 57 lat. <DISEASE>Bóle głowy napięciowe</DISEASE> 2x tygodniowo. <TEST>Badanie neurolog.</TEST> bez ognisk. Próba <DRUG>topiramatu</DRUG> 25 mg wieczorem, zwiększanie co tydzień. Edukacja o stresie i wypoczynku.
+<<<SAMPLE>>>
+Wizyta w POZ <DATE>06.06.2026</DATE>. <PERSON>Hieronim Sobczak</PERSON>, PESEL <PESEL>55081156789</PESEL>, zam. <ADDRESS>Poznań, ul. Długa 44/2</ADDRESS>, tel. <PHONE>789 567 234</PHONE>. Powikłanie <DISEASE>cukrzycy</DISEASE> — <DISEASE>neuropatia czuciowa</DISEASE> nóg. <TEST>Badanie neurolog.</TEST> potwierdzam obniżenie czucia. <DRUG>Gabapentyna</DRUG> 300 mg 3x dziennie.
+<<<SAMPLE>>>
+<PERSON>Jadwiga Nowakowa</PERSON>, PESEL <PESEL>54101234567</PESEL>, tel. <PHONE>603 456 789</PHONE>. Operacja usunięcia macicy <DATE>15.04.2026</DATE>. Gojenie prawidłowe. Brak wycieku czy bolesności. Zalecono stopniowy powrót do aktywności, unikanie wysiłku przez 8 t-ni.
+<<<SAMPLE>>>
+E-recepta dla <PERSON>Stanisław Włodarczyk</PERSON>, PESEL <PESEL>61070945678</PESEL>, mieszkaniec <ADDRESS>ul. Szpitalna 7, 80-001 Gdańsk</ADDRESS>. <DISEASE>Zapalenie stawów reumatoidalne</DISEASE>. Kontynuacja <DRUG>metotreksjatu</DRUG> 15 mg raz w tydzień, <DRUG>metylprednizolonu</DRUG> 5 mg dziennie. Badania laboratoryjne co 3 m-ce.
+<<<SAMPLE>>>
+<DATE>04.06.2026</DATE>. <PERSON>Renata Górecka</PERSON>, PESEL <PESEL>80031534567</PESEL>, tel. <PHONE>512 890 123</PHONE>. <DISEASE>Zapalenie pęcherzyka żółciowego</DISEASE> na tle kamicy. <TEST>USG jamy brzusznej</TEST> — kamienie 1.5 cm. Skierowanie do chirurga na konsultację cholecystektomii. <DRUG>Dicetel</DRUG> 50 mg b.d. p.o.
+<<<SAMPLE>>>
+Notatka: pacjent <PERSON>Bogdan Kubiak</PERSON>, PESEL <PESEL>72061234567</PESEL>. <DISEASE>Zaburzenia lęku uogólnionego</DISEASE>. <TEST>Skala HADS</TEST> — 16 pkt. Zalecono <DRUG>pregabalinę</DRUG> 150 mg dziennie + psychoterapia. Ponowna ocena za 2 m-ce.
+<<<SAMPLE>>>
+<PERSON>Emilia Szydłowska</PERSON>, PESEL <PESEL>87090223456</PESEL>, wiek 39 lat, zam. <ADDRESS>ul. Piotrkowska 105, 90-009 Łódź</ADDRESS>, tel. <PHONE>723 567 890</PHONE>. Wynik <TEST>mammografii</TEST> — konieczna <TEST>biopsja</TEST>. Skierowanie do onkologa na dodatkową ocenę. Edukacja o procedurze.
+<<<SAMPLE>>>
+Wizyta pooperacyjna <DATE>10.05.2026</DATE>. <PERSON>Andrzej Żurawski</PERSON>, PESEL <PESEL>70020534567</PESEL>. Po <DISEASE>zapaleniu wyrostka robaczkowatego</DISEASE> — operacja laparoskopowa. Gojenie prawidłowe, bez cech infekcji. Usunięcie opatrunków, fizjoterapia rozpoczęta.
+<<<SAMPLE>>>
+E-recepta: <PERSON>Marta Nowicka</PERSON>, PESEL <PESEL>85041256789</PESEL>, tel. <PHONE>606 234 567</PHONE>, zam. <ADDRESS>ul. Królewska 15/3, 31-015 Kraków</ADDRESS>. <DISEASE>Alergiczny nieżyt nosa</DISEASE> sezonowy. <DRUG>Mometazon</DRUG> spray 200 µg 1x dzień. <DRUG>Cetyryzyna</DRUG> 10 mg wieczorem.
+<<<SAMPLE>>>
+<DATE>08.06.2026</DATE>. <PERSON>Czesław Proch</PERSON>, PESEL <PESEL>63011045678</PESEL>. <DISEASE>Hiperlipidemii</DISEASE> — <TEST>cholesterol całkowity</TEST> 285 mg/dl, <TEST>LDL</TEST> 180 mg/dl. Zwiększenie <DRUG>rosuwastatyny</DRUG> do 20 mg. Zalecono dietę niskotłuszczową, ćwiczenia aerobowe 5x tydzień.
+<<<SAMPLE>>>
+Notatka pacjentki: <PERSON>Aleksandra Michalska</PERSON>, PESEL <PESEL>79070523456</PESEL>, tel. <PHONE>789 012 345</PHONE>. <DISEASE>Depresja umiarkowana</DISEASE> trwająca 8 m-cy. <TEST>Skala PHQ-9</TEST> — 14 pkt. Rozpoczęcie <DRUG>escitalopramu</DRUG> 10 mg dziennie. Skierowanie do psychiatry oraz psychoterapeuty.

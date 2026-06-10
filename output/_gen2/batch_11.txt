@@ -1,0 +1,143 @@
+Notatka SOR, <DATE>08.06.2024</DATE>, godz. 14:30. Pacjent <PERSON>Maciej Kowalski</PERSON>, PESEL <PESEL>78051234567</PESEL>, zam. <ADDRESS>ul. Krakowska 23, 31-055 Kraków</ADDRESS>. Telefon: <PHONE>601 234 567</PHONE>. Zgłoszenie: ostra bol w nadbrzuszu, wymioty przez 2 h. W <TEST>USG jamy brzusznej</TEST> powiększona <DISEASE>trzustka</DISEASE> z obrzękiem, lipaza 450 U/l. Rozpoznanie: <DISEASE>zapalenie trzustki ostrego</DISEASE>. Skierowany na <HOSPITAL>Oddział Gastroenterologii Szpitala Św. Raffaela</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>05.06.2024</DATE>. Dr <PERSON>Ewa Lewandowska</PERSON>, Przychodnia Zdrowia Mokotów, <ADDRESS>Puławska 42, Warszawa</ADDRESS>. Pacjent: <PERSON>Joanna Mazur</PERSON>, PESEL <PESEL>92031567890</PESEL>. Rozpoznanie: <DISEASE>refluksowa choroba przełyku (GERD)</DISEASE>. Ordynacja: <DRUG>Omeprazol</DRUG> 20 mg 1x dz. p.o., <DRUG>Gaviscon</DRUG> 10 ml p.o. po posiłkach. Tel. pacjenta: <PHONE>789 345 012</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis USG jamy brzusznej, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Krzysztof Nowak</PERSON>, PESEL <PESEL>81021234567</PESEL>. Lokalizacja: <ADDRESS>ul. Mokotowska 15/3, 02-513 Warszawa</ADDRESS>. <TEST>USG</TEST> wykazuje zmianę w <DISEASE>trzonie trzustki</DISEASE>, echostruktura zmieniona, wymiary w normie. Podejrzenie nowotworu — wymaga dalszej diagnostyki <TEST>TK</TEST> lub <TEST>MRI</TEST>. Kontakt: <PHONE>512 678 901</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Anna Piechocka</PERSON>, PESEL <PESEL>89061234567</PESEL>, mieszka <ADDRESS>Piekary Śląskie, ul. Ogólna 7/2</ADDRESS>. Zgłoszenie: przewlekłe bóle w nadbrzuszu l. i p., zatrzymanie stolca. <TEST>Badanie palpacyjne</TEST> bez zmian ostrych. W ostatnich <TEST>badaniach endoskopowych</TEST> — <DISEASE>zapalenie błony śluzowej żołądka</DISEASE> stopnia II/III. Zalecenia: <DRUG>Ranitidin</DRUG> 150 mg 2x dz., dieta łagodna. Tel: <PHONE>601 789 345</PHONE>.
+
+<<<SAMPLE>>>
+
+Epikryza ze szpitala, <DATE>02.06.2024</DATE>. Pacjent <PERSON>Roman Szymczak</PERSON>, PESEL <PESEL>75061234567</PESEL>, adres: <ADDRESS>ul. Warszawska 89, 15-001 Białystok</ADDRESS>. Telefon prywatny: <PHONE>698 765 432</PHONE>. Przyjęty z <DISEASE>krwawieniam z górnego odcinka przewodu pokarmowego (GI bleed)</DISEASE>, Hb 7.2 g/dl. Przeprowadzono <TEST>gastroskopię</TEST> — znaleziono <DISEASE>owrzodzenie antrum żołądka</DISEASE>, hemostaza endoskopowa. Wypisany w stanie ogólnym dobrym. Doktor <PERSON>Tomasz Kucharski</PERSON> zaleca follow-up <TEST>gastroskopia</TEST> za 6 tygodni.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>04.06.2024</DATE>. Pacjent <PERSON>Beata Urbanowska</PERSON>, PESEL <PESEL>88072345678</PESEL>, zam. <ADDRESS>Gdańsk, ul. Marszałkowska 12/4</ADDRESS>, tel. <PHONE>723 456 789</PHONE>. Zgłoszenie: ciężkie bóle brzucha, nudności. W <TEST>tomografii komputerowej</TEST> — <DISEASE>wodniak</DISEASE> w jamie brzusznej, <DISEASE>zapalenie otrzewnej</DISEASE>. <TEST>Poziom amylazy</TEST> 850 U/l. Leczenie szpitalne podjęte na <HOSPITAL>Oddział Chirurgii Szpitala Miejskiego</HOSPITAL>. Kontakt: <PHONE>723 456 790</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta prywatna, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Henryk Sobotka</PERSON>, PESEL <PESEL>70031234567</PESEL>, <ADDRESS>Poznań, Nowe Miasto 45/7</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie okrężnicy zakaźne</DISEASE>. Przepisane: <DRUG>Mesalazyna</DRUG> 500 mg 3x dz. p.o., <DRUG>Ciprofloksacyna</DRUG> 500 mg 2x dz. Tel. lekarz <PERSON>dr Katarzyna Szulc</PERSON>: <PHONE>601 987 654</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis kolonoskopii, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Urszula Nowak</PERSON>, PESEL <PESEL>91121234567</PESEL>, zamieszkanie: <ADDRESS>ul. Kopernika 32/1, 50-001 Wrocław</ADDRESS>. <TEST>Kolonoskopia</TEST> — przebieg prawidłowy, polipy usunięte (p. dwa), pobrane wycinki. <DISEASE>Niski stopień dyspazji w esicy</DISEASE>. Histopatologia w toku. Zaleca się <TEST>nast. kolonoskopia</TEST> za 3 lata. Tel: <PHONE>789 123 456</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka POZ, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Piotr Lewandowski</PERSON>, PESEL <PESEL>82051234567</PESEL>, adres: <ADDRESS>Łódź, ul. Piotrkowska 67/12</ADDRESS>. Objawy: biegunka od 4 dni, ból brzucha. W <TEST>badaniu stolca</TEST> — gorączka 38.5°C. Wpis ICD: <DISEASE>infekcja pokarmowa, prawdopodobnie wirusowa</DISEASE>. Zalecenia: dieta BRAT, <DRUG>Imodium</DRUG> p.o. po łanie, hydratacja. Kontakt: <PHONE>512 345 678</PHONE>.
+
+<<<SAMPLE>>>
+
+E-recepta, <DATE>08.06.2024</DATE>. Dr <PERSON>Józef Marczewski</PERSON>, <ADDRESS>ul. Szewska 18, 31-010 Kraków</ADDRESS>. Pacjent <PERSON>Ewa Górska</PERSON>, PESEL <PESEL>85061234567</PESEL>. Rozpoznanie: <DISEASE>zapalenie esofagu spowodowane kandydozą</DISEASE>. Przepisano: <DRUG>Flukonazol</DRUG> 150 mg doustnie 1x dz., <DRUG>Sucralfat</DRUG> 1 g 4x dz. p.o. Tel: <PHONE>698 234 567</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Mirosław Kowalczyk</PERSON>, PESEL <PESEL>77091234567</PESEL>, mieszka <ADDRESS>Warszawa, Nargaport 89/5</ADDRESS>. Objawy: przewlekłe odbijanie, uczucie pełności brzucha. <TEST>Badanie fizykalne</TEST> bez patologii. W <TEST>USG jamy brzusznej</TEST> — <DISEASE>kamienie w pęcherzyku żółciowym</DISEASE> do 1 cm, bez zapalenia. Zalecona <TEST>cholecystektomia elektywna</TEST>. Tel kontaktowy: <PHONE>601 567 890</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>EGD (gastroskopii)</TEST>, <DATE>02.06.2024</DATE>. Pacjent <PERSON>Iwona Szczepańska</PERSON>, PESEL <PESEL>88111234567</PESEL>, adres: <ADDRESS>ul. Długa 54/3, 80-001 Gdańsk</ADDRESS>. Badanie: <DISEASE>powierzchniowy nowotwór w kardia żołądka</DISEASE>, wycinki pobrane dla histopatologii. <DISEASE>Otrzewna bez zmian</DISEASE>. Dalsze leczenie na <HOSPITAL>Oddziale Onkologii Szpitala Gdańskiego</HOSPITAL>. Tel: <PHONE>723 678 901</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Stanisław Grabowski</PERSON>, PESEL <PESEL>81031234567</PESEL>, <ADDRESS>Kraków, Czarnowiejska 45/8</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie trzustki przewlekłe</DISEASE> w stadzie dekompensacji. <DRUG>Pankreatyna</DRUG> 25000 j.m. 3x dz., <DRUG>Morfina</DRUG> p.o. doraźnie dla bólu. Nadzór specjalisty <HOSPITAL>Poradni Gastroenterologicznej</HOSPITAL>. Tel: <PHONE>789 234 567</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Grażyna Rudomska</PERSON>, PESEL <PESEL>90061234567</PESEL>, zam. <ADDRESS>ul. Rakowiecka 23/10, 02-510 Warszawa</ADDRESS>. Objawy: nagły ostry ból brzucha, palpacja bolesna w dole prawym. <TEST>CT brzucha</TEST> — <DISEASE>zapalenie wyrostka robaczkowego (zapalenie appendyksa)</DISEASE>. Skierowana na <HOSPITAL>Oddział Chirurgii Szpitala Bielańskiego</HOSPITAL>. Tel: <PHONE>512 678 901</PHONE>.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>04.06.2024</DATE>. Dr <PERSON>Agnieszka Szulcowa</PERSON>, <ADDRESS>Gdynia, al. Zwycięstwa 156</ADDRESS>. Pacjent <PERSON>Dariusz Wieliczko</PERSON>, PESEL <PESEL>79051234567</PESEL>. Rozpoznanie: <DISEASE>zespół jelita drażliwego (IBS) typ zaparciowy</DISEASE>. Ordynacja: <DRUG>Buspar</DRUG> 10 mg 2x dz., <DRUG>Lactulose</DRUG> 15 ml 1-2x dz. Dieta wysoko włóknista. Tel: <PHONE>698 345 678</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>MRI brzucha</TEST>, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Sylwia Krawczyk</PERSON>, PESEL <PESEL>87091234567</PESEL>, adres: <ADDRESS>Poznań, Św. Antoniego 34/2</ADDRESS>. Wynik: <DISEASE>cysty w trzustce</DISEASE> do 2 cm, prawdopodobnie seromaślane, bez cech kompresji. Zalecona <TEST>kontrola USG</TEST> za 6 miesięcy. Doktor <PERSON>Marek Pietrzak</PERSON>. Tel: <PHONE>601 789 234</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Paweł Kędzierski</PERSON>, PESEL <PESEL>86011234567</PESEL>, mieszka <ADDRESS>ul. Grójecka 78/5, 02-304 Warszawa</ADDRESS>. Zgłoszenie: krew w kale, anemia (Hb 9.5 g/dl). <TEST>Badanie <PERSON>dr Leona Górskiego</PERSON></TEST> wskazuje na przebytą <DISEASE>krwawienie z dolnego odcinka przewodu pokarmowego</DISEASE>. Zalecona <TEST>kolonoskopia срочная</TEST>. Tel kontaktowy: <PHONE>723 456 123</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Ludwik Szymanowski</PERSON>, PESEL <PESEL>75071234567</PESEL>, <ADDRESS>Gdańsk, ul. Słowackiego 12/9</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie błony śluzowej żołądka i dwunastnicy</DISEASE> z obecnością Helicobacter pylori. Terapia eradykacyjna: <DRUG>Amoksycylina</DRUG> 1000 mg 2x dz., <DRUG>Klarytrromycyna</DRUG> 500 mg 2x dz., <DRUG>Omeprazol</DRUG> 20 mg 2x dz. przez 10 dni. Tel: <PHONE>789 567 234</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Stefania Michalak</PERSON>, PESEL <PESEL>89121234567</PESEL>, zam. <ADDRESS>Łódź, Piotrkowska 156/7</ADDRESS>, tel. <PHONE>512 234 567</PHONE>. Objawy: wymioty, niemożność przełykania. W <TEST>rentgenie przewodu pokarmowego</TEST> — <DISEASE>ucisk nowotworowy poszerzającego się kardia przełyku</DISEASE>. <TEST>Gastroskopia срочna</TEST> zaplanowana. Konsultacja na <HOSPITAL>Oddziale Onkologii</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-recepta, <DATE>02.06.2024</DATE>. Dr <PERSON>Czesław Nowicki</PERSON>, Przychodnia POZ Modlin. Pacjent <PERSON>Renata Zając</PERSON>, PESEL <PESEL>90031234567</PESEL>, adres: <ADDRESS>ul. Krasińskiego 34, 04-618 Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>dyspepsia niełóżkowa</DISEASE>. Przepisano: <DRUG>Domperidon</DRUG> 10 mg 3x dz. p.o., <DRUG>Algidex</DRUG> 500 mg p.o. w razie potrzeby. Tel: <PHONE>601 456 789</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>USG przezprzełykowe serca</TEST>, <DATE>04.06.2024</DATE>. Pacjent <PERSON>Witold Zakrzewski</PERSON>, PESEL <PESEL>81021234567</PESEL>, zam. <ADDRESS>Warszawa, ul. Puławska 89/12</ADDRESS>. Badanie wykonane w celu różnicowania — pacjent z <DISEASE>zaburzeniami przełykania</DISEASE> i bólem w klatce. Serce: bez zmian strukturalnych. Przełyk: bez widocznych zmian. Tel: <PHONE>698 567 890</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Halina Ostrowska</PERSON>, PESEL <PESEL>88061234567</PESEL>, <ADDRESS>Kraków, ul. Zwierzyniecka 67/3</ADDRESS>. Zgłoszenie: przewlekłe zaparcie, zmęczenie. <TEST>Badania laboratoryjne</TEST>: Fe 12 µg/dl (niskie), ferytyna 15 ng/ml. Podejrzenie <DISEASE>niedoboru żelaza z anemia</DISEASE>. Zalecona <TEST>kolonoskopia</TEST> w celu wykluczenia źródła krwawienia. <DRUG>Ferro Sanol</DRUG> p.o. 1x dz. Tel: <PHONE>723 789 012</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta prywatna, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Tadeusz Ratajczak</PERSON>, PESEL <PESEL>76091234567</PESEL>, <ADDRESS>Poznań, ul. Fredry 12/4</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie dwunastnicy po wrzodzeniu</DISEASE>, post-<TEST>gastroskopia</TEST>. <DRUG>Sucralfat</DRUG> 1 g 4x dz. p.o., <DRUG>Ranitidin</DRUG> 150 mg 2x dz. nocą. Dieta łagodna. Tel: <PHONE>789 123 567</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Irmina Chmielewska</PERSON>, PESEL <PESEL>91071234567</PESEL>, zam. <ADDRESS>ul. Brackiej 15/6, 80-191 Gdańsk</ADDRESS>, tel. <PHONE>601 234 890</PHONE>. Zgłoszenie: nagle bóle brzucha przy defekacji. <TEST>Badanie proktologiczne</TEST> — <DISEASE>pęknięcie błony śluzowej odbytu</DISEASE>, <DISEASE>hemoroidy wewnętrzne II st.</DISEASE>. Leczenie: maści местные, dieta. Zalecany powrót do lekarza za 2 tygodnie.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>03.06.2024</DATE>. Dr <PERSON>Roman Kuchta</PERSON>, <ADDRESS>Wrocław, ul. Sienkiewicza 45</ADDRESS>. Pacjent <PERSON>Magdalena Szewczyk</PERSON>, PESEL <PESEL>89081234567</PESEL>. Rozpoznanie: <DISEASE>zapalenie pęcherza żółciowego bez kamieni</DISEASE>. Zalecenia: <DRUG>Ursol</DRUG> 250 mg 3x dz. p.o., dieta beztłuszczowa. Bezpieczeństwo w kierunku wznowienia bólów. Tel: <PHONE>512 789 345</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>HIDA skan</TEST> (scyntygrafia żółciowa), <DATE>02.06.2024</DATE>. Pacjent <PERSON>Zbigniew Łosowski</PERSON>, PESEL <PESEL>80121234567</PESEL>, adres: <ADDRESS>Warszawa, ul. Zabostra 56/2</ADDRESS>. Wynik: <DISEASE>całkowite zaleganie żółci w pęcherzyku</DISEASE> — podejrzenie <DISEASE>niskiego odpływu żółci przez zwieracz Oddiego</DISEASE>. Zalecono <TEST>sfinkterotomię endoskopową</TEST>. Kontakt z lekarzem <PERSON>dr Anną Rutz</PERSON>: <PHONE>698 456 123</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Bogdan Nowacki</PERSON>, PESEL <PESEL>84051234567</PESEL>, mieszka <ADDRESS>Gdańsk, ul. Podmłyńska 78/11</ADDRESS>. Objawy: przewlekłe nudności, brak apetytu. <TEST>Badanie fizykalne</TEST> bez zmian. <TEST>Morfologia</TEST>: bez anormalizacji. W <TEST>USG jamy brzusznej</TEST> — <DISEASE>hepatomegalia do 16 cm</DISEASE>, <DISEASE>stłuszczenie wątroby</DISEASE>. Zalecona <TEST>biopsja wątroby</TEST>. Tel: <PHONE>723 567 234</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>04.06.2024</DATE>. Pacjent <PERSON>Ewa Witkowska</PERSON>, PESEL <PESEL>85121234567</PESEL>, <ADDRESS>Kraków, ul. Łobzowska 89/4</ADDRESS>. Rozpoznanie: <DISEASE>przewlekła zapalna choroba jelit (IBD, wersja Crohna)</DISEASE> w remisji. <DRUG>Mesalazyna</DRUG> 1000 mg 3x dz. p.o., <DRUG>Azatioprina</DRUG> 50 mg 1x dz. Nadzór specjalisty <HOSPITAL>Poradni Gastroenterologicznej</HOSPITAL>. Tel: <PHONE>601 678 901</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>06.06.2024</DATE>. Pacjent <PERSON>Konrad Olejnik</PERSON>, PESEL <PESEL>77031234567</PESEL>, zam. <ADDRESS>Poznań, ul. Glogowska 34/7</ADDRESS>, tel. <PHONE>789 234 890</PHONE>. Zgłoszenie: ostry ból w lewym dolnym kadranie brzucha, gorączka 38.8°C. <TEST>CT brzucha</TEST> — <DISEASE>zapalenie esicy (diwerutkulitis)</DISEASE> z mikroperforacją. Skierowany na <HOSPITAL>Oddział Chirurgii Szpitala Miejskiego</HOSPITAL> dla ewentualnej <TEST>operacji</TEST>.
+
+<<<SAMPLE>>>
+
+E-recepta, <DATE>08.06.2024</DATE>. Dr <PERSON>Zofia Karpińska</PERSON>, Poradnia Gastroenterologiczna, <ADDRESS>ul. Żeromskiego 12, 31-699 Kraków</ADDRESS>. Pacjent <PERSON>Jacek Romanowski</PERSON>, PESEL <PESEL>82071234567</PESEL>. Rozpoznanie: <DISEASE>zaburzenia motoryki przełyku (achalasia)</DISEASE>. Zalecenie na <TEST>pneumatyczna dylatacja</TEST> przełyku. <DRUG>Nifedipin</DRUG> 20 mg 2x dz. doraźnie. Tel: <PHONE>512 456 789</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>MR cholangiopankreatografia (MRCP)</TEST>, <DATE>01.06.2024</DATE>. Pacjent <PERSON>Lidia Wójcik</PERSON>, PESEL <PESEL>88031234567</PESEL>, zam. <ADDRESS>ul. Mostnika 67/5, 80-001 Gdańsk</ADDRESS>. Badanie: <DISEASE>przewód żółciowy rozszerzony do 12 mm</DISEASE>, <DISEASE>kamień w przewodzie żółciowym głównym</DISEASE> 8 mm. Zalecona <TEST>sfinkterotomia endoskopowa z ekstraktorem</TEST>. Doktor <PERSON>Piotr Szcześniak</PERSON>. Tel: <PHONE>698 789 123</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna, <DATE>05.06.2024</DATE>. Pacjent <PERSON>Aleksandra Kowalczyk</PERSON>, PESEL <PESEL>90021234567</PESEL>, <ADDRESS>Warszawa, ul. Nowogrodzka 45/10</ADDRESS>. Zgłoszenie: krwista biegunka przez 5 dni, bóle kolkowe. <TEST>Badanie fizykalne</TEST> wskazuje niestabilność. <TEST>Testy stolca</TEST> dodatnie na hemoglobinę. Podejrzenie <DISEASE>zakaźnego zapalenia jelit</DISEASE>. Zalecona hospitalizacja na <HOSPITAL>Oddziale Zakaźnym</HOSPITAL>. Tel: <PHONE>723 234 567</PHONE>.
+
+<<<SAMPLE>>>
+
+Recepta, <DATE>07.06.2024</DATE>. Pacjent <PERSON>Stanisław Dąbrowski</PERSON>, PESEL <PESEL>81111234567</PESEL>, <ADDRESS>Gdańsk, al. Niepodległości 120/8</ADDRESS>. Rozpoznanie: <DISEASE>zapalenie trzustki spowodowane alkoholem</DISEASE>. <DRUG>Pankreatyna</DRUG> 25000 j.m. 3x dz. p.o., <DRUG>Paracetamol</DRUG> 500 mg doraźnie. Dieta. Tel konsultanta: <PHONE>601 345 678</PHONE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR, <DATE>03.06.2024</DATE>. Pacjent <PERSON>Celina Skawińska</PERSON>, PESEL <PESEL>92051234567</PESEL>, zam. <ADDRESS>ul. Jerozolimskie 78/12, 00-001 Warszawa</ADDRESS>. Objawy: intensywna dysgeuzja, bóle w przełyku przy przełykaniu. <TEST>Badanie fizyk</TEST> bez szczególnych zmian. <TEST>Gastroskopia niezaplanowana</TEST> wykazała <DISEASE>zawżość grzybicze błony śluzowej przełyku</DISEASE>. Tel: <PHONE>789 456 123</PHONE>.
+
+<<<SAMPLE>>>
+
+E-recepta POZ, <DATE>02.06.2024</DATE>. Dr <PERSON>Sławomir Lewandowski</PERSON>, <ADDRESS>Wrocław, ul. Nowy Świat 34</ADDRESS>. Pacjent <PERSON>Dorota Krysiak</PERSON>, PESEL <PESEL>86091234567</PESEL>. Rozpoznanie: <DISEASE>zespół polipu kolona (rodzinne zapalenie polipowe jelit grubych)</DISEASE>. Zalecona <TEST>całkowita kolektomia elektywna</TEST>. Wizyta u specjalisty na <HOSPITAL>Oddziale Chirurgii Szpitala Uniwersyteckiego</HOSPITAL>. Tel: <PHONE>512 123 456</PHONE>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>elastografia przejściowa (FibroScan)</TEST>, <DATE>04.06.2024</DATE>. Pacjent <PERSON>Jarosław Michałowski</PERSON>, PESEL <PESEL>79021234567</PESEL>, adres: <ADDRESS>Poznań, ul. Mostnika 45/2</ADDRESS>. Wynik: miąższ wątroby 9.5 kPa — <DISEASE>stłuszczenie wątroby F2</DISEASE>, brak fibrózy zaawansowanej. Zalecona zmiana diety i redukcja wagi. Doktor <PERSON>dr Krzysztof Zieliński</PERSON>. Tel: <PHONE>698 234 890</PHONE>.
+
+<<<SAMPLE>>>

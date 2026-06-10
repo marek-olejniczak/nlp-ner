@@ -1,0 +1,141 @@
+Notatka POZ, <DATE>08.06.2024</DATE>. Pacjent <PERSON>Stanisław Kowalski</PERSON>, PESEL <PESEL>59061234567</PESEL>, zam. <ADDRESS>ul. Warszawska 12, 50-000 Wrocław</ADDRESS>. Kontrola DM2, ostatnia glikemia 198 mg/dl. Zwiększono <DRUG>metforminę</DRUG> do 2g/d. RR 145/92, <DISEASE>nadciśnienie</DISEASE>. Kontynuować <DRUG>Polocard</DRUG> 75 mg.
+
+<<<SAMPLE>>>
+
+E-recepta <DATE>07.06.2024</DATE>. Lekarz <PERSON>Dr Maria Nowak</PERSON> ordynuje dla <PERSON>Janusz Lewandowski</PERSON>, PESEL <PESEL>72031567890</PESEL>, <ADDRESS>Kraków, ul. Grodzka 5/3</ADDRESS>: <DRUG>insulina glargina</DRUG> 20 j., <DRUG>lisinopril</DRUG> 10 mg co dzień. Ważna do <DATE>07.07.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Zpis z USG <DATE>15.05.2024</DATE>. Pacjent <PERSON>Krystyna Zając</PERSON>, ur. 1952. Badanie trzustki: wymiary prawidłowe, wnętrze jednorodne. Brak <DISEASE>kamieni w pęcherzyku żółciowym</DISEASE>. Wątroba bez zmian ogniskowych. Wniosek: <DISEASE>stłuszczenie wątroby 1°</DISEASE> u pacjenta z historią DM2.
+
+<<<SAMPLE>>>
+
+Épikryza oddziałowa <DATE>02.06.2024</DATE>. <PERSON>Maria Szymańska</PERSON>, PESEL <PESEL>68041234789</PESEL>, <ADDRESS>ul. Lipowa 28, 61-000 Poznań</ADDRESS>. Przychód: <DISEASE>hiperglikemia</DISEASE> 456 mg/dl, <DISEASE>cetoza ketonowa</DISEASE> (DKA). <TEST>pH</TEST> 7.12, <TEST>HCO3-</TEST> 8 mEq/l. Podano infuzje, <DRUG>insulina regularna</DRUG> i.v. Pacjent wypisany ze wdrożoną terapią i zaleceniami pobytu w <HOSPITAL>Środowisku Dializ</HOSPITAL> jeśli potrzeba.
+
+<<<SAMPLE>>>
+
+Notatka SOR <DATE>19.04.2024</DATE>. Pacjent <PERSON>Piotr Dąbrowski</PERSON>, tel. <PHONE>506 789 123</PHONE>, zam. <ADDRESS>Bytom, Nowy Świat 47</ADDRESS>. Zgłoszenie: bóle w stopach, zaziębienie. Badanie: <DISEASE>neuropatia cukrzycowa</DISEASE> dolnych kończyn, objawy infekcji. <TEST>RBC</TEST> 4.2, <TEST>Hgb</TEST> 11.8, <TEST>CRP</TEST> 18. Zalecono <DRUG>amoksycylinę</DRUG> 500 mg x3, pomoc endokrynologa.
+
+<<<SAMPLE>>>
+
+E-konsultacja <DATE>25.05.2024</DATE>. Diabetolog <PERSON>Dr Jerzy Kucharski</PERSON> pisze dla POZ (lekarz <PERSON>Anna Kolak</PERSON>): pacjent <PERSON>Tomasz Górski</PERSON>, PESEL <PESEL>81041234567</PESEL> ma <DISEASE>DM2</DISEASE> 8 lat, <TEST>HbA1c</TEST> 7.4%. Zaleca kontynuować <DRUG>metforminę</DRUG> 1g x2, doradzić dietetyka. Następna wizyta za 3 m-ce na <HOSPITAL>Poliklinice Diabetologicznej nr 5</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Opis RTG <DATE>30.04.2024</DATE>. <PERSON>Ewa Baranowska</PERSON>, ur. 1956. Rentgen klatki piersiowej: serce normalne, brak płynu w jamach. <DISEASE>Zmiany zwyrodnieniowe</DISEASE> w stawach międzykręgowych. Wniosek: obraz prawidłowy u pacjenta z historią <DISEASE>cukrzycy</DISEASE> i <DISEASE>osteoporozy</DISEASE>.
+
+<<<SAMPLE>>>
+
+Notatka oddziału endokrynologicznego <DATE>12.06.2024</DATE>. Pacjent <PERSON>Zbigniew Nowakowski</PERSON>, PESEL <PESEL>55031567123</PESEL>, zam. <ADDRESS>Łódź, Piotrkowska 123/15</ADDRESS>, tel. <PHONE>781 234 567</PHONE>. Kontrola <DISEASE>DM1</DISEASE> od 22 lat. <TEST>Glikemia</TEST> na czczo 156 mg/dl, <TEST>HbA1c</TEST> 6.8%. <TEST>Lipidogram</TEST>: <TEST>chol. całkowity</TEST> 198 mg/dl. Widzi <DISEASE>światłość</DISEASE> pęcherzyka oka (retinopatia wczesna). Kontynuować <DRUG>insulinę aspart</DRUG> 12 j. przed posiłkami, <DRUG>insulinę detemir</DRUG> 20 j. wieczorem. Zalecono badanie oka u okulisty.
+
+<<<SAMPLE>>>
+
+Przepis lekarza rodzinnego <DATE>03.06.2024</DATE>. Lekarz <PERSON>Dr Halina Sikorska</PERSON>, <ADDRESS>Warszawa, ul. Świętokrzyska 10</ADDRESS>, ordynuje <PERSON>Jolancie Lewandowskiej</PERSON>, PESEL <PESEL>63051234890</PESEL>: <DRUG>atorwastatynę</DRUG> 20 mg wieczorem na <DISEASE>hiperlipidemię</DISEASE> towarzyszącą cukrzycy. Lek wydać z kontynuacją z poprzedniego opakowania.
+
+<<<SAMPLE>>>
+
+Raport egzaminu oka <DATE>16.05.2024</DATE>. Pacjent <PERSON>Grzegorz Mielczarek</PERSON>, ur. 1957, <ADDRESS>Gdańsk, ul. Morska 7/2</ADDRESS>. Badanie przedniego odcinka: przezroczyste, soczewka czyszcze. Dno oka: siatkówka bez zmian naczyniowych, <DISEASE>ostre zmiany exudacyjne</DISEASE> parafovealne pośrodku makularne. Wniosek: <DISEASE>retinopatia cukrzycowa nieproliferacyjna</DISEASE>. Zalecenia: regulacja glikemii, kontrola ciśnienia.
+
+<<<SAMPLE>>>
+
+Notatka z poradni nefrologicznej <DATE>20.05.2024</DATE>. Pacjent <PERSON>Kazimierz Urbański</PERSON>, PESEL <PESEL>62021234789</PESEL>, <ADDRESS>ul. Żeromskiego 45, Białystok</ADDRESS>. <DISEASE>Cukrzyca</DISEASE> + <DISEASE>podocin nefropatia</DISEASE>. <TEST>Kreatynina</TEST> 1.4 mg/dl, <TEST>GFR</TEST> (MDRD) 48 ml/min. <TEST>Białkomocz</TEST> 0.8 g/d. Powołano do <HOSPITAL>Szpitala Uniwersyteckiego</HOSPITAL> na <TEST>biopsję nerki</TEST>. Zalecono zmniejszyć <DRUG>metforminę</DRUG> do 1g/d.
+
+<<<SAMPLE>>>
+
+Recepta <DATE>09.06.2024</DATE>. Lekarz <PERSON>Dr Sławomir Kochanowski</PERSON> ordynuje <PERSON>Iwanowi Góreckiemu</PERSON>, PESEL <PESEL>70121234567</PESEL>, <ADDRESS>Wrocław, Nowy Świat 31</ADDRESS>: <DRUG>glipizydem</DRUG> 5 mg x2, <DRUG>acarbozą</DRUG> 50 mg x3 na <DISEASE>DM2</DISEASE>. Wydać na <DATE>09.06</DATE>. Pacjent podpisany.
+
+<<<SAMPLE>>>
+
+Opis TK brzucha <DATE>28.04.2024</DATE>. <PERSON>Danuta Kowalczyk</PERSON>, ur. 1960. TK brzucha z kontrastem: trzustka wymiary w normie, brak <DISEASE>zmian ogniskowych</DISEASE>. Wątroba normalna, drogi żółciowe drożne. Wniosek: obraz normy u pacjenta z <DISEASE>cukrzycą</DISEASE>. Wskazanie: bóle w nadbrzyuszu.
+
+<<<SAMPLE>>>
+
+Notatka z wizyty domowej <DATE>01.06.2024</DATE>. Lekarz <PERSON>Dr Ewa Nowak</PERSON> odwiedziła <PERSON>Helenę Nowak</PERSON>, PESEL <PESEL>45031234567</PESEL>, <ADDRESS>ul. Lipowa 12, 30-001 Kraków</ADDRESS>. Pacjentka niepełnosprawna, DM2 zaniedbana, glikemia 287 mg/dl. Podano <DRUG>insulinę aspart</DRUG> 10 j., zalecono hospitalizację. Przekazano na <HOSPITAL>Oddział Zakaźny</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+E-konsultacja kardiologiczna <DATE>22.05.2024</DATE>. Kardiolog <PERSON>Dr Artur Lewandowski</PERSON> pisze: pacjent <PERSON>Robert Szewczyk</PERSON>, PESEL <PESEL>76081234890</PESEL>, <DISEASE>DM2</DISEASE> 10 lat, wciąż ma <DISEASE>duszność</DISEASE> przy wysiłku. <TEST>EKG</TEST> pokazuje <DISEASE>zmiany niedokrwienne</DISEASE>. <TEST>Echo serca</TEST>: <DISEASE>disfunkcja rozkurczowa lewej komory</DISEASE> stopnia 1. Wskazana <TEST>treadmill</TEST> lub <TEST>scyntygrafia serca</TEST>. Kontynuować <DRUG>metoprolon</DRUG> 100 mg, dodać <DRUG>enalapril</DRUG> 10 mg.
+
+<<<SAMPLE>>>
+
+Notatka chirurgiczna <DATE>06.06.2024</DATE>. <PERSON>Mariusz Grabowski</PERSON>, PESEL <PESEL>68121234567</PESEL>, <ADDRESS>Poznań, ul. Ratajczaka 15/8</ADDRESS>, pacjent z <DISEASE>cukrzycą</DISEASE> i <DISEASE>owrzodzeniem podeszwy lewego pęcherza</DISEASE> II° (Wagner). Wykonano <TEST>niebioresorbcyjne</TEST> <DISEASE>zabiegnowoczucie</DISEASE>. W wyniku zakażenia <DISEASE>Staphylococcus aureus</DISEASE> zmuszono do ампутации drugiej granicy. Opaski zmienne. Zalecono <DRUG>amoksycylinę + kwas klawulanowy</DRUG> 875+125 mg x3.
+
+<<<SAMPLE>>>
+
+Raport laboratoryjny <DATE>31.05.2024</DATE>. Pacjent <PERSON>Tadeusz Wróblewski</PERSON>, ur. 1954, <ADDRESS>ul. Szeroka 7, Gdańsk</ADDRESS>. <TEST>Morfologia</TEST>: WBC 6.8, RBC 4.3, Hgb 12.1, Hct 36%, <TEST>Płytki</TEST> 210. <TEST>Biochemia</TEST>: <TEST>glikoza</TEST> 178 mg/dl, <TEST>kreatynina</TEST> 0.95 mg/dl, <TEST>AST</TEST> 32 U/L, <TEST>ALT</TEST> 28 U/L. <TEST>Lipidogram</TEST>: <TEST>LDL</TEST> 118 mg/dl, <TEST>HDL</TEST> 38 mg/dl. Pacjent ma <DISEASE>hipercholesterolemię mieszaną</DISEASE> na tle <DISEASE>cukrzycy</DISEASE>.
+
+<<<SAMPLE>>>
+
+Notatka SOR <DATE>18.05.2024</DATE>. Pacjent <PERSON>Witold Pietrzak</PERSON>, tel. <PHONE>518 234 890</PHONE>, <ADDRESS>Katowice, Nowy Świat 123</ADDRESS>. Zgłoszenie: nagły ból brzucha, wymioty. DM2 od 15 lat. Podejrzenie <DISEASE>zapalenia trzustki</DISEASE>. <TEST>Lipaza</TEST> 450 U/L, <TEST>Amylaza</TEST> 380 U/L. <TEST>TK brzucha</TEST> potwierdziła <DISEASE>ostre zapalenie trzustki</DISEASE> na tle hipertriglicerydemii. Pacjent przyjęty na Oddział Gastroenterologiczny.
+
+<<<SAMPLE>>>
+
+Opis <TEST>angiografii wieńcowej</TEST> <DATE>10.04.2024</DATE>. <PERSON>Paweł Jankowski</PERSON>, ur. 1962. <DISEASE>Zwężenie</DISEASE> przednią międzykomorową 70%, <DISEASE>gałąź okrężna 85%</DISEASE>. Brak <DISEASE>zwężenia</DISEASE> w tętnicy zatokowej. Zagrożenie: <DISEASE>włączenie 2 gałęzi</DISEASE>. Wykonano <TEST>implantację dwóch stentów metalowych</TEST>. Przepis <DRUG>aspiryna</DRUG> 75 mg dziennie + <DRUG>klopidogrel</DRUG> 75 mg przez 12 m-cy. Pacjent ma <DISEASE>DM2</DISEASE>.
+
+<<<SAMPLE>>>
+
+Notatka poradni diabetologicznej <DATE>04.06.2024</DATE>. Pacjent <PERSON>Mirosław Kędzior</PERSON>, PESEL <PESEL>61031234789</PESEL>, zam. <ADDRESS>ul. Pulawska 20, 00-000 Warszawa</ADDRESS>. <DISEASE>DM2</DISEASE> 12 lat. <TEST>HbA1c</TEST> 6.9%, <TEST>glikemia</TEST> na czczo 138 mg/dl. Stosuję <DRUG>metforminę</DRUG> 2g + <DRUG>sitagliptynę</DRUG> 100 mg. Dalej: <DISEASE>zaburzenia lipidowe</DISEASE>, BMI 32. Zaleciła diet, ruch, zwiększyć <DRUG>atorwastatynę</DRUG> do 40 mg. Powrót za 3 m-ce.
+
+<<<SAMPLE>>>
+
+Recepta na insulinę <DATE>02.06.2024</DATE>. Lekarz <PERSON>Dr Lidia Szulc</PERSON> ordynuje <PERSON>Stefaniemu Lewandowskiemu</PERSON>, PESEL <PESEL>79041234567</PESEL>, <ADDRESS>Kraków, ul. Grodzka 12/5</ADDRESS>: <DRUG>insulina NPH</DRUG> 20 j. rano, <DRUG>insulina regularna</DRUG> 10 j. przed obiadem, <DRUG>insulina regularna</DRUG> 8 j. przed kolacją. Opakowanie: 3x flakon po 10 ml na <DATE>01.07.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Epikryza <DATE>27.05.2024</DATE>. <PERSON>Joanna Staśkiewicz</PERSON>, PESEL <PESEL>66051234890</PESEL>, <ADDRESS>ul. Warszawska 30, Wrocław</ADDRESS>. Pobyt: wylegitymizowanie <DISEASE>hipoglikemii ciężkiej</DISEASE> z utratą przytomności. Przychód <TEST>glikemia</TEST> 32 mg/dl. Po wdrożeniu <DRUG>glukozy</DRUG> i.v., pacjentka przytomna. Zmieniono schemat insulinowy. Wyjście ze poprawą.
+
+<<<SAMPLE>>>
+
+Notatka poradni <DATE>08.06.2024</DATE>. Pacjent <PERSON>Adolf Cieśla</PERSON>, ur. 1948, <ADDRESS>Poznań, Nowy Świat 45/12</ADDRESS>. <DISEASE>DM2</DISEASE> od 20 lat, niedowidz z powodu <DISEASE>retinopatii cukrzycowej stadium 3</DISEASE>. <DISEASE>Neuropatia czuciowa</DISEASE> stóp. <TEST>Glikemia</TEST> 212 mg/dl. Choruje również na <DISEASE>niewydolność serca III NYHA</DISEASE>. Podejmujemy <DRUG>insulinę levemir</DRUG> 15 j. wieczorem. Zalecono opiekę socjalną.
+
+<<<SAMPLE>>>
+
+Opis <TEST>kolonoskopii</TEST> <DATE>15.05.2024</DATE>. <PERSON>Ryszard Świątek</PERSON>, ur. 1955. Badanie do cecum na całej długości. W <DISEASE>zasiegu wstępnicy</DISEASE> zmiana polipowata średnica 8 mm, pobrana do histopatologii. Brak innego źródła krwawienia. Pacjent ma <DISEASE>cukrzycę</DISEASE> typu 2, wymaga regulacji antydiabetyków przed zabiegiem.
+
+<<<SAMPLE>>>
+
+Notatka neurologiczna <DATE>30.05.2024</DATE>. Pacjent <PERSON>Andrzej Brzozowski</PERSON>, PESEL <PESEL>57081234567</PESEL>, <ADDRESS>ul. Marszałkowska 50, Warszawa</ADDRESS>. <DISEASE>DM2</DISEASE> od 18 lat, teraz <DISEASE>neuropatia obwodowa czuciowo-ruchowa</DISEASE> z przewodniczością w normie (EMG-NCV). <DISEASE>Zaburzenia chodu</DISEASE>, zagrożenie upadkami. Dodatkowo <DISEASE>depresja</DISEASE>. Włączył <DRUG>pregabalinę</DRUG> 150 mg x2, zalecił rehabilitację.
+
+<<<SAMPLE>>>
+
+E-przepis <DATE>07.06.2024</DATE>. <PERSON>Dr Krzysztof Nowak</PERSON>, <HOSPITAL>Poliklinika Diabetologiczna nr 3</HOSPITAL>, <ADDRESS>ul. Zdrojowa 25, Łódź</ADDRESS>. Dla <PERSON>Urszuli Szymczyńskiej</PERSON>, PESEL <PESEL>72061234789</PESEL>: <DRUG>glibenklamidę</DRUG> 5 mg rano, <DRUG>metforminę</DRUG> 850 mg x2 (dobrze znoszony lek). Pacjenta nie ma na lipidach, co daje dodatkowo <DRUG>simwastatynę</DRUG> 20 mg wieczorem.
+
+<<<SAMPLE>>>
+
+Raport szpitalny <DATE>25.05.2024</DATE>. <PERSON>Stanisław Sołtys</PERSON>, PESEL <PESEL>59121234567</PESEL>, <ADDRESS>Kraków, ul. Sądowa 8/3</ADDRESS>. Przyposażył się: <DISEASE>STEMI</DISEASE> dolny, <DISEASE>DM2</DISEASE> nowo zdiagnozowana. <TEST>Troponina</TEST> 2.1 ng/ml, <TEST>EKG</TEST> wysunął <DISEASE>ST segment elevation</DISEASE> w skrajniach II, III, aVF. Wykonano <TEST>PCI</TEST> z <TEST>implantem stuntu</TEST> do RCA. Pacjent na <DRUG>aspiryna</DRUG>, <DRUG>klopidogrel</DRUG>, <DRUG>enoksaparyna</DRUG>, <DRUG>metoprolol</DRUG>, <DRUG>enalapril</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka z poradni <DATE>03.06.2024</DATE>. Pacjent <PERSON>Tadeusz Mazur</PERSON>, ur. 1958, <ADDRESS>ul. Lipowa 15/2, Gdańsk</ADDRESS>, tel. <PHONE>602 456 789</PHONE>. <DISEASE>DM2</DISEASE> 11 lat, <TEST>HbA1c</TEST> 7.2%, <DISEASE>mikroalbuminuria</DISEASE> 45 mg/dobę (wczesny znak <DISEASE>nefropatii</DISEASE>). Zmieniono <DRUG>ramipril</DRUG> z 5 na 10 mg celem ochrony nerek. Zalecono zmniejszenie sodu, zwiększyć ruch. Wizyta za 6 tygodni na <HOSPITAL>Poliklinice Nefrologii</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Opis <TEST>EKG spoczynkowego</TEST> <DATE>05.06.2024</DATE>. <PERSON>Barbara Koznacka</PERSON>, ur. 1963. HR 72/min, <DISEASE>blok przedsionkowo-komorowy Mobitz I</DISEASE>. Osi odchylenie oś QRS w normie. <TEST>ST</TEST> i <TEST>T</TEST> prawidłowe we wszystkich odprowadzeniach. Pacjentka ma <DISEASE>cukrzycę</DISEASE>, poddana <DISEASE>kardiomiopatii rozstrzeniowej</DISEASE> z EF 40%.
+
+<<<SAMPLE>>>
+
+Notatka z karetki <DATE>09.06.2024</DATE>. Pacjent <PERSON>Henryk Maliński</PERSON>, PESEL <PESEL>54071234567</PESEL>, <ADDRESS>Białystok, ul. Grodzka 23</ADDRESS>. Wzywany do krwawienia z nosa, <DISEASE>hipertensja arteryjna</DISEASE> III°, <TEST>RR</TEST> 180/100. DM2, ostatnia <TEST>glikemia</TEST> nieznana, pacjent nie bierze leków. Podano <DRUG>metoprolol</DRUG> i.v., kontynuować hospitalizacja.
+
+<<<SAMPLE>>>
+
+Recepta pacjenta prywatnego <DATE>08.06.2024</DATE>. <PERSON>Dr Ewa Molęda</PERSON>, <ADDRESS>ul. Puławska 123, 02-000 Warszawa</ADDRESS>, ordynuje <PERSON>Piotrowi Szafarskiemu</PERSON>, PESEL <PESEL>70121567890</PESEL>: <DRUG>dapagliflozyna</DRUG> 10 mg dziennie na <DISEASE>DM2</DISEASE> z <DISEASE>otyłością</DISEASE> (BMI 36), <DRUG>lisinopril</DRUG> 20 mg na <DISEASE>nadciśnienie</DISEASE>. Pacjent to zarabiacz, bardziej zainteresowany podatkami niż zdrowiem.
+
+<<<SAMPLE>>>
+
+Raport badań oka pełne <DATE>20.05.2024</DATE>. <PERSON>Bogdan Chojnacki</PERSON>, ur. 1951, <ADDRESS>Poznań, Stary Rynek 7/2</ADDRESS>. Brillenschärfe lepsze oko: -1,0 sph. Mereśmy: <DISEASE>lekka retinopatia przedziale</DISEASE>, <DISEASE><DISEASE>obrzęk makulacji pośrodkowy</DISEASE></DISEASE> (OCT potwierdzony). ROP <DISEASE>opózniony wzrostu naczyń</DISEASE>. Leczenie laserowe zaplanowane za 2 tygodnie. Pacjent ma <DISEASE>DM1</DISEASE>.
+
+<<<SAMPLE>>>
+
+Epikryza <DATE>02.06.2024</DATE>. <PERSON>Zbigniew Lewandowski</PERSON>, PESEL <PESEL>56121234789</PESEL>, <ADDRESS>ul. Sądowa 14, Kraków</ADDRESS>. Pobyt od <DATE>28.05</DATE> do <DATE>02.06</DATE> — <DISEASE>zapalenie mięśnia sercowego</DISEASE> u pacjenta z <DISEASE>DM2</DISEASE>. <TEST>Troponina</TEST> szczytowa 0.6 ng/ml. <TEST>Echo serca</TEST> pokaźne dyskinezie ściany. Wyjście ze stabilizacją hemodynamiczną, zalecono cardio-rehabów. Leki: <DRUG>aspiryna</DRUG>, <DRUG>bisoprolol</DRUG>, <DRUG>lisinopril</DRUG>, <DRUG>atorwastatyna</DRUG>.
+
+<<<SAMPLE>>>
+
+Notatka geriatryczna <DATE>04.06.2024</DATE>. <PERSON>Anna Górska</PERSON>, PESEL <PESEL>43071234567</PESEL>, <ADDRESS>ul. Łazienkowska 8, Warszawa</ADDRESS>, pacjentka 81-letnia z <DISEASE>DM2</DISEASE> od 25 lat, teraz <DISEASE>słabość poznawcza 2°</DISEASE>, <DISEASE>incontinentia urine</DISEASE>. Zagraża upadkami. <TEST>HbA1c</TEST> 8.1% — celowościowe dla jej wieku. Terapia: <DRUG>metformina</DRUG> 1g, <DRUG>glipizyda</DRUG> niskiego rozrachunku. Zaangażować opiekę domową.
+
+<<<SAMPLE>>>
+
+Raport <TEST>spirometrii</TEST> <DATE>26.05.2024</DATE>. <PERSON>Czesław Wójcik</PERSON>, ur. 1960, <ADDRESS>Łódź, ul. Piotrkowska 45/12</ADDRESS>. <TEST>FEV1</TEST> 65% normy, <TEST>FVC</TEST> 70%, wskaźnik <TEST>FEV1/FVC</TEST> 82%. Pacjent ma <DISEASE>cukrzycę</DISEASE> i <DISEASE>przewlekłą obturacyjną chorobę płuc</DISEASE> (COPD) GOLD 2. Zalecono <DRUG>salbutamol</DRUG> PRN, <DRUG>tiotropium</DRUG> wieczorem, zrezygnować z papierosów.
+
+<<<SAMPLE>>>
+
+Notatka ambulatoryjna <DATE>06.06.2024</DATE>. Pacjent <PERSON>Wojciech Kamiński</PERSON>, PESEL <PESEL>68041567890</PESEL>, zam. <ADDRESS>ul. Szwoleżerów 10/7, Gdańsk</ADDRESS>. Kontrola w 3-letniej historii <DISEASE>DM2</DISEASE>. Obecne stężenie <TEST>glikemii</TEST> na czczo 162 mg/dl, <TEST>HbA1c</TEST> 7.3%. <TEST>Kreatynina</TEST> 1.0 mg/dl, <TEST>eGFR</TEST> 78 ml/min (ścieżka w zmniejszeniu). Zmieniono <DRUG>metforminę</DRUG> z 1500 na 1000 mg dziennie. Zaplanowano retinologię, angiologię.

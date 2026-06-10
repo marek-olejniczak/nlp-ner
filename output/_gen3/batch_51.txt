@@ -1,0 +1,133 @@
+Notatka z SOR <DATE>08.06.2024</DATE>. Pacjent <PERSON>Stanisław Wieliczko</PERSON>, PESEL <PESEL>52101567890</PESEL>, zam. <ADDRESS>ul. Krakowskie Przedmieście 12/3, 00-927 Warszawa</ADDRESS>, tel. <PHONE>501 234 678</PHONE>. Przybycie: bóle głowy nawracające, <DISEASE>migrena</DISEASE> bez aury. W <TEST>EEG</TEST> bez zmian. Podano <DRUG>paracetamol</DRUG> 500 mg i/v. Wypisano do domu z zaleceniem wizyt u <HOSPITAL>Poradni Neurologicznej</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Epikryza <DATE>25.05.2024</DATE>. <PERSON>Janina Kosowska</PERSON>, PESEL <PESEL>68072834567</PESEL>, <ADDRESS>Poznań, Nowe Miasto 15/7</ADDRESS>. Rozp.: <DISEASE>udar niedokrwienny lewej półkuli</DISEASE> w polu tętnicy przedniej. <TEST>TK czaszki</TEST>: obrzęk mózgu w terenie udaru. <TEST>MRI mózgu</TEST>: hipointensywne zmiany w istocie białej. Leczony <DRUG>aspiryną</DRUG>, <DRUG>atorwastatyną</DRUG>, <DRUG>ramiprilem</DRUG>. Stan ciężki, w pełnej opiece intensywnej.
+
+<<<SAMPLE>>>
+
+e-Recepta <DATE>03.06.2024</DATE>. <PERSON>Dariusz Nowacki</PERSON>, PESEL <PESEL>75091223456</PESEL>, tel. <PHONE>519 876 543</PHONE>. Lekarz: dr <PERSON>Maria Szymczyk</PERSON> z <HOSPITAL>Poradni Neurologii</HOSPITAL>. Rozp.: <DISEASE>neuropatia cukrzycowa kończyn dolnych</DISEASE>. Ordynacja: <DRUG>pregabalina</DRUG> 75 mg, <DRUG>diklofenak</DRUG> żel. Na <ADDRESS>ul. Piotrkowska 23, 90-265 Łódź</ADDRESS>.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału neurologii <DATE>17.04.2024</DATE>. <PERSON>Krzysztof Bigos</PERSON>, PESEL <PESEL>61112478901</PESEL>, zam. <ADDRESS>Wrocław, Świdnica 44/12</ADDRESS>. Diagnoza: <DISEASE>zawał mózgu w terenie tętnicy kręgowej</DISEASE>, zaburz. czucia i ruchów. <TEST>MRA szyi i mózgu</TEST> — zwężenie lewej tętnicy kręgowej. Leczenie: <DRUG>ticlopidyna</DRUG> p.o., <DRUG>flunarizyna</DRUG>. Plan: <TEST>EEG kontrolny</TEST> za tydzień.
+
+<<<SAMPLE>>>
+
+Zapis rozmowy telefonicznej <DATE>12.06.2024</DATE>. Pacjent <PERSON>Zbigniew Lewandowski</PERSON>, tel. <PHONE>605 111 222</PHONE>, <ADDRESS>ul. Długa 8, 31-147 Kraków</ADDRESS>. Skargi: <DISEASE>drżenie istotne rąk</DISEASE>, pogorszenie w stresie. Zalecono <DRUG>propranol</DRUG> 40 mg 2×dz., <DRUG>diazepam</DRUG> 2 mg w nocy. Nowe badania: <TEST>USG Doppler tętnic szyi</TEST> za miesiąc.
+
+<<<SAMPLE>>>
+
+Opis <TEST>tomografii komputerowej głowy</TEST> <DATE>22.05.2024</DATE>. <PERSON>Anna Górska</PERSON>, PESEL <PESEL>87043012345</PESEL>. Obraz: <DISEASE>glioblastoma</DISEASE> wielopoziomowe, efekt masy w komorze bocznej lewej. <DISEASE>Obrzęk mozgu</DISEASE> dookoła zmiany. Zalecono pilne konsultacje na <HOSPITAL>Szpital Uniwersytecki</HOSPITAL> i <TEST>MRI z kontrastem</TEST>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR, godz. 02:45, <DATE>07.06.2024</DATE>. <PERSON>Tomasz Michalik</PERSON>, PESEL <PESEL>72051445678</PESEL>, tel. <PHONE>517 234 567</PHONE>, <ADDRESS>Żywiec, Wysoki 9</ADDRESS>. Przybycie: opad powiek, <DISEASE>czaszkowy nerw VII</DISEASE>. <TEST>RTG czaszki</TEST> — bez złam. <TEST>EKG</TEST> — nieznaczne zmian. Rozp. wstępna: <DISEASE>niedowład czaszkowy</DISEASE>. Wypisano na dom z <DRUG>kortyzolu 1 ml</DRUG> i zaleceniem wizyt u specjalisty.
+
+<<<SAMPLE>>>
+
+Karta ambulatoryjna pacjenta <DATE>01.06.2024</DATE>. <PERSON>Ewa Nowakowska</PERSON>, PESEL <PESEL>69123478901</PESEL>, zam. <ADDRESS>Białystok, Surażańska 16/4</ADDRESS>, tel. <PHONE>506 789 012</PHONE>. Pobycie na <HOSPITAL>Poradni Neurologicznej</HOSPITAL>. Skargi: <DISEASE>bezsenność długotrwała</DISEASE>, <DISEASE>obniżony nastrój</DISEASE>. <TEST>Konsultacja psychiatryczna</TEST> — zalecona. Rozpoczęto <DRUG>amitryptynę</DRUG> 25 mg w nocy.
+
+<<<SAMPLE>>>
+
+Notatka śródsześciowa <DATE>18.05.2024</DATE>. <PERSON>Henryk Sobczak</PERSON>, PESEL <PESEL>55042267890</PESEL>, <ADDRESS>ul. Traugutta 3, 80-208 Gdańsk</ADDRESS>. Leczenie <DISEASE>zespołu Guillaina-Barrégo</DISEASE>. Wykonano <TEST>plazmaferezy</TEST> dwie sesji. <TEST>EMG</TEST>: zmniejszenie potencjałów złożonych. <DRUG>Immunoglobuliny IV</DRUG> 0.4 g/kg. Przewidywany wypisz za 4 dni.
+
+<<<SAMPLE>>>
+
+Zaświadczenie lekarskie <DATE>10.06.2024</DATE>. <PERSON>Piotr Zieliński</PERSON>, PESEL <PESEL>80122334567</PESEL>, zam. <ADDRESS>ul. Piłsudskiego 27, 42-200 Częstochowa</ADDRESS>. Lekarz: dr <PERSON>Roman Kaminski</PERSON>. Diagnoza: <DISEASE>padaczka generalizowana</DISEASE>. Niezdolny do pracy na urlopie od <DATE>10.06.2024</DATE> do <DATE>24.06.2024</DATE>. Leczenie: <DRUG>lewetiracetam</DRUG> 500 mg 2×dz., <DRUG>kwas walproinowy</DRUG> 500 mg 3×dz.
+
+<<<SAMPLE>>>
+
+Notatka z <HOSPITAL>Oddziału Udarów Mózgu</HOSPITAL> <DATE>04.06.2024</DATE>, godz. 16:20. <PERSON>Hanna Szajner</PERSON>, PESEL <PESEL>73061545678</PESEL>, <ADDRESS>Szczecin, Piotra Godlewskiego 11/2</ADDRESS>, tel. <PHONE>516 432 109</PHONE>. Przyjęcie: <DISEASE>udar pnia mózgu</DISEASE>, afazja ekspresywna. <TEST>MRI DWI</TEST> — obszerny zawał. Tromboliza kontraindykowana. <DRUG>Heparyna</DRUG> s/c, <DRUG>atorwastatyna</DRUG> 80 mg. Prognoza poważna.
+
+<<<SAMPLE>>>
+
+Opis <TEST>elektroencefalografii</TEST> <DATE>28.05.2024</DATE>. <PERSON>Marek Czajkowski</PERSON>, PESEL <PESEL>76091212345</PESEL>. Arytmia: <DISEASE>ogniska padaczkopochodne</DISEASE> w okolicy czołowo-barkowej lewej. <DISEASE>Spiętrzenie zapalodów</DISEASE> w stanie snu. Zalecenie: <TEST>EEG powtórzony</TEST> za 3 miesiące, zwiększenie <DRUG>fenytoiny</DRUG> do 400 mg/dz.
+
+<<<SAMPLE>>>
+
+Recepta prywatna <DATE>06.06.2024</DATE>. <PERSON>Urszula Kamińska</PERSON>, PESEL <PESEL>64042845678</PESEL>, <ADDRESS>ul. Nowogrodzka 8/5, 00-511 Warszawa</ADDRESS>, tel. <PHONE>502 567 890</PHONE>. Lekarz: dr <PERSON>Tomasz Nowak</PERSON>. Diagnoza: <DISEASE>migrena z aurą</DISEASE>, <DISEASE>napięciowy ból głowy</DISEASE>. Ordynacja: <DRUG>sumatryptan</DRUG> 100 mg, <DRUG>ibuprofen</DRUG> 400 mg, <DRUG>magnes Asparta</DRUG> 2×dz.
+
+<<<SAMPLE>>>
+
+Notatka pogotowia ratunkowego <DATE>02.06.2024</DATE>, godz. 08:15. <PERSON>Jerzy Wójcik</PERSON>, PESEL <PESEL>57061556789</PESEL>, tel. <PHONE>512 333 444</PHONE>, <ADDRESS>Kraków, Wielicka 72/13</ADDRESS>. Wywiad: <DISEASE>drgawki toniczne</DISEASE>, utrata świadomości. <TEST>Badanie neurologiczne</TEST> w miejscu — sztywność karku. <TEST>RTG klatki</TEST> — bez zmian. Transport na <HOSPITAL>Szpital Św. Ludwika</HOSPITAL> z <DRUG>diazepamem</DRUG> i.v.
+
+<<<SAMPLE>>>
+
+Epikryza neurologiczna <DATE>31.05.2024</DATE>. <PERSON>Bogdan Sochacki</PERSON>, PESEL <PESEL>68112267890</PESEL>, <ADDRESS>Łódź, Piotrkowska 98/7</ADDRESS>. Leczenie: <DISEASE>zawał móżdżku w terenie PICA</DISEASE>. <TEST>MRI obrazuje</TEST> zawał w górnym półmózgowiu. <DISEASE>Niedowład kończyn dolnych</DISEASE>, zaburzenia równowagi. Fizjoterapia od <DATE>02.06.2024</DATE>. Leki: <DRUG>karbamazepina</DRUG> 200 mg 3×dz., <DRUG>gabapentyna</DRUG> 300 mg 3×dz.
+
+<<<SAMPLE>>>
+
+Konsultacja teleporadni <DATE>05.06.2024</DATE>. <PERSON>Zofia Lewandowska</PERSON>, PESEL <PESEL>70021234567</PESEL>, <ADDRESS>Wrocław, Kajaka 5/12</ADDRESS>, tel. <PHONE>508 111 999</PHONE>. Pacjentka zgłasza <DISEASE>neuropatię bólu środkowego</DISEASE> trzech dni. <TEST>Badanie neurologiczne</TEST> przez telemedycynę — obniżone odczucie, bieżny ból. Zalecono <DRUG>gabapentynę</DRUG> 100 mg 3×dz. i <<TEST>konsultacja stacjonarna</TEST> za 7 dni.
+
+<<<SAMPLE>>>
+
+Notatka z oddziału <DATE>19.05.2024</DATE>. <PERSON>Kazimierz Lewandowski</PERSON>, PESEL <PESEL>54031345678</PESEL>, <ADDRESS>ul. Marszałkowska 42/5, Warszawa</ADDRESS>. Rozpoznanie: <DISEASE>parkinson wczesny stadium</DISEASE>. Objawy: drżenie spoczynkowe, sztywnością, bradykinezja. <TEST>SPECT mózgu</TEST> — zmniejszona wiąże DaT. Ordynacja: <DRUG>lewodoba/benserazyd</DRUG> 200/50 mg 3×dz.
+
+<<<SAMPLE>>>
+
+Opis <TEST>rezonansu magnetycznego szyi</TEST> <DATE>23.05.2024</DATE>. <PERSON>Edyta Nowacka</PERSON>, PESEL <PESEL>79031278901</PESEL>. Obraz: <DISEASE>przepuklina międzytrzonowej</DISEASE> C4-C5 z uciśnięciem rdzenia kręgowego. <DISEASE>Zapalenie ścięgien</DISEASE> obocznych. Zalecono pilną konsultację neurochirurgii. <HOSPITAL>Szpital Neurachirurgii</HOSPITAL> — pogotowie.
+
+<<<SAMPLE>>>
+
+Pismo pielęgniarki rejestracyjnej <DATE>09.06.2024</DATE>. <PERSON>Marek Skowron</PERSON>, PESEL <PESEL>72121534567</PESEL>, tel. <PHONE>518 765 432</PHONE>, <ADDRESS>Poznań, Św. Antoniego 7/3</ADDRESS>. Przychód do <HOSPITAL>Poradni Neurologicznej</HOSPITAL>. Skargi: <DISEASE>halucynacje wzrokowe nocne</DISEASE>, zaburzenia snu REM. <TEST>Konsultacja psychiatryczna</TEST> + <TEST>EEG nocne</TEST> zaplanowane. Dalsze badania: <TEST>MRI mózgu</TEST>.
+
+<<<SAMPLE>>>
+
+Notatka z SOR <DATE>01.06.2024</DATE>, godz. 19:30. <PERSON>Marta Urbanowska</PERSON>, PESEL <PESEL>85012334567</PESEL>, <ADDRESS>Gdańsk, Długa Brzózka 16/4</ADDRESS>, tel. <PHONE>509 876 543</PHONE>. Przybycie: <DISEASE>zawroty głowy</DISEASE> nagłe, <DISEASE>usztywnieni karku</DISEASE>. <TEST>RTG szyi</TEST> — bez złam. <TEST>Badanie vestibularne</TEST> pozytywny Hallpike'a. Rozp.: <DISEASE>BPPV</DISEASE>. Podano <DRUG>betahistynę</DRUG> 16 mg, zabiegi pozycyjne.
+
+<<<SAMPLE>>>
+
+Recepta z poradni <DATE>07.06.2024</DATE>. <PERSON>Władysław Kucharski</PERSON>, PESEL <PESEL>56072445678</PESEL>, <ADDRESS>ul. Puławskiego 9, 02-595 Warszawa</ADDRESS>, tel. <PHONE>504 222 333</PHONE>. Lekarz: dr <PERSON>Elżbieta Sęczys</PERSON> z <HOSPITAL>Poradni Chorób Cieżkich</HOSPITAL>. Diagnoza: <DISEASE>stwardnienie zanikowe boczne</DISEASE> (ALS). Leczenie: <DRUG>ryluzol</DRUG> 100 mg/dz., <DRUG>baklofen</DRUG> 15 mg 3×dz.
+
+<<<SAMPLE>>>
+
+Notatka endoskopowego <DATE>11.05.2024</DATE>. <PERSON>Oksana Czarnecka</PERSON>, PESEL <PESEL>72112234567</PESEL>. Procedura: <TEST>biopsja rdzenia kręgowego</TEST> w terenie guzka. <DISEASE>Glioma łagodna o malignością słabą</DISEASE>. Przygotowanie do <TEST>operacji neurochirurgicznej</TEST>. Umowa: <HOSPITAL>Wojewódzki Szpital Neurochirurgii</HOSPITAL>, zaplanowana na <DATE>16.06.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Epikryza poobserwacyjna <DATE>03.06.2024</DATE>. <PERSON>Stanisław Grabski</PERSON>, PESEL <PESEL>75021556789</PESEL>, <ADDRESS>Poznań, Przybyszewskiego 11/8</ADDRESS>. Pobyt: <DISEASE>udar lewy półkuli, afazja</DISEASE>. <TEST>Logopedia</TEST> — dwa razy dziennie. <TEST>Fizjoterapia</TEST> — usprawnianie ruchów. Wypisany z poprawą mowy i siły mięśni. <DRUG>Aspiryna</DRUG> 75 mg + <DRUG>klopidogrel</DRUG> p.o. długoterminowo.
+
+<<<SAMPLE>>>
+
+Notatka lekarska z wizyt domowej <DATE>04.06.2024</DATE>. <PERSON>Zofia Kowalczyk</PERSON>, PESEL <PESEL>68122345678</PESEL>, <ADDRESS>ul. Trzeciej Armii 22/12, Kraków</ADDRESS>, tel. <PHONE>510 111 222</PHONE>. Pacjentka: <DISEASE>otępienie Alzheimera stadium zaawansowane</DISEASE>. Brak samoobsługi. Zalecono <DRUG>donepezyl</DRUG> 10 mg w nocy, <DRUG>memanytynę</DRUG> 20 mg/dz. Opiekunka: <PERSON>Barbara Kowalczyk</PERSON>.
+
+<<<SAMPLE>>>
+
+Zaświadczenie <DATE>08.06.2024</DATE>. <PERSON>Andrzej Lewandowski</PERSON>, PESEL <PESEL>62091234567</PESEL>, zam. <ADDRESS>Szczecin, Kościuszki 15/5</ADDRESS>. Lekarz: <PERSON>Jan Lewicki</PERSON> z <HOSPITAL>Poradni Neurologicznej SZZZ</HOSPITAL>. Diagnoza: <DISEASE>zespół post-poudarowy</DISEASE> z <DISEASE>spastyczością</DISEASE>. Niezdolny do pracy od <DATE>08.06.2024</DATE> do <DATE>22.06.2024</DATE>. Dalsze leczenie ambulatoryjne zalecone.
+
+<<<SAMPLE>>>
+
+Opis <TEST>tomografii dwu-fotonowej</TEST> <DATE>30.05.2024</DATE>. <PERSON>Sabina Lewandowska</PERSON>, PESEL <PESEL>77050134567</PESEL>. <DISEASE>Choroba Parkinsona stadium II</DISEASE> — zmniejszona wiąże DaT w prążkowiu. <DISEASE>Zaburzenia poznawcze</DISEASE>. Zalecenie: zwiększenie <DRUG>benserazamu</DRUG> do 200 mg, <DRUG>ropinirol</DRUG> stopniowo.
+
+<<<SAMPLE>>>
+
+Notatka laboratorium <DATE>06.06.2024</DATE>. <PERSON>Tadeusz Borowski</PERSON>, PESEL <PESEL>59081245678</PESEL>. <TEST>Płyn mózgowo-rdzeniowy</TEST>: <DISEASE>zapalenie opon miękkiej wirusowe</DISEASE> — zwiększone białko, normalna glikemia. <TEST>Kultura sterylna</TEST>. Leczenie: <DRUG>acyklowir</DRUG> 10 mg/kg i.v. 8-godzinnie. Obserwacja w <HOSPITAL>Oddziale Zakaźnym</HOSPITAL>.
+
+<<<SAMPLE>>>
+
+Recepta na kontrolne badania <DATE>09.06.2024</DATE>. <PERSON>Henryka Skowron</PERSON>, PESEL <PESEL>71062334567</PESEL>, <ADDRESS>ul. Kwiatkowskiego 18, 81-873 Gdynia</ADDRESS>, tel. <PHONE>515 555 666</PHONE>. Lekarz: dr <PERSON>Krzysztof Nowak</PERSON>. Diagnoza: <DISEASE>nieustanna migrena</DISEASE>. Zaplanowano: <TEST>MRI mózgu</TEST>, <TEST>angiografia MR</TEST>. Leczenie: <DRUG>topiramatu</DRUG> 50 mg 2×dz., <DRUG>amitryptyna</DRUG> 25 mg w nocy.
+
+<<<SAMPLE>>>
+
+Notatka pogotowia <DATE>07.06.2024</DATE>, godz. 22:45. <PERSON>Wiktor Szpaderski</PERSON>, PESEL <PESEL>73031556789</PESEL>, tel. <PHONE>511 777 888</PHONE>, <ADDRESS>Wrocław, Szydłowska 25/2</ADDRESS>. Przybycie: <DISEASE>drgawki</DISEASE> uogólnione, okres poikstal trzech minut. <TEST>RTG czaszki</TEST> norm. <TEST>Badanie neurologiczne</TEST> — sztywność karku. Wyłączono infekcję opon. <DRUG>Fenobarbital</DRUG> 120 mg i.m.
+
+<<<SAMPLE>>>
+
+Karta pacjenta poradni neurochirurgii <DATE>02.06.2024</DATE>. <PERSON>Magdalena Kosinska</PERSON>, PESEL <PESEL>68072445678</PESEL>, <ADDRESS>Kraków, Czarkowska 9/7</ADDRESS>. Przychód: <DISEASE>przepuklina międzytrzonowa L4-L5 z uciśnięciem korzenia nerwu</DISEASE>. <TEST>MRI lędźwiowe</TEST> — zmiana 8×6 mm. <DISEASE>Radykulopatia lędźwiowa</DISEASE>. Zaplanowana <TEST>operacja stabilizacji</TEST> na <DATE>14.06.2024</DATE>.
+
+<<<SAMPLE>>>
+
+Pismo kierujące <DATE>05.06.2024</DATE>. <PERSON>Roman Sikorski</PERSON>, PESEL <PESEL>61120934567</PESEL>, <ADDRESS>ul. Słoneczna 3, 35-960 Rzeszów</ADDRESS>, tel. <PHONE>507 333 444</PHONE>. Od: <HOSPITAL>Poradnia Neurologiczna POZ</HOSPITAL>. Do: <HOSPITAL>Szpital Wojewódzki Oddział Neurologii</HOSPITAL>. Wskazanie: <DISEASE>zawał mózgu w ewolucji</DISEASE>, potrzebna obraz <TEST>MRI DWI</TEST>, neurochirurgiczna konsultacja. Pilne.
+
+<<<SAMPLE>>>
+
+Notatka pielęgniarki oddziałowej <DATE>08.06.2024</DATE>. <PERSON>Danuta Nowakowska</PERSON>, PESEL <PESEL>74032312345</PESEL>. Pacjentka: <DISEASE>udar prawej półkuli</DISEASE>, obecna <DISEASE>hemiplegią lewostronną</DISEASE>. Rotacja pozycji co 2 godz., fizjoterapia. <DRUG>Warfarina</DRUG> 5 mg wieczorem, <DRUG>metoprololem</DRUG> 50 mg 2×dz. Kontrolna <TEST>INR</TEST> jutro.
+
+<<<SAMPLE>>>
+
+Opis <TEST>elektromografii</TEST> <DATE>31.05.2024</DATE>. <PERSON>Jerzy Kalinowski</PERSON>, PESEL <PESEL>57101245678</PESEL>. <DISEASE>Zapalenie pierwsza wtórne neuropatii</DISEASE> — zmniejszone potencjały motoryczne. <DISEASE>Blok przewodzenia</DISEASE> w wysięku, demielinizujące zmiany. Zalecenie: <TEST>EMG powtórzone</TEST> za 4 tygodnie, <DRUG>prednizon</DRUG> 50 mg/dz. przez 5 dni.
+
+<<<SAMPLE>>>
+
+Recepta na wypisie z oddziału <DATE>04.06.2024</DATE>. <PERSON>Krystyna Nowak</PERSON>, PESEL <PESEL>69121334567</PESEL>, <ADDRESS>Gdańsk, ul. Słowackiego 14/9</ADDRESS>, tel. <PHONE>513 999 000</PHONE>. Diagnoza: <DISEASE>poliradykulopatia demielinizująca zapalna</DISEASE> (CIDP). Rozpoczęto: <DRUG>immunoglobuliny IV</DRUG> co miesiąc, <DRUG>azatioprynę</DRUG> 50 mg 3×dz., <DRUG>prednizon</DRUG> 20 mg/dz. Follow-up: <HOSPITAL>Poradnia Neurologiczna</HOSPITAL> za 2 tyg.
